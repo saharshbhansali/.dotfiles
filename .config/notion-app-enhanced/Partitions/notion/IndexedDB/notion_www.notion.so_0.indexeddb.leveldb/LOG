@@ -1,0 +1,13 @@
+2022/02/14-19:13:14.018 a712 Reusing MANIFEST /home/saharsh/.config/notion-app-enhanced/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/14-19:13:14.019 a712 Recovering log #52
+2022/02/14-19:13:14.031 a712 Reusing old log /home/saharsh/.config/notion-app-enhanced/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/000052.log 
+2022/02/14-19:13:22.814 a690 Level-0 table #57: started
+2022/02/14-19:13:22.833 a690 Level-0 table #57: 1765911 bytes OK
+2022/02/14-19:13:22.835 a690 Delete type=0 #52
+2022/02/14-19:13:38.865 a691 Compacting 1@1 + 1@2 files
+2022/02/14-19:13:38.912 a691 Generated table #58@1: 21614 keys, 2198042 bytes
+2022/02/14-19:13:38.917 a691 Generated table #59@1: 7081 keys, 165218 bytes
+2022/02/14-19:13:38.917 a691 Compacted 1@1 + 1@2 files => 2363260 bytes
+2022/02/14-19:13:38.918 a691 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/02/14-19:13:38.919 a691 Delete type=2 #54
+2022/02/14-19:13:38.919 a691 Delete type=2 #57

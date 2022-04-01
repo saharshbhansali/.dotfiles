@@ -1,0 +1,24 @@
+2022/02/14-19:13:12.430 a690 Reusing MANIFEST /home/saharsh/.config/notion-app-enhanced/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2022/02/14-19:13:12.432 a690 Recovering log #105
+2022/02/14-19:13:12.432 a690 Reusing old log /home/saharsh/.config/notion-app-enhanced/Partitions/notion/Local Storage/leveldb/000105.log 
+2022/02/14-19:14:13.210 a712 Level-0 table #109: started
+2022/02/14-19:14:13.218 a712 Level-0 table #109: 27270 bytes OK
+2022/02/14-19:14:13.221 a712 Delete type=0 #105
+2022/02/14-19:14:13.221 a691 Compacting 4@0 + 1@1 files
+2022/02/14-19:14:13.224 a691 Generated table #110@0: 148 keys, 29954 bytes
+2022/02/14-19:14:13.224 a691 Compacted 4@0 + 1@1 files => 29954 bytes
+2022/02/14-19:14:13.226 a691 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/02/14-19:14:13.226 a691 Delete type=2 #104
+2022/02/14-19:14:13.226 a691 Delete type=2 #100
+2022/02/14-19:14:13.226 a691 Delete type=2 #109
+2022/02/14-19:14:13.226 a691 Delete type=2 #106
+2022/02/14-19:14:13.226 a691 Delete type=2 #102
+2022/02/14-19:15:13.209 a690 Level-0 table #112: started
+2022/02/14-19:15:13.212 a690 Level-0 table #112: 22375 bytes OK
+2022/02/14-19:15:13.214 a690 Delete type=0 #108
+2022/02/14-19:33:20.063 a690 Level-0 table #114: started
+2022/02/14-19:33:20.071 a690 Level-0 table #114: 14819 bytes OK
+2022/02/14-19:33:20.073 a690 Delete type=0 #111
+2022/02/14-19:43:20.067 a691 Level-0 table #116: started
+2022/02/14-19:43:20.076 a691 Level-0 table #116: 14435 bytes OK
+2022/02/14-19:43:20.078 a691 Delete type=0 #113

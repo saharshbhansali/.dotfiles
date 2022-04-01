@@ -1,0 +1,1 @@
+sudo apt install refind efibootmgr grub2-common bash-completion zsh ohmyzsh git amd-ucode vim openssh dosfstools ntfs-3g tlp neofetch htop powertop alsa-utils pulseaudio pulseaudio-bluetooth acpi acpi_call rsync networkmanager network-manager-applet dialog mstools python3 grub-customizer grub-efi build-essentials base-devel linux-headers

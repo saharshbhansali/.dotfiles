@@ -1,0 +1,3 @@
+
+polybar --reload example &
+dwm &
