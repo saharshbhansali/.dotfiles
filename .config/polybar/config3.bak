@@ -508,24 +508,24 @@ label-separator = |
 label-separator-foreground = ${colors.foreground-alt}
 
 menu-0-0 = reboot
-menu-0-0-exec = #powermenu.open.1
+menu-0-0-exec = menu-open-1
 menu-0-1 = power off
-menu-0-1-exec = #powermenu.open.2
+menu-0-1-exec = menu-open-2
 menu-0-2 = lock 
-menu-0-2-exec = betterlockscreen --lock 
+menu-0-2-exec = menu-open-3
 
 menu-1-0 = cancel
-menu-1-0-exec = #powermenu.open.0
+menu-1-0-exec = menu-open-0
 menu-1-1 = reboot
 menu-1-1-exec = sudo reboot
 
 menu-2-0 = power off
 menu-2-0-exec = sudo poweroff
 menu-2-1 = cancel
-menu-2-1-exec = #powermenu.open.0
+menu-2-1-exec = menu-open-0
 
 menu-3-0 = lock
-menu-3-0-exec = betterlockscreen --lock 
+menu-3-0-exec = betterlockscreen --lock &
 
 [module/system]
 type = custom/menu
@@ -545,16 +545,16 @@ label-separator-foreground = ${colors.foreground-alt}
 ;#system.open.3 = browsers
 ;#system.open.4 = multimedia
 
-click-left = %{A1:#system.open.1}memory%(A)
+click-left = %{A1:#system.open.menu.0}system(A)
 
 menu-0-0 = memory
-menu-0-0-exec = #system.open.1
+menu-0-0-exec = #system.open.menu.1; menu-open-1
 menu-0-1 = screenshot
-menu-0-1-exec = flameshot full 
+menu-0-1-exec = #system.open.2;menu-open-2
 menu-0-2 = Browsers
-menu-0-2-exec = #system.open.3
+menu-0-2-exec = #system.open.3;menu-open-3
 menu-0-3 = Multimedia
-menu-0-3-exec = #system.open.4
+menu-0-3-exec = #system.open.4;menu-open-4
 
 menu-1-0 = htop
 menu-1-0-exec = htop &
@@ -562,7 +562,7 @@ menu-1-1 = btop
 menu-1-1-exec = btop &
 
 menu-2-0 = screenshot
-menu-2-0-exec = flameshot gui 
+menu-2-0-exec = flameshot full &
 
 menu-3-0 = Firefox
 menu-3-0-exec = firefox &
