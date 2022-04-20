@@ -28,6 +28,4 @@
 
 -- htop
 
-## to be added:
-
 - zsh
