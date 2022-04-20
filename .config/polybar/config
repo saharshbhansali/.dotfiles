@@ -524,9 +524,6 @@ menu-2-0-exec = sudo poweroff
 menu-2-1 = cancel
 menu-2-1-exec = #powermenu.open.0
 
-menu-3-0 = lock
-menu-3-0-exec = betterlockscreen --lock 
-
 [module/system]
 type = custom/menu
 expand-left = true
@@ -550,7 +547,7 @@ click-left = %{A1:#system.open.1}memory%(A)
 menu-0-0 = memory
 menu-0-0-exec = #system.open.1
 menu-0-1 = screenshot
-menu-0-1-exec = flameshot full 
+menu-0-1-exec = flameshot full -p /home/$USER/Pictures/flameshot/
 menu-0-2 = Browsers
 menu-0-2-exec = #system.open.3
 menu-0-3 = Multimedia
@@ -562,7 +559,7 @@ menu-1-1 = btop
 menu-1-1-exec = btop &
 
 menu-2-0 = screenshot
-menu-2-0-exec = flameshot gui 
+menu-2-0-exec = flameshot full -p 
 
 menu-3-0 = Firefox
 menu-3-0-exec = firefox &
