@@ -1,0 +1,4 @@
+# Edit this file to introduce tasks to be run by cron.
+# [minute] [hours] [day of month] [month] [day of the week] command-to-execute
+
+00 00 * * * /home/vit-vpn-connect.sh
