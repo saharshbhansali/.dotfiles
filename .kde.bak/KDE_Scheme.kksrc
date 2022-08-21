@@ -8,7 +8,7 @@ Switch to Next Keyboard Layout=Ctrl+Alt+K
 AboutApp=
 AboutKDE=
 Activate Next Tab=Ctrl+]; Ctrl+PgDown
-Activate Previous Tab=Ctrl+[; Ctrl+PgUp
+Activate Previous Tab=Ctrl+PgUp; Ctrl+[
 ActualSize=Ctrl+0
 AddBookmark=Ctrl+B
 Back=Back; Alt+Left
@@ -54,7 +54,7 @@ Next=PgDown
 NextCompletion=Ctrl+Down
 Open=Ctrl+O
 OpenRecent=
-Paste=Shift+Ins; Ctrl+V
+Paste=Ctrl+V; Shift+Ins
 Paste Selection=Ctrl+Shift+Ins
 Preferences=Ctrl+Shift+,
 PrevCompletion=Ctrl+Up
@@ -74,7 +74,7 @@ Save=Ctrl+S
 SaveAs=Ctrl+Shift+S
 SaveOptions=
 SelectAll=Ctrl+A
-ShowHideHiddenFiles=Ctrl+H; Alt+.
+ShowHideHiddenFiles=Alt+.; Ctrl+H
 ShowMenubar=Ctrl+M
 ShowStatusbar=
 ShowToolbar=
@@ -124,8 +124,13 @@ toggle_spiral_layout=
 toggle_spread_layout=
 toggle_stair_layout=
 toggle_three_column_layout=
-toggle_tile_layout=Meta+T
+toggle_tile_layout=
 toggle_window_floating=Meta+F
+
+[brave-browser.desktop][Global Shortcuts]
+_launch=Meta+B
+new-private-window=Meta+Shift+B
+new-window=Meta+Ctrl+B
 
 [kaccess][Global Shortcuts]
 Toggle Screen Reader On and Off=
@@ -137,7 +142,7 @@ Toggle Touchpad=Touchpad Toggle
 
 [kded5][Global Shortcuts]
 Show System Activity=Ctrl+Esc
-display=Meta+P; Display
+display=Display; Meta+P
 
 [khotkeys][Global Shortcuts]
 {66c682a3-27af-4e9d-b811-4cb849cab6fd}=
@@ -147,13 +152,13 @@ display=Meta+P; Display
 decrease_microphone_volume=Microphone Volume Down
 decrease_volume=Volume Down; Meta+Ctrl+Down
 increase_microphone_volume=Microphone Volume Up
-increase_volume=Meta+Ctrl+Up; Volume Up
-mic_mute=Meta+Volume Mute; Microphone Mute
+increase_volume=Volume Up; Meta+Ctrl+Up
+mic_mute=Microphone Mute; Meta+Volume Mute
 mute=Volume Mute; Meta+Ctrl+X
 
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Meta+Q; Ctrl+Alt+L; Screensaver
+Lock Session=Screensaver; Ctrl+Alt+L; Meta+Q
 Log Out=Ctrl+Alt+Del
 Log Out Without Confirmation=
 Reboot Without Confirmation=
@@ -265,7 +270,7 @@ Walk Through Windows of Current Application Alternative=
 Walk Through Windows of Current Application Alternative (Reverse)=
 Window Above Other Windows=
 Window Below Other Windows=
-Window Close=Meta+Shift+C; Alt+F4
+Window Close=Alt+F4; Meta+Shift+C
 Window Fullscreen=
 Window Grow Horizontal=
 Window Grow Vertical=
@@ -352,7 +357,7 @@ _launch=Meta+E
 [org.kde.konsole.desktop][Global Shortcuts]
 NewTab=
 NewWindow=
-_launch=Meta+Shift+Return; Ctrl+Alt+T
+_launch=Ctrl+Alt+T; Meta+Shift+Return
 
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=

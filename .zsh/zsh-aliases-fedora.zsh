@@ -2,7 +2,7 @@
 
 # APT Aliases
 
-alias 'upgrade'='sudo dnf update'
+alias 'upgrade'='sudo dnf upgrade'
 alias 'install'='sudo dnf install'
 alias 'remove'='sudo dnf remove'
 alias 'clean'='sudo dnf autoremove'
@@ -23,6 +23,8 @@ alias 'lock'='betterlockscreen --lock '
 # Information and Movement Aliases
 
 alias 'lah'='ls -lah --color=auto'
+alias 'ls'='exa -lahg --git'
+alias 'cat'='bat'
 alias '.1'='cd ..'
 alias '.2'='cd ../..'
 alias '.3'='cd ../../..'
