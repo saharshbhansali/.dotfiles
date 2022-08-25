@@ -32,4 +32,22 @@ curl 'http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://www.msftconnect
 else
 	echo "Wrong Network... "
 
+	echo " Trying to login to VIT WiFi"
+
+	Y=$(nmcli device wifi connect "VIT5G")
+
+	if [[! $Y =~ "successfully" ]]
+	then
+		echo "Failed to connect to VIT 5G WiFi, trying 2.4G"
+
+		Y=$(nmcli device wifi connect "VIT2.4G")
+  fi
+
+	if [[$Y =~ "successfully"]]
+	then
+		./login-vit-wifi.sh
+	
+	else
+		echo "Connection attempts failed. Try manually"
+	fi
 fi

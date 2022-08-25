@@ -7,8 +7,8 @@ Switch to Next Keyboard Layout=Ctrl+Alt+K
 [StandardShortcuts]
 AboutApp=
 AboutKDE=
-Activate Next Tab=Ctrl+PgDown; Ctrl+]
-Activate Previous Tab=Ctrl+[; Ctrl+PgUp
+Activate Next Tab=Ctrl+]; Ctrl+PgDown
+Activate Previous Tab=Ctrl+PgUp; Ctrl+[
 ActualSize=Ctrl+0
 AddBookmark=Ctrl+B
 Back=Alt+Left; Back
@@ -21,7 +21,7 @@ ConfigureNotifications=
 ConfigureToolbars=
 Copy=Ctrl+Ins; Ctrl+C
 CreateFolder=F10
-Cut=Ctrl+X; Shift+Del
+Cut=Shift+Del; Ctrl+X
 DeleteFile=Shift+Del
 DeleteWordBack=Ctrl+Backspace
 DeleteWordForward=Ctrl+Del
@@ -45,7 +45,7 @@ Goto=
 GotoLine=Ctrl+G
 GotoPage=
 Help=F1
-Home=Home Page; Alt+Home
+Home=Alt+Home; Home Page
 KeyBindings=Ctrl+Alt+,
 Mail=
 MoveToTrash=Del
@@ -54,7 +54,7 @@ Next=PgDown
 NextCompletion=Ctrl+Down
 Open=Ctrl+O
 OpenRecent=
-Paste=Shift+Ins; Ctrl+V
+Paste=Ctrl+V; Shift+Ins
 Paste Selection=Ctrl+Shift+Ins
 Preferences=Ctrl+Shift+,
 PrevCompletion=Ctrl+Up
@@ -63,7 +63,7 @@ PrintPreview=
 Prior=PgUp
 Quit=Ctrl+Q
 Redo=Ctrl+Shift+Z
-Reload=Refresh; F5
+Reload=F5; Refresh
 RenameFile=F2
 Replace=Ctrl+R
 ReportBug=
@@ -152,14 +152,18 @@ display=Display; Meta+P
 decrease_microphone_volume=Microphone Volume Down
 decrease_volume=Meta+Ctrl+Down; Volume Down
 increase_microphone_volume=Microphone Volume Up
-increase_volume=Volume Up; Meta+Ctrl+Up
+increase_volume=Meta+Ctrl+Up; Volume Up
 mic_mute=Meta+Volume Mute; Microphone Mute
 mute=Volume Mute; Meta+Ctrl+X
 
+[konversation][Global Shortcuts]
+next_active_tab=
+toggle_mainwindow_visibility=
+
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Screensaver; Ctrl+Alt+L; Meta+Q
-Log Out=Ctrl+Alt+Del
+Lock Session=Ctrl+Alt+L; Screensaver; Meta+Q
+Log Out=Meta+Shift+Q; Ctrl+Alt+Del
 Log Out Without Confirmation=
 Reboot Without Confirmation=
 
@@ -270,7 +274,7 @@ Walk Through Windows of Current Application Alternative=
 Walk Through Windows of Current Application Alternative (Reverse)=
 Window Above Other Windows=
 Window Below Other Windows=
-Window Close=Alt+F4; Meta+Shift+C
+Window Close=Meta+Shift+C; Alt+F4
 Window Fullscreen=
 Window Grow Horizontal=
 Window Grow Vertical=
@@ -357,8 +361,12 @@ Configure=
 Launcher=Meta+Print
 _launch=Meta+Shift+S
 
-[org.kde.dolphin.desktop][Global Shortcuts]
+[org.gnome.Nautilus.desktop][Global Shortcuts]
 _launch=Meta+E
+new-window=
+
+[org.kde.dolphin.desktop][Global Shortcuts]
+_launch=
 
 [org.kde.konsole.desktop][Global Shortcuts]
 NewTab=
