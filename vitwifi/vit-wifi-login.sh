@@ -1,7 +1,7 @@
 #!/bin/zsh
 
-ID="21BCI0028"
-PASS="LK3RA6"
+ID="Enter ID"
+PASS="Enter password"
 
 login_request(){
 	echo "Logging in $ID!..."
