@@ -7,7 +7,7 @@ Switch to Next Keyboard Layout=Ctrl+Alt+K
 [StandardShortcuts]
 AboutApp=
 AboutKDE=
-Activate Next Tab=Ctrl+]; Ctrl+PgDown
+Activate Next Tab=Ctrl+PgDown; Ctrl+]
 Activate Previous Tab=Ctrl+PgUp; Ctrl+[
 ActualSize=Ctrl+0
 AddBookmark=Ctrl+B
@@ -38,7 +38,7 @@ FindPrev=Shift+F3
 FitToHeight=
 FitToPage=
 FitToWidth=
-Forward=Forward; Alt+Right
+Forward=Alt+Right; Forward
 ForwardWord=Ctrl+Right
 FullScreen=Ctrl+Shift+F
 Goto=
@@ -63,7 +63,7 @@ PrintPreview=
 Prior=PgUp
 Quit=Ctrl+Q
 Redo=Ctrl+Shift+Z
-Reload=F5; Refresh
+Reload=Refresh; F5
 RenameFile=F2
 Replace=Ctrl+R
 ReportBug=
@@ -87,7 +87,7 @@ Undo=Ctrl+Z
 Up=Alt+Up
 WhatsThis=Shift+F1
 Zoom=
-ZoomIn=Ctrl+=; Ctrl++
+ZoomIn=Ctrl++; Ctrl+=
 ZoomOut=Ctrl+-
 
 [bismuth][Global Shortcuts]
@@ -133,7 +133,7 @@ new-private-window=Meta+Shift+B
 new-window=Meta+Ctrl+B
 
 [kaccess][Global Shortcuts]
-Toggle Screen Reader On and Off=
+Toggle Screen Reader On and Off=Meta+Alt+S
 
 [kcm_touchpad][Global Shortcuts]
 Disable Touchpad=Touchpad Off
@@ -142,7 +142,7 @@ Toggle Touchpad=Touchpad Toggle
 
 [kded5][Global Shortcuts]
 Show System Activity=Ctrl+Esc
-display=Display; Meta+P
+display=Meta+P; Display
 
 [khotkeys][Global Shortcuts]
 {66c682a3-27af-4e9d-b811-4cb849cab6fd}=
@@ -152,9 +152,9 @@ display=Display; Meta+P
 decrease_microphone_volume=Microphone Volume Down
 decrease_volume=Meta+Ctrl+Down; Volume Down
 increase_microphone_volume=Microphone Volume Up
-increase_volume=Meta+Ctrl+Up; Volume Up
-mic_mute=Meta+Volume Mute; Microphone Mute
-mute=Volume Mute; Meta+Ctrl+X
+increase_volume=Volume Up; Meta+Ctrl+Up
+mic_mute=Microphone Mute; Meta+Volume Mute
+mute=Meta+Ctrl+X; Volume Mute
 
 [konversation][Global Shortcuts]
 next_active_tab=
@@ -162,17 +162,19 @@ toggle_mainwindow_visibility=
 
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Ctrl+Alt+L; Screensaver; Meta+Q
-Log Out=Meta+Shift+Q; Ctrl+Alt+Del
+Lock Session=Screensaver; Meta+Q; Ctrl+Alt+L
+Log Out=Ctrl+Alt+Del; Meta+Shift+Q
 Log Out Without Confirmation=
 Reboot Without Confirmation=
 
 [kwin][Global Shortcuts]
 Activate Window Demanding Attention=Ctrl+Alt+A
+ClearLastMouseMark=Meta+Shift+Esc; Meta+Shift+F12
+ClearMouseMarks=Meta+Shift+F11
 Decrease Opacity=Meta+_
-Expose=
-ExposeAll=
-ExposeClass=
+Expose=Ctrl+F9
+ExposeAll=Ctrl+F10
+ExposeClass=Ctrl+F7
 Increase Opacity=Meta++
 Invert Screen Colors=
 Kill Window=Ctrl+Alt+Esc
@@ -215,7 +217,7 @@ MoveZoomUp=
 Overview=Meta+W
 Setup Window Shortcut=
 Show Desktop=Meta+D
-ShowDesktopGrid=Ctrl+F8
+ShowDesktopGrid=Ctrl+F8; Meta+F8
 Suspend Compositing=Alt+Shift+F12
 Switch One Desktop Down=
 Switch One Desktop Up=
@@ -247,7 +249,7 @@ Switch to Desktop 8=Meta+8
 Switch to Desktop 9=
 Switch to Next Desktop=Meta+Tab
 Switch to Next Screen=
-Switch to Previous Desktop=Meta+Ctrl+Tab
+Switch to Previous Desktop=
 Switch to Previous Screen=
 Switch to Screen 0=
 Switch to Screen 1=
@@ -259,7 +261,9 @@ Switch to Screen 6=
 Switch to Screen 7=
 Toggle Night Color=
 Toggle Window Raise/Lower=
+ToggleCurrentThumbnail=Meta+Ctrl+T
 ToggleMouseClick=Meta+Shift+M
+TrackMouse=
 Walk Through Desktop List=
 Walk Through Desktop List (Reverse)=
 Walk Through Desktops=
@@ -274,7 +278,7 @@ Walk Through Windows of Current Application Alternative=
 Walk Through Windows of Current Application Alternative (Reverse)=
 Window Above Other Windows=
 Window Below Other Windows=
-Window Close=Meta+Shift+C; Alt+F4
+Window Close=Alt+F4; Meta+Shift+C
 Window Fullscreen=
 Window Grow Horizontal=
 Window Grow Vertical=
@@ -296,12 +300,12 @@ Window Pack Down=
 Window Pack Left=
 Window Pack Right=
 Window Pack Up=
-Window Quick Tile Bottom=
+Window Quick Tile Bottom=Meta+Down
 Window Quick Tile Bottom Left=
 Window Quick Tile Bottom Right=
 Window Quick Tile Left=Meta+Left
 Window Quick Tile Right=Meta+Right
-Window Quick Tile Top=
+Window Quick Tile Top=Meta+Up
 Window Quick Tile Top Left=
 Window Quick Tile Top Right=
 Window Raise=
@@ -356,22 +360,22 @@ previousmedia=Media Previous
 stopmedia=Media Stop
 
 [org.flameshot.Flameshot.desktop][Global Shortcuts]
-Capture=Print
+Capture=
 Configure=
-Launcher=Meta+Print
+Launcher=
 _launch=Meta+Shift+S
 
 [org.gnome.Nautilus.desktop][Global Shortcuts]
-_launch=Meta+E
+_launch=
 new-window=
 
 [org.kde.dolphin.desktop][Global Shortcuts]
-_launch=
+_launch=Meta+E
 
 [org.kde.konsole.desktop][Global Shortcuts]
 NewTab=
 NewWindow=
-_launch=Meta+Shift+Return; Ctrl+Alt+T
+_launch=Ctrl+Alt+T; Meta+Shift+Return
 
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=
@@ -387,7 +391,7 @@ FullScreenScreenShot=Shift+Print
 OpenWithoutScreenshot=
 RectangularRegionScreenShot=Meta+Shift+Print
 WindowUnderCursorScreenShot=Meta+Ctrl+Print
-_launch=
+_launch=Print
 
 [org_kde_powerdevil][Global Shortcuts]
 Decrease Keyboard Brightness=Keyboard Brightness Down
@@ -412,6 +416,7 @@ activate task manager entry 6=
 activate task manager entry 7=
 activate task manager entry 8=
 activate task manager entry 9=
+activate widget 24=Ctrl+I
 activate widget 26=
 activate widget 3=Alt+F1
 clear-history=
@@ -422,7 +427,7 @@ cyclePrevAction=
 edit_clipboard=
 manage activities=Meta+Space
 next activity=
-previous activity=Meta+Shift+Tab
+previous activity=
 repeat_action=Ctrl+Alt+R
 show dashboard=Ctrl+F12
 show-barcode=
@@ -433,7 +438,7 @@ switch to previous activity=
 toggle do not disturb=
 
 [systemsettings.desktop][Global Shortcuts]
-_launch=Tools
+_launch=Meta+S; Tools
 kcm-kscreen=
 kcm-lookandfeel=
 kcm-users=
