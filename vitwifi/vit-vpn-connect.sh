@@ -1,7 +1,7 @@
 nm-applet &
 
 # setting default value for the client parameter
-${client:-"proton"}
+client=${client:-"proton"}
 
 if [[ $client == "proton" ]]; then
 pkill protonvpn
@@ -14,6 +14,6 @@ windscribe-cli disconnect
 windscribe-cli connect best
 
 else
-  echo "Chose --client windscribe or proton"
+  echo "Choose --client windscribe or proton"
 
 fi
