@@ -1,7 +1,8 @@
 #!/bin/zsh
 
-ID="Enter ID"
-PASS="Enter password"
+ID="21BCI0028"
+PASS="LK3RA6"
+device='wlo1'
 
 login_request(){
 	echo "Logging in $ID!..."
@@ -19,7 +20,7 @@ curl 'http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://www.msftconnect
   -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36' \
   --data-raw "userId=$1&password=$2&serviceName=ProntoAuthentication&Submit22=Login" \
   --compressed \
-  --insecure -sS &> ~/logs-vit-wifi.txt #/dev/null
+  --insecure -sS &> /dev/null # ~/logs-vit-wifi.txt 
 	echo "Logged in $ID"
 }
 
@@ -39,7 +40,7 @@ curl 'http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://www.msftconnect
 
 echo "Checking for VIT WiFi..."
 
-SSID=$(iw dev | grep -iE 'ssid')
+SSID=$(iw dev $device link | grep -iE 'ssid')
 
 if [[ $SSID =~ 'VIT[2.4 5]+G$' ]]
 then 
