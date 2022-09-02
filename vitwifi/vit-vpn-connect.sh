@@ -1,19 +1,26 @@
 nm-applet &
 
 # setting default value for the client parameter
-client=${client:-"proton"}
+## client="${client:=$default}"
+## client="${1:-$default}"
 
-if [[ $client == "proton" ]]; then
-pkill protonvpn
-protonvpn-cli connect --fastest
+default='p'
+client="${1:-$default}"
 
-elif [[ $client == 'windscribe' ]]; then
-pkill windscribe
-windscribe-cli connect best
-windscribe-cli disconnect
-windscribe-cli connect best
+if [[ $client == "p" ]]; 
+then
+  pkill protonvpn
+  protonvpn-cli connect --fastest
+
+elif [[ $client == 'w' ]];
+then
+
+  pkill windscribe
+  windscribe-cli connect best
+  windscribe-cli disconnect
+  windscribe-cli connect best
 
 else
-  echo "Choose --client windscribe or proton"
+  echo "Choose --client (w)indscribe or (p)roton"
 
 fi
