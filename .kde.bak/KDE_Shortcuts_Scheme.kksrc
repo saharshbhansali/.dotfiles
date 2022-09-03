@@ -16,12 +16,12 @@ BackwardWord=Ctrl+Left
 Begin=Ctrl+Home
 BeginningOfLine=Home
 Clear=
-Close=Ctrl+Esc; Ctrl+W
+Close=Ctrl+W; Ctrl+Esc
 ConfigureNotifications=
 ConfigureToolbars=
-Copy=Ctrl+Ins; Ctrl+C
+Copy=Ctrl+C; Ctrl+Ins
 CreateFolder=F10
-Cut=Shift+Del; Ctrl+X
+Cut=Ctrl+X; Shift+Del
 DeleteFile=Shift+Del
 DeleteWordBack=Ctrl+Backspace
 DeleteWordForward=Ctrl+Del
@@ -45,7 +45,7 @@ Goto=
 GotoLine=Ctrl+G
 GotoPage=
 Help=F1
-Home=Alt+Home; Home Page
+Home=Home Page; Alt+Home
 KeyBindings=Ctrl+Alt+,
 Mail=
 MoveToTrash=Del
@@ -74,7 +74,7 @@ Save=Ctrl+S
 SaveAs=Ctrl+Shift+S
 SaveOptions=
 SelectAll=Ctrl+A
-ShowHideHiddenFiles=Ctrl+H; Alt+.
+ShowHideHiddenFiles=Alt+.; Ctrl+H
 ShowMenubar=Ctrl+M
 ShowStatusbar=
 ShowToolbar=
@@ -142,7 +142,7 @@ Toggle Touchpad=Touchpad Toggle
 
 [kded5][Global Shortcuts]
 Show System Activity=Ctrl+Esc
-display=Meta+P; Display
+display=Display; Meta+P
 
 [khotkeys][Global Shortcuts]
 {66c682a3-27af-4e9d-b811-4cb849cab6fd}=
@@ -150,10 +150,10 @@ display=Meta+P; Display
 
 [kmix][Global Shortcuts]
 decrease_microphone_volume=Microphone Volume Down
-decrease_volume=Meta+Ctrl+Down; Volume Down
+decrease_volume=Volume Down; Ctrl+Alt+Down; Meta+Ctrl+Down
 increase_microphone_volume=Microphone Volume Up
-increase_volume=Volume Up; Meta+Ctrl+Up
-mic_mute=Microphone Mute; Meta+Volume Mute
+increase_volume=Meta+Ctrl+Up; Ctrl+Alt+Up; Volume Up
+mic_mute=Meta+Volume Mute; Microphone Mute
 mute=Meta+Ctrl+X; Volume Mute
 
 [konversation][Global Shortcuts]
@@ -162,14 +162,14 @@ toggle_mainwindow_visibility=
 
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Screensaver; Meta+Q; Ctrl+Alt+L
+Lock Session=Meta+Q; Screensaver; Ctrl+Alt+L
 Log Out=Ctrl+Alt+Del; Meta+Shift+Q
 Log Out Without Confirmation=
 Reboot Without Confirmation=
 
 [kwin][Global Shortcuts]
 Activate Window Demanding Attention=Ctrl+Alt+A
-ClearLastMouseMark=Meta+Shift+Esc; Meta+Shift+F12
+ClearLastMouseMark=Meta+Shift+F12; Meta+Shift+Esc
 ClearMouseMarks=Meta+Shift+F11
 Decrease Opacity=Meta+_
 Expose=Ctrl+F9
@@ -416,9 +416,11 @@ activate task manager entry 6=
 activate task manager entry 7=
 activate task manager entry 8=
 activate task manager entry 9=
+activate widget 19=
 activate widget 24=Ctrl+I
 activate widget 26=
 activate widget 3=Alt+F1
+activate widget 8=
 clear-history=
 clipboard_action=Ctrl+Alt+X
 cycle-panels=Meta+Alt+P
