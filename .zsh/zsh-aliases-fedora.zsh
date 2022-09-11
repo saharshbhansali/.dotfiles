@@ -59,3 +59,9 @@ alias 'brightness'='xrandr --brightness '
 # Vim customizations - can't autogenerate .vimrc rip
 
 alias 'vim'='vim "+set nu"'
+
+# https://github.com/nvbn/thefuck Alias
+
+eval $(thefuck --alias)
+
+
