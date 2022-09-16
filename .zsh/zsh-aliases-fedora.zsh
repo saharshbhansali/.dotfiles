@@ -22,8 +22,9 @@ alias 'lock'='betterlockscreen --lock '
 
 # Information and Movement Aliases
 
-alias 'lah'='ls -lah --color=auto'
-alias 'ls'='exa -lahg --git'
+alias 'ls'='exa -lh --color=auto'
+alias 'lss'='ls -lh --color=auto'
+alias 'lah'='exa -lahg --git'
 alias 'cat'='bat'
 alias '.1'='cd ..'
 alias '.2'='cd ../..'
