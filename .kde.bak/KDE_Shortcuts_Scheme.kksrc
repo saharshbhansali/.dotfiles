@@ -7,7 +7,7 @@ Switch to Next Keyboard Layout=Ctrl+Alt+K
 [StandardShortcuts]
 AboutApp=
 AboutKDE=
-Activate Next Tab=Ctrl+PgDown; Ctrl+]
+Activate Next Tab=Ctrl+]; Ctrl+PgDown
 Activate Previous Tab=Ctrl+[; Ctrl+PgUp
 ActualSize=Ctrl+0
 AddBookmark=Ctrl+B
@@ -45,7 +45,7 @@ Goto=
 GotoLine=Ctrl+G
 GotoPage=
 Help=F1
-Home=Home Page; Alt+Home
+Home=Alt+Home; Home Page
 KeyBindings=Ctrl+Alt+,
 Mail=
 MoveToTrash=Del
@@ -54,7 +54,7 @@ Next=PgDown
 NextCompletion=Ctrl+Down
 Open=Ctrl+O
 OpenRecent=
-Paste=Ctrl+V; Shift+Ins
+Paste=Shift+Ins; Ctrl+V
 Paste Selection=Ctrl+Shift+Ins
 Preferences=Ctrl+Shift+,
 PrevCompletion=Ctrl+Up
@@ -63,7 +63,7 @@ PrintPreview=
 Prior=PgUp
 Quit=Ctrl+Q
 Redo=Ctrl+Shift+Z
-Reload=Refresh; F5
+Reload=F5; Refresh
 RenameFile=F2
 Replace=Ctrl+R
 ReportBug=
@@ -87,7 +87,7 @@ Undo=Ctrl+Z
 Up=Alt+Up
 WhatsThis=Shift+F1
 Zoom=
-ZoomIn=Ctrl++; Ctrl+=
+ZoomIn=Ctrl+=; Ctrl++
 ZoomOut=Ctrl+-
 
 [bismuth][Global Shortcuts]
@@ -150,9 +150,9 @@ display=Meta+P; Display
 
 [kmix][Global Shortcuts]
 decrease_microphone_volume=Microphone Volume Down
-decrease_volume=Volume Down; Ctrl+Alt+Down; Meta+Ctrl+Down
+decrease_volume=Meta+Ctrl+Down; Volume Down
 increase_microphone_volume=Microphone Volume Up
-increase_volume=Ctrl+Alt+Up; Volume Up; Meta+Ctrl+Up
+increase_volume=Meta+Ctrl+Up; Volume Up
 mic_mute=Meta+Volume Mute; Microphone Mute
 mute=Meta+Ctrl+X; Volume Mute
 
@@ -162,14 +162,14 @@ toggle_mainwindow_visibility=
 
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Ctrl+Alt+L; Screensaver; Meta+Q
-Log Out=Ctrl+Alt+Del; Meta+Shift+Q
+Lock Session=Ctrl+Alt+L; Meta+Q; Screensaver
+Log Out=Meta+Shift+Q; Ctrl+Alt+Del
 Log Out Without Confirmation=
 Reboot Without Confirmation=
 
 [kwin][Global Shortcuts]
-Activate Window Demanding Attention=Meta+A; Meta+Ctrl+A; Ctrl+Alt+A
-ClearLastMouseMark=Meta+Shift+F12; Meta+Shift+Esc
+Activate Window Demanding Attention=Ctrl+Alt+A
+ClearLastMouseMark=Meta+Shift+Esc; Meta+Shift+F12
 ClearMouseMarks=Meta+Shift+F11
 Decrease Opacity=Meta+_
 Expose=Ctrl+F9
@@ -268,7 +268,7 @@ Walk Through Desktop List=
 Walk Through Desktop List (Reverse)=
 Walk Through Desktops=
 Walk Through Desktops (Reverse)=
-Walk Through Windows=Alt+Tab
+Walk Through Windows=Alt+Tab; Ctrl+Space
 Walk Through Windows (Reverse)=Alt+Shift+Backtab
 Walk Through Windows Alternative=
 Walk Through Windows Alternative (Reverse)=
@@ -350,8 +350,8 @@ view_zoom_in=Meta+=
 view_zoom_out=Meta+-
 
 [mediacontrol][Global Shortcuts]
-mediavolumedown=Ctrl+Shift+Down
-mediavolumeup=Ctrl+Shift+Up
+mediavolumedown=
+mediavolumeup=
 nextmedia=Media Next
 pausemedia=Media Pause
 playmedia=
@@ -375,7 +375,7 @@ _launch=Meta+E
 [org.kde.konsole.desktop][Global Shortcuts]
 NewTab=
 NewWindow=
-_launch=Meta+Shift+Return; Ctrl+Alt+T; Meta+T
+_launch=Ctrl+Alt+T; Meta+Shift+Return
 
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=
@@ -389,9 +389,9 @@ ActiveWindowScreenShot=
 CurrentMonitorScreenShot=
 FullScreenScreenShot=Shift+Print
 OpenWithoutScreenshot=
-RectangularRegionScreenShot=Meta+Shift+Print; Print
+RectangularRegionScreenShot=Meta+Shift+Print
 WindowUnderCursorScreenShot=Meta+Ctrl+Print
-_launch=Meta+Print
+_launch=Print
 
 [org_kde_powerdevil][Global Shortcuts]
 Decrease Keyboard Brightness=Keyboard Brightness Down
@@ -440,7 +440,7 @@ switch to previous activity=
 toggle do not disturb=
 
 [systemsettings.desktop][Global Shortcuts]
-_launch=Meta+S; Tools
+_launch=Tools; Meta+S
 kcm-kscreen=
 kcm-lookandfeel=
 kcm-users=
