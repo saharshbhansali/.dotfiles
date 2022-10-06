@@ -11,6 +11,7 @@ if [[ $client == "p" ]];
 then
   pkill protonvpn
   protonvpn-cli connect --fastest
+  nmcli connection down pvpn-ipv6leak-protection
 
 elif [[ $client == 'w' ]];
 then
