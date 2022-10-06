@@ -40,7 +40,8 @@ curl 'http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://www.msftconnect
 
 echo "Checking for VIT WiFi..."
 
-SSID=$(iw dev $device link | grep -iE 'ssid')
+# SSID=$(iw dev $device link | grep -iE 'ssid')
+SSID=$(nmcli | grep -iE 'connected to')
 
 if [[ $SSID =~ 'VIT[2.4 5]+[G].$' ]]
 then 
