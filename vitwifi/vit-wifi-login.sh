@@ -42,7 +42,7 @@ echo "Checking for VIT WiFi..."
 
 SSID=$(iw dev $device link | grep -iE 'ssid')
 
-if [[ $SSID =~ 'VIT[2.4 5]+G$' ]]
+if [[ $SSID =~ 'VIT[2.4 5]+[G].$' ]]
 then 
   login_request $ID $PASS 
 
