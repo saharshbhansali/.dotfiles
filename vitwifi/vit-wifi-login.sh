@@ -41,8 +41,9 @@ curl 'http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://www.msftconnect
 echo "Checking for VIT WiFi..."
 
 # SSID=$(iw dev $device link | grep -iE 'ssid')
-# SSID=$(iw dev $device link | grep -iE 'VIT(2.4|5)(G|[])$')
-SSID=$(nmcli | grep -iE 'VIT[2.4 5][G]$')
+# SSID=$(iw dev $device link | grep -iE 'VIT(2.4|5)(G|)$')
+# SSID=$(nmcli | grep -iE 'VIT[2.4 5][G]$')
+SSID=$(iw dev $device link | grep -iE 'VIT(2.4|5)(G|)$')
 echo $SSID
 
 if [[ $SSID ]]
@@ -75,3 +76,5 @@ else
 	  fi
 	fi
 fi
+
+nmcli connection down "pvpn-ipv6leak-protection"
