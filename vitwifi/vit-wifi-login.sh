@@ -77,4 +77,13 @@ else
 	fi
 fi
 
-nmcli connection down "pvpn-ipv6leak-protection"
+ipv6=$(nmcli | grep -iE 'pvpn-ipv6leak-protection')
+if [[ $ipv6 ]]
+then 
+	nmcli connection down "pvpn-ipv6leak-protection"
+	echo "Disabled ProtonVPN IPV6 Leak Protection"
+else
+	echo "Done"
+fi
+
+ping 8.8.8.8 -c 5
