@@ -7,8 +7,8 @@ Switch to Next Keyboard Layout=Ctrl+Alt+K
 [StandardShortcuts]
 AboutApp=
 AboutKDE=
-Activate Next Tab=Ctrl+]; Ctrl+PgDown
-Activate Previous Tab=Ctrl+[; Ctrl+PgUp
+Activate Next Tab=Ctrl+PgDown; Ctrl+]
+Activate Previous Tab=Ctrl+PgUp; Ctrl+[
 ActualSize=Ctrl+0
 AddBookmark=Ctrl+B
 Back=Alt+Left; Back
@@ -16,10 +16,10 @@ BackwardWord=Ctrl+Left
 Begin=Ctrl+Home
 BeginningOfLine=Home
 Clear=
-Close=Ctrl+Esc; Ctrl+W
+Close=Ctrl+W; Ctrl+Esc
 ConfigureNotifications=
 ConfigureToolbars=
-Copy=Ctrl+C; Ctrl+Ins
+Copy=Ctrl+Ins; Ctrl+C
 CreateFolder=F10
 Cut=Shift+Del; Ctrl+X
 DeleteFile=Shift+Del
@@ -63,7 +63,7 @@ PrintPreview=
 Prior=PgUp
 Quit=Ctrl+Q
 Redo=Ctrl+Shift+Z
-Reload=F5; Refresh
+Reload=Refresh; F5
 RenameFile=F2
 Replace=Ctrl+R
 ReportBug=
@@ -87,7 +87,7 @@ Undo=Ctrl+Z
 Up=Alt+Up
 WhatsThis=Shift+F1
 Zoom=
-ZoomIn=Ctrl+=; Ctrl++
+ZoomIn=Ctrl++; Ctrl+=
 ZoomOut=Ctrl+-
 
 [bismuth][Global Shortcuts]
@@ -118,7 +118,7 @@ rotate=Meta+R
 rotate_part=Meta+Shift+R
 rotate_reverse=
 toggle_float_layout=Meta+Shift+F
-toggle_monocle_layout=Meta+M
+toggle_monocle_layout=
 toggle_quarter_layout=
 toggle_spiral_layout=
 toggle_spread_layout=
@@ -152,9 +152,9 @@ display=Meta+P; Display
 decrease_microphone_volume=Microphone Volume Down
 decrease_volume=Meta+Ctrl+Down; Volume Down
 increase_microphone_volume=Microphone Volume Up
-increase_volume=Meta+Ctrl+Up; Volume Up
-mic_mute=Meta+Volume Mute; Microphone Mute
-mute=Meta+Ctrl+X; Volume Mute
+increase_volume=Volume Up; Meta+Ctrl+Up
+mic_mute=Microphone Mute; Meta+Volume Mute
+mute=Volume Mute; Meta+Ctrl+X
 
 [konversation][Global Shortcuts]
 next_active_tab=
@@ -162,14 +162,14 @@ toggle_mainwindow_visibility=
 
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Ctrl+Alt+L; Meta+Q; Screensaver
-Log Out=Meta+Shift+Q; Ctrl+Alt+Del
+Lock Session=Screensaver; Ctrl+Alt+L; Meta+Q
+Log Out=Ctrl+Alt+Del; Meta+Shift+Q
 Log Out Without Confirmation=
 Reboot Without Confirmation=
 
 [kwin][Global Shortcuts]
 Activate Window Demanding Attention=Ctrl+Alt+A
-ClearLastMouseMark=Meta+Shift+Esc; Meta+Shift+F12
+ClearLastMouseMark=Meta+Shift+F12; Meta+Shift+Esc
 ClearMouseMarks=Meta+Shift+F11
 Decrease Opacity=Meta+_
 Expose=Ctrl+F9
@@ -278,15 +278,15 @@ Walk Through Windows of Current Application Alternative=
 Walk Through Windows of Current Application Alternative (Reverse)=
 Window Above Other Windows=
 Window Below Other Windows=
-Window Close=Alt+F4; Meta+Shift+C
+Window Close=Meta+Shift+C; Alt+F4
 Window Fullscreen=
 Window Grow Horizontal=
 Window Grow Vertical=
 Window Lower=
-Window Maximize=Meta+PgUp
+Window Maximize=Meta+Ctrl+M; Meta+PgUp
 Window Maximize Horizontal=
 Window Maximize Vertical=
-Window Minimize=Meta+PgDown
+Window Minimize=Meta+M; Meta+PgDown
 Window Move=
 Window Move Center=
 Window No Border=
@@ -379,7 +379,7 @@ _launch=Ctrl+Alt+T; Meta+Shift+Return
 
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=
-_launch=Alt+Space; Search
+_launch=Search; Alt+Space
 
 [org.kde.plasma.emojier.desktop][Global Shortcuts]
 _launch=
