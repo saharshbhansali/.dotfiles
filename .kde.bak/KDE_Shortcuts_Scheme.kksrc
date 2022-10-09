@@ -7,7 +7,7 @@ Switch to Next Keyboard Layout=Ctrl+Alt+K
 [StandardShortcuts]
 AboutApp=
 AboutKDE=
-Activate Next Tab=Ctrl+PgDown; Ctrl+]
+Activate Next Tab=Ctrl+]; Ctrl+PgDown
 Activate Previous Tab=Ctrl+PgUp; Ctrl+[
 ActualSize=Ctrl+0
 AddBookmark=Ctrl+B
@@ -21,7 +21,7 @@ ConfigureNotifications=
 ConfigureToolbars=
 Copy=Ctrl+Ins; Ctrl+C
 CreateFolder=F10
-Cut=Shift+Del; Ctrl+X
+Cut=Ctrl+X; Shift+Del
 DeleteFile=Shift+Del
 DeleteWordBack=Ctrl+Backspace
 DeleteWordForward=Ctrl+Del
@@ -38,7 +38,7 @@ FindPrev=Shift+F3
 FitToHeight=
 FitToPage=
 FitToWidth=
-Forward=Forward; Alt+Right
+Forward=Alt+Right; Forward
 ForwardWord=Ctrl+Right
 FullScreen=Ctrl+Shift+F
 Goto=
@@ -63,7 +63,7 @@ PrintPreview=
 Prior=PgUp
 Quit=Ctrl+Q
 Redo=Ctrl+Shift+Z
-Reload=Refresh; F5
+Reload=F5; Refresh
 RenameFile=F2
 Replace=Ctrl+R
 ReportBug=
@@ -152,7 +152,7 @@ display=Meta+P; Display
 decrease_microphone_volume=Microphone Volume Down
 decrease_volume=Meta+Ctrl+Down; Volume Down
 increase_microphone_volume=Microphone Volume Up
-increase_volume=Volume Up; Meta+Ctrl+Up
+increase_volume=Meta+Ctrl+Up; Volume Up
 mic_mute=Microphone Mute; Meta+Volume Mute
 mute=Volume Mute; Meta+Ctrl+X
 
@@ -162,14 +162,14 @@ toggle_mainwindow_visibility=
 
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Screensaver; Ctrl+Alt+L; Meta+Q
-Log Out=Ctrl+Alt+Del; Meta+Shift+Q
+Lock Session=Ctrl+Alt+L; Meta+Q; Screensaver
+Log Out=Meta+Shift+Q; Ctrl+Alt+Del
 Log Out Without Confirmation=
 Reboot Without Confirmation=
 
 [kwin][Global Shortcuts]
 Activate Window Demanding Attention=Ctrl+Alt+A
-ClearLastMouseMark=Meta+Shift+F12; Meta+Shift+Esc
+ClearLastMouseMark=Meta+Shift+Esc; Meta+Shift+F12
 ClearMouseMarks=Meta+Shift+F11
 Decrease Opacity=Meta+_
 Expose=Ctrl+F9
@@ -217,7 +217,7 @@ MoveZoomUp=
 Overview=Meta+W
 Setup Window Shortcut=
 Show Desktop=Meta+D
-ShowDesktopGrid=Ctrl+F8; Meta+F8
+ShowDesktopGrid=Meta+F8; Ctrl+F8
 Suspend Compositing=Alt+Shift+F12
 Switch One Desktop Down=
 Switch One Desktop Up=
@@ -268,10 +268,10 @@ Walk Through Desktop List=
 Walk Through Desktop List (Reverse)=
 Walk Through Desktops=
 Walk Through Desktops (Reverse)=
-Walk Through Windows=Alt+Tab; Ctrl+Space
+Walk Through Windows=Alt+Tab
 Walk Through Windows (Reverse)=Alt+Shift+Backtab
-Walk Through Windows Alternative=
-Walk Through Windows Alternative (Reverse)=
+Walk Through Windows Alternative=Ctrl+Space
+Walk Through Windows Alternative (Reverse)=Ctrl+Shift+Space
 Walk Through Windows of Current Application=Alt+`
 Walk Through Windows of Current Application (Reverse)=Alt+~
 Walk Through Windows of Current Application Alternative=
@@ -375,11 +375,11 @@ _launch=Meta+E
 [org.kde.konsole.desktop][Global Shortcuts]
 NewTab=
 NewWindow=
-_launch=Ctrl+Alt+T; Meta+Shift+Return
+_launch=Meta+Shift+Return; Ctrl+Alt+T
 
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=
-_launch=Search; Alt+Space
+_launch=Search; Alt+F2; Meta+Space; Alt+Space
 
 [org.kde.plasma.emojier.desktop][Global Shortcuts]
 _launch=
@@ -427,7 +427,7 @@ cycle-panels=Meta+Alt+P
 cycleNextAction=
 cyclePrevAction=
 edit_clipboard=
-manage activities=Meta+Space
+manage activities=Meta+Shift+W
 next activity=
 previous activity=
 repeat_action=Ctrl+Alt+R
