@@ -85,3 +85,10 @@ alias 'vim'='vim "+set nu"'
 
 eval $(thefuck --alias)
 
+# Logging into NotEC2 VPS
+
+user="azureuser"
+ip="20.219.12.205"
+key="~/.ssh/NotEC2_key.pem"
+
+alias 'NotEC2'="ssh $user@$ip -i $key"

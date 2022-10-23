@@ -61,3 +61,11 @@ alias 'brightness'='xrandr --brightness '
 # Vim customizations - can't autogenerate .vimrc rip
 
 alias 'vim'='vim "+set nu"'
+
+# Logging into NotEC2 VPS
+
+user="azureuser"
+ip="20.219.12.205"
+key="~/.ssh/NotEC2_key.pem"
+
+alias 'NotEC2'="ssh $user@$ip -i $key"
