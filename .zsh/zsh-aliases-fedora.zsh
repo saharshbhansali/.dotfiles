@@ -10,6 +10,7 @@ alias 'search'='dnf search'
 alias 'info'='dnf info'
 alias 'reinstall'='sudo dnf reinstall'
 alias 'update'='sudo dnf check-update'
+alias 'system-upgrade37'='sudo dnf --refresh upgrade && sudo dnf system-upgrade download --releasever=37' 
 
 # Git Aliases
 
