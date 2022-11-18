@@ -8,16 +8,16 @@ Switch to Next Keyboard Layout=Ctrl+Alt+K
 [StandardShortcuts]
 AboutApp=
 AboutKDE=
-Activate Next Tab=Ctrl+]; Ctrl+PgDown
-Activate Previous Tab=Ctrl+PgUp; Ctrl+[
+Activate Next Tab=Ctrl+PgDown; Ctrl+]
+Activate Previous Tab=Ctrl+[; Ctrl+PgUp
 ActualSize=Ctrl+0
 AddBookmark=Ctrl+B
-Back=Back; Ctrl+Shift+Left; Alt+Left
+Back=Alt+Left; Back
 BackwardWord=Ctrl+Left
 Begin=Ctrl+Home
 BeginningOfLine=Home
 Clear=
-Close=Ctrl+W; Ctrl+Esc
+Close=Ctrl+Esc; Ctrl+W
 ConfigureNotifications=
 ConfigureToolbars=
 Copy=Ctrl+C; Ctrl+Ins
@@ -39,7 +39,7 @@ FindPrev=Shift+F3
 FitToHeight=
 FitToPage=
 FitToWidth=
-Forward=Ctrl+Shift+Right; Forward; Alt+Right
+Forward=Forward; Alt+Right
 ForwardWord=Ctrl+Right
 FullScreen=Ctrl+Shift+F
 Goto=
@@ -118,14 +118,14 @@ push_window_to_master=Meta+Return
 rotate=Meta+R
 rotate_part=Meta+Shift+R
 rotate_reverse=
-toggle_float_layout=Meta+Shift+F
-toggle_monocle_layout=
+toggle_float_layout=Alt+Shift+F
+toggle_monocle_layout=Alt+Shift+M
 toggle_quarter_layout=
 toggle_spiral_layout=
 toggle_spread_layout=
 toggle_stair_layout=
 toggle_three_column_layout=
-toggle_tile_layout=
+toggle_tile_layout=Meta+T; Alt+Shift+T
 toggle_window_floating=Meta+F
 
 [brave-browser.desktop][Global Shortcuts]
@@ -143,7 +143,7 @@ Toggle Touchpad=Touchpad Toggle
 
 [kded5][Global Shortcuts]
 Show System Activity=Ctrl+Esc
-display=Meta+P; Display
+display=Display; Meta+P
 
 [khotkeys][Global Shortcuts]
 {66c682a3-27af-4e9d-b811-4cb849cab6fd}=
@@ -153,7 +153,7 @@ display=Meta+P; Display
 decrease_microphone_volume=Microphone Volume Down
 decrease_volume=Volume Down; Meta+Ctrl+Down
 increase_microphone_volume=Microphone Volume Up
-increase_volume=Volume Up; Meta+Ctrl+Up
+increase_volume=Meta+Ctrl+Up; Volume Up
 mic_mute=Microphone Mute; Meta+Volume Mute
 mute=Volume Mute; Meta+Ctrl+X
 
@@ -163,19 +163,20 @@ toggle_mainwindow_visibility=
 
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Ctrl+Alt+L; Screensaver; Meta+Q
+Lock Session=Meta+Q; Screensaver; Ctrl+Alt+L
 Log Out=Meta+Shift+Q; Ctrl+Alt+Del
 Log Out Without Confirmation=
 Reboot Without Confirmation=
 
 [kwin][Global Shortcuts]
 Activate Window Demanding Attention=Ctrl+Alt+A
-ClearLastMouseMark=Meta+Shift+F12; Meta+Shift+Esc
-ClearMouseMarks=Meta+Shift+F11; Meta+Ctrl+Esc
+ClearLastMouseMark=Meta+Shift+Esc; Meta+Shift+F12
+ClearMouseMarks=Meta+Shift+F11
 Decrease Opacity=Meta+_
 Expose=Ctrl+F9
 ExposeAll=Ctrl+F10
 ExposeClass=Ctrl+F7
+ExposeClassCurrentDesktop=
 Increase Opacity=Meta++
 Invert Screen Colors=
 Kill Window=Ctrl+Alt+Esc
@@ -218,7 +219,7 @@ MoveZoomUp=
 Overview=Meta+W
 Setup Window Shortcut=
 Show Desktop=Meta+D
-ShowDesktopGrid=Meta+F8; Ctrl+F8
+ShowDesktopGrid=Ctrl+F8; Meta+F8
 Suspend Compositing=Alt+Shift+F12
 Switch One Desktop Down=
 Switch One Desktop Up=
@@ -380,7 +381,7 @@ _launch=Meta+Shift+Return; Ctrl+Alt+T
 
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=
-_launch=Search; Alt+F2; Alt+Space; Meta+Space
+_launch=Meta+Space; Alt+F2; Search; Alt+Space
 
 [org.kde.plasma.emojier.desktop][Global Shortcuts]
 _launch=
