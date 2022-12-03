@@ -93,3 +93,9 @@ ip="20.219.12.205"
 key="~/.ssh/NotEC2_key.pem"
 
 alias 'NotEC2'="ssh $user@$ip -i $key"
+
+# Metasploit Alias
+
+alias 'Metasploit'="/opt/metasploit-framework/bin/msfconsole"
+
+
