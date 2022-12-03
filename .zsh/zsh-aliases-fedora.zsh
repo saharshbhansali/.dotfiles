@@ -72,7 +72,7 @@ alias 'effects'='picom --experimental-backends -b'
 
 # Rofi
 #alias 'menu'='rofi -show run'
-alias 'menu'='rofi -combi-modi window,drun,ssh -theme Arc-Dark -font "hack 12" -show combi'
+alias 'menu'='rofi -combi-modi window,drun,ssh,combi -theme Arc-Dark -font "hack 12" -show combi'
 
 # Brightness
 
