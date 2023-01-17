@@ -47,10 +47,10 @@ alias '.2'='cd ../..'
 alias '.3'='cd ../../..'
 alias '.4'='cd ../../../..'
 alias '.d'='cd ~/Desktop/.desktopstuff'
-alias '.Dk'='cd ~/Desktop/'
-alias '.Dw'='cd ~/Downloads/'
-alias '.Dp'='cd ~/Downloads/packages/'
-alias '..d'='cd ~/.dotfiles'
+alias '.Dk'='~/Desktop/'
+alias '.Dw'='~/Downloads/'
+alias '.Dp'='~/Downloads/packages/'
+alias '..d'='~/.dotfiles'
 
 # VIT WiFi login aliases
 
