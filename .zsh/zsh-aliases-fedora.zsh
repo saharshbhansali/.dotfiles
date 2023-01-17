@@ -10,7 +10,7 @@ alias 'search'='dnf search'
 alias 'info'='dnf info'
 alias 'reinstall'='sudo dnf reinstall'
 alias 'update'='sudo dnf check-update'
-alias 'system-upgrade37'='sudo dnf --refresh upgrade && sudo dnf system-upgrade download --releasever=37' 
+alias 'system-upgrade37'='sudo dnf --refresh upgrade && sudo dnf system-upgrade download --releasever=37'
 
 # Git Aliases
 
@@ -46,6 +46,10 @@ alias '.1'='cd ..'
 alias '.2'='cd ../..'
 alias '.3'='cd ../../..'
 alias '.4'='cd ../../../..'
+alias '.d'='cd ~/Desktop/.desktopstuff'
+alias '.Dk'='cd ~/Desktop/'
+alias '.Dw'='cd ~/Downloads/'
+alias '..d'='cd ~/.dotfiles'
 
 # VIT WiFi login aliases
 
@@ -59,6 +63,10 @@ alias 'cp'='cp -i'
 alias 'rm'='rm -i'
 alias 'ln'='ln -i'
 
+# Diff 
+
+alias 'vdiff'="diff --color -EZy"
+
 # Creating directories
 
 alias 'mkalldir'='mkdir -p -v'
@@ -68,17 +76,19 @@ alias 'mkalldir'='mkdir -p -v'
 alias 'clipC'='xclip -sel clip'
 
 # Picom
+
 alias 'effects'='picom --experimental-backends -b'
 
 # Rofi
+
 #alias 'menu'='rofi -show run'
-alias 'menu'='rofi -combi-modi window,drun,ssh,combi -theme Arc-Dark -font "hack 12" -show combi'
+alias 'menu'='rofi -combi-modi window,drun,ssh -theme Arc-Dark -font "hack 12" -show combi'
 
 # Brightness
 
 alias 'brightness'='xrandr --brightness '
 
-# Vim customizations - can't autogenerate .vimrc rip
+# VIM customizations - can't autogenerate .vimrc rip
 
 alias 'vim'='vim "+set nu"'
 
@@ -88,14 +98,21 @@ eval $(thefuck --alias)
 
 # Logging into NotEC2 VPS
 
+# alias 'NotEC2'='ssh azureuser@20.219.12.205 -i ~/.ssh/NotEC2_key.pem'
+
 user="azureuser"
 ip="20.219.12.205"
 key="~/.ssh/NotEC2_key.pem"
-
 alias 'NotEC2'="ssh $user@$ip -i $key"
 
-# Metasploit Alias
+# CyberSec Tools Aliases
+
+## Metasploit Alias
 
 alias 'Metasploit'="/opt/metasploit-framework/bin/msfconsole"
+
+## Ghidra Alias
+
+alias 'Ghidra'="/home/saharsh/Downloads/packages/ghidra_10.1.5_PUBLIC/ghidraRun"
 
 
