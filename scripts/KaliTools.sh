@@ -1,31 +1,42 @@
+ 
 #!/bin/bash
 
 # Update package lists
 sudo dnf update -y
 
-# Information gathering
-sudo dnf install -y nmap whois dig netdiscover fierce recon-ng theharvester
+# Install development tools
+sudo dnf groupinstall -y "Development Tools"
 
-# Vulnerability Analysis
-sudo dnf install -y metasploit-framework sqlmap w3af
+# Install dependencies
+sudo dnf install -y git python3-dev python3-pip ruby-devel libpcap-dev libssl-dev
 
-# Web Applications
-sudo dnf install -y burpsuite
+# Clone sources
+git clone https://github.com/sqlmapproject/sqlmap.git
+git clone https://github.com/aircrack-ng/aircrack-ng.git
+git clone https://github.com/rapid7/metasploit-framework.git
+git clone https://github.com/GHDB/john.git
+git clone https://github.com/hashcat/hashcat.git
 
-# Wireless Attack
-sudo dnf install -y aircrack-ng kismet wifite
+# Build and install sqlmap
+cd sqlmap
+python3 setup.py install
 
-# Exploitation Tools
-sudo dnf install -y metasploit-framework sqlmap
+# Build and install aircrack-ng
+cd ../aircrack-ng
+make
+sudo make install
 
-# Password Attacks
-sudo dnf install -y john hashcat cain
+# Build and install metasploit-framework
+cd ../metasploit-framework
+bundle install
 
-# Forensics
-sudo dnf install -y autopsy volatility sleuthkit
+# Build and install John the Ripper
+cd ../john/src
+./configure && make
+sudo make install
 
-# Reverse Engineering
-sudo dnf install -y ghidra radare2
-
-echo "Security tools have been installed!"
+# Build and install hashcat
+cd ../../hashcat
+make
+sudo make install
 
