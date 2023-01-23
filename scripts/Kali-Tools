@@ -1,0 +1,61 @@
+# Information gathering:
+Nmap
+Whois
+Dig
+Netdiscover
+Fierce
+Recon-ng
+TheHarvester
+Maltego
+
+# Vulnerability Analysis:
+Nessus
+OpenVAS
+Nexpose
+Metasploit Framework
+sqlmap
+W3AF
+BeEF
+
+# Web Applications:
+Burp Suite
+OWASP ZAP
+OWASP Mantra Security Framework
+Nikto
+Wireshark
+
+# Wireless Attack:
+Aircrack-ng
+Wireshark
+Kismet
+Wifite
+Wifiphisher
+
+# Exploitation Tools:
+Metasploit Framework
+msfvenom
+Armitage
+sqlmap
+Maltego
+
+# Password Attacks:
+John the Ripper
+Hashcat
+Cain and Abel
+Medusa
+Crunch
+
+# Forensics:
+Autopsy
+Volatility
+Sleuthkit
+Digital Forensics Framework
+Foremost
+Guymager
+
+# Reverse Engineering:
+OllyDbg
+IDA Pro
+Ghidra
+Radare2
+
