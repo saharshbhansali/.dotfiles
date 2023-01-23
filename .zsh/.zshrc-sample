@@ -77,11 +77,14 @@ ZSH_THEME="powerlevel10k/powerlevel10k" #"random"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git aliases alias-finder dnf colored-man-pages colorize github git-lfs history history-substring-search emoji emoji-clock gnu-utils nmap pip python thefuck ssh-agent screen timer torrent vscode urltools web-search universalarchive themes zsh-interactive-cd zsh-navigation-tools zsh-autosuggestions)
+plugins=(git aliases alias-finder dnf colored-man-pages colorize github git-lfs history history-substring-search emoji emoji-clock gnu-utils nmap pip python thefuck ssh-agent screen timer torrent vscode urltools web-search universalarchive themes zsh-interactive-cd zsh-navigation-tools zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
+
+# zsh autosuggestions configure
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=white'
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
