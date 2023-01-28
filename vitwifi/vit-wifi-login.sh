@@ -1,26 +1,42 @@
 #!/bin/zsh
-
-ID="Enter ID here"
-PASS="Enter password here"
-device='wlo1'
+echo "Enter your ID, Password and Device Name"
+ID=$(read)
+PASS=$(read)
+device=$(read)
 
 login_request(){
 	echo "Logging in $ID!..."
-curl 'http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://www.msftconnecttest.com/redirect' \
-  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
-  -H 'Accept-Language: en-IN;q=0.8' \
-  -H 'Cache-Control: max-age=0' \
-  -H 'Connection: keep-alive' \
-  -H 'Content-Type: application/x-www-form-urlencoded' \
-  -H 'DNT: 1' \
-  -H 'Origin: http://phc.prontonetworks.com' \
-  -H 'Referer: http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://networkcheck.kde.org/' \
-  -H 'Sec-GPC: 1' \
-  -H 'Upgrade-Insecure-Requests: 1' \
-  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36' \
-  --data-raw "userId=$1&password=$2&serviceName=ProntoAuthentication&Submit22=Login" \
-  --compressed \
-  --insecure -sS &> /dev/null # ~/logs-vit-wifi.txt 
+	
+	## Old Request
+	# curl 'http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://www.msftconnecttest.com/redirect' \
+  # -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  # -H 'Accept-Language: en-IN;q=0.8' \
+  # -H 'Cache-Control: max-age=0' \
+  # -H 'Connection: keep-alive' \
+  # -H 'Content-Type: application/x-www-form-urlencoded' \
+  # -H 'DNT: 1' \
+  # -H 'Origin: http://phc.prontonetworks.com' \
+  # -H 'Referer: http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://networkcheck.kde.org/' \
+  # -H 'Sec-GPC: 1' \
+  # -H 'Upgrade-Insecure-Requests: 1' \
+  # -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36' \
+  # --data-raw "userId=$1&password=$2&serviceName=ProntoAuthentication&Submit22=Login" \
+  # --compressed \
+  # --insecure -sS &> /dev/null # ~/logs-vit-wifi.txt 
+
+	## New Request - from Brave / Chromium
+  # curl 'http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://captive.apple.com/hotspot-detect.html' \
+  # -H 'Content-Type: application/x-www-form-urlencoded' \
+  # -H 'Origin: http://phc.prontonetworks.com' \
+  # -H 'Referer: http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://www.gstatic.com/generate_204' \
+  # -H 'Upgrade-Insecure-Requests: 1' \
+  # -H 'User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36' \
+  # --data-raw "userId=$1password=$2&serviceName=ProntoAuthentication&Submit22=Login" \
+  # --compressed &> /dev/null 
+	
+	## Request from Firefox
+  curl 'http://phc.prontonetworks.com/cgi-bin/authlogin?URI=http://captive.apple.com/hotspot-detect.html' -X POST -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:109.0) Gecko/20100101 Firefox/109.0' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8' -H 'Accept-Language: en-US,en;q=0.5' -H 'Accept-Encoding: gzip, deflate' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Origin: http://phc.prontonetworks.com' -H 'DNT: 1' -H 'Connection: keep-alive' -H 'Upgrade-Insecure-Requests: 1' --data-raw "userId=$1&password=$2&serviceName=ProntoAuthentication&Submit22=Login" &> /dev/null
+	
 	echo "Logged in $ID"
 }
 
@@ -51,9 +67,9 @@ then
   login_request $ID $PASS 
 
 else
-	echo "Wrong Network... "
+	echo "VIT Network not found, changing connection... "
 
-	echo " Trying to login to VIT WiFi"
+	echo " Trying to login to VIT 5G WiFi"
 
 	Y=$(nmcli device wifi connect "VIT5G")
 
@@ -68,6 +84,7 @@ else
 
 	  if [[ "$Y" =~ "successfully" ]] 
 	  then
+	  	echo "Logged in to VIT WiFi"
 		  
 		  login_request $ID $PASS 
 	  
@@ -86,4 +103,5 @@ else
 	echo "Done"
 fi
 
-ping 8.8.8.8 -c 5
+echo "WiFi Script Complete. Starting Ping test."
+ping -c 5 1.1.1.1
