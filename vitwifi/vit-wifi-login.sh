@@ -1,8 +1,10 @@
 #!/bin/zsh
-echo "Enter your ID, Password and Device Name"
-ID=$(read)
-PASS=$(read)
-device=$(read)
+echo "Enter your ID, Password and Device Name\n"
+read "Username: " ID
+read -p "Password: " PASS
+read "Device: " device
+
+echo "Username: $ID\nPassword: $PASS\nDevice: $device"
 
 login_request(){
 	echo "Logging in $ID!..."
