@@ -2,6 +2,7 @@
 echo "Enter your ID, Password and Device Name"
 read -p "Username: " ID
 read -sp"Password: " PASS
+echo
 read -p "Device: " device
 
 echo "Username: $ID\nPassword: $PASS\nDevice: $device"
