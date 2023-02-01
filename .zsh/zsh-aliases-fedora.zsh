@@ -115,6 +115,6 @@ alias 'Metasploit'="/opt/metasploit-framework/bin/msfconsole"
 
 ## Ghidra Alias
 
-alias 'Ghidra'="/home/saharsh/Downloads/packages/ghidra_10.1.5_PUBLIC/ghidraRun"
+alias 'Ghidra'="/home/saharsh/Downloads/packages/CyberSecurity/ghidra_10.1.5_PUBLIC/ghidraRun"
 
 
