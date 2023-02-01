@@ -51,6 +51,7 @@ alias '.Dk'='~/Desktop/'
 alias '.Dw'='~/Downloads/'
 alias '.Dp'='~/Downloads/packages/'
 alias '..d'='~/.dotfiles'
+alias '.CS'='~/Downloads/packages/CyberSecurity/'
 
 # VIT WiFi login aliases
 
