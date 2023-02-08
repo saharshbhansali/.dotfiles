@@ -122,3 +122,8 @@ export PATH="/home/saharsh/bin:/home/saharsh/.nvm/versions/node/v16.17.0/bin:/us
 VISUAL="vim" ; export VISUAL
 EDITOR="$VISUAL" ; export EDITOR
 export VAGRANT_DEFAULT_PROVIDER=virtualbox
+
+# for Autojump to work
+[[ -s /home/saharsh/.autojump/etc/profile.d/autojump.sh ]] && source /home/saharsh/.autojump/etc/profile.d/autojump.sh
+
+autoload -U compinit && compinit -u
