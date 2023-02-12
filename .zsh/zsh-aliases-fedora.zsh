@@ -107,6 +107,20 @@ ip="20.219.12.205"
 key="~/.ssh/NotEC2_key.pem"
 alias 'NotEC2'="ssh $user@$ip -i $key"
 
+# CyberSec Lists Shortcuts
+
+## SecLists Shortcut
+
+SecLists="/opt/SecTools/SecLists/"
+
+## KaliLists Shortcut
+
+KaliLists="/opt/SecTools/KaliLists/"
+
+## Auto_Wordlists Shortcut
+
+AutoWordlists="/opt/SecTools/AutoWordlists/"
+
 # CyberSec Tools Aliases
 
 ## Metasploit Alias
@@ -132,18 +146,6 @@ alias 'John'="/opt/SecTools/john/run/john"
 ## Gobuster Alias
 
 alias 'Gobuster'="go run /opt/SecTools/gobuster/main.go"
-
-## SecLists Alias
-
-SecLists="/opt/SecTools/SecLists/"
-
-## KaliLists Alias
-
-KaliLists="/opt/SecTools/KaliLists/"
-
-## Auto_Wordlists Alias
-
-AutoWordlists="/opt/SecTools/Auto_Wordlists/"
 
 ## Postman Alias
 
