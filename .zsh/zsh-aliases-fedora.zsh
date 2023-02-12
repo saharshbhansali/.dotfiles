@@ -117,4 +117,12 @@ alias 'Metasploit'="/opt/metasploit-framework/bin/msfconsole"
 
 alias 'Ghidra'="/home/saharsh/Downloads/packages/CyberSecurity/ghidra_10.1.5_PUBLIC/ghidraRun"
 
+## ZAP Alias
+
+alias 'ZAP'="/opt/zaproxy/zap.sh"
+
+## IDA Free Alias
+
+alias 'IDA'="/opt/idafree-8.2/ida64"
+
 
