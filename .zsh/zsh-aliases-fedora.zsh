@@ -119,11 +119,11 @@ alias 'Ghidra'="/opt/SecTools/ghidra/ghidraRun"
 
 ## ZAP Alias
 
-alias 'ZAP'="/opt/SecTools/zaproxy/zap.sh"
+alias 'ZAP'="/opt/SecTools/zaproxy/zap.sh &> /dev/null &"
 
 ## IDA Free Alias
 
-alias 'IDA'="/opt/SecTools/idafree-8.2/ida64"
+alias 'IDA'="/opt/SecTools/idafree-8.2/ida64 &> /dev/null &"
 
 ## John The Ripper Alias 
 
@@ -144,6 +144,10 @@ KaliLists="/opt/SecTools/KaliLists/"
 ## Auto_Wordlists Alias
 
 AutoWordlists="/opt/SecTools/Auto_Wordlists/"
+
+## Postman Alias
+
+alias 'Postman'="/opt/SecTools/Postman/Postman &> /dev/null &"
 
 ## X Alias
 
