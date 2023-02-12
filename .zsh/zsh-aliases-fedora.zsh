@@ -111,18 +111,42 @@ alias 'NotEC2'="ssh $user@$ip -i $key"
 
 ## Metasploit Alias
 
-alias 'Metasploit'="/opt/metasploit-framework/bin/msfconsole"
+alias 'Metasploit'="/opt/SecTools/metasploit-framework/bin/msfconsole"
 
 ## Ghidra Alias
 
-alias 'Ghidra'="/home/saharsh/Downloads/packages/CyberSecurity/ghidra_10.1.5_PUBLIC/ghidraRun"
+alias 'Ghidra'="/opt/SecTools/ghidra/ghidraRun"
 
 ## ZAP Alias
 
-alias 'ZAP'="/opt/zaproxy/zap.sh"
+alias 'ZAP'="/opt/SecTools/zaproxy/zap.sh"
 
 ## IDA Free Alias
 
-alias 'IDA'="/opt/idafree-8.2/ida64"
+alias 'IDA'="/opt/SecTools/idafree-8.2/ida64"
+
+## John The Ripper Alias 
+
+alias 'John'="/opt/SecTools/john/run/john"
+
+## Gobuster Alias
+
+alias 'Gobuster'="go run /opt/SecTools/gobuster/main.go"
+
+## SecLists Alias
+
+SecLists="/opt/SecTools/SecLists/"
+
+## KaliLists Alias
+
+KaliLists="/opt/SecTools/KaliLists/"
+
+## Auto_Wordlists Alias
+
+AutoWordlists="/opt/SecTools/Auto_Wordlists/"
+
+## X Alias
+
+# alias 'X'="/opt/SecTools/X/"
 
 
