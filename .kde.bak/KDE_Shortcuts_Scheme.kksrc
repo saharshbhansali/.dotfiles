@@ -9,10 +9,10 @@ Switch to Next Keyboard Layout=Ctrl+Alt+K
 AboutApp=
 AboutKDE=
 Activate Next Tab=Ctrl+PgDown; Ctrl+]
-Activate Previous Tab=Ctrl+[; Ctrl+PgUp
+Activate Previous Tab=Ctrl+PgUp; Ctrl+[
 ActualSize=Ctrl+0
 AddBookmark=Ctrl+B
-Back=Back; Alt+Left
+Back=Alt+Left; Back
 BackwardWord=Ctrl+Left
 Begin=Ctrl+Home
 BeginningOfLine=Home
@@ -39,7 +39,7 @@ FindPrev=Shift+F3
 FitToHeight=
 FitToPage=
 FitToWidth=
-Forward=Alt+Right; Forward
+Forward=Forward; Alt+Right
 ForwardWord=Ctrl+Right
 FullScreen=Ctrl+Shift+F
 Goto=
@@ -64,7 +64,7 @@ PrintPreview=
 Prior=PgUp
 Quit=Ctrl+Q
 Redo=Ctrl+Shift+Z
-Reload=F5; Refresh
+Reload=Refresh; F5
 RenameFile=F2
 Replace=Ctrl+R
 ReportBug=
@@ -125,7 +125,7 @@ toggle_spiral_layout=
 toggle_spread_layout=
 toggle_stair_layout=
 toggle_three_column_layout=
-toggle_tile_layout=Meta+T; Alt+Shift+T
+toggle_tile_layout=Alt+Shift+T; Meta+T
 toggle_window_floating=Meta+F
 
 [brave-browser.desktop][Global Shortcuts]
@@ -155,7 +155,7 @@ decrease_volume=Meta+Ctrl+Down; Volume Down
 increase_microphone_volume=Microphone Volume Up
 increase_volume=Volume Up; Meta+Ctrl+Up
 mic_mute=Meta+Volume Mute; Microphone Mute
-mute=Volume Mute; Meta+Ctrl+X
+mute=Meta+Ctrl+X; Volume Mute
 
 [konversation][Global Shortcuts]
 next_active_tab=
@@ -163,15 +163,15 @@ toggle_mainwindow_visibility=
 
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Screensaver; Meta+Q; Ctrl+Alt+L
-Log Out=Meta+Shift+Q; Ctrl+Alt+Del
+Lock Session=Meta+Q; Screensaver; Ctrl+Alt+L
+Log Out=Ctrl+Alt+Del; Meta+Shift+Q
 Log Out Without Confirmation=
 Reboot Without Confirmation=
 
 [kwin][Global Shortcuts]
 Activate Window Demanding Attention=Ctrl+Alt+A
-ClearLastMouseMark=Meta+Shift+Esc; Meta+Shift+F12
-ClearMouseMarks=Meta+Shift+F11
+ClearLastMouseMark=Meta+Shift+F12; Meta+Shift+Esc
+ClearMouseMarks=Meta+Shift+F11; Meta+Ctrl+Esc
 Decrease Opacity=Meta+_
 Expose=Ctrl+F9
 ExposeAll=Ctrl+F10
@@ -280,12 +280,12 @@ Walk Through Windows of Current Application Alternative=
 Walk Through Windows of Current Application Alternative (Reverse)=
 Window Above Other Windows=
 Window Below Other Windows=
-Window Close=Alt+F4; Meta+Shift+C
+Window Close=Meta+Shift+C; Alt+F4
 Window Fullscreen=
 Window Grow Horizontal=
 Window Grow Vertical=
 Window Lower=
-Window Maximize=Meta+Ctrl+M; Meta+PgUp
+Window Maximize=Meta+PgUp; Meta+Ctrl+M
 Window Maximize Horizontal=
 Window Maximize Vertical=
 Window Minimize=Meta+M; Meta+PgDown
@@ -374,14 +374,17 @@ new-window=
 [org.kde.dolphin.desktop][Global Shortcuts]
 _launch=Meta+E
 
+[org.kde.kcalc.desktop][Global Shortcuts]
+_launch=Launch (1)
+
 [org.kde.konsole.desktop][Global Shortcuts]
 NewTab=
 NewWindow=
-_launch=Ctrl+Alt+T; Meta+Shift+Return
+_launch=Meta+Shift+Return; Ctrl+Alt+T
 
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=
-_launch=Search; Meta+Space; Alt+F2; Alt+Space
+_launch=Meta+Space; Alt+Space; Alt+F2; Search
 
 [org.kde.plasma.emojier.desktop][Global Shortcuts]
 _launch=
@@ -403,7 +406,7 @@ Increase Keyboard Brightness=Keyboard Brightness Up
 Increase Screen Brightness=Monitor Brightness Up
 PowerDown=Power Down
 PowerOff=Power Off
-Sleep=Meta+Ctrl+S; Sleep
+Sleep=Sleep; Meta+Ctrl+S
 Toggle Keyboard Backlight=Keyboard Light On/Off
 Turn Off Screen=
 
@@ -419,9 +422,11 @@ activate task manager entry 7=
 activate task manager entry 8=
 activate task manager entry 9=
 activate widget 19=
+activate widget 2=Alt+A
 activate widget 24=Ctrl+I
 activate widget 26=
 activate widget 3=Alt+F1
+activate widget 37=
 activate widget 8=
 clear-history=
 clipboard_action=Ctrl+Alt+X
