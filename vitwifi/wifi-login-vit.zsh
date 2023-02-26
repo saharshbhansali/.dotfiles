@@ -1,9 +1,9 @@
-#!/bin/bash
-echo "Enter your ID, Password and Device Name"
-read -p "Username: " ID
-read -sp"Password: " PASS
+#!/bin/zsh
+echo "Enter your ID, Password and Device Name: "
+read "ID?Username: "
+read -s "PASS?Password: "
 echo
-read -p "Device: " device
+read "device?Device: "
 
 echo "Username: $ID\nPassword: $PASS\nDevice: $device"
 
