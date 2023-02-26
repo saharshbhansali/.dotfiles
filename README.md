@@ -1,31 +1,27 @@
-# My dotfiles repo for PopOS (Gnome + DWM)
+# My dotfiles repo for Linux (Fedora)
 
 ## .dotfiles
 
-- Polybar
+### Contents
 
-- DWM
+- KDE (kwin tiling + bismuth) + konsave
 
-- Rofi
+- zsh + OhMyZsh + powerlevel10k
 
-- picom
+- WiFi Scripts
 
-- nitrogen
+- Vim / NVim
 
-- btop
+- htop / btop
 
-- betterlockscreen
+- touchegg / libinput
 
-- alacritty (autostart)
+- Spotify
 
-- neofetch
+- Browser Extension shortcuts
 
--- i3
+- Other WMs (DWM, Qtile, Gnome, i3)
 
--- qtile
+- Secondary Applications (backups)
 
--- KDE (kwin tiling)
 
--- htop
-
-- zsh
