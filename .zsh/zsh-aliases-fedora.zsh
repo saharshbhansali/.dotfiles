@@ -60,10 +60,14 @@ alias 'vpn'='~/login-vit-wifi.sh && ~/vpn-vit-connect.sh && ping 8.8.8.8 -c 5'
 
 # Confirmations
 
+## File manipulation
 alias 'mv'='mv -i'
 alias 'cp'='cp -i'
 alias 'rm'='rm -i'
 alias 'ln'='ln -i'
+
+## pkill
+alias 'pkill'='pkill -e'
 
 # Diff 
 
