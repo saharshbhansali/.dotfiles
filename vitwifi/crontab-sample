@@ -1,5 +1,13 @@
 # Edit this file to introduce tasks to be run by cron.
 # [minute] [hours] [day of month] [month] [day of the week] command-to-execute
-
-## 00 00 * * * /home/vit-vpn-connect.sh
-10 00 * * * "/home/$USER/login-vit-wifi.sh && /home/$USER/vpn-vit-connect.sh && ping 8.8.8.8 -c 5" 
+## General
+##      *       any value
+##      ,       value list separator
+##      -       range of values
+##      /       step values
+## min - 0 to 59 allowed
+## hour - 0 - 23 allowed
+## day - 1 to 31 allowed
+## month - 1 to 12 and JAN to DEC
+## week-day - 0 to 6, 7 (SUN) and SUN to SAT
+0-27/5 5-23,0 */1 * * $HOME/login-vit-wifi.sh && $HOME/vpn-vit-connect.sh && ping -c 4 1.1.1.1
