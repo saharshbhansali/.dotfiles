@@ -10,4 +10,5 @@
 ## day - 1 to 31 allowed
 ## month - 1 to 12 and JAN to DEC
 ## week-day - 0 to 6, 7 (SUN) and SUN to SAT
-0-27/5 5-23,0 */1 * * $HOME/login-vit-wifi.sh && $HOME/vpn-vit-connect.sh && ping -c 4 1.1.1.1
+*/1 4-23 * * * $HOME/login-vit-wifi.sh && ping -c 4 1.1.1.1
+0-22/1 0 */1 * * $HOME/login-vit-wifi.sh && $HOME/vpn-vit-connect.sh && ping -c 4 1.1.1.1
