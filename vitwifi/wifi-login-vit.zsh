@@ -30,6 +30,10 @@ login_request(){
   # exec /home/saharsh/login-vit-wifi.sh
 	# login_request $ID $PASS
 
+echo "Turning on WiFi radio..."
+
+nmcli radio wifi on 
+
 echo "Checking for VIT WiFi..."
 
 # SSID=$(iw dev $device link | grep -iE 'ssid')
