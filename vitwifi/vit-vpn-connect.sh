@@ -14,9 +14,11 @@ then
   
   # riseup-vpn.launcher --start-vpn "on"
   # riseup-vpn.launcher --start-vpn "off"
-  riseup-vpn.launcher -a --start-vpn "on" 2&> /dev/null &
+  # riseup-vpn.launcher -w -a --start-vpn "on" 2&> /dev/null &
+  riseup-vpn.launcher -w -a --start-vpn "on" 2&> /dev/null  
   curl -H "X-Auth-Token: `cat /tmp/bitmask-token`" localhost:8080/vpn/status                                                                              ─╯
   curl -H "X-Auth-Token: `cat /tmp/bitmask-token`" localhost:8080/vpn/start
+  speedtest-cli
 
 elif [[ $client == 'p' ]]; 
 then

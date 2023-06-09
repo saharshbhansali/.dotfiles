@@ -1,0 +1,24 @@
+
+#
+# /etc/fstab
+# Created by anaconda on Fri Jun  3 00:02:39 2022
+#
+# Accessible filesystems, by reference, are maintained under '/dev/disk/'.
+# See man pages fstab(5), findfs(8), mount(8) and/or blkid(8) for more info.
+#
+# After editing this file, run 'systemctl daemon-reload' to update systemd
+# units generated from this file.
+#
+
+##
+
+UUID=e799c403-1225-459d-b82e-ee19229c3ff0   /                     btrfs   subvol=root,compress=zstd:1   0 0 
+UUID=7472-5637                              /boot/efi             vfat    umask=0077,shortname=winnt    0 2 
+UUID=e799c403-1225-459d-b82e-ee19229c3ff0   /home                 btrfs   subvol=home,compress=zstd:1   0 0 
+UUID=3a8ff9ce-422b-4f67-9755-8524d215a3f3   none                  swap    defaults                      0 0 
+
+# Binding and Auto Mounting Windows drives (labs and data) to /user/windows
+# Windows' C drive is bound to /user/windows/win11 but not automounted
+UUID=107A02097A01EC72                       /user/windows/labs    ntfs    users                         0 0 
+UUID=52A21611A215F9E5                       /user/windows/data    ntfs    users                         0 0 
+UUID=322891282890EBDB                       /user/windows/win11   ntfs    noauto                        0 0 
