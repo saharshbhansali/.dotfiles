@@ -1,0 +1,156 @@
+Give me a script that I can use to automate the installation of as many of the following and link the following programs to their config files that I have stored in my dotfiles
+KDE (I have konsave files for this)
+nvim
+zsh (I use Oh-My-Zsh + Custom Startup scripts + powerlevel10k)
+a few extensions on brave (
+- Bitwarden - Free Password Manager
+- Bookmarks clean up
+- ChatGPT LINER: GPT Copilot for Web&YouTube
+- Chrome Web Store Launcher (by Google)
+- ColorPick Eyedropper
+- Cookie-Editor
+- Enhancer for YouTube™
+- Figma
+- Google Dictionary (by Google)
+- Google Docs Offline
+- Google Translate
+- Grammarly: Grammar Checker and Writing App
+- IPFS Companion
+- KDE Connect
+- Microsoft 365
+- Momentum
+- Office Editing for Docs, Sheets & Slides
+- OneTab
+- Password Lock for WhatsApp Web
+- Plasma Integration
+- PrintFriendly - Print and PDF Web Pages
+- Raindrop.io
+- Return YouTube Dislike
+- Save my Phind - AI Conversation Exporter
+- Save to Google Drive
+- Save to Pocket
+- Scientific Calculator
+- Send to Kindle for Google Chrome™
+- Sight
+- Speedtest by Ookla
+- SponsorBlock for YouTube - Skip Sponsorships
+- Tab Suspender
+- Toby Mini
+- uBlock Origin
+- ViBoot
+- Volume Master
+- WebNowPlaying Redux)
+
+And these other applications
+autostart
+betterlockscreenrc
+btop
+flameshot
+htop
+i3
+konsave
+kwinrc
+libinput-gestures.conf
+monkeytype
+neofetch
+nitrogen
+notion-app-enhanced
+nvim
+picom
+polybar
+protonvpn
+rofi
+spotify-adblock
+touchegg
+touchpadxlibinputrc
+vlc
+
+Other than those above tools in the dotfiles that I have, I have manually installed these tools in /opt. Is there any way to automate their reinstall:
+
+/opt
+├── Adobe
+│   └── Reader9
+├── brave.com
+├── containerd
+├── gradle
+├── IPFS Desktop
+├── kingsoft
+│   └── wps-office
+├── lampp
+├── metasploit-framework
+├── microsoft
+│   └── msedge
+├── mongo
+├── nessus
+├── oracle
+├── cisco packet tracer
+├── SecTools
+│   ├── aircrack-ng
+│   ├── AutoWordlists
+│   ├── CeWL
+│   ├── dnsrecon
+│   ├── enum4linux
+│   ├── evil-winrm
+│   ├── exiftool
+│   ├── ghidra
+│   ├── gobuster
+│   ├── hashcat
+│   ├── idafree-8.2
+│   ├── impacket
+│   ├── Infoga
+│   ├── john
+│   ├── KaliLists
+│   ├── metagoofil
+│   ├── metasploit-framework
+│   ├── odbg110
+│   ├── Postman
+│   ├── pwndbg
+│   ├── ReconDog
+│   ├── recon-ng
+│   ├── Responder
+│   ├── SecLists
+│   ├── sqlmap
+│   ├── Sublist3r
+│   ├── theHarvester
+│   ├── webshells
+│   └── zaproxy
+└── vagrant
+
+These are some snap packages that I have installed
+acrordrdc
+authy
+bare 
+core 
+core18
+core20
+core22
+discord
+gnome-3-28-1804
+gnome-3-38-2004
+gnome-42-2204  
+gtk-common-themes
+powershell 
+qt515-core20 
+raindrop   
+riseup-vpn    
+whatsie
+wine-platform-6-stable 
+wine-platform-runtime 
+wps-office-multilang  
+
+These are some flatpaks that I have installed:
+
+Bitwarden
+Stremio
+Element
+Mesa 
+Mesa (Extra)
+ffmpeg-full
+openh264
+Freedesktop SDK
+Breeze GTK theme
+Adwaita theme
+KDE Application Platform
+ONLYOFFICE Desktop Editors
+Telegram Desktop
+Telegram Desktop Webview Add-on   
