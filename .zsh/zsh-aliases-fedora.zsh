@@ -37,11 +37,11 @@ alias 'pm-hib'='sudo pm-hibernate'
 
 # Information and Movement Aliases
 
-alias 'ls'='exa -lh --color=auto'
-alias 'lss'='ls -lh --color=auto'
-alias 'lah'='exa -lahg --git'
-alias 'la'='ls -lahg --git'
-alias 'cat'='bat'
+alias 'lsx'='exa -lh --color=auto'
+alias 'ls'='ls --color=auto'
+alias 'lss'='exa -lh --color=auto'
+alias 'la'='exa -lahg --color=auto --git'
+# alias 'cat'='bat'
 alias '.1'='cd ..'
 alias '.2'='cd ../..'
 alias '.3'='cd ../../..'
@@ -55,9 +55,10 @@ alias '.CS'='~/Downloads/packages/CyberSecurity/'
 
 # VIT WiFi login aliases
 
-alias 'wifi'='~/login-vit-wifi.sh && ping 8.8.8.8 -c 5'
-alias 'vpn'='~/login-vit-wifi.sh && ~/vpn-vit-connect.sh && ping 8.8.8.8 -c 5'
-alias 'cf-on'='wg-quick up cloudflare && ping 8.8.8.8 -c 5'
+alias 'vwifi'='~/login-vit-wifi.sh'
+alias 'vwifi-off'='~/logout-vit-wifi.sh'
+alias 'vpn-on'='~/login-vit-wifi.sh && ~/vpn-vit-connect.sh'
+alias 'cf-on'='~/login-vit-wifi.sh && wg-quick up cloudflare && ping 8.8.8.8 -c 5'
 alias 'cf-off'='wg-quick down cloudflare'
 
 # Confirmations
