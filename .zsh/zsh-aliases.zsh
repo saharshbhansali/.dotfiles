@@ -14,21 +14,21 @@ alias 'system-upgrade37'='sudo dnf --refresh upgrade && sudo dnf system-upgrade 
 
 # Git Aliases
 
-alias 'gstatus'='git status'
-alias 'gadd'='git add'
-alias 'gaddall'='git add .'
-alias 'gcommit'='git commit -m'
-alias 'gpush'='git push'
-alias 'gpull'='git pull'
-alias 'gclone'='git clone'
-alias 'gbranch'='git branch'
-alias 'gmerge'='git merge'
-alias 'gcheckout'='git checkout'
-alias 'greset'='git reset'
-alias 'grevert'='git revert'
-alias 'glog'='git log'
-alias 'gdiff'='git diff'
-alias 'gstash'='git stash'
+# alias 'gstatus'='git status'
+# alias 'gadd'='git add'
+# alias 'gaddall'='git add .'
+# alias 'gcommit'='git commit -m'
+# alias 'gpush'='git push'
+# alias 'gpull'='git pull'
+# alias 'gclone'='git clone'
+# alias 'gbranch'='git branch'
+# alias 'gmerge'='git merge'
+# alias 'gcheckout'='git checkout'
+# alias 'greset'='git reset'
+# alias 'grevert'='git revert'
+# alias 'glog'='git log'
+# alias 'gdiff'='git diff'
+# alias 'gstash'='git stash'
 
 # Hibernate Aliases
 
@@ -57,6 +57,8 @@ alias '.CS'='~/Downloads/packages/CyberSecurity/'
 
 alias 'wifi'='~/login-vit-wifi.sh && ping 8.8.8.8 -c 5'
 alias 'vpn'='~/login-vit-wifi.sh && ~/vpn-vit-connect.sh && ping 8.8.8.8 -c 5'
+alias 'cf-on'='wg-quick up cloudflare && ping 8.8.8.8 -c 5'
+alias 'cf-off'='wg-quick down cloudflare'
 
 # Confirmations
 
