@@ -1,0 +1,31 @@
+
+#
+# /etc/fstab
+# Created by anaconda on Fri Jun  3 00:02:39 2022
+#
+# Accessible filesystems, by reference, are maintained under '/dev/disk/'.
+# See man pages fstab(5), findfs(8), mount(8) and/or blkid(8) for more info.
+#
+# After editing this file, run 'systemctl daemon-reload' to update systemd
+# units generated from this file.
+#
+
+##
+
+UUID=e799c403-1225-459d-b82e-ee19229c3ff0   /                  btrfs   subvol=root,compress=zstd:1   0 0 
+UUID=7472-5637                              /boot/efi          vfat    umask=0077,shortname=winnt    0 2 
+UUID=0220298f-178f-4f09-8a40-55dfcd9c8aff   /home              btrfs   subvol=home,compress=zstd:1   0 0
+##UUID=e799c403-1225-459d-b82e-ee19229c3ff0   /home              btrfs   subvol=home,compress=zstd:1   0 0
+UUID=3a8ff9ce-422b-4f67-9755-8524d215a3f3   none               swap    defaults                      0 0 
+
+# Original /home subvolume:
+##UUID=e799c403-1225-459d-b82e-ee19229c3ff0   /home              btrfs   subvol=home,compress=zstd:1   0 0
+# New /home subvolume:
+##UUID=0220298f-178f-4f09-8a40-55dfcd9c8aff   /home              btrfs   subvol=home,compress=zstd:1   0 0
+#OR 
+##/dev/nvme0n1p3                              /home              btrfs   subvol=home,compress=zstd:1   0 0
+
+# Custom Mounting and Binding points
+UUID=46b4e523-6f10-498d-8e66-fb4460a5fbc7   /user/data         btrfs   users                         0 0 
+UUID=2c013b70-8636-4b0c-824f-47cee3521721   /user/LFS          btrfs   users                         0 0 
+
