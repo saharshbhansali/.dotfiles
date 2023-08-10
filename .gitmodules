@@ -7,3 +7,9 @@
 [submodule ".zsh/themes/powerlevel10k"]
 	path = .zsh/themes/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k
+[submodule "zsh-configs/plugins/zsh-autosuggestions"]
+	path = zsh-configs/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule "zsh-configs/themes/powerlevel10k"]
+	path = zsh-configs/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k
