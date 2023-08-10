@@ -1,5 +1,5 @@
 ﻿###
-###  vlc 3.0.17.2
+###  vlc 3.0.19
 ###
 
 ###
@@ -1442,7 +1442,7 @@
 #sout-avi-subject=
 
 # Encoder (string)
-#sout-avi-encoder=VLC Media Player - 3.0.17.2 Vetinari
+#sout-avi-encoder=VLC Media Player - 3.0.19 Vetinari
 
 # Keywords (string)
 #sout-avi-keywords=
@@ -1925,7 +1925,7 @@ qt-privacy-ask=0
 #sout-avformat-options=
 
 # Reset timestamps (boolean)
-#sout-avformat-reset-ts=0
+#sout-avformat-reset-ts=1
 
 [adaptive] # Unified adaptive streaming for DASH/HLS
 
@@ -2837,9 +2837,6 @@ qt-privacy-ask=0
 
 # Frames Threads (integer)
 #dav1d-thread-frames=0
-
-# Tiles Threads (integer)
-#dav1d-thread-tiles=0
 
 [cc] # Closed Captions decoder
 
@@ -4304,7 +4301,7 @@ qt-privacy-ask=0
 #osd=1
 
 # Text rendering module (string)
-#text-renderer=
+text-renderer=any
 
 # Use subtitle file (string)
 #sub-file=
@@ -4322,7 +4319,7 @@ qt-privacy-ask=0
 #sub-margin=0
 
 # Subpictures source module (string)
-#sub-source=
+sub-source=remoteosd
 
 # Subpictures filter module (string)
 #sub-filter=
@@ -4562,7 +4559,7 @@ qt-privacy-ask=0
 #packetizer=
 
 # VoD server module (string)
-#vod-server=
+vod-server=any
 
 # Use a plugins cache (boolean)
 #plugins-cache=1
@@ -4694,19 +4691,19 @@ qt-privacy-ask=0
 #global-key-play-pause=
 
 # Play/Pause (string)
-#key-play-pause=Space	Media Play Pause
+key-play-pause=Space
 
 # Pause only (string)
 #global-key-pause=
 
 # Pause only (string)
-#key-pause=Browser Stop
+key-pause=k
 
 # Play only (string)
 #global-key-play=
 
 # Play only (string)
-#key-play=Browser Refresh
+key-play=j
 
 # Faster (string)
 #global-key-faster=
@@ -4952,13 +4949,13 @@ qt-privacy-ask=0
 #global-key-audiodelay-up=
 
 # Audio delay up (string)
-#key-audiodelay-up=k
+key-audiodelay-up=u
 
 # Audio delay down (string)
 #global-key-audiodelay-down=
 
 # Audio delay down (string)
-#key-audiodelay-down=j
+key-audiodelay-down=y
 
 # Cycle audio track (string)
 #global-key-audio-track=
@@ -5012,7 +5009,7 @@ qt-privacy-ask=0
 #global-key-crop=
 
 # Cycle video crop (string)
-#key-crop=c
+key-crop=
 
 # Toggle autoscaling (string)
 #global-key-toggle-autoscale=
