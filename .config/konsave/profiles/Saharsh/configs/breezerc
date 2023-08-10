@@ -1,0 +1,6 @@
+[Style]
+DockWidgetDrawFrame=true
+MenuItemDrawStrongFocus=false
+MenuOpacity=90
+ScrollBarAddLineButtons=1
+ScrollBarSubLineButtons=1

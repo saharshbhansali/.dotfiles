@@ -8,10 +8,10 @@ loginMode=restorePreviousLogout
 count=0
 
 [Session: saved at previous logout]
-clientId1=101bd19a134fd000166127310200000058190002
-count=1
-discardCommand1[$e]=rm,-f,$HOME/.cache/sessions/Thunar-101bd19a134fd000166127310200000058190002
-program1=Thunar
-restartCommand1=Thunar,--sm-client-id,101bd19a134fd000166127310200000058190002,--daemon
-restartStyleHint1=0
-userId1=saharsh
+count=0
+
+[SubSession: 1a3d735a-1293-4ceb-9721-f9f4fcb17cb8]
+count=0
+
+[SubSession: f0ca27d3-a143-4435-a086-4150d85ad975]
+count=0

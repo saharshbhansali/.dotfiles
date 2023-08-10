@@ -1,2 +1,32 @@
-[$Version]
-update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+[1]
+Description=Window Sizing
+ignoregeometry=true
+ignoregeometryrule=4
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+size=648,200
+sizerule=4
+strictgeometry=true
+strictgeometryrule=2
+types=66227
+wmclassmatch=1
+
+[General]
+count=1
+rules=1
+
+[d935952b-d184-48c3-8b40-b9e1bac21a6d]
+Description=Window Sizing
+ignoregeometry=true
+ignoregeometryrule=4
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+sizerule=4
+strictgeometry=true
+strictgeometryrule=2
+types=66227
+wmclassmatch=1

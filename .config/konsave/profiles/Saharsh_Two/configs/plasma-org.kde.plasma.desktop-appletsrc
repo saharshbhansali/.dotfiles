@@ -6,8 +6,8 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
-ItemGeometries-1920x1080=Applet-31:1616,80,272,272,0;
-ItemGeometriesHorizontal=Applet-31:1616,80,272,272,0;
+ItemGeometries-1920x1080=Applet-35:1568,112,192,96,0;Applet-34:1568,224,240,272,0;
+ItemGeometriesHorizontal=Applet-35:1568,112,192,96,0;Applet-34:1568,224,240,272,0;
 activityId=48a266e7-ff83-403c-883f-201d1b1fba5d
 formfactor=0
 immutability=1
@@ -16,18 +16,29 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.slideshow
 
-[Containments][1][Applets][31]
+[Containments][1][Applets][34]
 immutability=1
 plugin=org.kde.plasma.notes
 
-[Containments][1][Applets][31][Configuration][ConfigDialog]
+[Containments][1][Applets][34][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
-[Containments][1][Applets][31][Configuration][General]
-color=translucent
-fontSize=10
-noteId=dbcd68cd-069c-4fd0-9690-e8f3b58fb5
+[Containments][1][Applets][34][Configuration][General]
+color=translucent-light
+cursorPosition=340
+fontSize=15
+noteId=7491c7f2-ec94-495f-9e17-16d58ba846
+scrollY=303.08
+
+[Containments][1][Applets][35]
+immutability=1
+plugin=org.kde.plasma.digitalclock
+
+[Containments][1][Applets][35][Configuration]
+PreloadWeight=65
+popupHeight=450
+popupWidth=396
 
 [Containments][1][ConfigDialog]
 DialogHeight=540
@@ -37,24 +48,23 @@ DialogWidth=720
 ToolBoxButtonState=topcenter
 ToolBoxButtonX=559
 iconSize=0
-positions={"1920x1080":["1"\\,"20"\\,"desktop:/install-driver.sh"\\,"0"\\,"3"\\,"desktop:/plasmashell.logs"\\,"0"\\,"2"\\,"desktop:/dsa"\\,"0"\\,"1"\\,"desktop:/java"\\,"0"\\,"0"]}
-previews=false
+positions={"1920x1080":["6"\\,"20"\\,"desktop:/Semester 5"\\,"1"\\,"1"\\,"desktop:/Get Started With Oracle Database 10g Express Edition .desktop"\\,"5"\\,"8"\\,"desktop:/Resumes"\\,"1"\\,"2"\\,"desktop:/Get Started With Oracle Database 10g Express Edition .lnk"\\,"5"\\,"9"]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/backgrounds/f36/default/f36-01-day.png
 
 [Containments][1][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/saharsh/.dotfiles/Wallpapers/Desktop/wp6289812-pc-4k-japan-anime-wallpapers.jpg
+Image=file:///home/saharsh/.config/Wallpapers/Desktop/wp4785046-aesthetic-anime-bedroom-wallpapers.jpg
 SlideInterval=60
-SlidePaths=/home/saharsh/.dotfiles/Wallpapers/
+SlidePaths=/home/saharsh/.config/Wallpapers/
 
 [Containments][2]
 activityId=
 formfactor=2
 immutability=1
 lastScreen=0
-location=3
+location=4
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
@@ -63,23 +73,24 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][20][Configuration]
-PreloadWeight=80
+PreloadWeight=85
+popupHeight=450
+popupWidth=396
+
+[Containments][2][Applets][20][Configuration][Appearance]
+dateDisplayFormat=BesideTime
+dateFormat=longDate
+displayTimezoneFormat=UTCOffset
+showSeconds=true
+use24hFormat=2
+
+[Containments][2][Applets][20][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
 
 [Containments][2][Applets][21]
 immutability=1
 plugin=org.kde.plasma.showdesktop
-
-[Containments][2][Applets][26]
-immutability=1
-plugin=org.kde.plasma.icontasks
-
-[Containments][2][Applets][26][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][2][Applets][26][Configuration][General]
-launchers=applications:systemsettings.desktop,applications:org.kde.discover.desktop,preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop,applications:spotify-adblock.desktop,file:///var/lib/flatpak/exports/share/applications/com.github.eneshecan.WhatsAppForLinux.desktop
-sortingStrategy=4
 
 [Containments][2][Applets][3]
 immutability=1
@@ -87,10 +98,19 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][3][Configuration]
 PreloadWeight=100
+popupHeight=514
+popupWidth=669
+
+[Containments][2][Applets][3][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
 
 [Containments][2][Applets][3][Configuration][General]
+favoritesDisplay=1
 favoritesPortedToKAstats=true
 icon=start-here
+primaryActions=3
+systemFavorites=lock-screen\\,logout\\,save-session\\,switch-user\\,suspend\\,hibernate\\,reboot\\,shutdown
 
 [Containments][2][Applets][3][Configuration][Shortcuts]
 global=Alt+F1
@@ -98,12 +118,20 @@ global=Alt+F1
 [Containments][2][Applets][3][Shortcuts]
 global=Alt+F1
 
-[Containments][2][Applets][30]
+[Containments][2][Applets][39]
 immutability=1
-plugin=com.pajuelo.plasmaConfSaver
+plugin=org.kde.plasma.icontasks
 
-[Containments][2][Applets][30][Configuration]
-PreloadWeight=70
+[Containments][2][Applets][39][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][2][Applets][39][Configuration][General]
+groupedTaskVisualization=2
+launchers=applications:org.kde.discover.desktop,applications:systemsettings.desktop,preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop,applications:code.desktop,file:///var/lib/flatpak/exports/share/applications/com.github.eneshecan.WhatsAppForLinux.desktop
+maxStripes=1
+middleClickAction=BringToCurrentDesktop
+unhideOnAttention=false
 
 [Containments][2][Applets][4]
 immutability=1
@@ -114,9 +142,11 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][4][Configuration][General]
-displayedText=Number
-showOnlyCurrentScreen=true
 wrapPage=true
+
+[Containments][2][Applets][6]
+immutability=1
+plugin=org.kde.plasma.marginsseparator
 
 [Containments][2][Applets][7]
 immutability=1
@@ -131,15 +161,32 @@ DialogHeight=84
 DialogWidth=1920
 
 [Containments][2][General]
-AppletOrder=3;4;30;26;7;20;21
+AppletOrder=3;4;39;6;7;20;21
+
+[Containments][2][Shortcuts]
+global=Alt+A
+
+[Containments][36]
+activityId=f0ca27d3-a143-4435-a086-4150d85ad975
+formfactor=0
+immutability=1
+lastScreen=0
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
+[Containments][36][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/Next/contents/images/1920x1080.jpg
 
 [Containments][8]
 activityId=
 formfactor=2
 immutability=1
 lastScreen=0
-location=3
+location=4
 plugin=org.kde.plasma.private.systemtray
+popupHeight=432
+popupWidth=432
 wallpaperplugin=org.kde.image
 
 [Containments][8][Applets][10]
@@ -147,7 +194,7 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][8][Applets][10][Configuration]
-PreloadWeight=80
+PreloadWeight=100
 
 [Containments][8][Applets][11]
 immutability=1
@@ -160,6 +207,9 @@ PreloadWeight=100
 immutability=1
 plugin=org.kde.plasma.keyboardindicator
 
+[Containments][8][Applets][12][Configuration]
+PreloadWeight=55
+
 [Containments][8][Applets][13]
 immutability=1
 plugin=org.kde.plasma.keyboardlayout
@@ -168,29 +218,41 @@ plugin=org.kde.plasma.keyboardlayout
 immutability=1
 plugin=org.kde.plasma.manage-inputmethod
 
+[Containments][8][Applets][15]
+immutability=1
+plugin=org.kde.plasma.nightcolorcontrol
+
 [Containments][8][Applets][15][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][8][Applets][16]
 immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][8][Applets][16][Configuration]
-PreloadWeight=65
+PreloadWeight=100
 
 [Containments][8][Applets][17]
 immutability=1
 plugin=org.kde.plasma.printmanager
 
-[Containments][8][Applets][18][Configuration]
-PreloadWeight=42
+[Containments][8][Applets][18]
+immutability=1
+plugin=org.kde.plasma.vault
 
 [Containments][8][Applets][19]
 immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][19][Configuration]
-PreloadWeight=60
+PreloadWeight=100
+
+[Containments][8][Applets][19][Configuration][General]
+migrated=true
+raiseMaximumVolume=true
+
+[Containments][8][Applets][19][Shortcuts]
+global=
 
 [Containments][8][Applets][22]
 immutability=1
@@ -207,7 +269,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][8][Applets][23][Configuration]
-PreloadWeight=0
+PreloadWeight=81
 
 [Containments][8][Applets][24]
 immutability=1
@@ -223,34 +285,60 @@ plugin=org.kde.plasma.mediacontroller
 [Containments][8][Applets][25][Configuration]
 PreloadWeight=0
 
-[Containments][8][Applets][27]
+[Containments][8][Applets][31]
 immutability=1
 plugin=org.kde.plasma.diskquota
 
-[Containments][8][Applets][27][Configuration]
-PreloadWeight=60
-
-[Containments][8][Applets][28]
+[Containments][8][Applets][32]
 immutability=1
-plugin=touchpad
+plugin=org.kde.plasma.weather
 
-[Containments][8][Applets][28][Configuration]
-PreloadWeight=55
+[Containments][8][Applets][32][Configuration]
+PreloadWeight=80
+configMigrated=true
+
+[Containments][8][Applets][32][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][8][Applets][32][Configuration][Units]
+pressureUnit=5028
+speedUnit=9002
+temperatureUnit=6002
+visibilityUnit=2024
+
+[Containments][8][Applets][32][Configuration][WeatherStation]
+source=bbcukmet|weather|Chennai, India, IN|1264527
+updateInterval=30
+
+[Containments][8][Applets][40]
+immutability=1
+plugin=org.kde.kscreen
 
 [Containments][8][Applets][9]
 immutability=1
 plugin=org.kde.kdeconnect
+
+[Containments][8][Applets][9][Configuration]
+PreloadWeight=80
 
 [Containments][8][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
 [Containments][8][General]
-extraItems=org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.plasma.diskquota,touchpad
-knownItems=org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.nightcolorcontrol,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.vault,org.kde.plasma.volume
+extraItems=org.kde.kdeconnect,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.nightcolorcontrol,org.kde.plasma.notifications,org.kde.plasma.vault,org.kde.plasma.devicenotifier,org.kde.plasma.diskquota,org.kde.plasma.weather,org.kde.plasma.printmanager,org.kde.plasma.battery,org.kde.kscreen,vlc,org.kde.plasma.volume,org.kde.plasma.keyboardindicator
+hiddenItems=IBus Panel,org.kde.plasma.weather,vlc,org.kde.plasma.nightcolorcontrol
+knownItems=org.kde.kdeconnect,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.nightcolorcontrol,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.plasma.vault,org.kde.plasma.volume,org.kde.kscreen
 scaleIconsToFit=true
-shownItems=org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.bluetooth,org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard
+shownItems=org.kde.plasma.mediacontroller,org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement,org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.notifications
+
+[Containments2Appletsts][5][Configuration][General]
+showOnlyCurrentActivity=false
+showOnlyCurrentDesktop=false
+showOnlyCurrentScreen=true
+sortingStrategy=3
 
 [ScreenMapping]
-itemsOnDisabledScreens=
-screenMapping=desktop:/install-driver.sh,0,48a266e7-ff83-403c-883f-201d1b1fba5d,desktop:/dsa,0,48a266e7-ff83-403c-883f-201d1b1fba5d,desktop:/java,0,48a266e7-ff83-403c-883f-201d1b1fba5d,desktop:/plasmashell.logs,0,48a266e7-ff83-403c-883f-201d1b1fba5d
+itemsOnDisabledScreens=1,1a3d735a-1293-4ceb-9721-f9f4fcb17cb8,1,desktop:/sem 3
+screenMapping=desktop:/lu3081913blz7f.tmp,0,48a266e7-ff83-403c-883f-201d1b1fba5d,desktop:/win and lin,0,48a266e7-ff83-403c-883f-201d1b1fba5d,desktop:/Get Started With Oracle Database 10g Express Edition .desktop,0,48a266e7-ff83-403c-883f-201d1b1fba5d,desktop:/sem 3,0,48a266e7-ff83-403c-883f-201d1b1fba5d,desktop:/LAB CAT - BCSE201P - DSA DA.pdf,0,48a266e7-ff83-403c-883f-201d1b1fba5d,desktop:/sem 3,0,f0ca27d3-a143-4435-a086-4150d85ad975,desktop:/instdir,0,48a266e7-ff83-403c-883f-201d1b1fba5d,desktop:/win and unix,0,48a266e7-ff83-403c-883f-201d1b1fba5d,desktop:/Semester 5,0,48a266e7-ff83-403c-883f-201d1b1fba5d,desktop:/Resumes,0,48a266e7-ff83-403c-883f-201d1b1fba5d,desktop:/Get Started With Oracle Database 10g Express Edition .lnk,0,48a266e7-ff83-403c-883f-201d1b1fba5d
