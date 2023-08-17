@@ -68,6 +68,7 @@ alias 'mv'='mv -i'
 alias 'cp'='cp -i'
 alias 'rm'='rm -i'
 alias 'ln'='ln -i'
+alias 'ip'='ip -c'
 
 ## pkill
 alias 'pkill'='pkill -e'
