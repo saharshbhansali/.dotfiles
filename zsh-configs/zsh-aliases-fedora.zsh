@@ -159,8 +159,13 @@ alias 'Gobuster'="go run /opt/SecTools/gobuster/main.go"
 
 alias 'Postman'="/opt/SecTools/Postman/Postman &> /dev/null &"
 
+## Obsidian MainVault Alias
+
+alias 'OMV'="~/obsidian-MainVault/"
+
 ## X Alias
 
 # alias 'X'="/opt/SecTools/X/"
+
 
 
