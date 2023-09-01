@@ -1,0 +1,83 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Burp Suite",
+      "path": "PEH/Stages/Burp Suite.md"
+    },
+    {
+      "basename": "Reconnaissance",
+      "path": "PEH/Stages/Reconnaissance.md"
+    },
+    {
+      "basename": "Web App",
+      "path": "PEH/Stages/Passive Reconnaissance/Web App.md"
+    },
+    {
+      "basename": "Subdomain",
+      "path": "PEH/Stages/Passive Reconnaissance/Subdomain.md"
+    },
+    {
+      "basename": "TCP, UDP and 3-way Handshake",
+      "path": "PEH/Networking/TCP, UDP and 3-way Handshake.md"
+    },
+    {
+      "basename": "Networking",
+      "path": "PEH/Networking/Networking.md"
+    },
+    {
+      "basename": "Python",
+      "path": "PEH/Python.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "PEH/Overview.md"
+    },
+    {
+      "basename": "AWS Solutions Architect Associate Certification",
+      "path": "AWS/SAA/AWS Solutions Architect Associate Certification.md"
+    },
+    {
+      "basename": "Pasted image 20230831232304",
+      "path": "AWS/SAA/Module 1/Attachments/Pasted image 20230831232304.png"
+    },
+    {
+      "basename": "Pasted image 20230828183710",
+      "path": "PEH/Attachments/Pasted image 20230828183710.png"
+    },
+    {
+      "basename": "AWS Cloud Fundamentals Certification",
+      "path": "AWS/CF/AWS Cloud Fundamentals Certification.md"
+    },
+    {
+      "basename": "Note Taking",
+      "path": "PEH/Note Taking.md"
+    },
+    {
+      "basename": "temp",
+      "path": "temp.md"
+    },
+    {
+      "basename": "README.md",
+      "path": "README.md.md"
+    },
+    {
+      "basename": "Scanning and Enumeration",
+      "path": "PEH/Stages/Scanning and Enumeration.md"
+    },
+    {
+      "basename": "Ethical Hacking Methodology",
+      "path": "PEH/Ethical Hacking Methodology.md"
+    },
+    {
+      "basename": "Password",
+      "path": "PEH/Stages/Passive Reconnaissance/Password.md"
+    },
+    {
+      "basename": "Email",
+      "path": "PEH/Stages/Passive Reconnaissance/Email.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

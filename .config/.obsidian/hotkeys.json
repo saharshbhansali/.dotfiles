@@ -1,0 +1,113 @@
+{
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "obsidian-dictionary-plugin:dictionary-open-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "table-editor-obsidian:table-control-bar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-advanced-slides:open-advanced-slides-preview": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": " "
+    }
+  ],
+  "obsidian-advanced-slides:reload-advanced-slides-preview": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "various-complements:show-suggestions": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": " "
+    }
+  ]
+}

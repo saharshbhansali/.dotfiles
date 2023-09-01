@@ -1,0 +1,307 @@
+{
+  "workspaces": {
+    "Layout 1": {
+      "main": {
+        "id": "c649a8b38bbea989",
+        "type": "split",
+        "children": [
+          {
+            "id": "945a0b6cd1a893f4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fe736a18337957e2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PEH/Stages/Burp Suite.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8c77a27563b4f2dd",
+        "type": "split",
+        "children": [
+          {
+            "id": "3f78fefab498f0ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "26c2be9892b55e0c",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "daa80d3dddc44fb6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e4c94ed319b13829",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7b88df449a2a8f24",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "bab5b0c8d48c48a8",
+        "type": "split",
+        "children": [
+          {
+            "id": "e3f3db6c0caed3a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "04bd8aa9d1a607d2",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c4d1befd0013405d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "PEH/Stages/Burp Suite.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "26ee6c27d80df843",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "PEH/Stages/Burp Suite.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "6a1f04e1c9b99ac9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "8991a5bbcd263878",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "PEH/Stages/Burp Suite.md"
+                  }
+                }
+              },
+              {
+                "id": "5887b3c5cd145e95",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "PEH/Stages/Burp Suite.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.5823869764908656,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "5791f33d16ede101",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e4cd516d9f8cb9be",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "PEH/Stages/Burp Suite.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "48972255ddc3ebe1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "PEH/Stages/Burp Suite.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "397b586997160c02",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "PEH/Stages/Burp Suite.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4421b71648a3702a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "PEH/Stages/Burp Suite.md"
+                  }
+                }
+              },
+              {
+                "id": "76a29ccf36a3abbb",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 354.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "fe736a18337957e2"
+    }
+  },
+  "active": "Layout 1"
+}

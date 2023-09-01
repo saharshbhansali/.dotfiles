@@ -1,0 +1,19 @@
+{
+  "resultSeparator": " → ",
+  "layoutStyle": "TwoPanes",
+  "alternateRowColor": true,
+  "defaultRenderStyle": "Plain",
+  "hideLinesWithoutMarkupWhenEmitting": true,
+  "hideEmitterMarkupInInput": true,
+  "dollarSymbolCurrency": {
+    "symbol": "$",
+    "currency": "USD"
+  },
+  "yenSymbolCurrency": {
+    "symbol": "¥",
+    "currency": "JPY"
+  },
+  "provideSuggestions": true,
+  "suggestionsIncludeMathjsSymbols": true,
+  "numberFormat": "System"
+}
