@@ -1,7 +1,6 @@
 [
   "obsidian-kanban",
   "dataview",
-  "calendar",
   "obsidian-dictionary-plugin",
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
@@ -22,5 +21,10 @@
   "tag-wrangler",
   "obsidian-style-settings",
   "url-into-selection",
-  "obsidian-full-calendar"
+  "obsidian-full-calendar",
+  "periodic-notes",
+  "calendar",
+  "obsidian-icon-folder",
+  "obsidian-annotator",
+  "obsidian-day-planner"
 ]

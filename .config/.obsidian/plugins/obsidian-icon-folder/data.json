@@ -1,0 +1,87 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#b03ee5",
+    "recentlyUsedIcons": [
+      "IbWebsiteWithText",
+      "IbEmail",
+      "LiPaperclip",
+      "TiCheckbox",
+      "FasHatCowboy"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "AWS": {
+    "iconName": "RiComputerLine",
+    "inheritanceIcon": "TiPackage"
+  },
+  "PEH": "LiVenetianMask",
+  "Calendar Notes": "IbCalendar",
+  "README.md": "RiBookOpenLine",
+  "temp.md": "IbTrash",
+  "Markdown Formatting Guide.md": "RiBook2Line",
+  "PEH/Attachments": "LiPaperclip",
+  "PEH/Networking": "LiNetwork",
+  "PEH/Stages": "IbBurgerMenu",
+  "PEH/Note Taking.md": "IbPencil",
+  "PEH/Python.md": "LiCode",
+  "PEH/Networking/TCP, UDP and 3-way Handshake.md": "LiHand",
+  "PEH/Networking/Networking.md": "LiGlobe",
+  "Calendar Notes/Daily": {
+    "iconName": "FasCalendarDay",
+    "inheritanceIcon": "LiSun"
+  },
+  "Calendar Notes/Weekly": {
+    "iconName": "FasCalendarWeek",
+    "inheritanceIcon": "TiBeach"
+  },
+  "Calendar Notes/Monthly": {
+    "iconName": "FasCalendar",
+    "inheritanceIcon": "FasCalendarCheck"
+  },
+  "PEH/Attachments/Pasted image 20230828183710.png": "LiImage",
+  "PEH/Ethical Hacking Methodology.md": "TiChecklist",
+  "AWS/SAA/Module 1/Attachments": "LiPaperclip",
+  "PEH/Stages/Attachments": {
+    "iconName": "LiPaperclip",
+    "inheritanceIcon": "LiImage"
+  },
+  "PEH/Stages/Passive Reconnaissance": "IbEye",
+  "PEH/Stages/Google Dorking.md": "SiGoogle",
+  "PEH/Stages/Password.md": "RiLockPasswordLine",
+  "PEH/Stages/Reconnaissance.md": "IbSearch",
+  "PEH/Stages/Scanning and Enumeration.md": "TiScan",
+  "PEH/Stages/Web App.md": "SiFirefoxbrowser",
+  "PEH/Stages/Burp Suite.md": "RiSuitcaseLine",
+  "Calendar Notes/Events": {
+    "iconName": "TiCheckbox",
+    "inheritanceIcon": "RiCheckboxBlankLine"
+  },
+  "Calendar Notes/Daily/2023-09-02.md": {
+    "iconName": null,
+    "inheritanceIcon": "FasCalendarDay"
+  },
+  "Calendar Notes/Events/2023-09-02 MOOC.md": {
+    "iconName": null,
+    "inheritanceIcon": "RiCheckboxBlankLine"
+  },
+  "AWS/CF/Module 1/Attachments": {
+    "iconName": "LiPaperclip",
+    "inheritanceIcon": "LiImage"
+  },
+  "Calendar Notes/Calendar Notes.md": "LiList",
+  "PEH/Practical Ethical Hacking.md": "FasHatCowboy",
+  "PEH/Stages/Passive Reconnaissance/Email.md": "IbEmail",
+  "PEH/Stages/Passive Reconnaissance/Subdomain.md": "IbWebsiteWithText"
+}

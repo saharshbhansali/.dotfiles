@@ -1,0 +1,13 @@
+{
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "zoomLevel": "1",
+  "timelineIcon": "calendar-with-checkmark",
+  "endLabel": "All done",
+  "startHour": 0,
+  "timelineDateFormat": "dddd, MMMM do, Y - HH:mm ",
+  "centerNeedle": true,
+  "plannerHeading": "Day planner",
+  "plannerHeadingLevel": 3
+}

@@ -1,5 +1,16 @@
 {
-  "calendarSources": [],
+  "calendarSources": [
+    {
+      "type": "dailynote",
+      "color": "#0076f5",
+      "heading": "Tasks"
+    },
+    {
+      "type": "local",
+      "color": "#ae00ff",
+      "directory": "Calendar Notes/Events"
+    }
+  ],
   "defaultCalendar": 0,
   "firstDay": 0,
   "initialView": {

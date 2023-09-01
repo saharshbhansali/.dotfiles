@@ -4,23 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "86b221fbbef776d5",
+        "id": "e8710cb5019b57d6",
         "type": "tabs",
         "children": [
           {
-            "id": "1caaab42ac9099ac",
+            "id": "d9bed5c6f2d1dd63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PEH/Stages/Web App.md",
+                "file": "PEH/Practical Ethical Hacking.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -75,10 +76,60 @@
             }
           }
         ]
+      },
+      {
+        "id": "cb4204fffee489ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00b4d8b1faf86572",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "762554947cfda936",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "PEH/Practical Ethical Hacking.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 2.00334375,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6273285487935001,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 378.5
   },
   "right": {
     "id": "52615aa30e1fecbd",
@@ -87,10 +138,10 @@
       {
         "id": "573ce791e124dc39",
         "type": "tabs",
-        "dimension": 47.61904761904761,
+        "dimension": 38.476190476190474,
         "children": [
           {
-            "id": "b1744f038819a39c",
+            "id": "7dc2adf0cccddfb3",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -103,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PEH/Stages/Web App.md"
+                "file": "PEH/Practical Ethical Hacking.md"
               }
             }
           },
@@ -113,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PEH/Stages/Web App.md",
+                "file": "PEH/Practical Ethical Hacking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PEH/Stages/Web App.md",
+                "file": "PEH/Practical Ethical Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PEH/Stages/Web App.md",
+                "file": "PEH/Practical Ethical Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,11 +225,9 @@
           {
             "id": "515e460777e49efe",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "empty",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           }
         ]
@@ -186,7 +235,7 @@
       {
         "id": "d1ddec526be166af",
         "type": "tabs",
-        "dimension": 52.38095238095239,
+        "dimension": 61.523809523809526,
         "children": [
           {
             "id": "baa14b7f7bd9fecd",
@@ -194,9 +243,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PEH/Stages/Web App.md",
+                "file": "PEH/Practical Ethical Hacking.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -205,9 +254,9 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -217,7 +266,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6337198833027632,
+                  "scale": 0.6872513242885466,
                   "close": true
                 }
               }
@@ -229,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PEH/Stages/Web App.md",
+                "file": "PEH/Practical Ethical Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PEH/Stages/Web App.md",
+                "file": "PEH/Practical Ethical Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PEH/Stages/Web App.md"
+                "file": "PEH/Practical Ethical Hacking.md"
               }
             }
           },
@@ -282,17 +331,26 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "ca4634d3caa1c637",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "omnisearch:Omnisearch": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -304,37 +362,45 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "periodic-notes:Open today": false,
+      "obsidian-day-planner:Week plan": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "1caaab42ac9099ac",
+  "active": "d9bed5c6f2d1dd63",
   "lastOpenFiles": [
-    "PEH/Stages/Passive Reconnaissance/Web App.md",
-    "PEH/Stages/Web App.md",
-    "PEH/Stages/Password.md",
-    "PEH/Stages/Passive Reconnaissance/Password.md",
-    "PEH/Practical Ethical Hacking.md",
-    "PEH/Overview.md",
-    "AWS/SAA/AWS Solutions Architect Associate Certification.md",
-    "AWS/SAA/Module 1/Advantages of Cloud Computing.md",
     "AWS/CF/AWS Cloud Fundamentals Certification.md",
+    "AWS/SAA/AWS Solutions Architect Associate Certification.md",
+    "Calendar Notes/Calendar Notes.md",
     "AWS/SAA/Module 1/Introduction.md",
-    "Markdown Formatting Guide.md",
-    "PEH/Python.md",
-    "PEH/Note Taking.md",
-    "PEH/Ethical Hacking Methodology.md",
-    "PEH/Stages/Scanning and Enumeration.md",
-    "PEH/Stages/Reconnaissance.md",
-    "PEH/Stages/Google Dorking.md",
+    "AWS/SAA/Module 1/Advantages of Cloud Computing.md",
     "PEH/Stages/Passive Reconnaissance/Subdomain.md",
     "PEH/Stages/Passive Reconnaissance/Email.md",
-    "PEH/Stages/Burp Suite.md",
+    "PEH/Practical Ethical Hacking.md",
+    "PEH/Ethical Hacking Methodology.md",
+    "PEH/Note Taking.md",
     "README.md",
-    "Chemistry.md",
     "temp.md",
-    "1.md",
-    "Calendar Notes/2023-09-01.md",
-    "2023-W38.md",
+    "Markdown Formatting Guide.md",
+    "AWS/CF/Module 1",
+    "AWS/CF/Module 1/Attachments",
+    "AWS/CF",
+    "Calendar Notes/Monthly/2023-09.md",
+    "AWS/CF/AWS Cloud Fundamentals Certification 1.md",
+    "PEH/Stages/Burp Suite.md",
+    "PEH/Stages/Web App.md",
+    "PEH/Stages/Scanning and Enumeration.md",
+    "PEH/Stages/Reconnaissance.md",
+    "PEH/Stages/Password.md",
+    "PEH/Stages/Google Dorking.md",
+    "PEH/Python.md",
+    "Calendar Notes/Events/2023-09-02 MOOC.md",
+    "Calendar Notes/Daily/2023-09-02.md",
+    "PEH/Attachments/Pasted image 20230828183710.png",
+    "Calendar Notes/Monthly",
+    "Calendar Notes/Weekly",
+    "Calendar Notes/Daily",
+    "Calendar Notes/Events",
     "Excalidraw"
   ]
 }

@@ -1,72 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Web App",
-      "path": "PEH/Stages/Web App.md"
-    },
-    {
-      "basename": "Password",
-      "path": "PEH/Stages/Password.md"
-    },
-    {
       "basename": "Practical Ethical Hacking",
       "path": "PEH/Practical Ethical Hacking.md"
-    },
-    {
-      "basename": "AWS Solutions Architect Associate Certification",
-      "path": "AWS/SAA/AWS Solutions Architect Associate Certification.md"
-    },
-    {
-      "basename": "Advantages of Cloud Computing",
-      "path": "AWS/SAA/Module 1/Advantages of Cloud Computing.md"
     },
     {
       "basename": "AWS Cloud Fundamentals Certification",
       "path": "AWS/CF/AWS Cloud Fundamentals Certification.md"
     },
     {
+      "basename": "AWS Solutions Architect Associate Certification",
+      "path": "AWS/SAA/AWS Solutions Architect Associate Certification.md"
+    },
+    {
+      "basename": "Calendar Notes",
+      "path": "Calendar Notes/Calendar Notes.md"
+    },
+    {
       "basename": "Introduction",
       "path": "AWS/SAA/Module 1/Introduction.md"
     },
     {
-      "basename": "Markdown Formatting Guide",
-      "path": "Markdown Formatting Guide.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "temp",
-      "path": "temp.md"
-    },
-    {
-      "basename": "Python",
-      "path": "PEH/Python.md"
-    },
-    {
-      "basename": "Reconnaissance",
-      "path": "PEH/Stages/Reconnaissance.md"
-    },
-    {
-      "basename": "Scanning and Enumeration",
-      "path": "PEH/Stages/Scanning and Enumeration.md"
-    },
-    {
-      "basename": "Burp Suite",
-      "path": "PEH/Stages/Burp Suite.md"
-    },
-    {
-      "basename": "Google Dorking",
-      "path": "PEH/Stages/Google Dorking.md"
-    },
-    {
-      "basename": "Note Taking",
-      "path": "PEH/Note Taking.md"
-    },
-    {
-      "basename": "Ethical Hacking Methodology",
-      "path": "PEH/Ethical Hacking Methodology.md"
+      "basename": "Advantages of Cloud Computing",
+      "path": "AWS/SAA/Module 1/Advantages of Cloud Computing.md"
     },
     {
       "basename": "Subdomain",
@@ -77,20 +33,84 @@
       "path": "PEH/Stages/Passive Reconnaissance/Email.md"
     },
     {
-      "basename": "TCP, UDP and 3-way Handshake",
-      "path": "PEH/Networking/TCP, UDP and 3-way Handshake.md"
+      "basename": "Ethical Hacking Methodology",
+      "path": "PEH/Ethical Hacking Methodology.md"
+    },
+    {
+      "basename": "Note Taking",
+      "path": "PEH/Note Taking.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "temp",
+      "path": "temp.md"
+    },
+    {
+      "basename": "Markdown Formatting Guide",
+      "path": "Markdown Formatting Guide.md"
+    },
+    {
+      "basename": "2023-09",
+      "path": "Calendar Notes/Monthly/2023-09.md"
+    },
+    {
+      "basename": "Burp Suite",
+      "path": "PEH/Stages/Burp Suite.md"
+    },
+    {
+      "basename": "Web App",
+      "path": "PEH/Stages/Web App.md"
+    },
+    {
+      "basename": "Scanning and Enumeration",
+      "path": "PEH/Stages/Scanning and Enumeration.md"
+    },
+    {
+      "basename": "Reconnaissance",
+      "path": "PEH/Stages/Reconnaissance.md"
+    },
+    {
+      "basename": "Password",
+      "path": "PEH/Stages/Password.md"
+    },
+    {
+      "basename": "Google Dorking",
+      "path": "PEH/Stages/Google Dorking.md"
+    },
+    {
+      "basename": "Python",
+      "path": "PEH/Python.md"
+    },
+    {
+      "basename": "2023-09-02 MOOC",
+      "path": "Calendar Notes/Events/2023-09-02 MOOC.md"
+    },
+    {
+      "basename": "2023-09-02",
+      "path": "Calendar Notes/Daily/2023-09-02.md"
+    },
+    {
+      "basename": "Pasted image 20230828183710",
+      "path": "PEH/Attachments/Pasted image 20230828183710.png"
     },
     {
       "basename": "Networking",
       "path": "PEH/Networking/Networking.md"
     },
     {
-      "basename": "Pasted image 20230831232304",
-      "path": "AWS/SAA/Module 1/Attachments/Pasted image 20230831232304.png"
+      "basename": "TCP, UDP and 3-way Handshake",
+      "path": "PEH/Networking/TCP, UDP and 3-way Handshake.md"
     },
     {
-      "basename": "Pasted image 20230828183710",
-      "path": "PEH/Attachments/Pasted image 20230828183710.png"
+      "basename": "2023-08 W35",
+      "path": "Calendar Notes/Weekly/2023-08 W35.md"
+    },
+    {
+      "basename": "Pasted image 20230831232304",
+      "path": "AWS/SAA/Module 1/Attachments/Pasted image 20230831232304.png"
     },
     {
       "basename": "README.md",
