@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#b03ee5",
     "recentlyUsedIcons": [
+      "SiLinkedin",
       "IbWebsiteWithText",
       "IbEmail",
       "LiPaperclip",
-      "TiCheckbox",
-      "FasHatCowboy"
+      "TiCheckbox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -83,5 +83,6 @@
   "Calendar Notes/Calendar Notes.md": "LiList",
   "PEH/Practical Ethical Hacking.md": "FasHatCowboy",
   "PEH/Stages/Passive Reconnaissance/Email.md": "IbEmail",
-  "PEH/Stages/Passive Reconnaissance/Subdomain.md": "IbWebsiteWithText"
+  "PEH/Stages/Passive Reconnaissance/Subdomain.md": "IbWebsiteWithText",
+  "PEH/Stages/Passive Reconnaissance/Social Media.md": "SiLinkedin"
 }

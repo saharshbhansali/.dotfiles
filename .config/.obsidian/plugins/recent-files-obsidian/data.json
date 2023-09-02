@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Scanning and Enumeration",
+      "path": "PEH/Stages/Scanning and Enumeration.md"
+    },
+    {
+      "basename": "Web App",
+      "path": "PEH/Stages/Web App.md"
+    },
+    {
+      "basename": "Reconnaissance",
+      "path": "PEH/Stages/Reconnaissance.md"
+    },
+    {
+      "basename": "Social Media",
+      "path": "PEH/Stages/Passive Reconnaissance/Social Media.md"
+    },
+    {
+      "basename": "Email",
+      "path": "PEH/Stages/Passive Reconnaissance/Email.md"
+    },
+    {
+      "basename": "Password",
+      "path": "PEH/Stages/Password.md"
+    },
+    {
+      "basename": "Subdomain",
+      "path": "PEH/Stages/Passive Reconnaissance/Subdomain.md"
+    },
+    {
+      "basename": "Google Dorking",
+      "path": "PEH/Stages/Google Dorking.md"
+    },
+    {
+      "basename": "2023-09-02",
+      "path": "Calendar Notes/Daily/2023-09-02.md"
+    },
+    {
+      "basename": "2023-09-03",
+      "path": "Calendar Notes/Daily/2023-09-03.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "AWS/SAA/Module 1/Introduction.md"
+    },
+    {
       "basename": "Practical Ethical Hacking",
       "path": "PEH/Practical Ethical Hacking.md"
     },
@@ -17,20 +61,8 @@
       "path": "Calendar Notes/Calendar Notes.md"
     },
     {
-      "basename": "Introduction",
-      "path": "AWS/SAA/Module 1/Introduction.md"
-    },
-    {
       "basename": "Advantages of Cloud Computing",
       "path": "AWS/SAA/Module 1/Advantages of Cloud Computing.md"
-    },
-    {
-      "basename": "Subdomain",
-      "path": "PEH/Stages/Passive Reconnaissance/Subdomain.md"
-    },
-    {
-      "basename": "Email",
-      "path": "PEH/Stages/Passive Reconnaissance/Email.md"
     },
     {
       "basename": "Ethical Hacking Methodology",
@@ -61,36 +93,12 @@
       "path": "PEH/Stages/Burp Suite.md"
     },
     {
-      "basename": "Web App",
-      "path": "PEH/Stages/Web App.md"
-    },
-    {
-      "basename": "Scanning and Enumeration",
-      "path": "PEH/Stages/Scanning and Enumeration.md"
-    },
-    {
-      "basename": "Reconnaissance",
-      "path": "PEH/Stages/Reconnaissance.md"
-    },
-    {
-      "basename": "Password",
-      "path": "PEH/Stages/Password.md"
-    },
-    {
-      "basename": "Google Dorking",
-      "path": "PEH/Stages/Google Dorking.md"
-    },
-    {
       "basename": "Python",
       "path": "PEH/Python.md"
     },
     {
       "basename": "2023-09-02 MOOC",
       "path": "Calendar Notes/Events/2023-09-02 MOOC.md"
-    },
-    {
-      "basename": "2023-09-02",
-      "path": "Calendar Notes/Daily/2023-09-02.md"
     },
     {
       "basename": "Pasted image 20230828183710",

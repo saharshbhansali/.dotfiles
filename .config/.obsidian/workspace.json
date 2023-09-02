@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PEH/Practical Ethical Hacking.md",
+                "file": "PEH/Stages/Scanning and Enumeration.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PEH/Practical Ethical Hacking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,8 +123,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PEH/Practical Ethical Hacking.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +160,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PEH/Practical Ethical Hacking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +194,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PEH/Practical Ethical Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PEH/Practical Ethical Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +236,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PEH/Practical Ethical Hacking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -278,7 +270,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PEH/Practical Ethical Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +286,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PEH/Practical Ethical Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,9 +296,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PEH/Practical Ethical Hacking.md"
-              }
+              "state": {}
             }
           },
           {
@@ -362,21 +350,28 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
-      "periodic-notes:Open today": false,
       "obsidian-day-planner:Week plan": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "d9bed5c6f2d1dd63",
+  "active": "00b4d8b1faf86572",
   "lastOpenFiles": [
+    "PEH/Stages/Scanning and Enumeration.md",
+    "PEH/Stages/Web App.md",
+    "PEH/Stages/Reconnaissance.md",
+    "PEH/Stages/Passive Reconnaissance/Social Media.md",
+    "PEH/Stages/Passive Reconnaissance/Email.md",
+    "PEH/Stages/Password.md",
+    "PEH/Stages/Passive Reconnaissance/Subdomain.md",
+    "PEH/Stages/Google Dorking.md",
+    "Calendar Notes/Daily/2023-09-02.md",
+    "Calendar Notes/Daily/2023-09-03.md",
+    "AWS/SAA/Module 1/Introduction.md",
+    "PEH/Practical Ethical Hacking.md",
     "AWS/CF/AWS Cloud Fundamentals Certification.md",
     "AWS/SAA/AWS Solutions Architect Associate Certification.md",
     "Calendar Notes/Calendar Notes.md",
-    "AWS/SAA/Module 1/Introduction.md",
     "AWS/SAA/Module 1/Advantages of Cloud Computing.md",
-    "PEH/Stages/Passive Reconnaissance/Subdomain.md",
-    "PEH/Stages/Passive Reconnaissance/Email.md",
-    "PEH/Practical Ethical Hacking.md",
     "PEH/Ethical Hacking Methodology.md",
     "PEH/Note Taking.md",
     "README.md",
@@ -388,14 +383,8 @@
     "Calendar Notes/Monthly/2023-09.md",
     "AWS/CF/AWS Cloud Fundamentals Certification 1.md",
     "PEH/Stages/Burp Suite.md",
-    "PEH/Stages/Web App.md",
-    "PEH/Stages/Scanning and Enumeration.md",
-    "PEH/Stages/Reconnaissance.md",
-    "PEH/Stages/Password.md",
-    "PEH/Stages/Google Dorking.md",
     "PEH/Python.md",
     "Calendar Notes/Events/2023-09-02 MOOC.md",
-    "Calendar Notes/Daily/2023-09-02.md",
     "PEH/Attachments/Pasted image 20230828183710.png",
     "Calendar Notes/Monthly",
     "Calendar Notes/Weekly",

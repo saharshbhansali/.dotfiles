@@ -23,11 +23,17 @@
 
 
 body {
-    --background-primary: #000 !important;
+    --background-primary: #201c22 !important;
     --titlebar-background: transparent !important;
     --titlebar-background-focused: var(--titlebar-background);
     --text-normal: #f1f1f1 !Important;
     --workspace-background-translucent: rgba(var(--mono-rgb-0), 0.65);
+    opacity: 0.75 !important;
+    
+}
+
+.view-content {
+    background: transparent;
 }
 
 .workspace-tab-header.is-active {
@@ -61,6 +67,35 @@ body {
 
 /*
 /* Method 3 */
+/*
+body.is-translucent {
+  background-color: transparent;
+}
+.theme-dark {--opacity-translucency: 0.7;}
+.theme-light { --opacity-translucency: 0.5; }
 
+.is-translucent.theme-light .titlebar { opacity: 0.8; }
+.is-translucent.theme-dark .titlebar { opacity: 1; }
+.is-translucent img { background-color: transparent; filter: contrast(1.12) brightness(0.74); opacity:1;}
+.is-translucent .workspace { background-color: transparent; filter: contrast(1.2) brightness(1.34);}
+.is-translucent .workspace-split.mod-root { opacity: var(--opacity-translucency); }
+.is-translucent.theme-light .workspace-leaf-resize-handle { opacity: 0.1; background-color: var(--background-secondary-alt);}
+.is-translucent.theme-dark .workspace-leaf-resize-handle { opacity: 1; background-color: var(--background-secondary-alt);}
+.is-translucent .workspace-leaf-resize-handle:hover { background-color: rgba(var(--interactive-accent-rgb), 0.8); }
+.is-translucent.theme-light .workspace-ribbon { opacity: 0.55; }
+.is-translucent.theme-dark .workspace-ribbon { opacity: 1; }
+.is-translucent .workspace-tabs { opacity: 0.6; }
+.is-translucent.theme-dark .status-bar {
+   opacity: 1; 
+   border-top: 0px solid var(--background-secondary-alt); 
+   margin: 0px 0px; }
+.is-translucent.theme-light .status-bar {
+    opacity: 0.8; 
+    border-top: 0px solid var(--background-secondary-alt); 
+    margin: 0px 0px; }
+.is-translucent.theme-dark .view-content > iframe {
+    background-color: rgb(1, 12, 10) !important;
+    opacity: 1;
+  }
 
-/* */
+*/
