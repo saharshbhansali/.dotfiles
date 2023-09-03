@@ -12,3 +12,4 @@
 ## week-day - 0 to 6, 7 (SUN) and SUN to SAT
 */1 4-23 * * * $HOME/login-vit-wifi.sh && ping -c 4 1.1.1.1
 0-22/1 0 */1 * * $HOME/login-vit-wifi.sh && $HOME/vpn-vit-connect.sh && ping -c 4 1.1.1.1
+*/15 9-23,0-3 * * * cd $HOME/obsidian-MainVault && $HOME/obsidian-MainVault/sync.sh >> $HOME/obsidian-MainVault/.logs/$(date +\%Y-\%m-\%d_\%H-\%M-\%S).log 2>&1

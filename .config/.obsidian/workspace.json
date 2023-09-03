@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e8710cb5019b57d6",
+        "id": "cabf20e9fbdda36c",
         "type": "tabs",
         "children": [
           {
-            "id": "d9bed5c6f2d1dd63",
+            "id": "a8a3b696f5b70937",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PEH/Stages/Scanning and Enumeration.md",
+                "file": "PEH/Stages/Kioptrix.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,6 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "PEH/Stages/Kioptrix.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -108,10 +109,10 @@
                   "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 2.00334375,
+                  "lineSizeMultiplier": 1,
                   "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
@@ -123,7 +124,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PEH/Stages/Kioptrix.md"
+              }
             }
           },
           {
@@ -160,6 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "PEH/Stages/Kioptrix.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,6 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PEH/Stages/Kioptrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,6 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PEH/Stages/Kioptrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,6 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "PEH/Stages/Kioptrix.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -270,6 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PEH/Stages/Kioptrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,6 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PEH/Stages/Kioptrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +306,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PEH/Stages/Kioptrix.md"
+              }
             }
           },
           {
@@ -354,15 +366,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "00b4d8b1faf86572",
+  "active": "a8a3b696f5b70937",
   "lastOpenFiles": [
+    "sample-crontab",
+    "sync.sh",
     "PEH/Stages/Scanning and Enumeration.md",
-    "PEH/Stages/Web App.md",
-    "PEH/Stages/Reconnaissance.md",
+    "PEH/Stages/Kioptrix.md",
     "PEH/Stages/Passive Reconnaissance/Social Media.md",
+    "PEH/Stages/Passive Reconnaissance/Subdomain.md",
+    "README.md",
+    "PEH/Stages/Web App.md",
+    "PEH/Networking/Networking.md",
+    "PEH/Stages/Reconnaissance.md",
     "PEH/Stages/Passive Reconnaissance/Email.md",
     "PEH/Stages/Password.md",
-    "PEH/Stages/Passive Reconnaissance/Subdomain.md",
     "PEH/Stages/Google Dorking.md",
     "Calendar Notes/Daily/2023-09-02.md",
     "Calendar Notes/Daily/2023-09-03.md",
@@ -374,7 +391,6 @@
     "AWS/SAA/Module 1/Advantages of Cloud Computing.md",
     "PEH/Ethical Hacking Methodology.md",
     "PEH/Note Taking.md",
-    "README.md",
     "temp.md",
     "Markdown Formatting Guide.md",
     "AWS/CF/Module 1",
@@ -382,9 +398,6 @@
     "AWS/CF",
     "Calendar Notes/Monthly/2023-09.md",
     "AWS/CF/AWS Cloud Fundamentals Certification 1.md",
-    "PEH/Stages/Burp Suite.md",
-    "PEH/Python.md",
-    "Calendar Notes/Events/2023-09-02 MOOC.md",
     "PEH/Attachments/Pasted image 20230828183710.png",
     "Calendar Notes/Monthly",
     "Calendar Notes/Weekly",

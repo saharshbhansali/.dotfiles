@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Kioptrix",
+      "path": "PEH/Stages/Kioptrix.md"
+    },
+    {
       "basename": "Scanning and Enumeration",
       "path": "PEH/Stages/Scanning and Enumeration.md"
+    },
+    {
+      "basename": "Social Media",
+      "path": "PEH/Stages/Passive Reconnaissance/Social Media.md"
+    },
+    {
+      "basename": "Subdomain",
+      "path": "PEH/Stages/Passive Reconnaissance/Subdomain.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Web App",
       "path": "PEH/Stages/Web App.md"
     },
     {
-      "basename": "Reconnaissance",
-      "path": "PEH/Stages/Reconnaissance.md"
+      "basename": "Networking",
+      "path": "PEH/Networking/Networking.md"
     },
     {
-      "basename": "Social Media",
-      "path": "PEH/Stages/Passive Reconnaissance/Social Media.md"
+      "basename": "Reconnaissance",
+      "path": "PEH/Stages/Reconnaissance.md"
     },
     {
       "basename": "Email",
@@ -23,10 +39,6 @@
     {
       "basename": "Password",
       "path": "PEH/Stages/Password.md"
-    },
-    {
-      "basename": "Subdomain",
-      "path": "PEH/Stages/Passive Reconnaissance/Subdomain.md"
     },
     {
       "basename": "Google Dorking",
@@ -73,10 +85,6 @@
       "path": "PEH/Note Taking.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "temp",
       "path": "temp.md"
     },
@@ -103,10 +111,6 @@
     {
       "basename": "Pasted image 20230828183710",
       "path": "PEH/Attachments/Pasted image 20230828183710.png"
-    },
-    {
-      "basename": "Networking",
-      "path": "PEH/Networking/Networking.md"
     },
     {
       "basename": "TCP, UDP and 3-way Handshake",
