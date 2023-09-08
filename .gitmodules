@@ -13,3 +13,6 @@
 [submodule "zsh-configs/themes/powerlevel10k"]
 	path = zsh-configs/themes/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k
+[submodule ".config/tmux/plugins/tmux-sensible"]
+	path = .config/tmux/plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible
