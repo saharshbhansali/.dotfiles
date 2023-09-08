@@ -2,4 +2,5 @@
 .trash/
 .DS_Store/
 .logs/*.log                                                                                                                                             /0.0s
+.logs/*                                                                                                                                             /0.0s
 
