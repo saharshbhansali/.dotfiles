@@ -16,3 +16,6 @@
 [submodule ".config/tmux/plugins/tmux-sensible"]
 	path = .config/tmux/plugins/tmux-sensible
 	url = https://github.com/tmux-plugins/tmux-sensible
+[submodule ".config/oh-my-tmux"]
+	path = .config/oh-my-tmux
+	url = https://github.com/gpakosz/.tmux.git
