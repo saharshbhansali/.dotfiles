@@ -1,6 +1,6 @@
 # Add below lines to exclude OS settings, logs, and caches
 .trash/
 .DS_Store/
-.log/*.log                                                                                                                                             /0.0s
-.log/                                                                                                                                             /0.0s
-
+.logs/*.log                                                                                                                                             /0.0s
+.logs/                                                                                                                                             /0.0s
+.log*/
