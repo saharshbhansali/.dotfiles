@@ -55,8 +55,8 @@ alias '.CS'='~/Downloads/packages/CyberSecurity/'
 
 # VIT WiFi login aliases
 
-alias 'wifi-on'='~/login-vit-wifi.sh'
-alias 'wifi-off'='~/logout-vit-wifi.sh'
+alias 'vwifi'='~/login-vit-wifi.sh'
+alias 'vwifi-off'='~/logout-vit-wifi.sh'
 alias 'vpn-on'='~/login-vit-wifi.sh && ~/vpn-vit-connect.sh'
 alias 'cf-on'='~/login-vit-wifi.sh && wg-quick up cloudflare && ping 8.8.8.8 -c 5'
 alias 'cf-off'='wg-quick down cloudflare'
@@ -68,6 +68,7 @@ alias 'mv'='mv -i'
 alias 'cp'='cp -i'
 alias 'rm'='rm -i'
 alias 'ln'='ln -i'
+alias 'ip'='ip -c'
 
 ## pkill
 alias 'pkill'='pkill -e'
@@ -158,8 +159,13 @@ alias 'Gobuster'="go run /opt/SecTools/gobuster/main.go"
 
 alias 'Postman'="/opt/SecTools/Postman/Postman &> /dev/null &"
 
+## Obsidian MainVault Alias
+
+alias 'OMV'="~/obsidian-MainVault/"
+
 ## X Alias
 
 # alias 'X'="/opt/SecTools/X/"
+
 
 
