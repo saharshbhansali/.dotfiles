@@ -1,0 +1,200 @@
+{
+   "EnableHSL": {
+      "message": "Tonen HSL"
+   },
+   "EnableRGB": {
+      "message": "Tonen RGB"
+   },
+   "addToPalette": {
+      "message": "Voeg toe aan kleurenpalet"
+   },
+   "advancedOptions": {
+      "message": "Geavanceerde mogelijkheden"
+   },
+   "allowWebGl": {
+      "message": "Laat webgl voor pixelated preview"
+   },
+   "appleIcon": {
+      "message": "Gebruik Apple Digital Kleuren meter logo"
+   },
+   "approved": {
+      "message": "Aangenomen"
+   },
+   "bbackgroundColor": {
+      "message": "Popup achtergrondkleur"
+   },
+   "bgPageUnavailable": {
+      "message": "Achtergrond snapshot reageert niet. Vernieuw de pagina en probeer het opnieuw."
+   },
+   "borderValue": {
+      "message": "Grenzen om te gebruiken (css waarde)"
+   },
+   "clear": {
+      "message": "Duidelijk"
+   },
+   "clearSync": {
+      "message": "Verwijder synchronisatie opslag"
+   },
+   "closeAndExit": {
+      "message": "Sluit en sluit de kleurenkeuze modus uit"
+   },
+   "colorOfDay": {
+      "message": "Kleur van de dag"
+   },
+   "copycolorval": {
+      "message": "Kopieer de kleurwaarde"
+   },
+   "dblClick": {
+      "message": "Dubbelklik"
+   },
+   "dedupe": {
+      "message": "deduplicatie"
+   },
+   "default": {
+      "message": "Standaard"
+   },
+   "disablePickEveryTime": {
+      "message": "Begin niet met het plukken van elke keer dat pop-up wordt geklikt"
+   },
+   "disableRewriting": {
+      "message": "De affiliatie van niet-geaffilieerde links uitschakelen"
+   },
+   "error": {
+      "message": "Fout"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Instellingen ophalen van Google Sync-opslag"
+   },
+   "fishEye": {
+      "message": "Visoogzoomhoeveelheid"
+   },
+   "full": {
+      "message": "Vol"
+   },
+   "hasAgreedToLicense": {
+      "message": "Heeft ingestemd met gebruiksvoorwaarden"
+   },
+   "help": {
+      "message": "Help / info"
+   },
+   "hideMinimize": {
+      "message": "Verbergen / minimaliseren "
+   },
+   "history": {
+      "message": "Geschiedenis"
+   },
+   "iconIsBitmap": {
+      "message": "Het pictogram is zoomen pixel preview"
+   },
+   "iconIsPreview": {
+      "message": "Gebruik pictogram badge vierkante kleur preview"
+   },
+   "loadsyncOptions": {
+      "message": "Sync-opslagopties zijn geladen en opgeslagen."
+   },
+   "maxZoom": {
+      "message": "Maximaal ingezoomd"
+   },
+   "modifyLicense": {
+      "message": "Wijziging van de licentie"
+   },
+   "noSwatches": {
+      "message": "Klik op kleuren in kleurgeschiedenis om ze toe te voegen aan een palet voor het opslaan en afdrukken."
+   },
+   "off": {
+      "message": "Uit"
+   },
+   "on": {
+      "message": "Op"
+   },
+   "options": {
+      "message": "Opties"
+   },
+   "pickAgainLocked": {
+      "message": "Kies een andere kleur [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Selecteer de huidige kleur [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Begin met het plukken van kleuren elke keer dat pop-up wordt geklikt"
+   },
+   "pixelatedPreview": {
+      "message": "Inzoomen preview is pixelated"
+   },
+   "popOutWindow": {
+      "message": "Pop-out (apart venster)"
+   },
+   "pressEnterToPick": {
+      "message": "Druk op enter om kleur te kiezen"
+   },
+   "printSave": {
+      "message": "Printen / opslaan..."
+   },
+   "reSnapPage": {
+      "message": "Vernieuw foto van pagina [r]"
+   },
+   "registerButton": {
+      "message": "Registreren"
+   },
+   "registered": {
+      "message": "Geregistreerd"
+   },
+   "resetIcon": {
+      "message": "Ga terug naar het normale pictogram"
+   },
+   "rightClick": {
+      "message": "Met de rechtermuisknop"
+   },
+   "saveOptions": {
+      "message": "Opties opslaan"
+   },
+   "savedoptions": {
+      "message": "Opties opgeslagen."
+   },
+   "seeTerms": {
+      "message": "Zie gebruiksvoorwaarden"
+   },
+   "shareClors": {
+      "message": "Kleur van de dag statistieken (zie gebruiksvoorwaarden)"
+   },
+   "showColorChooser": {
+      "message": "Toon kleurkiezer"
+   },
+   "showDefaults": {
+      "message": "Toon standaardwaarden"
+   },
+   "showPreviousClr": {
+      "message": "Toon gesplitste kleurenweergave met vorige kleur"
+   },
+   "showndefaults": {
+      "message": "Druk alstublieft op opslaan, nu de standaardinstellingen weergeven."
+   },
+   "sort": {
+      "message": "soort"
+   },
+   "terms": {
+      "message": "Gebruiksvoorwaarden"
+   },
+   "unregistered": {
+      "message": "Niet ingeschreven"
+   },
+   "usageStatistics": {
+      "message": "Gebruiksstatistieken verzamelen (zie gebruiksvoorwaarden)"
+   },
+   "useCSSValues": {
+      "message": "Gebruik css waarden voor RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Gebruik PNG kwaliteit wanneer beschikbaar"
+   },
+   "usePrevColorBG": {
+      "message": "Gebruik vorige kleur voor achtergrond"
+   }
+}

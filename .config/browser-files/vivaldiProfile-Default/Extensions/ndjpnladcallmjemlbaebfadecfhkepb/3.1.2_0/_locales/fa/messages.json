@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "حساب"
+   },
+   "AppDescription": {
+      "message": "اسناد را در مرورگر خود مشاهده، ویرایش و ایجاد کنید."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "فایل‌ها را در مرورگر مشاهده، ویرایش و ایجاد کنید و مانند یک حرفه‌ای در سراسر وب بنویسید."
+   },
+   "AppFolderName": {
+      "message": "افزونه مرورگر Microsoft 365"
+   },
+   "AppListLabel": {
+      "message": "برنامه‌های وب"
+   },
+   "AppLongDescription": {
+      "message": "ساخته شده برای Chrome – از Word،‏ Excel،‏ PowerPoint،‏ OneNote و Sway Online بدون نیاز به نصب کردن Microsoft 365 استفاده کنید.\r\n\r\nبا اطمینان محتوا تولید کنید – با استفاده از گزینه‌های قالب‌بندی و چیدمان آشنا، ایده‌هایتان را با دقت کامل بیان کنید.\r\n\r\nهمه‌جا کار کنید – با تلفیق OneDrive و OneDrive for Business، از همه جا به فایل‌هایتان دسترسی داشته باشید.\r\n\r\nبا نصب برنامه، با این شرایط و ضوابط موافقت می‌کنید: http://aka.ms/officechromeextensionterms\r\n\r\nخط مشی حریم خصوصی: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "افزونه مرورگر Microsoft 365 نمادی را روی نوار ابزار Microsoft Edge قرار می‌دهد که امکان دسترسی مستقیم به فایل‌های Microsoft 365 شما را برایتان فراهم می‌کند، چه این فایل‌ها در بستر آنلاین ذخیره شده باشد، چه در رایانه شما.\r\n\r\nافزونه وب Microsoft 365 می‌تواند فایل‌های ذخیره‌شده در OneDrive و OneDrive for Business را باز کند.\r\n\r\nشما می‌توانید بدون نیاز به نصب Microsoft 365، مستقیماً در مرورگر خود از ویژگی‌های Word،‏ Excel،‏ PowerPoint،‏ OneNote، و Sway بهره‌مند شوید.\r\n\r\nافزونه مرورگر Microsoft 365 در حال حاضر شامل قابلیت تصحیح محتوای شما است*. این ویژگی به یک سرویس آنلاین Microsoft متصل می‌شود و پیشنهادهای املایی، دستوری و اصلاحی را برای نگارش شما در اکثر وب‌سایت‌ها ارائه می‌دهد و به بیش از ۸۰ زبان در دسترس است.\r\n\r\n*این ویژگی ممکن است برای همه کاربران در دسترس نباشد.\r\n\r\nبا نصب برنامه، شما موافقت خود را با این شرایط و ضوابط اعلام می‌کنید:\r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "ساخته شده برای Chrome – بدون نیاز به نصب Microsoft 365، از Word،‏ Excel،‏ PowerPoint،‏ OneNote، و Sway Online استفاده کنید.\r\n\r\nبا اعتماد به نفس ایجاد کنید – از گزینه‌های قالب‌بندی و چیدمان آشنا برای بیان ایده‌های خود با وفاداری کامل استفاده کنید.\r\n\r\nحین حرکت کار کنید – به لطف ادغام با OneDrive و OneDrive for Business از هر کجا به فایل‌های خود دسترسی داشته باشید.\r\n\r\nافزونه مرورگر Microsoft 365 در حال حاضر شامل قابلیت تصحیح محتوای شما است*. این ویژگی به یک سرویس آنلاین Microsoft 365 متصل می‌شود و پیشنهادهای املایی، دستوری و اصلاحی را برای نگارش شما در اکثر وب‌سایت‌ها ارائه می‌دهد و به بیش از ۸۰ زبان در دسترس است.\r\n\r\n*این ویژگی ممکن است برای همه کاربران در دسترس نباشد.\r\n\r\nبا نصب برنامه، شما موافقت خود را با این شرایط و ضوابط اعلام می‌کنید: http://aka.ms/officechromeextensionterms\r\n\r\nخط مشی حفظ حریم خصوصی: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "به کاوش در همه برنامه‌های خود بپردازید"
+   },
+   "AppsSectionHeader": {
+      "message": "برنامه‌ها"
+   },
+   "BrowseToOpenLabel": {
+      "message": "آپلود و باز کردن..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "ایجاد حساب"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "هیچ سندی اخیراً مشاهده نشده است."
+   },
+   "CreateNewLabel": {
+      "message": "جدید"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "غیرفعال کردن «ویرایشگر» در $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "فعلاً نمی‌توانیم فهرست اسناد اخیر را دریافت کنیم."
+   },
+   "EditorBrandText": {
+      "message": "ویرایشگر"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "دستور زبان"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "«ویرایشگر» در حال حاضر در $host$ پشتیبانی نمی‌شود",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "«ویرایشگر» در حال حاضر در $host$ غیرفعال است",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "«ویرایشگر» خاموش است."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "ویرایشگر شامل $میزبان$ است",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "Outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(پیش‌نمایش)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "سرویس «ویرایشگر» توسط افزونه Microsoft Editor ارائه می‌شود."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "با خرید اشتراک ویژه، ایده‌های نگارشی پیشرفته دریافت کنید و از ۱ ترابایت فضای ذخیره‌سازی بهره‌مند شوید."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "اصلاحات"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "اصلاحات، پیشنهادهای نگارشی پیشرفته هستند که کمک می‌کنند نوشته شما واضح، موجز و رسمی‌تر باشد."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "املا"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "فعال کردن «ویرایشگر» در $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "این نوع فایل پشتیبانی نمی‌شود. لطفاً سند Word، Excel یا PowerPoint انتخاب کنید."
+   },
+   "LoadingRecentsLabel": {
+      "message": "در حال بارگیری..."
+   },
+   "MoreFilesLabel": {
+      "message": "اسناد بیشتر"
+   },
+   "MyAccountLabel": {
+      "message": "مشاهده حساب من"
+   },
+   "NextLabel": {
+      "message": "ورود به سیستم"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "دیگر نشان داده نشود"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "ما فایل شما را در پوشه «افزونه مرورگر Microsoft 365» در OneDrive ذخیره کردیم."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "ما فایل شما را در پوشه «افزونه مرورگر Microsoft 365» در OneDrive for Business ذخیره کردیم."
+   },
+   "NotificationFileAccess": {
+      "message": "اگر می‌خواهید فایل‌ها را بکشید و در مرورگر رها کنید، کادر انتخاب «اجازه دسترسی به آدرس‌های وب فایل» را در تنظیمات افزونه علامت بزنید."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "افزونه مرورگر Microsoft 365 نمی‌تواند سندتان را به علت بزرگ بودن اندازه آن باز کند.  لطفاً مستقیماً در OneDrive آپلود کنید تا سند باز شود."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "متأسفیم،‌نمی‌توانیم فایل شما را باز کنیم."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "متأسفیم،‌نمی‌توانیم فایل شما را باز کنیم. لطفاً بعداً دوباره امتحان کنید."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "متأسفیم،‌نمی‌توانیم فایل شما را باز کنیم. لطفاً فایلی را که با Word، Excel یا PowerPoint ایجاد شده است، انتخاب کنید"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "در حال آپلود اسناد شما هستیم."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "اشتراک Microsoft 365 شما ممکن است منقضی شده باشد یا شامل OneDrive for Business نباشد. اشتراکتان را بررسی کنید یا به جای این کار با حساب Microsoft وارد سیستم شوید."
+   },
+   "NotificationNotSignedIn": {
+      "message": "برای مشاهده و ویرایش فایل‌های Microsoft 365 در محیط وب، وارد افزونه شوید."
+   },
+   "NotificationSetDefault": {
+      "message": "در برنامه «فایل‌ها»، با دو انگشت روی اسناد ضربه بزنید تا با Microsoft 365 باز شوند."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "لطفاً فایلی را که با Word، Excel یا PowerPoint ایجاد شده است، انتخاب کنید."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "افزونه Microsoft 365 در حال باز کردن سند شما در مرورگر است"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "دیگر نشان داده نشود"
+   },
+   "O365FilesLabel": {
+      "message": "از OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "شما آفلاین هستید. برای استفاده از افزونه مرورگر Microsoft 365، لطفاً مجدداً به اینترنت وصل شوید."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "از OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "باز کردن"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "اسناد"
+   },
+   "SettingsLabel": {
+      "message": "تنظیمات"
+   },
+   "ShareMessage": {
+      "message": "اشتراک‌گذاری"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "مجوز ضروری است"
+   },
+   "SharePermissionsTooltip": {
+      "message": "مجوزی برای اشتراک‌گذاری ندارید"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "مایلید فایل‌ها کجا ذخیره شوند؟"
+   },
+   "SignInLabel": {
+      "message": "ورود به سیستم"
+   },
+   "SignInMSALabel": {
+      "message": "با استفاده از حساب Microsoft وارد شوید"
+   },
+   "SignInO365Label": {
+      "message": "با یک حساب کاری یا مدرسه وارد شوید"
+   },
+   "SignOutLabel": {
+      "message": "خروج از سیستم"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "سرویس «ویرایشگر» توسط افزونه Microsoft Editor ارائه می‌شود."
+   },
+   "SupportPageLabel": {
+      "message": "برای ورود به راهنمایی نیاز دارید؟"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "داده‌ها به طور خودکار ارسال شوند تا در بهبود محصولات مورد استفاده قرار گیرند."
+   },
+   "TurnOnEditorLabel": {
+      "message": "روشن کردن «ویرایشگر»"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "آپلود در OneDrive for Business"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "آپلود در OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "وارد سیستم نشده است"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "با Microsoft 365، فایل‌های Microsoft 365 را به‌طور مستقیم در مرورگر باز کنید."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

@@ -1,0 +1,15 @@
+2023/09/08-16:25:09.884 1a78 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/IndexedDB/https_www.phind.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/08-16:25:09.884 1a78 Recovering log #4
+2023/09/08-16:25:09.893 1a78 Reusing old log /home/saharsh/.config/vivaldi/Default/IndexedDB/https_www.phind.com_0.indexeddb.leveldb/000004.log 
+2023/09/08-16:25:16.962 1a78 Level-0 table #8: started
+2023/09/08-16:25:16.966 1a78 Level-0 table #8: 109624 bytes OK
+2023/09/08-16:25:16.970 1a78 Delete type=0 #4
+2023/09/08-16:25:16.970 1a78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/08-16:25:16.970 1a78 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xb0y\xe7F\xa7xB\x00\x01'\x00a\x00p\x00i\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00p\x00h\x00i\x00n\x00d\x00.\x00c\x00o\x00m\x00/\x00a\x00p\x00i\x00/\x00d\x00b\x00/\x00c\x00h\x00a\x00t\x00/' @ 3804 : 1
+2023/09/08-16:25:16.970 1a78 Compacting 1@1 + 1@2 files
+2023/09/08-16:25:16.973 1a78 Generated table #9@1: 334 keys, 26643 bytes
+2023/09/08-16:25:16.973 1a78 Compacted 1@1 + 1@2 files => 26643 bytes
+2023/09/08-16:25:16.975 1a78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/08-16:25:16.975 1a78 Delete type=2 #5
+2023/09/08-16:25:16.975 1a78 Delete type=2 #8
+2023/09/08-16:25:16.975 1a78 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xb0y\xe7F\xa7xB\x00\x01'\x00a\x00p\x00i\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00p\x00h\x00i\x00n\x00d\x00.\x00c\x00o\x00m\x00/\x00a\x00p\x00i\x00/\x00d\x00b\x00/\x00c\x00h\x00a\x00t\x00/' @ 3804 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2023/09/04-21:19:24.374 1475 Creating DB /home/saharsh/.config/vivaldi/Default/IndexedDB/https_tabs.ultimate-guitar.com_0.indexeddb.leveldb since it was missing.
+2023/09/04-21:19:24.379 1475 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/IndexedDB/https_tabs.ultimate-guitar.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/04-21:20:59.986 1476 Level-0 table #5: started
+2023/09/04-21:20:59.991 1476 Level-0 table #5: 57265 bytes OK
+2023/09/04-21:20:59.994 1476 Delete type=0 #3
+2023/09/04-21:20:59.994 1476 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

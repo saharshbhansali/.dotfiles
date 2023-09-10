@@ -1,0 +1,194 @@
+{
+   "EnableHSL": {
+      "message": "दिखाना HSL"
+   },
+   "EnableRGB": {
+      "message": "दिखाना RGB"
+   },
+   "addToPalette": {
+      "message": "रंग पैलेट में जोड़ें"
+   },
+   "advancedOptions": {
+      "message": "उन्नत विकल्प"
+   },
+   "appleIcon": {
+      "message": "उपयोग Apple Digital रंग मीटर लोगो"
+   },
+   "approved": {
+      "message": "मंजूर की"
+   },
+   "bbackgroundColor": {
+      "message": "पॉपअप पृष्ठभूमि रंग"
+   },
+   "bgPageUnavailable": {
+      "message": "पृष्ठभूमि स्नैपशॉट जवाब नहीं दे रहा है - कृपया पृष्ठ को रीफ्रेश करें और फिर से प्रयास करें।"
+   },
+   "borderValue": {
+      "message": "सीमाओं का उपयोग करने के लिए (सीएसएस मूल्य)"
+   },
+   "clear": {
+      "message": "स्पष्ट"
+   },
+   "clearSync": {
+      "message": "सिंक मेमोरी साफ़ करें"
+   },
+   "closeAndExit": {
+      "message": "बंद करें और बाहर निकलें रंग पिक मोड"
+   },
+   "colorOfDay": {
+      "message": "दिन का रंग"
+   },
+   "copycolorval": {
+      "message": "रंग मान की नकल करें"
+   },
+   "dblClick": {
+      "message": "डबल क्लिक करें"
+   },
+   "default": {
+      "message": "चूक"
+   },
+   "disablePickEveryTime": {
+      "message": "हर बार पॉपअप को क्लिक करने से शुरू नहीं किया जाता है"
+   },
+   "disableRewriting": {
+      "message": "गैर-संबद्ध लिंकों को अक्षम करना अक्षम"
+   },
+   "error": {
+      "message": "त्रुटि"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Google खाता समन्वयन संग्रहण से सेटिंग प्राप्त करें"
+   },
+   "fishEye": {
+      "message": "मछली की आँख ज़ूम राशि"
+   },
+   "full": {
+      "message": "पूर्ण"
+   },
+   "hasAgreedToLicense": {
+      "message": "उपयोग की शर्तों पर सहमत हुए हैं"
+   },
+   "help": {
+      "message": "मदद / जानकारी"
+   },
+   "hideMinimize": {
+      "message": "छिपाने / कम से कम "
+   },
+   "history": {
+      "message": "इतिहास"
+   },
+   "iconIsBitmap": {
+      "message": "आइकन पिक्सेल पूर्वावलोकन ज़ूम किया गया है"
+   },
+   "iconIsPreview": {
+      "message": "आइकन बैज स्क्वायर रंग पूर्वावलोकन का उपयोग करें"
+   },
+   "loadsyncOptions": {
+      "message": "सिंक स्टोरेज विकल्प लोड और सहेजे गए हैं।"
+   },
+   "maxZoom": {
+      "message": "अधिकतम जूम किया गया"
+   },
+   "modifyLicense": {
+      "message": "लाइसेंस संशोधित करें"
+   },
+   "noSwatches": {
+      "message": "रंग इतिहास में रंगों को उन्हें सहेजने और छपाई के लिए पैलेट में जोड़ने के लिए क्लिक करें।"
+   },
+   "off": {
+      "message": "बंद"
+   },
+   "on": {
+      "message": "पर"
+   },
+   "options": {
+      "message": "विकल्प"
+   },
+   "pickAgainLocked": {
+      "message": "दूसरा रंग चुनें [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "मौजूदा रंग का चयन करें [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "हर बार पॉपअप को क्लिक करने पर रंग चुनना शुरू होता है"
+   },
+   "pixelatedPreview": {
+      "message": "ज़ूम केलेले पूर्वावलोकन पिक्सलेटेड है"
+   },
+   "popOutWindow": {
+      "message": "पॉप-आउट (अलग विंडो)"
+   },
+   "pressEnterToPick": {
+      "message": "रंग लेने के लिए एन्टर दबाएं"
+   },
+   "printSave": {
+      "message": "प्रिंट / सहेजें..."
+   },
+   "reSnapPage": {
+      "message": "पेज की तस्वीर ताज़ा करें [r]"
+   },
+   "registerButton": {
+      "message": "रजिस्टर"
+   },
+   "registered": {
+      "message": "दर्ज कराई"
+   },
+   "resetIcon": {
+      "message": "सामान्य आइकन पर लौटें"
+   },
+   "rightClick": {
+      "message": "दाएँ क्लिक करें"
+   },
+   "saveOptions": {
+      "message": "विकल्पों को बचाएं"
+   },
+   "savedoptions": {
+      "message": "विकल्प सेव किये गए।"
+   },
+   "seeTerms": {
+      "message": "उपयोग की शर्तें देखें"
+   },
+   "shareClors": {
+      "message": "दिन के आंकड़ों का रंग (देखें उपयोग की शर्तें देखें)"
+   },
+   "showColorChooser": {
+      "message": "रंग चयनकर्ता दिखाएं"
+   },
+   "showDefaults": {
+      "message": "चूक दिखाना"
+   },
+   "showPreviousClr": {
+      "message": "पिछले रंग के साथ विभाजित रंग पूर्वावलोकन दिखाएं"
+   },
+   "showndefaults": {
+      "message": "कृपया बचाओ दबाएं, अब डिफॉल्ट दिखा रहा है"
+   },
+   "sort": {
+      "message": "तरह"
+   },
+   "terms": {
+      "message": "उपयोग की शर्तें"
+   },
+   "unregistered": {
+      "message": "अपंजीकृत"
+   },
+   "usageStatistics": {
+      "message": "उपयोग के आँकड़े इकट्ठा करें (उपयोग की शर्तों देखें)"
+   },
+   "useCSSValues": {
+      "message": "के लिए सीएसएस मूल्यों का उपयोग करें RGB/HSL"
+   },
+   "usePNG": {
+      "message": "उपयोग PNG उपलब्ध होने पर गुणवत्ता"
+   },
+   "usePrevColorBG": {
+      "message": "पृष्ठभूमि के लिए पिछले रंग का उपयोग करें"
+   }
+}

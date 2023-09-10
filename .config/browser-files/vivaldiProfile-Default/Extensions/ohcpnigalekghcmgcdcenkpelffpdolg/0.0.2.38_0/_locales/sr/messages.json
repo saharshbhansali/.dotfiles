@@ -1,0 +1,200 @@
+{
+   "EnableHSL": {
+      "message": "Схов HSL"
+   },
+   "EnableRGB": {
+      "message": "Схов RGB"
+   },
+   "addToPalette": {
+      "message": "Додајте у палету боја"
+   },
+   "advancedOptions": {
+      "message": "Напредне опције"
+   },
+   "allowWebGl": {
+      "message": "Дозволите вебгл за пикелатед превиев"
+   },
+   "appleIcon": {
+      "message": "Користите Apple Digital Колор метар лого"
+   },
+   "approved": {
+      "message": "Одобрена"
+   },
+   "bbackgroundColor": {
+      "message": "Попуп боја позадине"
+   },
+   "bgPageUnavailable": {
+      "message": "Снимак позадине не одговара - освежите страницу и покушајте поново."
+   },
+   "borderValue": {
+      "message": "Границе које треба користити (цсс вриједност)"
+   },
+   "clear": {
+      "message": "Јасно"
+   },
+   "clearSync": {
+      "message": "Чисто складиште за синхронизацију"
+   },
+   "closeAndExit": {
+      "message": "Затворите и изађите из режима избора боје"
+   },
+   "colorOfDay": {
+      "message": "Боја дана"
+   },
+   "copycolorval": {
+      "message": "Копирајте вредност боје"
+   },
+   "dblClick": {
+      "message": "Дупли клик"
+   },
+   "dedupe": {
+      "message": "дедупе"
+   },
+   "default": {
+      "message": "Уобичајено"
+   },
+   "disablePickEveryTime": {
+      "message": "Не покрећите сваки пут кад кликнете на попуп"
+   },
+   "disableRewriting": {
+      "message": "Онемогућити припадност непридрживих веза"
+   },
+   "error": {
+      "message": "Грешка"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Преузмите поставке из складишта синхронизације за Гоогле налог"
+   },
+   "fishEye": {
+      "message": "Количина зума око очију"
+   },
+   "full": {
+      "message": "Пуна"
+   },
+   "hasAgreedToLicense": {
+      "message": "Се сложио са условима коришћења"
+   },
+   "help": {
+      "message": "Помоћ / инфо"
+   },
+   "hideMinimize": {
+      "message": "Сакрити / смањити "
+   },
+   "history": {
+      "message": "Историја"
+   },
+   "iconIsBitmap": {
+      "message": "Икона је увећан приказ пиксела"
+   },
+   "iconIsPreview": {
+      "message": "Користите ознаку квадратне боје иконе иконе"
+   },
+   "loadsyncOptions": {
+      "message": "Опције складиштења синхронизације су учитане и сачуване."
+   },
+   "maxZoom": {
+      "message": "Мак зоомед"
+   },
+   "modifyLicense": {
+      "message": "Измените лиценцу"
+   },
+   "noSwatches": {
+      "message": "Кликните боје у историји боја да бисте их додали у палету за чување и штампање."
+   },
+   "off": {
+      "message": "Ван"
+   },
+   "on": {
+      "message": "На"
+   },
+   "options": {
+      "message": "Опције"
+   },
+   "pickAgainLocked": {
+      "message": "Изаберите другу боју [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Изаберите тренутну боју [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Почните да бирате боје сваки пут када се кликне"
+   },
+   "pixelatedPreview": {
+      "message": "Увећани приказ је пикселиран"
+   },
+   "popOutWindow": {
+      "message": "Поп-оут (посебан прозор)"
+   },
+   "pressEnterToPick": {
+      "message": "Притисните ентер да бисте изабрали боју"
+   },
+   "printSave": {
+      "message": "Принт / саве..."
+   },
+   "reSnapPage": {
+      "message": "Освежите слику странице [r]"
+   },
+   "registerButton": {
+      "message": "Регистровати"
+   },
+   "registered": {
+      "message": "Регистровани"
+   },
+   "resetIcon": {
+      "message": "Вратити се на нормалну икону"
+   },
+   "rightClick": {
+      "message": "Десни клик"
+   },
+   "saveOptions": {
+      "message": "Сачувајте опције"
+   },
+   "savedoptions": {
+      "message": "Опције сачуване."
+   },
+   "seeTerms": {
+      "message": "Погледајте услове коришћења"
+   },
+   "shareClors": {
+      "message": "Статистика боја дана (погледајте услове коришћења)"
+   },
+   "showColorChooser": {
+      "message": "Покажи боју избора"
+   },
+   "showDefaults": {
+      "message": "Покажи подразумеване вредности"
+   },
+   "showPreviousClr": {
+      "message": "Приказати подељени преглед боја са претходном бојом"
+   },
+   "showndefaults": {
+      "message": "Молимо притисните тастер сачувај, сада показујући подразумеване вредности."
+   },
+   "sort": {
+      "message": "врста"
+   },
+   "terms": {
+      "message": "Услови коришћења"
+   },
+   "unregistered": {
+      "message": "Нерегистрована"
+   },
+   "usageStatistics": {
+      "message": "Прикупите статистику коришћења (погледајте услове коришћења)"
+   },
+   "useCSSValues": {
+      "message": "Користите ЦСС вредности за RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Користите PNG квалитет кад је доступно"
+   },
+   "usePrevColorBG": {
+      "message": "Користите претходну боју за позадину"
+   }
+}

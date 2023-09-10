@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "帳戶"
+   },
+   "AppDescription": {
+      "message": "在您的瀏覽器中檢視、編輯及建立檔。"
+   },
+   "AppDescriptionWithEditor": {
+      "message": "在瀏覽器中查看、編輯及建立檔案，並讓您在網絡上展現最好的作品。"
+   },
+   "AppFolderName": {
+      "message": "Microsoft 365 瀏覽器擴充功能"
+   },
+   "AppListLabel": {
+      "message": "Web App"
+   },
+   "AppLongDescription": {
+      "message": "專為 Chrome 建置 – 不需要安裝 Microsoft 365 就能使用 Word、Excel、PowerPoint、OneNote 與 Sway Online。\r\n\r\n放心地建立 – 使用孰悉的格式與版面配置選項來完整重現您的想法。\r\n\r\n隨時隨地完成工作 – 在任何地方都可以存取您的檔案，這都歸功於與 OneDrive 及商務用 OneDrive 的整合。\r\n\r\n一旦安裝此 App，即表示您同意這些條款及條件: http://aka.ms/officechromeextensionterms\r\n\r\n隱私權原則: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Microsoft 365 瀏覽器擴充功能會在 Microsoft Edge 工具列上放置一個圖示，讓您直接存取您的 Microsoft 365 檔案，無論檔案儲存在線上或您的電腦上。\r\n\r\nMicrosoft 365 網頁擴充功能可以開啟儲存在 OneDrive 和商務用 OneDrive 中的檔案。\r\n\r\n您可以直接在瀏覽器中取得 Word、Excel、PowerPoint、OneNote 和 Sway 的功能，而不需要安裝 Microsoft 365。\r\n\r\nMicrosoft 365 瀏覽器擴充功能名目前包含內容校對功能*。它會連線至 Microsoft 線上服務，該服務可為您在大多數網站上撰寫的內容提供拼字、文法和修飾建議，並擁有 80 多種語言版本。\r\n\r\n*這項功能可能不適用於所有使用者。\r\n\r\n安裝應用程式即表示您同意下列條款及條件: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "專為 Chrome 建置 – 不需要安裝 Microsoft 365 就能使用 Word、Excel、PowerPoint、OneNote 與 Sway Online。\r\n\r\n自信地進行創作 – 使用熟悉的格式設定與版面配置選項來完整表達您的想法。\r\n\r\n隨時隨地完成工作 – 在任何地方都可以存取您的檔案，這都歸功於 OneDrive 與商務用 OneDrive 的整合。\r\n\r\nMicrosoft 365 瀏覽器擴充功能名目前包含內容校對功能*。它會連線至 Microsoft 線上服務，該服務可為您在大多數網站上撰寫的內容提供拼字、文法和修飾建議，並擁有 80 多種語言版本。\r\n\r\n*這項功能可能不適用於所有使用者。\r\n\r\n安裝應用程式即表示您同意下列條款及條件: http://aka.ms/officechromeextensionterms\r\n\r\n隱私權原則: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "探索您的所有應用程式"
+   },
+   "AppsSectionHeader": {
+      "message": "應用程式"
+   },
+   "BrowseToOpenLabel": {
+      "message": "上傳並開啟..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "建立帳戶"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "沒有最近檢視過的文件。"
+   },
+   "CreateNewLabel": {
+      "message": "新增"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "在 $host$ 上停用編輯器",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "目前我們無法提供您最近使用過文件的清單。"
+   },
+   "EditorBrandText": {
+      "message": "編輯器"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "文法"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "$host$ 目前不支援編輯器",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "$host$ 目前已停用編輯器",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "已關閉編輯器。"
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "編輯器隨附於$host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(預覽版)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "編輯器服務由 Microsoft 編輯器延伸模組提供。"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "當您升級到進階版時，可獲得進階寫作想法和 1 TB 儲存空間。"
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "微調"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "[精簡] 是可協助讓寫作更清楚、減少贅字或更正式的寫作建議。"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "拼字檢查"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "在 $host$ 上啟用編輯器",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "不支援的檔案類型。請選擇 Word、Excel 或 PowerPoint 文件。"
+   },
+   "LoadingRecentsLabel": {
+      "message": "正在載入..."
+   },
+   "MoreFilesLabel": {
+      "message": "更多文件"
+   },
+   "MyAccountLabel": {
+      "message": "檢視我的帳戶"
+   },
+   "NextLabel": {
+      "message": "登入"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "不要再顯示此訊息"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "我們已在您 OneDrive 上的「Microsoft 365 瀏覽器擴充功能」資料夾中儲存您的檔案。"
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "我們已在您商務用 OneDrive 上的「Microsoft 365 瀏覽器擴充功能」資料夾中儲存您的檔案。"
+   },
+   "NotificationFileAccess": {
+      "message": "如果您想要拖放檔案到瀏覽器，請在擴充功能設定中，選取 [允取存取至檔案 URL] 核取方塊。"
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Microsoft 365 瀏覽器延伸程式無法開啟文件，由於大小。 請上載來開啟文件 OneDrive。"
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "很抱歉，我們無法開啟您的檔案。"
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "很抱歉，我們無法開啟您的檔案。請稍後再試。"
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "很抱歉，我們無法開啟您的檔案。請選擇由 Word、Excel 或 PowerPoint 所建立的檔案"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "我們目前正在上傳您的文件。"
+   },
+   "NotificationInvalidSubscription": {
+      "message": "您的 Microsoft 365 訂閱可能已過期，或不包含商務用 OneDrive。請檢查您的訂閱，或改用 Microsoft 帳戶來登入。"
+   },
+   "NotificationNotSignedIn": {
+      "message": "登入至擴充功能以便在 Microsoft 365 網頁版中檢視和編輯檔案。"
+   },
+   "NotificationSetDefault": {
+      "message": "在「檔案」應用程式中，運用兩指點選文件可以使用 Microsoft 365 開啟文件。"
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "選擇使用 Word、Excel 或 PowerPoint 所建立的檔案。"
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Microsoft 365 擴充功能正在瀏覽器中開啟您的文件"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "不要再顯示這個訊息"
+   },
+   "O365FilesLabel": {
+      "message": "從商務用 OneDrive"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "您已離線。請重新連線以使用Microsoft 365瀏覽器擴充功能。"
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "從 OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "開啟"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "文件"
+   },
+   "SettingsLabel": {
+      "message": "設定"
+   },
+   "ShareMessage": {
+      "message": "共用"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "需要權限"
+   },
+   "SharePermissionsTooltip": {
+      "message": "您沒有共用的權限"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "您要將檔案儲存在何處?"
+   },
+   "SignInLabel": {
+      "message": "登入"
+   },
+   "SignInMSALabel": {
+      "message": "使用 Microsoft 帳戶登入"
+   },
+   "SignInO365Label": {
+      "message": "使用公司或學校帳戶登入"
+   },
+   "SignOutLabel": {
+      "message": "登出"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "編輯器服務由 Microsoft 編輯器延伸模組提供。"
+   },
+   "SupportPageLabel": {
+      "message": "是否需要協助您登入?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "自動傳送資料以協助我們改進產品。"
+   },
+   "TurnOnEditorLabel": {
+      "message": "開啟 [編輯器]"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "上傳到商務用 OneDrive"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "上傳到 OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "尚未登入"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "使用 Microsoft 365 直接在瀏覽器中開啟 Microsoft 365 檔案。"
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

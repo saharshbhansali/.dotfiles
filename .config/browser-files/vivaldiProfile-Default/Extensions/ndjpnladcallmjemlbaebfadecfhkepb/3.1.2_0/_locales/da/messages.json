@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "Konto"
+   },
+   "AppDescription": {
+      "message": "Få vist, rediger og opret dokumenter i din browser."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "Få vist, rediger og opret filer i browseren, og få dine bedste tekster ud på internettet."
+   },
+   "AppFolderName": {
+      "message": "Microsoft 365-udvidelse"
+   },
+   "AppListLabel": {
+      "message": "Webapps"
+   },
+   "AppLongDescription": {
+      "message": "Udviklet til Chrome - Brug Word, Excel, PowerPoint, OneNote og Sway Online uden at have installeret Microsoft 365.\r\n\r\nSkab med tillid - Brug velkendte formaterings- og layoutindstillinger for at udtrykke dine idéer på en sikker måde.\r\n\r\nArbejd på farten - få adgang til dine filer fra overalt, takket være integration med OneDrive og OneDrive for Business.\r\n\r\nNår du installerer appen, accepterer du disse vilkår og betingelser: http://aka.ms/officechromeextensionterms\r\n\r\nBeskyttelse af personlige oplysninger: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Microsoft 365-udvidelsen indsætter et ikon på Microsoft Edge-værktøjslinjen, der giver dig direkte adgang til dine Microsoft 365-filer, uanset om de er gemt online eller på din computer.\r\n\r\nMicrosoft 365-udvidelsen kan åbne filer, der er gemt i OneDrive og OneDrive for Business.\r\n\r\nDu får funktionerne fra Word, Excel, PowerPoint, OneNote og Sway direkte i din browser uden at have brug for at installere Microsoft 365.\r\n\r\nMicrosoft 365-udvidelsen omfatter nu korrektur af dit indhold*. Den er forbundet med en Microsoft-onlinetjeneste, der giver dig stave- og grammatikkontrol og forslag til at skrive på de fleste websteder og er tilgængelig på mere end 80 sprog.\r\n\r\n*Denne funktion er muligvis ikke tilgængelig for alle brugere.\r\n\r\nVed at installere appen accepterer du disse vilkår og betingelser: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Udviklet til Chrome - Brug Word, Excel, PowerPoint, OneNote og Sway Online uden at installere Microsoft 365.\r\n\r\nSkab med tillid - Brug de velkendte formaterings- og layoutindstillinger til at udtrykke dine idéer.\r\n\r\nArbejd på farten - Få adgang til dine filer overalt takket være integrationen med OneDrive og OneDrive for Business.\r\n\r\nMicrosoft 365-udvidelsen indeholder nu korrektur af dit indhold. Den opretter forbindelse til en Microsoft-onlinetjeneste med forslag til stavning, grammatik og skrivestil på de fleste websites, og det fås på mere end 80 sprog.\r\n\r\n*Denne funktion er muligvis ikke tilgængelig for alle brugere.\r\n\r\nNår du installerer appen, accepterer du disse vilkår og betingelser: http://aka.ms/officechromeextensionterms\r\n\r\nPolitik om beskyttelse af personlige oplysninger: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "Udforsk alle dine apps"
+   },
+   "AppsSectionHeader": {
+      "message": "Apps"
+   },
+   "BrowseToOpenLabel": {
+      "message": "Upload og åbn..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Opret en konto"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Der er ingen senest sete dokumenter."
+   },
+   "CreateNewLabel": {
+      "message": "Ny"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Deaktiver Editor på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Vi kan ikke hente listen over seneste dokumenter lige nu."
+   },
+   "EditorBrandText": {
+      "message": "Editor"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Grammatik"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Editor understøttes ikke i øjeblikket på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editor er i øjeblikket deaktiveret på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Editor er slået fra."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Editor er inkluderet med $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(Prøveversion)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "Editor-tjenesten leveres af Microsoft Editor-udvidelsen."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Få avancerede skriveidéer og 1 TB lagerplads, når du skifter til premium-versionen."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Justeringer"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Raffinementer er avancerede skrive forslag til at hjælpe med at gøre din skrivning klarere, mindre ordrige eller mere formel."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Stavekontrol"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Aktivér Editor på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Filtypen understøttes ikke. Vælg et Word-, Excel- eller PowerPoint-dokument."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Indlæser ..."
+   },
+   "MoreFilesLabel": {
+      "message": "Flere dokumenter"
+   },
+   "MyAccountLabel": {
+      "message": "Få vist Min konto"
+   },
+   "NextLabel": {
+      "message": "Log på"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Vis ikke dette igen"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Vi har gemt filen i mappen \"Microsoft 365-udvidelse\" på din OneDrive."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Vi har gemt filen i mappen \"Microsoft 365-udvidelse\" på din OneDrive for Business."
+   },
+   "NotificationFileAccess": {
+      "message": "I indstillingerne for udvidelsen skal du markere afkrydsningsfeltet \"Tillad adgang til webadresser på filer\", hvis du vil trække og placere filer i browseren."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Microsoft 365-udvidelsen kan ikke åbne dokumentet på grund af størrelsen. Upload det direkte til OneDrive for at åbne dokumentet."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Vi kan ikke åbne filen."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Vi kan ikke åbne filen. Prøv igen senere."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Vi kan ikke åbne filen. Vælg en fil, der er oprettet med Word, Excel eller PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "Vi er ved at uploade dokumenterne."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Dit Microsoft 365-abonnement er muligvis udløbet eller også inkluderer det ikke OneDrive for Business. Kontrollér abonnementet, eller log på med en Microsoft-konto i stedet."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Log på udvidelsen for at få vist og redigere filer i Microsoft 365 på internettet."
+   },
+   "NotificationSetDefault": {
+      "message": "I appen Filer skal du trykke på dokumenter med to fingre for at åbne med Microsoft 365."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Vælg en fil, der er oprettet med Word, Excel eller PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Den Microsoft 365 udvidelse åbner dokumentet i browseren"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Vis ikke dette igen"
+   },
+   "O365FilesLabel": {
+      "message": "Fra OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "Du er offline. Opret forbindelse igen for at bruge Microsoft 365 browserudvidelse."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Fra OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Åbn"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Dokumenter"
+   },
+   "SettingsLabel": {
+      "message": "Indstillinger"
+   },
+   "ShareMessage": {
+      "message": "Del"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Der kræves tilladelse"
+   },
+   "SharePermissionsTooltip": {
+      "message": "Du har ikke tilladelse til at dele"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Hvor vil du gemme filerne?"
+   },
+   "SignInLabel": {
+      "message": "Log på"
+   },
+   "SignInMSALabel": {
+      "message": "Log på med en Microsoft-konto"
+   },
+   "SignInO365Label": {
+      "message": "Log på med en arbejds- eller skolekonto"
+   },
+   "SignOutLabel": {
+      "message": "Log af"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "Editor-tjenesten leveres af Microsoft Editor-udvidelsen."
+   },
+   "SupportPageLabel": {
+      "message": "Har du brug for hjælp til at logge på?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Send automatisk data for at hjælpe os med at forbedre vores produkter."
+   },
+   "TurnOnEditorLabel": {
+      "message": "Slå Editor til"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "Upload til OneDrive for Business"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "Upload til OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "Ikke logget på"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Åbn Microsoft 365 filer direkte i browseren med Microsoft 365."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

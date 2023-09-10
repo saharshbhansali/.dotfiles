@@ -1,0 +1,12 @@
+{
+    "cultures": {
+        "en-GB": "en_gb",
+        "es-MX": "es_419",
+        "nb-NO": "nb",
+        "pt-BR": "pt_br",
+        "pt-PT": "pt_pt",
+        "sr-Latn-RS": "sr",
+        "zh-Hans": "zh_cn",
+        "zh-Hant": "zh_tw"
+    }
+}

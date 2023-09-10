@@ -1,0 +1,42 @@
+{
+   "appDesc": {
+      "description": "",
+      "message": "Gestionnaire de favoris tout-en-un"
+   },
+   "in": {
+      "description": "",
+      "message": "dans"
+   },
+   "openRaindrop": {
+      "description": "",
+      "message": "Ouvrir Raindrop.io web-site"
+   },
+   "openSidePanel": {
+      "description": "",
+      "message": "Ouvrir barre latérale"
+   },
+   "saveHighlight": {
+      "description": "",
+      "message": "Sauvegarder points marquants"
+   },
+   "saveImage": {
+      "description": "",
+      "message": "Sauvegarder image"
+   },
+   "saveLink": {
+      "description": "",
+      "message": "Sauvegarder lien"
+   },
+   "savePage": {
+      "description": "",
+      "message": "Créer nouveau favoris"
+   },
+   "savePageOrHighlight": {
+      "description": "",
+      "message": "Nouveau favoris / Sauvegarder points marquants"
+   },
+   "saveVideo": {
+      "description": "",
+      "message": "Sauvegarder vidéo"
+   }
+}

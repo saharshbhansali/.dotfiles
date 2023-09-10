@@ -1,0 +1,75 @@
+2023/09/06-22:09:15.431 3 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
+2023/09/06-22:09:15.432 3 Recovering log #352
+2023/09/06-22:09:15.433 3 Reusing old log /home/saharsh/.config/vivaldi/Default/Local Storage/leveldb/000352.log 
+2023/09/07-01:13:15.044 5 Level-0 table #357: started
+2023/09/07-01:13:15.054 5 Level-0 table #357: 476121 bytes OK
+2023/09/07-01:13:15.065 5 Delete type=0 #352
+2023/09/07-02:03:17.412 5 Level-0 table #359: started
+2023/09/07-02:03:17.421 5 Level-0 table #359: 15718 bytes OK
+2023/09/07-02:03:17.446 5 Delete type=0 #356
+2023/09/07-14:49:03.998 5 Level-0 table #361: started
+2023/09/07-14:49:04.008 5 Level-0 table #361: 14253 bytes OK
+2023/09/07-14:49:04.018 5 Delete type=0 #358
+2023/09/07-15:00:01.375 5 Level-0 table #363: started
+2023/09/07-15:00:01.383 5 Level-0 table #363: 49214 bytes OK
+2023/09/07-15:00:01.388 5 Delete type=0 #360
+2023/09/07-15:00:01.388 5 Compacting 4@0 + 1@1 files
+2023/09/07-15:00:01.416 5 Generated table #364@0: 2687 keys, 1300027 bytes
+2023/09/07-15:00:01.416 5 Compacted 4@0 + 1@1 files => 1300027 bytes
+2023/09/07-15:00:01.419 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/07-15:00:01.419 5 Delete type=2 #354
+2023/09/07-15:00:01.419 5 Delete type=2 #357
+2023/09/07-15:00:01.419 5 Delete type=2 #359
+2023/09/07-15:00:01.419 5 Delete type=2 #361
+2023/09/07-15:00:01.419 5 Delete type=2 #363
+2023/09/07-16:08:54.015 5 Level-0 table #366: started
+2023/09/07-16:08:54.024 5 Level-0 table #366: 18484 bytes OK
+2023/09/07-16:08:54.028 5 Delete type=0 #362
+2023/09/07-16:23:19.543 5 Level-0 table #368: started
+2023/09/07-16:23:19.553 5 Level-0 table #368: 58260 bytes OK
+2023/09/07-16:23:19.559 5 Delete type=0 #365
+2023/09/07-17:30:02.783 5 Level-0 table #370: started
+2023/09/07-17:30:02.791 5 Level-0 table #370: 57073 bytes OK
+2023/09/07-17:30:02.795 5 Delete type=0 #367
+2023/09/07-18:22:10.213 5 Level-0 table #372: started
+2023/09/07-18:22:10.216 5 Level-0 table #372: 19550 bytes OK
+2023/09/07-18:22:10.220 5 Delete type=0 #369
+2023/09/07-18:22:10.220 5 Compacting 4@0 + 1@1 files
+2023/09/07-18:22:10.258 5 Generated table #373@0: 2711 keys, 1301701 bytes
+2023/09/07-18:22:10.258 5 Compacted 4@0 + 1@1 files => 1301701 bytes
+2023/09/07-18:22:10.261 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/07-18:22:10.262 5 Delete type=2 #364
+2023/09/07-18:22:10.262 5 Delete type=2 #366
+2023/09/07-18:22:10.262 5 Delete type=2 #368
+2023/09/07-18:22:10.262 5 Delete type=2 #370
+2023/09/07-18:22:10.262 5 Delete type=2 #372
+2023/09/07-18:26:12.863 5 Level-0 table #375: started
+2023/09/07-18:26:12.912 5 Level-0 table #375: 19216 bytes OK
+2023/09/07-18:26:12.917 5 Delete type=0 #371
+2023/09/07-18:42:03.663 5 Level-0 table #377: started
+2023/09/07-18:42:03.675 5 Level-0 table #377: 46792 bytes OK
+2023/09/07-18:42:03.681 5 Delete type=0 #374
+2023/09/07-23:14:55.718 5 Level-0 table #379: started
+2023/09/07-23:14:55.726 5 Level-0 table #379: 14386 bytes OK
+2023/09/07-23:14:55.730 5 Delete type=0 #376
+2023/09/08-01:22:47.011 5 Level-0 table #381: started
+2023/09/08-01:22:47.021 5 Level-0 table #381: 57854 bytes OK
+2023/09/08-01:22:47.024 5 Delete type=0 #378
+2023/09/08-01:22:47.024 5 Compacting 4@0 + 1@1 files
+2023/09/08-01:22:47.043 5 Generated table #382@0: 2751 keys, 1322681 bytes
+2023/09/08-01:22:47.043 5 Compacted 4@0 + 1@1 files => 1322681 bytes
+2023/09/08-01:22:47.045 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/08-01:22:47.046 5 Delete type=2 #373
+2023/09/08-01:22:47.046 5 Delete type=2 #375
+2023/09/08-01:22:47.046 5 Delete type=2 #377
+2023/09/08-01:22:47.046 5 Delete type=2 #379
+2023/09/08-01:22:47.046 5 Delete type=2 #381
+2023/09/08-02:08:34.403 5 Level-0 table #384: started
+2023/09/08-02:08:34.411 5 Level-0 table #384: 25734 bytes OK
+2023/09/08-02:08:34.415 5 Delete type=0 #380
+2023/09/08-02:29:39.859 5 Level-0 table #386: started
+2023/09/08-02:29:39.952 5 Level-0 table #386: 88709 bytes OK
+2023/09/08-02:29:40.135 5 Delete type=0 #383
+2023/09/08-03:19:55.419 5 Level-0 table #388: started
+2023/09/08-03:19:55.545 5 Level-0 table #388: 20305 bytes OK
+2023/09/08-03:19:55.773 5 Delete type=0 #385

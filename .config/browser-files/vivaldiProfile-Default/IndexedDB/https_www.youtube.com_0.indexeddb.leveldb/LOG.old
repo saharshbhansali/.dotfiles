@@ -1,0 +1,64 @@
+2023/09/08-19:29:58.469 1a79 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/08-19:29:58.469 1a79 Recovering log #294
+2023/09/08-19:29:58.485 1a79 Reusing old log /home/saharsh/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000294.log 
+2023/09/08-19:57:54.347 1a79 Level-0 table #299: started
+2023/09/08-19:57:54.407 1a79 Level-0 table #299: 1468857 bytes OK
+2023/09/08-19:57:54.412 1a79 Delete type=0 #294
+2023/09/08-19:58:14.451 1a79 Compacting 1@1 + 1@2 files
+2023/09/08-19:58:14.456 1a79 Generated table #300@1: 350 keys, 43747 bytes
+2023/09/08-19:58:14.456 1a79 Compacted 1@1 + 1@2 files => 43747 bytes
+2023/09/08-19:58:14.460 1a79 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/08-19:58:14.461 1a79 Delete type=2 #296
+2023/09/08-19:58:14.461 1a79 Delete type=2 #299
+2023/09/08-20:23:18.459 1a79 Level-0 table #302: started
+2023/09/08-20:23:18.492 1a79 Level-0 table #302: 1611814 bytes OK
+2023/09/08-20:23:18.495 1a79 Delete type=0 #298
+2023/09/08-20:28:18.463 1a78 Compacting 1@1 + 1@2 files
+2023/09/08-20:28:18.468 1a78 Generated table #303@1: 383 keys, 36682 bytes
+2023/09/08-20:28:18.469 1a78 Compacted 1@1 + 1@2 files => 36682 bytes
+2023/09/08-20:28:18.472 1a78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/08-20:28:18.472 1a78 Delete type=2 #300
+2023/09/08-20:28:18.472 1a78 Delete type=2 #302
+2023/09/08-21:52:57.458 1a79 Level-0 table #305: started
+2023/09/08-21:52:57.523 1a79 Level-0 table #305: 2165706 bytes OK
+2023/09/08-21:52:57.530 1a79 Delete type=0 #301
+2023/09/08-22:38:09.458 1a79 Compacting 1@1 + 1@2 files
+2023/09/08-22:38:09.464 1a79 Generated table #306@1: 390 keys, 44081 bytes
+2023/09/08-22:38:09.464 1a79 Compacted 1@1 + 1@2 files => 44081 bytes
+2023/09/08-22:38:09.469 1a79 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/08-22:38:09.469 1a79 Delete type=2 #303
+2023/09/08-22:38:09.469 1a79 Delete type=2 #305
+2023/09/09-00:29:08.329 1a79 Level-0 table #308: started
+2023/09/09-00:29:08.350 1a79 Level-0 table #308: 1642359 bytes OK
+2023/09/09-00:29:08.354 1a79 Delete type=0 #304
+2023/09/09-00:37:47.912 1a79 Compacting 1@1 + 1@2 files
+2023/09/09-00:37:47.923 1a79 Generated table #309@1: 366 keys, 35746 bytes
+2023/09/09-00:37:47.923 1a79 Compacted 1@1 + 1@2 files => 35746 bytes
+2023/09/09-00:37:47.927 1a79 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/09-00:37:47.927 1a79 Delete type=2 #306
+2023/09/09-00:37:47.927 1a79 Delete type=2 #308
+2023/09/09-01:01:11.987 1a79 Level-0 table #311: started
+2023/09/09-01:01:12.006 1a79 Level-0 table #311: 1287859 bytes OK
+2023/09/09-01:01:12.009 1a79 Delete type=0 #307
+2023/09/09-01:05:03.461 1a7c Compacting 1@1 + 1@2 files
+2023/09/09-01:05:03.466 1a7c Generated table #312@1: 410 keys, 48234 bytes
+2023/09/09-01:05:03.466 1a7c Compacted 1@1 + 1@2 files => 48234 bytes
+2023/09/09-01:05:03.469 1a7c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/09-01:05:03.469 1a7c Delete type=2 #309
+2023/09/09-01:05:03.469 1a7c Delete type=2 #311
+2023/09/09-01:47:00.996 1a79 Level-0 table #314: started
+2023/09/09-01:47:01.009 1a79 Level-0 table #314: 1322390 bytes OK
+2023/09/09-01:47:01.013 1a79 Delete type=0 #310
+2023/09/09-01:51:04.485 1a78 Compacting 1@1 + 1@2 files
+2023/09/09-01:51:04.489 1a78 Generated table #315@1: 390 keys, 46425 bytes
+2023/09/09-01:51:04.489 1a78 Compacted 1@1 + 1@2 files => 46425 bytes
+2023/09/09-01:51:04.492 1a78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/09-01:51:04.492 1a78 Delete type=2 #312
+2023/09/09-01:51:04.492 1a78 Delete type=2 #314
+2023/09/09-02:09:19.042 1a79 Level-0 table #317: started
+2023/09/09-02:09:19.062 1a79 Level-0 table #317: 1240523 bytes OK
+2023/09/09-02:09:19.066 1a79 Delete type=0 #313
+2023/09/09-02:09:25.532 1a79 Compacting 1@1 + 1@2 files
+2023/09/09-02:09:25.543 1a79 Generated table #318@1: 411 keys, 48700 bytes
+2023/09/09-02:09:25.543 1a79 Compacted 1@1 + 1@2 files => 48700 bytes
+2023/09/09-02:09:25.549 1a79 compacted to: files[ 0 0 1 0 0 0 0 ]

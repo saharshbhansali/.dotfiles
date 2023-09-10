@@ -1,0 +1,49 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "images/kdeconnect-128.png",
+         "16": "images/kdeconnect-16.png",
+         "22": "images/kdeconnect-22.png",
+         "24": "images/kdeconnect-24.png",
+         "256": "images/kdeconnect-256.png",
+         "32": "images/kdeconnect-32.png",
+         "48": "images/kdeconnect-48.png",
+         "64": "images/kdeconnect-64.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "KDE Connect"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Alt+C"
+         }
+      }
+   },
+   "description": "Allows sharing pages, videos, and images from your browser to KDE Connect devices.",
+   "homepage_url": "https://github.com/pdf/kdeconnect-chrome-extension",
+   "icons": {
+      "128": "images/kdeconnect-128.png",
+      "16": "images/kdeconnect-16.png",
+      "22": "images/kdeconnect-22.png",
+      "24": "images/kdeconnect-24.png",
+      "256": "images/kdeconnect-256.png",
+      "32": "images/kdeconnect-32.png",
+      "48": "images/kdeconnect-48.png",
+      "64": "images/kdeconnect-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAonAKQ6Zs3s4JtovqDAfjKQxvWNeH4uKDRpIy75hxpdct+yxsjT4CdNpM9vKqtb+YxbJ5rLNhe88eGtAO+yJmNomu/r8JJh+cgJopb427jOv2Xhg2cc4L4qISLf41S59PdayMvvlFCh3Kpdci0PlvZkNCnqpzZwhm0fYGjIbNuaqLcnOYQs8V1NFzlVUtORzRls8Ge0kDOSp7TuIXDID6H/wGxvW7ci9kK1Hotgwl+2LniECCaXsnXvAF0HobeW3mgSW23QMZPCSNTIHD862aeuU77kGIpSZBO+iizgb8fxQkReffZMhGButMprMuPmPqDvLIzSEdTjxs/O/o544xFQIDAQAB",
+   "manifest_version": 2,
+   "name": "KDE Connect",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options.html"
+   },
+   "permissions": [ "nativeMessaging", "storage", "tabs", "contextMenus" ],
+   "short_name": "kdeconnect",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.7"
+}

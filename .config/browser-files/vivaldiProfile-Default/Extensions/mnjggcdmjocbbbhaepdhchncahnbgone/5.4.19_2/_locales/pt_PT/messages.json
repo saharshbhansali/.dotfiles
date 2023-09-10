@@ -1,0 +1,779 @@
+{
+   "0": {
+      "message": "Tempo limite de ligação. Verifique a sua ligação à Internet. Se a sua Internet estiver a funcionar, o servidor está provavelmente sobrecarregado ou em baixo."
+   },
+   "400": {
+      "message": "O servidor disse que este pedido foi inválido"
+   },
+   "409": {
+      "message": "Isso já foi enviado antes"
+   },
+   "429": {
+      "message": "Enviou muitos segmentos para este vídeo, tem certeza que tem assim tantos?"
+   },
+   "502": {
+      "message": "O servidor parece estar sobrecarregado. Tente novamente em alguns segundos."
+   },
+   "Chapters": {
+      "message": "Capítulos"
+   },
+   "ContinueVoting": {
+      "message": "Continuar a votar"
+   },
+   "CopiedExclamation": {
+      "description": "Used after something has been copied to the clipboard. Example: 'Copied!'",
+      "message": "Copiado!"
+   },
+   "CopyAndDownvote": {
+      "message": "Copiar e dar voto negativo"
+   },
+   "Credits": {
+      "message": "Créditos"
+   },
+   "CurrentTime": {
+      "message": "Hora atual"
+   },
+   "Description": {
+      "description": "Description of the extension.",
+      "message": "Ignore patrocínios, pedidos de subscrição e muito mais nos vídeos do YouTube. Denuncie os patrocinadores nos vídeos que vê para poupar o tempo dos outros."
+   },
+   "Dismiss": {
+      "message": "Ignorar"
+   },
+   "Editing": {
+      "message": "A editar"
+   },
+   "Error": {
+      "message": "Erro"
+   },
+   "FullDetails": {
+      "message": "Todos os detalhes"
+   },
+   "Hide": {
+      "message": "Nunca mostrar"
+   },
+   "Import": {
+      "description": "Button to initiate importing segments. Appears under the textbox where they paste in the data",
+      "message": "Importar"
+   },
+   "LearnMore": {
+      "message": "Saber mais"
+   },
+   "Loading": {
+      "message": "A carregar..."
+   },
+   "NoticeTimeAfterSkip": {
+      "description": "This is used on the popup to show how much time left. It will look like \"5s\". The word {seconds} will be replaced, so keep it here. Translations should only change the \"s\"",
+      "message": "{seconds}s"
+   },
+   "OpenSubmissionMenu": {
+      "message": "Abrir Menu de Envio"
+   },
+   "Options": {
+      "message": "Opções"
+   },
+   "Original": {
+      "message": "Original"
+   },
+   "OriginalTitle": {
+      "message": "Título original"
+   },
+   "Segment": {
+      "message": "segmento"
+   },
+   "Segments": {
+      "message": "segmentos"
+   },
+   "SegmentsCap": {
+      "message": "Segmentos"
+   },
+   "SponsorTimeEditScrollNewFeature": {
+      "message": "Utilizar a roda do rato enquanto passa sobre a caixa de edição para ajustar rapidamente a hora. As combinações das teclas ctrl ou shift podem ser utilizadas para afinar as alterações."
+   },
+   "Submissions": {
+      "message": "Submissões"
+   },
+   "Submitting": {
+      "message": "A enviar"
+   },
+   "Unknown": {
+      "message": "Erro ao enviar os seus segmentos, tente novamente mais tarde."
+   },
+   "Username": {
+      "message": "Nome de Utilizador"
+   },
+   "Vote": {
+      "message": "Votar"
+   },
+   "actions": {
+      "description": "Header of the unsubmitted segments list",
+      "message": "Ações"
+   },
+   "add": {
+      "message": "Adicionar"
+   },
+   "addInvidiousInstanceDescription": {
+      "message": "Adicione uma instância personalizada. Isso deve ser formatado APENAS com o domínio. Exemplo: invidious.ajay.app"
+   },
+   "addInvidiousInstanceError": {
+      "message": "Este é um domínio inválido. Isto deve APENAS incluir a parte do domínio. Exemplo: invidious.ajay.app"
+   },
+   "areYouSureReset": {
+      "message": "Tem certeza que deseja redefinir?"
+   },
+   "autoHideInfoButton": {
+      "message": "Ocultar automaticamente o Botão de Informação"
+   },
+   "autoSkip": {
+      "message": "Ignorar automaticamente"
+   },
+   "betaServerWarning": {
+      "message": "O servidor BETA está ativado!"
+   },
+   "bracketEnd": {
+      "message": "(fim)"
+   },
+   "bracketNow": {
+      "message": "(agora)"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "category": {
+      "message": "Categoria"
+   },
+   "categoryPillNewFeature": {
+      "message": "Novo! Ver quando um vídeo é totalmente patrocinado ou de auto-promoção"
+   },
+   "category_chapter": {
+      "message": "Capítulo"
+   },
+   "category_exclusive_access": {
+      "message": "Acesso exclusivo"
+   },
+   "category_filler_short": {
+      "message": "Enchimento"
+   },
+   "category_interaction": {
+      "message": "Lembrete de Interação (Subscrever)"
+   },
+   "category_interaction_description": {
+      "message": "Quando houver um pequeno lembrete para curtir, assinar ou segui-los no meio do conteúdo. Se é longo ou sobre algo específico, deveria ser sob auto-promoção."
+   },
+   "category_interaction_short": {
+      "message": "Lembrete de interação"
+   },
+   "category_livestream_messages_short": {
+      "message": "Leitura de mensagens"
+   },
+   "category_music_offtopic": {
+      "message": "Música: Secção de Não Música"
+   },
+   "category_music_offtopic_short": {
+      "message": "Não-Música"
+   },
+   "category_selfpromo": {
+      "message": "Promoção não remunerada/auto-promoção"
+   },
+   "category_sponsor": {
+      "message": "Patrocinador"
+   },
+   "change": {
+      "message": "Alterar"
+   },
+   "channelWhitelisted": {
+      "message": "Canal adicionado à lista de autorizados!"
+   },
+   "chooseACategory": {
+      "message": "Escolher uma categoria"
+   },
+   "clearThis": {
+      "message": "Tem certeza que deseja limpar isto?\n\n"
+   },
+   "clearTimes": {
+      "message": "Limpar segmentos"
+   },
+   "clearTimesButton": {
+      "message": "Limpar Intervalos"
+   },
+   "clearUnsubmittedSegments": {
+      "description": "Label for a button in settings",
+      "message": "Limpar todos os segmentos"
+   },
+   "closeIcon": {
+      "message": "Ícone de Fechar"
+   },
+   "closePopup": {
+      "message": "Fechar Popup"
+   },
+   "confirmMSG": {
+      "message": "\n\nPara editar ou remover linhas individuais, carregue com o botão direito ou abra o popup da extensão pelo icone no canto superior direito."
+   },
+   "confirmResetToDefault": {
+      "message": "Tem a certeza de que pretende repor todas as definições para os valores predefinidos? Isto não pode ser anulado."
+   },
+   "connectionError": {
+      "message": "Deu-se um erro de conecção: Código: "
+   },
+   "copyDebugInformation": {
+      "message": "Copiar informações de depuração para a área de transferência"
+   },
+   "copyDebugInformationFailed": {
+      "message": "Falha ao copiar para a área de transferência"
+   },
+   "copyPublicID": {
+      "message": "Copiar ID público de utilizador"
+   },
+   "copySegmentID": {
+      "message": "Copiar ID do segmento"
+   },
+   "createdBy": {
+      "message": "Criado por"
+   },
+   "darkModeOptionsPage": {
+      "message": "Modo escuro na página de opções"
+   },
+   "dayAbbreviation": {
+      "description": "100d",
+      "message": "d"
+   },
+   "delete": {
+      "message": "Eliminar"
+   },
+   "disable": {
+      "message": "Desativar"
+   },
+   "disableAutoSkip": {
+      "message": "Desativar Auto Ignorar"
+   },
+   "disableSkipping": {
+      "message": "O ignorar está ativado"
+   },
+   "downvote": {
+      "message": "Voto negativo"
+   },
+   "edit": {
+      "message": "Editar"
+   },
+   "enableAutoSkip": {
+      "message": "Ativar Auto Ignorar"
+   },
+   "enableQueryByHashPrefix": {
+      "message": "Consulta por Prefixo de Hash"
+   },
+   "enableRefetchWhenNotFound": {
+      "message": "Recuperar segmentos em novos vídeos"
+   },
+   "enableShowCategoryWithoutPermission": {
+      "message": "Mostrar categorias no menu de submissão mesmo sem permissão de submissão"
+   },
+   "enableSkipping": {
+      "message": "O ignorar está desativado"
+   },
+   "enableTestingServer": {
+      "message": "Habilitar Servidor de Teste Beta"
+   },
+   "enableTrackDownvotes": {
+      "message": "Guardar segmentos de votos negativos"
+   },
+   "enableViewTracking": {
+      "message": "Ativar Rastreamento de Contagem de Saltos"
+   },
+   "enableViewTrackingInPrivate": {
+      "message": "Ativar o Rastreamento de Contagem de Saltos nas Guias Privadas/Anônimas"
+   },
+   "errorCode": {
+      "message": "Código de erro: "
+   },
+   "exportOptions": {
+      "message": "Importar/Exportar todas as opções"
+   },
+   "exportOptionsCopy": {
+      "message": "Editar/copiar"
+   },
+   "exportOptionsDownload": {
+      "message": "Guardar num ficheiro"
+   },
+   "exportOptionsUpload": {
+      "message": "Carregar a partir de ficheiro"
+   },
+   "exportSegments": {
+      "message": "Exportar segmentos"
+   },
+   "exportSegmentsAsURL": {
+      "message": "Partilhar como URL"
+   },
+   "full": {
+      "description": "Used for the name of the option to label an entire video as sponsor or self promotion.",
+      "message": "Vídeo completo"
+   },
+   "fullName": {
+      "description": "Name of the extension.",
+      "message": "SponsorBlock para o YouTube - Salte patrocínios"
+   },
+   "fullVideoLabelsOnThumbnails": {
+      "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage.",
+      "message": "Mostrar etiquetas nas miniaturas de vídeo também"
+   },
+   "generic_guideline2": {
+      "message": "Reproduz como se nada tivesse sido ignorado"
+   },
+   "guidelines": {
+      "message": "Orientações"
+   },
+   "help": {
+      "message": "Ajuda"
+   },
+   "helpPageHowSkippingWorks": {
+      "message": "Como a função saltar funciona"
+   },
+   "helpPageReviewOptions": {
+      "message": "Por favor, reveja as opções abaixo"
+   },
+   "helpPageThanksForInstalling": {
+      "message": "Obrigado por instalar o SponsorBlock."
+   },
+   "helpPageTooSlow": {
+      "message": "Está demasiado lento"
+   },
+   "hideButtons": {
+      "message": "Esconder botões no player do Youtube"
+   },
+   "hideButtonsDescription": {
+      "message": "Isto esconde os botões que aparecem no player do Youtube para submeter patrocínios. Entendemos que possa ser\n incómodo a algumas pessoas. Em vez de usar esses botões pode usar os do popup. Para esconder a mensagem que aparece, \n ususe o botão na mesma que diz \"Don't show this again\". Pode sempre reactivar estas definições novamente."
+   },
+   "hideDeleteButton": {
+      "message": "Esconder botão de Apagar no player do Youtube"
+   },
+   "hideInfoButton": {
+      "message": "Esconder botão de Informações no player do Youtube"
+   },
+   "hideSegment": {
+      "message": "Ocultar segmento"
+   },
+   "hideThis": {
+      "message": "Esconder isto"
+   },
+   "hideUnsubmittedSegments": {
+      "description": "Show/hide button for the unsubmitted segments list",
+      "message": "Ocultar segmentos"
+   },
+   "hitGoBack": {
+      "message": "Carregue em reverter salto para voltar a onde estava"
+   },
+   "hourAbbreviation": {
+      "description": "100h",
+      "message": "h"
+   },
+   "hourLower": {
+      "message": "hora"
+   },
+   "hoursLower": {
+      "message": "horas"
+   },
+   "importSegments": {
+      "message": "Importar segmentos"
+   },
+   "incorrectCategory": {
+      "message": "Alterar categoria"
+   },
+   "inspect": {
+      "message": "Inspecionar"
+   },
+   "keybindDescription": {
+      "message": "Selecione uma chave digitando-a e escolha qualquer chave modificadora que deseje utilizar."
+   },
+   "longDescription": {
+      "description": "Full description of the extension on the store pages.",
+      "message": "SponsorBlock permite-lhe ignorar os patrocinadores, intros, outros, lembretes de subscrição, e outras partes irritantes dos vídeos do YouTube. SponsorBlock é uma extensão de browser de origem pública que permite a qualquer pessoa submeter o tempo de início e fim dos segmentos patrocinados e outros segmentos dos vídeos do YouTube. Uma vez que uma pessoa submeta esta informação, todos os outros com esta extensão saltarão diretamente sobre o segmento patrocinado. Também se pode saltar sobre secções não musicais de vídeos musicais."
+   },
+   "manualPaused": {
+      "message": "Temporizador parado"
+   },
+   "manualSkip": {
+      "message": "Ignorar manualmente"
+   },
+   "manuallyHidden": {
+      "message": "ocultado manualmente"
+   },
+   "minLower": {
+      "message": "minuto"
+   },
+   "minsLower": {
+      "message": "minutos"
+   },
+   "mobileUpdateInfo": {
+      "message": "m.youtube.com é agora suportado"
+   },
+   "moreCategories": {
+      "message": "Mais categorias"
+   },
+   "mute": {
+      "message": "Silenciar"
+   },
+   "mute_category": {
+      "message": "Silenciar {0}?"
+   },
+   "muted": {
+      "description": "Example: Sponsor Muted",
+      "message": "{0} silenciado"
+   },
+   "nextChapterKeybind": {
+      "description": "Keybind label",
+      "message": "Capítulo seguinte"
+   },
+   "noVideoID": {
+      "message": "Nenhum vídeo do YouTube encontrado.\nSe isto não estiver correto, atualize o separador."
+   },
+   "notSet": {
+      "message": "Não definido"
+   },
+   "noticeUpdate": {
+      "description": "The first line of the message displayed after the notice was upgraded.",
+      "message": "O aviso foi atualizado!"
+   },
+   "noticeUpdate2": {
+      "description": "The second line of the message displayed after the notice was upgraded.",
+      "message": "Se mesmo assim não gostar, carregue no botão nunca mostrar."
+   },
+   "noticeVisibilityLabel": {
+      "description": "Option label",
+      "message": "Ignorar o aparecimento do aviso"
+   },
+   "noticeVisibilityMode0": {
+      "message": "Avisos de ignorar em tamanho inteiro"
+   },
+   "noticeVisibilityMode1": {
+      "message": "Avisos pequenos quando ignorado automaticamente"
+   },
+   "noticeVisibilityMode2": {
+      "message": "Todos os avisos de ignorar em tamanho pequeno"
+   },
+   "noticeVisibilityMode3": {
+      "message": "Avisos pequenos quando ignorado automaticamente"
+   },
+   "noticeVisibilityMode4": {
+      "message": "Todos os avisos de ignorar em tamanho pequeno"
+   },
+   "openOptionsPage": {
+      "message": "Abrir página de opções"
+   },
+   "openPopup": {
+      "message": "Abrir o Popup SponsorBlock"
+   },
+   "optionsInfo": {
+      "message": "Habilitar suporte convidado, desabilitar pulo automático, ocultar botões e muito mais."
+   },
+   "optionsTabAdvanced": {
+      "description": "Appears in Options as a tab header for advanced/niche options. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "Diversos"
+   },
+   "optionsTabBackup": {
+      "description": "Appears in Options as a tab header for options related to saving/restoring your settings. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "Cópia de seg./restauro"
+   },
+   "optionsTabBehavior": {
+      "description": "Appears in Options as a tab header for options related to categories and skipping behavior. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "Comportamento"
+   },
+   "optionsTabInterface": {
+      "description": "Appears in Options as a tab header for options related to GUI and sounds. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "Interface"
+   },
+   "optionsTabKeyBinds": {
+      "description": "Appears in Options as a tab header for keybinds. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "Teclas de atalho"
+   },
+   "paused": {
+      "message": "Pausado"
+   },
+   "playChapter": {
+      "message": "Reproduzir capítulo"
+   },
+   "popupHint": {
+      "message": "Dica: pode configurar as teclas de atalho para enviar nas opções"
+   },
+   "preview": {
+      "message": "Pré-visualizar"
+   },
+   "previewColor": {
+      "description": "Referring to submissions that have not been sent to the server yet.",
+      "message": "Cor não enviada"
+   },
+   "previousChapterKeybind": {
+      "description": "Keybind label",
+      "message": "Capítulo anterior"
+   },
+   "readTheGuidelines": {
+      "description": "Show the first time they submit or if they are \"high risk\"",
+      "message": "Leia as nossas orientações!!"
+   },
+   "recordTimesDescription": {
+      "message": "Enviar"
+   },
+   "refreshSegments": {
+      "message": "Atualizar segmentos"
+   },
+   "removeFromWhitelist": {
+      "message": "Remover canal da Lista Branca"
+   },
+   "renderAsChapters": {
+      "description": "Refers to drawing segments on the YouTube seek bar as split up chapters, similar to the existing chapter system",
+      "message": "Renderizar segmentos como capítulos"
+   },
+   "reportButtonInfo": {
+      "message": "Reportar esta submissão como incorrecta."
+   },
+   "reportButtonTitle": {
+      "message": "Reportar"
+   },
+   "reset": {
+      "message": "Repor"
+   },
+   "resetToDefault": {
+      "message": "Repor as definições para a predefinição"
+   },
+   "reskip": {
+      "message": "Saltar novamente"
+   },
+   "save": {
+      "message": "Guardar"
+   },
+   "savedPeopleFrom": {
+      "message": "Salvaste pessoas de "
+   },
+   "segmentCount": {
+      "description": "Header of the unsubmitted segments list",
+      "message": "Contagem de segmentos"
+   },
+   "segmentFetchFailureWarning": {
+      "message": "Aviso: O servidor ainda não respondeu com segmentos. Pode, na verdade, estarem segmentos já submetidos neste vídeo, mas não os tenha recebido devido a problemas com o servidor."
+   },
+   "segmentsStillLoading": {
+      "message": "Segmentos ainda a carregar..."
+   },
+   "serverDown": {
+      "message": "Parece que o servidor está em baixo. Contacte o desenvolvedor imediatamente."
+   },
+   "setOptions": {
+      "message": "Definir opções"
+   },
+   "setSkipShortcut": {
+      "description": "Keybind label",
+      "message": "Ignorar segmento"
+   },
+   "setStartSponsorShortcut": {
+      "description": "Keybind label",
+      "message": "Iniciar/parar segmento"
+   },
+   "setSubmitKeybind": {
+      "description": "Keybind label",
+      "message": "Enviar segmentos"
+   },
+   "setUserID": {
+      "message": "Definir UserID Privado"
+   },
+   "setUsername": {
+      "message": "Criar nome de utilizador"
+   },
+   "showButtons": {
+      "message": "Mostrar botões no player do Youtube"
+   },
+   "showCategoryGuidelines": {
+      "message": "Mostrar Categoria de Ajuda"
+   },
+   "showDeleteButton": {
+      "message": "Mostrar botão de Apagar no player do Youtube"
+   },
+   "showIconForFormattedTitles": {
+      "message": "Mostrar o botão \"Mostrar original\" para títulos auto-formatados"
+   },
+   "showInfoButton": {
+      "message": "Mostrar botão de Informações no player do Youtube"
+   },
+   "showNotice": {
+      "message": "Mostrar notificação outra vez"
+   },
+   "showOverlay": {
+      "message": "Mostrar na barra de pesquisa"
+   },
+   "showOverlay_POI": {
+      "message": "Mostrar barra de progresso"
+   },
+   "showOverlay_full": {
+      "message": "Mostrar Rótulo"
+   },
+   "showSegmentNameInChapterBar": {
+      "message": "Mostrar segmento atual ao lado do tempo do vídeo"
+   },
+   "showSkipButton": {
+      "message": "Mantenha o Botão Saltar para Destaque no Player"
+   },
+   "showSkipNotice": {
+      "message": "Mostrar aviso após um segmento ser ignorado"
+   },
+   "showUnsubmittedSegments": {
+      "description": "Show/hide button for the unsubmitted segments list",
+      "message": "Mostrar segmentos"
+   },
+   "skip": {
+      "message": "Ignorar"
+   },
+   "skipSegment": {
+      "message": "Ignorar segmento"
+   },
+   "skip_category": {
+      "message": "Ignorar {0}?"
+   },
+   "skip_to_category": {
+      "description": "Used for skipping to things (Skip to Highlight)",
+      "message": "Avançar para {0}?"
+   },
+   "skipped": {
+      "description": "Example: Sponsor Skipped",
+      "message": "{0} ignorado"
+   },
+   "skipped_to_category": {
+      "description": "Used for skipping to things (Skipped to Highlight)",
+      "message": "Avançou para {0}"
+   },
+   "sortSegments": {
+      "message": "Ordenar Segmentos"
+   },
+   "sourceCode": {
+      "description": "Used on Firefox Store Page",
+      "message": "Código-fonte"
+   },
+   "sponsor404": {
+      "message": "Nenhum segmento encontrado"
+   },
+   "sponsorCancel": {
+      "message": "Cancelar Criação de Segmento"
+   },
+   "sponsorEnd": {
+      "message": "O Segmento Acaba Agora"
+   },
+   "sponsorFound": {
+      "message": "Este vídeo tem segmentos na base de dados!"
+   },
+   "sponsorStart": {
+      "message": "O Segmento Começa Agora"
+   },
+   "statusReminder": {
+      "message": "Verificar status.sponsor.ajay.app para estado do servidor."
+   },
+   "submissionEditHint": {
+      "description": "Appears in the popup to inform them that editing has been moved to the video player.",
+      "message": "A edição da seção aparecerá depois que você clicar em enviar"
+   },
+   "submit": {
+      "message": "Enviar"
+   },
+   "submitCheck": {
+      "message": "Tem a certeza que pretende submeter?"
+   },
+   "success": {
+      "message": "Sucesso!"
+   },
+   "supportOtherSites": {
+      "message": "Apoie outros sites de YouTube"
+   },
+   "supportOtherSitesDescription": {
+      "description": "This replaces the 'supports Invidious' option because it now works on other YouTube sites such as Cloudtube",
+      "message": "Apoie clientes de terceiros do YouTube. Para ativar o suporte, deve aceitar as permissões adicionais."
+   },
+   "supportedSites": {
+      "message": "Sites suportados: "
+   },
+   "tip5": {
+      "description": "Tip about submitting titles to DeArrow",
+      "message": "Colocar em maiúsculas como se fosse uma frase"
+   },
+   "to": {
+      "description": "Used between segments. Example: 1:20 to 1:30",
+      "message": "até"
+   },
+   "trackDownvotesWarning": {
+      "message": "Aviso: Ao desabilitar isso excluirá todos os votos negativos armazenados anteriormente"
+   },
+   "unbind": {
+      "description": "Unbind keyboard shortcut",
+      "message": "Desvincular"
+   },
+   "unmute": {
+      "message": "Ativar som"
+   },
+   "unskip": {
+      "message": "Reverter salto"
+   },
+   "unsubmitted": {
+      "message": "Não submetido"
+   },
+   "upvote": {
+      "message": "Voto positivo"
+   },
+   "upvoteButtonInfo": {
+      "message": "Votar positivamente esta submissão"
+   },
+   "videoID": {
+      "description": "Header of the unsubmitted segments list",
+      "message": "ID do vídeo"
+   },
+   "videosPlural": {
+      "description": "Example: You currently have 12 unsubmitted segments on 5 *videos*",
+      "message": "vídeos"
+   },
+   "videosSingular": {
+      "description": "Example: You currently have 3 unsubmitted segments on 1 *video*",
+      "message": "vídeo"
+   },
+   "viewLeaderboard": {
+      "message": "Tabela de Classificação"
+   },
+   "voteOnTime": {
+      "message": "Votar em um segmento"
+   },
+   "voted": {
+      "message": "Votado!"
+   },
+   "website": {
+      "description": "Used on Firefox Store Page",
+      "message": "Site"
+   },
+   "whatQueryByHashPrefix": {
+      "message": "Em vez de solicitar segmentos do servidor usando o ID do Vídeo, são enviados os primeiros 4 caracteres do hash do ID do Vídeo. Este servidor enviará de volta dados para todos os vídeos com hashes semelhantes."
+   },
+   "whatRefetchWhenNotFound": {
+      "message": "Se o vídeo for novo e nenhum segmento for encontrado, continuaremos a monitorizar enquanto assiste."
+   },
+   "whatShowCategoryWithoutPermission": {
+      "message": "Algumas categorias requerem permissão para submeter devido aos requisitos mínimos de reputação"
+   },
+   "whatTrackDownvotes": {
+      "message": "Quaisquer segmentos que você votar negativo permanecerão ocultos mesmo após a atualização"
+   },
+   "whatViewTracking": {
+      "message": "Esse recurso rastreia quais segmentos você pulou para permitir que os usuários saibam o quanto seu envio ajudou outras pessoas e é usado como métrica junto com votos positivos para garantir que o spam não entre no banco de dados. A extensão envia uma mensagem ao servidor cada vez que você pular um segmento. Espero que a maioria das pessoas não altere essa configuração para que os números de visualização sejam precisos. :)"
+   },
+   "whitelistChannel": {
+      "message": "Meter canal na Lista Branca"
+   },
+   "youHaveSavedTime": {
+      "description": "You've saved people from 887,362 segments (236d 15h 5.3 minutes of their lives).",
+      "message": "Poupou pessoas de"
+   },
+   "youHaveSavedTimeEnd": {
+      "description": "You've saved people from 887,362 segments (236d 15h 5.3 minutes of their lives).",
+      "message": " das suas vidas"
+   },
+   "youHaveSkipped": {
+      "message": "Ignorou "
+   },
+   "yourWork": {
+      "description": "Used to describe the section that will show you the statistics from your submissions.",
+      "message": "O seu trabalho"
+   },
+   "youtubeKeybindWarning": {
+      "message": "Este é um atalho incorporado no YouTube. Tem a certeza de que o quer usar?"
+   }
+}

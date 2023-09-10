@@ -1,0 +1,197 @@
+{
+   "EnableHSL": {
+      "message": "แสดง HSL"
+   },
+   "EnableRGB": {
+      "message": "แสดง RGB"
+   },
+   "addToPalette": {
+      "message": "เพิ่มลงในจานสี"
+   },
+   "advancedOptions": {
+      "message": "ตัวเลือกขั้นสูง"
+   },
+   "allowWebGl": {
+      "message": "อนุญาตให้ webgl สำหรับการแสดงตัวอย่างแบบ pixelated"
+   },
+   "appleIcon": {
+      "message": "ใช้ Apple Digital โลโก้มาตรวัดสี"
+   },
+   "approved": {
+      "message": "ได้รับการอนุมัติ"
+   },
+   "bbackgroundColor": {
+      "message": "สีพื้นหลังป๊อปอัป"
+   },
+   "bgPageUnavailable": {
+      "message": "ภาพพื้นหลังไม่ตอบสนอง - โปรดรีเฟรชหน้านี้และลองอีกครั้ง"
+   },
+   "borderValue": {
+      "message": "เส้นขอบที่จะใช้ (ค่า css)"
+   },
+   "clear": {
+      "message": "ชัดเจน"
+   },
+   "clearSync": {
+      "message": "จัดเก็บซิงค์ที่ชัดเจน"
+   },
+   "closeAndExit": {
+      "message": "ปิดและเลือกโหมดการเลือกสี"
+   },
+   "colorOfDay": {
+      "message": "สีของวัน"
+   },
+   "copycolorval": {
+      "message": "คัดลอกค่าสี"
+   },
+   "dblClick": {
+      "message": "ดับเบิลคลิก"
+   },
+   "default": {
+      "message": "ค่าเริ่มต้น"
+   },
+   "disablePickEveryTime": {
+      "message": "ไม่เริ่มต้นการเลือกป๊อปอัปแต่ละครั้งที่มีการคลิก"
+   },
+   "disableRewriting": {
+      "message": "ปิดการใช้งาน Affiliate ของลิงค์ที่ไม่ใช่ Affiliate"
+   },
+   "error": {
+      "message": "ความผิดพลาด"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "เรียกการตั้งค่าจากที่เก็บซิงค์บัญชี Google"
+   },
+   "fishEye": {
+      "message": "ปลาตาซูมจำนวน"
+   },
+   "full": {
+      "message": "เต็ม"
+   },
+   "hasAgreedToLicense": {
+      "message": "ได้ตกลงที่จะเงื่อนไขการใช้งาน"
+   },
+   "help": {
+      "message": "ช่วยเหลือ / ข้อมูล"
+   },
+   "hideMinimize": {
+      "message": "ซ่อน / ลด "
+   },
+   "history": {
+      "message": "ประวัติศาสตร์"
+   },
+   "iconIsBitmap": {
+      "message": "ไอคอนถูกซูมภาพตัวอย่างพิกเซล"
+   },
+   "iconIsPreview": {
+      "message": "ใช้ไอคอนป้ายแสดงตัวอย่างสีสี่เหลี่ยม"
+   },
+   "loadsyncOptions": {
+      "message": "ซิงค์ตัวเลือกการเก็บข้อมูลได้รับการโหลดและบันทึกแล้ว"
+   },
+   "maxZoom": {
+      "message": "ซูมสูงสุด"
+   },
+   "modifyLicense": {
+      "message": "แก้ไขใบอนุญาต"
+   },
+   "noSwatches": {
+      "message": "คลิกสีในประวัติสีเพื่อเพิ่มลงในจานสีสำหรับการบันทึกและการพิมพ์"
+   },
+   "off": {
+      "message": "ปิด"
+   },
+   "on": {
+      "message": "บน"
+   },
+   "options": {
+      "message": "ตัวเลือก"
+   },
+   "pickAgainLocked": {
+      "message": "เลือกสีอื่น [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "เลือกสีปัจจุบัน [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "เริ่มเลือกสีทุกครั้งที่มีการคลิกป๊อปอัป"
+   },
+   "pixelatedPreview": {
+      "message": "ภาพตัวอย่างแบบซูมจะเรียงเป็นภาพ"
+   },
+   "popOutWindow": {
+      "message": "Pop-out (หน้าต่างแยก)"
+   },
+   "pressEnterToPick": {
+      "message": "กด Enter เพื่อเลือกสี"
+   },
+   "printSave": {
+      "message": "พิมพ์ / บันทึก..."
+   },
+   "reSnapPage": {
+      "message": "รีเฟรชภาพหน้า [r]"
+   },
+   "registerButton": {
+      "message": "การลงทะเบียน"
+   },
+   "registered": {
+      "message": "ลงทะเบียน"
+   },
+   "resetIcon": {
+      "message": "เปลี่ยนกลับเป็นไอคอนปกติ"
+   },
+   "rightClick": {
+      "message": "คลิกขวา"
+   },
+   "saveOptions": {
+      "message": "บันทึกตัวเลือก"
+   },
+   "savedoptions": {
+      "message": "ตัวเลือกที่บันทึกไว้"
+   },
+   "seeTerms": {
+      "message": "ดูข้อกำหนดในการใช้งาน"
+   },
+   "shareClors": {
+      "message": "สีของสถิติวัน (ดูข้อกำหนดในการใช้งาน)"
+   },
+   "showColorChooser": {
+      "message": "แสดง color chooser"
+   },
+   "showDefaults": {
+      "message": "แสดงค่าเริ่มต้น"
+   },
+   "showPreviousClr": {
+      "message": "แสดงตัวอย่างสีแยกกับสีก่อนหน้า"
+   },
+   "showndefaults": {
+      "message": "โปรดกดบันทึกตอนนี้แสดงค่าเริ่มต้น"
+   },
+   "sort": {
+      "message": "ประเภท"
+   },
+   "terms": {
+      "message": "ข้อกำหนดการใช้งาน"
+   },
+   "unregistered": {
+      "message": "เชลยศักดิ์"
+   },
+   "usageStatistics": {
+      "message": "รวบรวมสถิติการใช้งาน (ดูข้อกำหนดการใช้งาน)"
+   },
+   "useCSSValues": {
+      "message": "ใช้ค่า css สำหรับ RGB/HSL"
+   },
+   "usePNG": {
+      "message": "ใช้ PNG คุณภาพเมื่อมี"
+   },
+   "usePrevColorBG": {
+      "message": "ใช้สีก่อนหน้าสำหรับพื้นหลัง"
+   }
+}

@@ -1,0 +1,21 @@
+2023/09/08-15:46:43.268 1a79 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/Local Extension Settings/pgjjikdiikihdfpoppgaidccahalehjh/MANIFEST-000001
+2023/09/08-15:46:43.269 1a79 Recovering log #25
+2023/09/08-15:46:43.270 1a79 Reusing old log /home/saharsh/.config/vivaldi/Default/Local Extension Settings/pgjjikdiikihdfpoppgaidccahalehjh/000025.log 
+2023/09/08-21:52:50.206 1a7c Compacting 1@1 + 1@2 files
+2023/09/08-21:52:50.214 1a7c Generated table #28@1: 5 keys, 18713 bytes
+2023/09/08-21:52:50.214 1a7c Compacted 1@1 + 1@2 files => 18713 bytes
+2023/09/08-21:52:50.217 1a7c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/08-21:52:50.218 1a7c Delete type=2 #24
+2023/09/08-21:52:50.218 1a7c Delete type=2 #26
+2023/09/09-13:57:50.715 1a7c Level-0 table #30: started
+2023/09/09-13:57:50.730 1a7c Level-0 table #30: 1635681 bytes OK
+2023/09/09-13:57:50.734 1a7c Delete type=0 #25
+2023/09/10-01:39:35.751 1a78 Compacting 1@1 + 1@2 files
+2023/09/10-01:39:35.760 1a78 Generated table #31@1: 5 keys, 19277 bytes
+2023/09/10-01:39:35.760 1a78 Compacted 1@1 + 1@2 files => 19277 bytes
+2023/09/10-01:39:35.769 1a78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/10-01:39:35.769 1a78 Delete type=2 #28
+2023/09/10-01:39:35.769 1a78 Delete type=2 #30
+2023/09/10-13:55:06.345 1a79 Level-0 table #33: started
+2023/09/10-13:55:06.367 1a79 Level-0 table #33: 1613547 bytes OK
+2023/09/10-13:55:06.382 1a79 Delete type=0 #29

@@ -1,0 +1,144 @@
+{
+  "audio": {
+    "captureTab": "capturar",
+    "releaseTab": "libertar",
+    "split": "dividir",
+    "mono": "mono",
+    "reverse": "áudio reverso",
+    "pan": "panorâmica"
+  },
+  "warnings": {
+    "backdropFirefox": "Firefox users need to enable \"gfx.webrender.all\" and \"layout.css.backdrop-filter.enabled\" by accessing the \"about:config\" URL. Restart Firefox after enabling both flags.",
+    "unusedGlobal": "Solte as teclas de atalho globais não utilizadas",
+    "selectTooltip": "Selecione o vídeo preferido para as teclas de atalho da mídia. Útil se você deseja controlar a música de fundo a partir de uma guia diferente (ou de outro programa com teclas de atalho globais).",
+    "sliderTooltip": "⇧ mantenha pressionada a tecla Shift para controle preciso."
+  },
+  "token": {
+    "create": "crio",
+    "reset": "redefinir",
+    "hide": "ocultar",
+    
+    "on": "ligado",
+    "off": "desligado",
+    "toggle": "alternancia",
+    
+    "element": "elemento",
+    "backdrop": "fundo",
+    "both": "ambos",
+    
+    "query": "seletor",
+    "warning": "aviso",
+    "filters": "filtros",
+    "transforms": "transformar",
+
+    "blockEvents": "bloquear eventos",
+    "hideIndicator": "indicador de ocultar",
+    "indicator": "indicador",
+    "color": "cor",
+    "size": "tamanho",
+    "rounding": "arredondado",
+    "duration": "duração",
+    "offset": "deslocamento",
+    "rows": "linhas",
+    
+    "any": "qualquer",
+    "all": "todos",
+    "copy": "copiar",
+    "paste": "colar"
+  },
+  "filter": {
+    "grayscale": "escala de cinza",
+    "sepia": "sépia",
+    "hueRotate": "matiz",
+    "contrast": "contraste",
+    "brightness": "brilho",
+    "saturate": "saturação",
+    "invert": "inverter",
+    "blur": "desfoque",
+    "opacity": "opacidade",
+    "scaleX": "escala X",
+    "scaleY": "escala Y",
+    "translateX": "transladar X",
+    "translateY": "transladar Y",
+    "rotateX": "girar X",
+    "rotateY": "girar Y",
+    "rotateZ": "girar Z"
+  },
+  "fxPanel": {
+    "queryTooltip": "Seletor de CSS usado para encontrar elementos para filtrar. Por exemplo, 'video, img' selecionará vídeos e imagens. Para uso avançado, consulte a documentação online sobre seletores de CSS.",
+    "intoPane": "criar janela"
+  },
+  "command": {
+    "nothing": "nenhuma ação",
+    "runCode": "javascript",
+    "openUrl": "Abrir URL",
+    "adjustSpeed": "velocidade",
+    "speedChangesPitch": "velocidade muda tom",
+    "setPin": "fixar guia",
+    "setState": "estado",
+    "seek": "ajustar posição",
+    "setPause": "pausa",
+    "setMute": "ativar mudo",
+    "adjustVolume": "volume",
+    "setMark": "definir marcador",
+    "seekMark": "vá para o marcador",
+    "toggleLoop": "repita AB",
+    "toggleLoopTooltip": "Repita o vídeo da posição marcada para a posição atual.",
+    "fullscreen": "tela inteira",
+    "nativeTooltip": "nativo",
+    "PiP": "imagem na imagem",
+    "setFx": "estado FX",
+    "resetFx": "redefinir FX",
+    "flipFx": "trocar FX",
+    "adjustFilter": "filtro FX",
+    "adjustPitch": "tom de som",
+    "adjustGain": "volume+",
+    "adjustDelay": "atraso",
+    "tabCapture": "capturar",
+    "relativeTooltip": "relativo à velocidade",
+    "fastSeekTooltip": "mais rápido mas menos preciso",
+    "showNetTooltip": "mostrar duração líquida"
+  },
+  "options": {
+    "flags": {
+      "header": "Opções",
+      "language": "língua",
+      "languageTooltip": "Todos os idiomas, exceto o inglês, foram traduzidos usando ferramentas online. Eles geralmente são lixo.",
+      "darkTheme": "tema escuro",
+      "pinByDefault": "fixar por padrão",
+      "pinByDefaultTooltip": "Novas guias serão automaticamente fixadas.",
+      "hideBadge": "esconder emblema",
+      "hideBadgeTooltip": "O emblema é o texto no ícone de extensão.",
+      "fullscreenSupport": "tela inteira",
+      "ghostMode": "modo fantasma",
+      "ghostModeTooltip": "Tente impedir que o site mude de velocidade. Desabilitado por padrão, pois pode quebrar alguns sites.",
+      "hideMediaView": "ocultar lista de mídia",
+      "inheritGlobal": "herdar global",
+      "inheritGlobalTooltip": "As novas guias podem herdar o contexto da guia anterior ou o contexto global."
+    },
+    "editor": {
+      "header": "Editor de Atalhos",
+      "toggleMode": "Você pode usar teclas de atalho locais ou globais.",
+      "toggleModeTooltip": "Atalhos globais são úteis quando você deseja controlar vídeo ou áudio enquanto usa outro programa.",
+      "greedyMode": "Tentará bloquear o comportamento padrão das teclas de atalho.",
+      "speedPresets": "predefinições de velocidade"
+    },
+    "rules": {
+      "header": "Regras de URL",
+      "conditions": "condições de URL",
+      "startsWith": "começa com",
+      "contains": "contém",
+      "regex": "regex",
+      "LAX": "Aplique apenas uma vez por guia.",
+      "ILO": "Verifique apenas durante o carregamento da página inicial."
+    },
+    "help": {
+      "header": "Socorro",
+      "issuePrompt": "Tem problemas ou uma sugestão?",
+      "issueDirective": "Dê feedback no Github.",
+      "export": "exportar",
+      "import": "importar",
+      "areYouSure": "Você tem certeza?"
+    }
+  }
+}

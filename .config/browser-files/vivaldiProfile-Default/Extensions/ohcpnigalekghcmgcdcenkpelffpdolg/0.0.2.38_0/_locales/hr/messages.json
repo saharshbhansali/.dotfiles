@@ -1,0 +1,197 @@
+{
+   "EnableHSL": {
+      "message": "Pokazati HSL"
+   },
+   "EnableRGB": {
+      "message": "Pokazati RGB"
+   },
+   "addToPalette": {
+      "message": "Dodajte paletu boja"
+   },
+   "advancedOptions": {
+      "message": "Napredne opcije"
+   },
+   "allowWebGl": {
+      "message": "Omogućite webgl za pikselizirani pregled"
+   },
+   "appleIcon": {
+      "message": "Koristiti Apple Digital Logotip mjerača boja"
+   },
+   "approved": {
+      "message": "Odobren"
+   },
+   "bbackgroundColor": {
+      "message": "Boja pozadinske slike"
+   },
+   "bgPageUnavailable": {
+      "message": "Pozadinska snimka ne reagira - osvježite stranicu i pokušajte ponovo."
+   },
+   "borderValue": {
+      "message": "Granice za upotrebu (css vrijednost)"
+   },
+   "clear": {
+      "message": "Čisto"
+   },
+   "clearSync": {
+      "message": "Jasno pohranjivanje sinkronizacije"
+   },
+   "closeAndExit": {
+      "message": "Zatvorite i izađite iz moda odabira boje"
+   },
+   "colorOfDay": {
+      "message": "Boja dana"
+   },
+   "copycolorval": {
+      "message": "Kopirajte vrijednost boje"
+   },
+   "dblClick": {
+      "message": "Dvostruki klik"
+   },
+   "default": {
+      "message": "Zadano"
+   },
+   "disablePickEveryTime": {
+      "message": "Ne počnite branje svaki put kad kliknete na skočni prozor"
+   },
+   "disableRewriting": {
+      "message": "Onemogućiti povezivanje ne-afilijacijskih veza"
+   },
+   "error": {
+      "message": "Greška"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Dohvaćanje postavki iz pohrane za sinkronizaciju Google računa"
+   },
+   "fishEye": {
+      "message": "Količinu zuma povećane količine ribe"
+   },
+   "full": {
+      "message": "Puni"
+   },
+   "hasAgreedToLicense": {
+      "message": "Složio se s uvjetima korištenja"
+   },
+   "help": {
+      "message": "Pomoć / info"
+   },
+   "hideMinimize": {
+      "message": "Skrivanje / minimizira "
+   },
+   "history": {
+      "message": "Povijest"
+   },
+   "iconIsBitmap": {
+      "message": "Ikona je zumirana pregled piksela"
+   },
+   "iconIsPreview": {
+      "message": "Upotrijebite ikonu značke kvadrata u boji"
+   },
+   "loadsyncOptions": {
+      "message": "Učitane su i spremljene opcije pohrane za sinkronizaciju."
+   },
+   "maxZoom": {
+      "message": "Maks. zumiran"
+   },
+   "modifyLicense": {
+      "message": "Izmijenite licencu"
+   },
+   "noSwatches": {
+      "message": "Kliknite boje u povijesti boja kako biste ih dodali u paletu za spremanje i ispis."
+   },
+   "off": {
+      "message": "Od"
+   },
+   "on": {
+      "message": "Na"
+   },
+   "options": {
+      "message": "Opcije"
+   },
+   "pickAgainLocked": {
+      "message": "Odaberite drugu boju [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Odaberite trenutnu boju [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Započnite branje boja svaki put kad kliknete na skočni prozor"
+   },
+   "pixelatedPreview": {
+      "message": "Zumirani pregled piksela je"
+   },
+   "popOutWindow": {
+      "message": "Pop-out (zasebni prozor)"
+   },
+   "pressEnterToPick": {
+      "message": "Pritisnite tipku Enter da biste odabrali boju"
+   },
+   "printSave": {
+      "message": "Ispisati / spasiti..."
+   },
+   "reSnapPage": {
+      "message": "Osvježite sliku stranice [r]"
+   },
+   "registerButton": {
+      "message": "Registrirajte se"
+   },
+   "registered": {
+      "message": "Zabilježen"
+   },
+   "resetIcon": {
+      "message": "Vratite se na normalnu ikonu"
+   },
+   "rightClick": {
+      "message": "Desni klik"
+   },
+   "saveOptions": {
+      "message": "Spremite opcije"
+   },
+   "savedoptions": {
+      "message": "Opcije spremljene."
+   },
+   "seeTerms": {
+      "message": "Pogledajte uvjete korištenja"
+   },
+   "shareClors": {
+      "message": "Boja dana statistike (vidi uvjete korištenja)"
+   },
+   "showColorChooser": {
+      "message": "Prikaži odabir boje"
+   },
+   "showDefaults": {
+      "message": "Prikazati zadane postavke"
+   },
+   "showPreviousClr": {
+      "message": "Prikazati prikaz split boje u prethodnoj boji"
+   },
+   "showndefaults": {
+      "message": "Molimo pritisnite spremanje, sada prikazuje zadane postavke."
+   },
+   "sort": {
+      "message": "vrsta"
+   },
+   "terms": {
+      "message": "Uvjeti korištenja"
+   },
+   "unregistered": {
+      "message": "Neregistrovan"
+   },
+   "usageStatistics": {
+      "message": "Prikupljanje statističkih podataka o korištenju (vidi uvjete korištenja)"
+   },
+   "useCSSValues": {
+      "message": "Koristiti css vrijednosti za RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Koristiti PNG kad je dostupna"
+   },
+   "usePrevColorBG": {
+      "message": "Upotrijebite prethodnu boju za pozadinu"
+   }
+}

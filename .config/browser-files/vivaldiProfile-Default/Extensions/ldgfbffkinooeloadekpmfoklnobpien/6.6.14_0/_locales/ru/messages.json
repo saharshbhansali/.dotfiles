@@ -1,0 +1,42 @@
+{
+   "appDesc": {
+      "description": "",
+      "message": "Менеджер закладок \"все в одном\""
+   },
+   "in": {
+      "description": "",
+      "message": "в"
+   },
+   "openRaindrop": {
+      "description": "",
+      "message": "Открыть Raindrop.io web-сайт"
+   },
+   "openSidePanel": {
+      "description": "",
+      "message": "Открыть боковая панель"
+   },
+   "saveHighlight": {
+      "description": "",
+      "message": "Сохранить пометки"
+   },
+   "saveImage": {
+      "description": "",
+      "message": "Сохранить картинка"
+   },
+   "saveLink": {
+      "description": "",
+      "message": "Сохранить ссылка"
+   },
+   "savePage": {
+      "description": "",
+      "message": "Создать новая закладка"
+   },
+   "savePageOrHighlight": {
+      "description": "",
+      "message": "Новая закладка / Сохранить пометки"
+   },
+   "saveVideo": {
+      "description": "",
+      "message": "Сохранить видео"
+   }
+}

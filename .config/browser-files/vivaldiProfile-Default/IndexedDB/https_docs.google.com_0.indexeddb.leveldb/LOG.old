@@ -1,0 +1,7 @@
+2023/09/03-21:53:01.703 1475 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/03-21:53:01.704 1475 Recovering log #3
+2023/09/03-21:53:01.704 1475 Reusing old log /home/saharsh/.config/vivaldi/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000003.log 
+2023/09/03-22:01:32.560 1476 Level-0 table #5: started
+2023/09/03-22:01:32.563 1476 Level-0 table #5: 8342 bytes OK
+2023/09/03-22:01:32.566 1476 Delete type=0 #3
+2023/09/03-22:01:32.566 1476 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "Учетная запись"
+   },
+   "AppDescription": {
+      "message": "Просмотр, изменение и создание документов в браузере."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "Просматривайте, правьте и создавайте файлы в браузере и публикуйте свои лучшие тексты в Интернете."
+   },
+   "AppFolderName": {
+      "message": "Расширение Office для браузера"
+   },
+   "AppListLabel": {
+      "message": "Веб-приложения"
+   },
+   "AppLongDescription": {
+      "message": "Создано для Chrome: пользуйтесь Word, Excel, PowerPoint, OneNote и Sway Online, не устанавливая Microsoft 365.\r\n\r\nПривычные инструменты для творчества: выражайте свои идеи с помощью знакомых параметров форматирования и макета.\r\n\r\nРабота вне офиса: ваши файлы всегда будут с вами благодаря интеграции с OneDrive и OneDrive для бизнеса.\r\n\r\nУстанавливая приложение, вы принимаете эти условия: http://aka.ms/officechromeextensionterms\r\n\r\nПолитика конфиденциальности: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Расширение Microsoft 365 для браузера добавляет на панель инструментов Microsoft Edge значок, с помощью которого вы будете иметь прямой доступ к своим файлам Microsoft 365, хранящимся в Интернете и на компьютере.\r\n\r\nРасширение Microsoft 365 для браузера может открывать файлы, хранящиеся в OneDrive и OneDrive для бизнеса.\r\n\r\nВы сможете использовать возможности Word, Excel, PowerPoint, OneNote и Sway прямо в браузере без установки Microsoft 365.\r\n\r\nРасширение Microsoft 365 для браузера теперь включает проверку правописания в содержимом*. Она подключается к веб-службе Майкрософт, предлагающей варианты исправления орфографических и грамматических ошибок, а также улучшения при вводе на большинстве веб-сайтов и доступной на более чем 80 языках.\r\n\r\n* Эта функция может быть доступна не всем пользователям.\r\n\r\nУстанавливая приложение, вы соглашаетесь со следующими условиями: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Создано для Chrome — используйте Word, Excel, PowerPoint, OneNote и Sway Online без установки Microsoft 365.\r\n\r\nСоздавайте с уверенностью — используйте знакомые параметры форматирования и макета для точного выражения своих идей.\r\n\r\nРаботайте на ходу — открывайте свои файлы на любом устройстве благодаря интеграции с OneDrive и OneDrive для бизнеса.\r\n\r\nРасширение Microsoft 365 для браузера теперь включает проверку правописания в содержимом*. Она подключается к веб-службе Майкрософт, предлагающей варианты исправления орфографических и грамматических ошибок, а также улучшения при вводе на большинстве веб-сайтов и доступной на более чем 80 языках.\r\n\r\n* Эта функция может быть доступна не всем пользователям.\r\n\r\nУстанавливая приложение, вы соглашаетесь со следующими условиями: http://aka.ms/officechromeextensionterms\r\n\r\nПолитика конфиденциальности: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "Просмотреть все приложения"
+   },
+   "AppsSectionHeader": {
+      "message": "Приложения"
+   },
+   "BrowseToOpenLabel": {
+      "message": "Добавить и открыть..."
+   },
+   "CopyrightLabel": {
+      "message": "Корпорация Майкрософт (Microsoft Corporation), 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Создать учетную запись"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Нет недавно просмотренных документов."
+   },
+   "CreateNewLabel": {
+      "message": "Создать"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Выключить Корректор на сайте $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Не удается получить список последних документов."
+   },
+   "EditorBrandText": {
+      "message": "Корректор"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Грамматика"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Сейчас Корректор не поддерживается на сайте $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Сейчас Корректор выключен на сайте $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Корректор выключен."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Корректор включен в $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(предварительная версия)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "Служба Корректора предоставляется с помощью расширения Корректора (Майкрософт)."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Получите передовые идеи по написанию текстов и хранилище размером 1 ТБ при переходе на премиум-версию."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Стиль"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Уточнения — это передовые советы по литературной правке, которые помогают сделать текст более понятным, формальным и лаконичным."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Правописание"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Включить Корректор на сайте $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Тип файла не поддерживается. Выберите документ Word, Excel или PowerPoint."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Загрузка..."
+   },
+   "MoreFilesLabel": {
+      "message": "Другие документы"
+   },
+   "MyAccountLabel": {
+      "message": "Просмотреть мою учетную запись"
+   },
+   "NextLabel": {
+      "message": "Вход"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Больше не показывать"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Мы сохранили ваш файл в папке \"Расширение Office для браузера\" в OneDrive."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Мы сохранили ваш файл в папке \"Расширение Office для браузера\" в OneDrive для бизнеса."
+   },
+   "NotificationFileAccess": {
+      "message": "Если вы хотите перетащить файлы в браузер, в параметрах расширения для этого браузера установите флажок \"Разрешить доступ к URL-адресам файлов\"."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Расширению Office для браузера не удается открыть документ из-за размера.  Чтобы открыть документ, загрузите его непосредственно в OneDrive."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "К сожалению, не удалось открыть файл."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "К сожалению, не удалось открыть файл. Повторите попытку позже."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "К сожалению, не удалось открыть файл.  Выберите файл, созданный в Word, Excel или PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "В настоящий момент идет отправка документов."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Возможно, ваша подписка на Microsoft 365 не включает OneDrive для бизнеса или срок ее действия истек. Проверьте свою подписку или войдите с помощью учетной записи Майкрософт."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Войдите в расширение для просмотра и редактирования файлов Microsoft 365 в Интернете."
+   },
+   "NotificationSetDefault": {
+      "message": "Чтобы открыть документ в Office, коснитесь его двумя пальцами в приложении \"Файлы\"."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Выберите файл, созданный в Word, Excel или PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Документ открывается в браузере с помощью расширения Microsoft 365"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Больше не показывать"
+   },
+   "O365FilesLabel": {
+      "message": "Из OneDrive для бизнеса"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "Вы не в сети. Повторно подключитесь, чтобы использовать Microsoft 365 браузера."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Из OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Открыть"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Документы"
+   },
+   "SettingsLabel": {
+      "message": "Параметры"
+   },
+   "ShareMessage": {
+      "message": "Поделиться"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Требуется разрешение"
+   },
+   "SharePermissionsTooltip": {
+      "message": "У вас нет разрешения для общего доступа"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Где вы хотите сохранить файлы?"
+   },
+   "SignInLabel": {
+      "message": "Вход"
+   },
+   "SignInMSALabel": {
+      "message": "Войти в учетную запись Майкрософт"
+   },
+   "SignInO365Label": {
+      "message": "Войти в рабочую или учебную учетную запись"
+   },
+   "SignOutLabel": {
+      "message": "Выход"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "Служба Корректора предоставляется с помощью расширения Корректора (Майкрософт)."
+   },
+   "SupportPageLabel": {
+      "message": "Не удается войти?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Автоматически отправляя данные, вы поможете нам улучшить наши продукты."
+   },
+   "TurnOnEditorLabel": {
+      "message": "Включите Корректор"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "Отправить в OneDrive для бизнеса"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "Отправить в OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "Вход не выполнен"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Откройте Microsoft 365 файлы непосредственно в браузере с помощью Microsoft 365."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

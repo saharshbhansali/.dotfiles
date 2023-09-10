@@ -1,0 +1,42 @@
+{
+   "appDesc": {
+      "description": "",
+      "message": "Allt i ett bokmärkeshanterare"
+   },
+   "in": {
+      "description": "",
+      "message": "i"
+   },
+   "openRaindrop": {
+      "description": "",
+      "message": "Öppna Raindrop.io web-sida"
+   },
+   "openSidePanel": {
+      "description": "",
+      "message": "Öppna sidofält"
+   },
+   "saveHighlight": {
+      "description": "",
+      "message": "Spara höjdpunkter"
+   },
+   "saveImage": {
+      "description": "",
+      "message": "Spara foto"
+   },
+   "saveLink": {
+      "description": "",
+      "message": "Spara länk"
+   },
+   "savePage": {
+      "description": "",
+      "message": "Skapa nya bokmärken"
+   },
+   "savePageOrHighlight": {
+      "description": "",
+      "message": "Nya bokmärken / Spara höjdpunkter"
+   },
+   "saveVideo": {
+      "description": "",
+      "message": "Spara video"
+   }
+}

@@ -1,0 +1,15 @@
+/**
+ * @name YouTube DeepDark
+ * @author RaitaroH
+ * @license GNU General Public License v3.0
+ * @repository https://github.com/RaitaroH/YouTube-DeepDark
+ */
+:root{
+--main-color:#e52117;
+--main-background:#f9f9f9;
+--second-background:#ffffff;
+--hover-background:#eaeaea;
+--main-text:#111111;
+--dimmer-text:#43434b;
+--shadow:0 1px .5px rgba(0, 0, 0, .13)
+}

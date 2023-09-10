@@ -1,0 +1,6 @@
+2023/08/31-22:04:58.784 14542 Creating DB /home/saharsh/.config/vivaldi/Default/IndexedDB/https_balkanid.notion.site_0.indexeddb.leveldb since it was missing.
+2023/08/31-22:04:58.790 14542 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/IndexedDB/https_balkanid.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/31-22:04:59.035 14543 Level-0 table #5: started
+2023/08/31-22:04:59.037 14543 Level-0 table #5: 562 bytes OK
+2023/08/31-22:04:59.040 14543 Delete type=0 #3
+2023/08/31-22:04:59.040 14542 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

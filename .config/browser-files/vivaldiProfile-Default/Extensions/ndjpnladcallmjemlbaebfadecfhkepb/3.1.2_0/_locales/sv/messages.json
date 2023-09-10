@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "Konto"
+   },
+   "AppDescription": {
+      "message": "Visa, redigera och skapa dokument i webbläsaren."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "Visa, redigera och skapa filer i webbläsaren och ta fram ditt bästa skrivande på webben."
+   },
+   "AppFolderName": {
+      "message": "Microsoft 365-webbläsartillägg"
+   },
+   "AppListLabel": {
+      "message": "Webbappar"
+   },
+   "AppLongDescription": {
+      "message": "Skapad för Chrome – Använd Word, Excel, PowerPoint, OneNote och Sway Online utan att behöva ha Microsoft 365 installerat.\r\n\r\nSkapa i en miljö du känner igen – Använd bekanta format- och layoutalternativ för att uttrycka dina idéer exakt.\r\n\r\nArbeta på resande fot – Hämta filerna var de än finns, tack vare integrering med OneDrive och OneDrive för företag.\r\n\r\nGenom att installera appen godkänner du följande villkor: http://aka.ms/officechromeextensionterms\r\n\r\nSekretesspolicy: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Med Microsoft 365-webbläsartillägget läggs en ikon i verktygsfältet i Microsoft Edge som ger dig direkt tillgång till Office-filer, oavsett om de lagras online eller på din dator.\r\n\r\nMed Microsoft 365-webbtillägg kan du öppna filer som lagras i OneDrive och OneDrive för företag.\r\n\r\nDu får funktionerna i Word, Excel, PowerPoint, OneNote och Sway direkt i webbläsaren utan att Microsoft 365 behöver vara installerat.\r\n\r\nMicrosoft 365-webbläsartillägget innehåller nu språkkontroll av innehållet*. Den ansluter till en Microsoft-onlinetjänst med stavnings-, grammatik- och förbättringsförslag för ditt skrivande på de flesta webbplatser och finns på mer än 80 språk.\r\n\r\n*Det kan hända att den här funktionen inte är tillgänglig för alla användare.\r\n\r\nGenom att installera appen godkänner du dessa regler och villkor: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Skapat för Chrome – Använd Word, Excel, PowerPoint, OneNote och Sway Online utan att Microsoft 365 behöver vara installerat.\r\n\r\nSkapa enkelt – Använd välbekanta formaterings- och layoutalternativ för att uttrycka dina idéer.\r\n\r\nArbeta var du än befinner dig – Öppna dina filer var du än är, tack vare integration med OneDrive och OneDrive för företag.\r\n\r\nMicrosoft 365-webbläsartillägget innehåller nu språkkontroll av innehållet*. Den ansluter till en Microsoft-onlinetjänst med stavnings-, grammatik- och förbättringsförslag för ditt skrivande på de flesta webbplatser och finns på mer än 80 språk.\r\n\r\n*Det kan hända att den här funktionen inte är tillgänglig för alla användare.\r\n\r\nGenom att installera appen godkänner du dessa regler och villkor: http://aka.ms/officechromeextensionterms\r\n\r\nSekretesspolicy: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "Utforska alla dina appar"
+   },
+   "AppsSectionHeader": {
+      "message": "Appar"
+   },
+   "BrowseToOpenLabel": {
+      "message": "Ladda upp och öppna..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Skapa ett konto"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Inga nyligen visade dokument."
+   },
+   "CreateNewLabel": {
+      "message": "Nytt"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Inaktivera Editor på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Det går inte att hämta listan över senast använda dokument just nu."
+   },
+   "EditorBrandText": {
+      "message": "Editor"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Grammatik"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Editor stöds för närvarande inte på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editor är för närvarande inaktiverat på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Editor är avstängt."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Redaktören ingår i $host $",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(Förhandsversion)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "Editor-tjänsten tillhandahålls av Microsoft Editor-tillägget."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Få avancerade skrividéer och 1 TB lagring genom att använda Premium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Förbättringar"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Förfiningar är avancerade skrivförslag som gör ditt skrivande tydligare, mer koncist eller mer formellt."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Stavning"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Aktivera Editor på $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Filtypen stöds inte. Välj ett Word-, Excel- eller PowerPoint-dokument."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Läser in..."
+   },
+   "MoreFilesLabel": {
+      "message": "Fler dokument"
+   },
+   "MyAccountLabel": {
+      "message": "Visa mitt konto"
+   },
+   "NextLabel": {
+      "message": "Logga in"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Visa inte detta meddelande igen"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Filen har sparats i mappen Microsoft 365-webbläsartillägg på OneDrive."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Filen har sparats i mappen Microsoft 365-webbläsartillägg på OneDrive för företag."
+   },
+   "NotificationFileAccess": {
+      "message": "I inställningarna för tillägget markerar du kryssrutan \"Tillåt åtkomst till fil-URL:er\" om du vill dra och släppa filer i webbläsaren."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Microsoft 365-webbläsartillägg kan inte öppna dokumentet på grund av storleken.  Överför direkt till OneDrive för att öppna dokumentet."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Det går inte att öppna filen."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Det går inte att öppna filen.  Försök igen senare."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Det går inte att öppna filen.  Välj en fil som har skapats med Word, Excel eller PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "Ett eller flera dokument laddas upp."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Din Microsoft 365-prenumeration kan ha gått ut eller innehåller kanske inte OneDrive för företag. Kontrollera prenumerationen eller logga in med ett Microsoft-konto istället."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Logga in på tillägget om du vill visa och redigera filer i Microsoft 365 på webben."
+   },
+   "NotificationSetDefault": {
+      "message": "Tryck på dokument med två fingrar i appen Filer för att öppna dem med Microsoft 365."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Välj en fil som har skapats med Word, Excel eller PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Det Microsoft 365 tillägget öppnar dokumentet i webbläsaren"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Visa inte detta meddelande igen"
+   },
+   "O365FilesLabel": {
+      "message": "Från OneDrive för företag"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "Du är offline. Anslut igen om du vill använda Microsoft 365-webbläsartillägget."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Från OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Öppna"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Dokument"
+   },
+   "SettingsLabel": {
+      "message": "Inställningar"
+   },
+   "ShareMessage": {
+      "message": "Dela"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Behörighet krävs"
+   },
+   "SharePermissionsTooltip": {
+      "message": "Du har inte behörighet att dela"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Var vill du spara dina filer?"
+   },
+   "SignInLabel": {
+      "message": "Logga in"
+   },
+   "SignInMSALabel": {
+      "message": "Logga in med ditt Microsoft-konto"
+   },
+   "SignInO365Label": {
+      "message": "Logga in med ett arbets- eller skolkonto"
+   },
+   "SignOutLabel": {
+      "message": "Logga ut"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "Editor-tjänsten tillhandahålls av Microsoft Editor-tillägget."
+   },
+   "SupportPageLabel": {
+      "message": "Behöver du hjälp med att logga in?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Skicka data automatiskt för att hjälpa oss att förbättra våra produkter."
+   },
+   "TurnOnEditorLabel": {
+      "message": "Aktivera Editor"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "Ladda upp till OneDrive för företag"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "Ladda upp till OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "Inte inloggad"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Öppna Microsoft 365 filer direkt i webbläsaren med Microsoft 365."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

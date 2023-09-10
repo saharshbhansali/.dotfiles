@@ -1,0 +1,197 @@
+{
+   "EnableHSL": {
+      "message": "షో HSL"
+   },
+   "EnableRGB": {
+      "message": "షో RGB"
+   },
+   "addToPalette": {
+      "message": "రంగుల పాలెట్కు జోడించండి"
+   },
+   "advancedOptions": {
+      "message": "అధునాతన ఎంపికలు"
+   },
+   "allowWebGl": {
+      "message": "Pixelated preview కోసం webgl ను అనుమతించండి"
+   },
+   "appleIcon": {
+      "message": "వా డు Apple Digital రంగు మీటర్ లోగో"
+   },
+   "approved": {
+      "message": "ఆమోదం"
+   },
+   "bbackgroundColor": {
+      "message": "పాపప్ నేపథ్య రంగు"
+   },
+   "bgPageUnavailable": {
+      "message": "నేపథ్య స్నాప్షాట్ ప్రతిస్పందించడం లేదు - దయచేసి పేజీని రిఫ్రెష్ చేసి మళ్లీ ప్రయత్నించండి."
+   },
+   "borderValue": {
+      "message": "ఉపయోగించడానికి సరిహద్దులు (css విలువ)"
+   },
+   "clear": {
+      "message": "స్పష్టమైన"
+   },
+   "clearSync": {
+      "message": "స్పష్టమైన సమకాలీకరణ నిల్వ"
+   },
+   "closeAndExit": {
+      "message": "దగ్గరగా మరియు నిష్క్రమణ రంగు పిక్ మోడ్"
+   },
+   "colorOfDay": {
+      "message": "రోజు రంగు"
+   },
+   "copycolorval": {
+      "message": "రంగు విలువను కాపీ చేయండి"
+   },
+   "dblClick": {
+      "message": "రెండుసార్లు నొక్కు"
+   },
+   "default": {
+      "message": "డిఫాల్ట్"
+   },
+   "disablePickEveryTime": {
+      "message": "పాపప్ క్లిక్ ప్రతిసారీ ఎంచుకోవడం మొదలు లేదు"
+   },
+   "disableRewriting": {
+      "message": "కాని అనుబంధ లింకులు అనుబంధాన్ని డిసేబుల్"
+   },
+   "error": {
+      "message": "లోపం"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Google ఖాతా సమకాలీకరణ నిల్వ నుండి సెట్టింగ్లను పొందండి"
+   },
+   "fishEye": {
+      "message": "చేపల కన్ను జూమ్ మొత్తం"
+   },
+   "full": {
+      "message": "పూర్తి"
+   },
+   "hasAgreedToLicense": {
+      "message": "ఉపయోగ నిబంధనలకు అంగీకరించింది"
+   },
+   "help": {
+      "message": "సహాయం / సమాచారం"
+   },
+   "hideMinimize": {
+      "message": "/ తగ్గించడానికి దాచడానికి "
+   },
+   "history": {
+      "message": "చరిత్ర"
+   },
+   "iconIsBitmap": {
+      "message": "ఐకాన్ పిక్సెల్ ప్రివ్యూను జూమ్ చేసింది"
+   },
+   "iconIsPreview": {
+      "message": "చిహ్నం బ్యాడ్జ్ చదరపు రంగు పరిదృశ్యం ఉపయోగించండి"
+   },
+   "loadsyncOptions": {
+      "message": "సమకాలీకరణ నిల్వ ఎంపికలు లోడ్ చేయబడ్డాయి మరియు సేవ్ చేయబడ్డాయి."
+   },
+   "maxZoom": {
+      "message": "గరిష్టంగా జూమ్ చేయబడింది"
+   },
+   "modifyLicense": {
+      "message": "లైసెన్స్ని సవరించండి"
+   },
+   "noSwatches": {
+      "message": "రంగు చరిత్రలో రంగులు సేవ్ చేయడానికి మరియు ముద్రించడానికి ఒక పాలెట్కు వాటిని జోడించడానికి క్లిక్ చేయండి."
+   },
+   "off": {
+      "message": "ఆఫ్"
+   },
+   "on": {
+      "message": "పై"
+   },
+   "options": {
+      "message": "ఎంపికలు"
+   },
+   "pickAgainLocked": {
+      "message": "మరొక రంగు ఎంచుకోండి [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "ప్రస్తుత రంగును ఎంచుకోండి [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "ప్రతి సమయం పాపప్ క్లిక్ చేయడం రంగులు ఎంచుకోవడం ప్రారంభించండి"
+   },
+   "pixelatedPreview": {
+      "message": "జూమ్ చేయబడిన పరిదృశ్యం పిక్సలేటెడ్"
+   },
+   "popOutWindow": {
+      "message": "పాప్ అవుట్ (ప్రత్యేక విండో)"
+   },
+   "pressEnterToPick": {
+      "message": "రంగును ఎంచుకోవడానికి ఎంటర్ నొక్కండి"
+   },
+   "printSave": {
+      "message": "ముద్రణ / సేవ్..."
+   },
+   "reSnapPage": {
+      "message": "పేజీ యొక్క రిఫ్రెష్ చిత్రం [r]"
+   },
+   "registerButton": {
+      "message": "నమోదు"
+   },
+   "registered": {
+      "message": "నమోదు"
+   },
+   "resetIcon": {
+      "message": "సాధారణ చిహ్నానికి తిరిగి వెళ్ళు"
+   },
+   "rightClick": {
+      "message": "కుడి క్లిక్ చేయండి"
+   },
+   "saveOptions": {
+      "message": "ఎంపికలను సేవ్ చేయండి"
+   },
+   "savedoptions": {
+      "message": "ఎంపికలు సేవ్ చేయబడ్డాయి."
+   },
+   "seeTerms": {
+      "message": "ఉపయోగ నిబంధనలను చూడండి"
+   },
+   "shareClors": {
+      "message": "రోజు గణాంకాల రంగు (ఉపయోగ నిబంధనలను చూడండి)"
+   },
+   "showColorChooser": {
+      "message": "రంగు ఎంచుకోవడం చూపించు"
+   },
+   "showDefaults": {
+      "message": "డిఫాల్ట్లను చూపు"
+   },
+   "showPreviousClr": {
+      "message": "మునుపటి రంగుతో స్ప్లిట్ రంగు పరిదృశ్యం చూపించు"
+   },
+   "showndefaults": {
+      "message": "దయచేసి ఇప్పుడు నొక్కండి, డిఫాల్ట్లను చూపుతుంది."
+   },
+   "sort": {
+      "message": "విధమైన"
+   },
+   "terms": {
+      "message": "ఉపయోగ నిబంధనలు"
+   },
+   "unregistered": {
+      "message": "నమోదుకాని"
+   },
+   "usageStatistics": {
+      "message": "వినియోగ గణాంకాలను సేకరించండి (ఉపయోగ నిబంధనలను చూడండి)"
+   },
+   "useCSSValues": {
+      "message": "కోసం css విలువలు ఉపయోగించండి RGB/HSL"
+   },
+   "usePNG": {
+      "message": "వా డు PNG నాణ్యత అందుబాటులో ఉన్నప్పుడు"
+   },
+   "usePrevColorBG": {
+      "message": "నేపథ్యం కోసం మునుపటి రంగుని ఉపయోగించండి"
+   }
+}

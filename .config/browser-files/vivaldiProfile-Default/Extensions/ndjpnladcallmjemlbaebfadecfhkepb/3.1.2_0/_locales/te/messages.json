@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "ఖాతా"
+   },
+   "AppDescription": {
+      "message": "మీ బ్రౌజర్‌లో పత్రాలను వీక్షించండి, సవరించండి మరియు సృష్టించండి."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "బ్రౌజర్‌లో ఫైల్‌లను వీక్షించండి, సవరించండి మరియు సృష్టించండి మరియు వెబ్ అంతటా మీ ఉత్తమ రచనలను తీసుకురాండి."
+   },
+   "AppFolderName": {
+      "message": "Microsoft 365 బ్రౌజర్ విస్తరింపు"
+   },
+   "AppListLabel": {
+      "message": "వెబ్ అనువర్తనాలు"
+   },
+   "AppLongDescription": {
+      "message": "Chrome కోసం రూపొందించబడింది – Microsoft 365 ఇన్‌స్టాల్ చేయకుండానే Word, Excel, PowerPoint, OneNote మరియు Sway Online‌ని ఉపయోగించండి.\r\n\r\nవిశ్వాసంతో సృష్టించండి – మీ ఆలోచనలను పూర్తి విశ్వసనీయతతో వ్యక్తీకరించడానికి తెలిసిన ఫార్మాటింగ్ మరియు లేఅవుట్ ఎంపికలను ఉపయోగించండి.\r\n\r\nఎక్కడినుండైనా పని చేయండి – OneDrive for Business మరియు OneDriveతో ఏకీకరణకు ధన్యవాదాలు, ఎక్కడి నుండైనా మీ ఫైల్‌లను పొందండి. \r\n\r\nయాప్‌ను ఇన్‌స్టాల్ చేయడం ద్వారా, మీరు ఈ నిబంధనలు మరియు షరతులకు అంగీకరిస్తున్నారు: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacy Policy: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Microsoft 365 బ్రౌజర్ విస్తరింపు Microsoft Edge టూల్‌బార్‌లో ఒక చిహ్నాన్ని ఉంచుతుంది, అది మీ Microsoft 365 ఫైల్‌లను ఆన్‌లైన్‌లో లేదా మీ కంప్యూటర్‌లో నిల్వ చేసినా వాటికి నేరుగా యాక్సెస్‌ని ఇస్తుంది.\r\n\r\nMicrosoft 365 వెబ్ విస్తరింపు OneDrive for Business మరియు OneDriveలో నిల్వ చేయబడిన ఫైల్‌లను తెరవగలదు.\r\n\r\nYమీరు Microsoft 365 ఇన్‌స్టాల్ చేయకుండానే మీ బ్రౌజర్‌లో Word, Excel, PowerPoint, OneNote మరియు Sway యొక్క విశేషాంశాలను పొందుతారు.\r\n\r\nMicrosoft 365 బ్రౌజర్ విస్తరింపు ఇప్పుడు మీ కంటెంట్ ప్రూఫింగ్‌ను కలిగి ఉంది*. ఇది చాలా వెబ్‌సైట్‌లలో మీ రచనల కోసం స్పెల్లింగ్, వ్యాకరణం మరియు మెరుగుదల సూచనలను అందించే మైక్రోసాఫ్ట్ ఆన్‌లైన్ సేవకు కనెక్ట్ అవుతుంది మరియు 80 కంటే ఎక్కువ భాషల్లో అందుబాటులో ఉంది.\r\n\r\n*ఈ విశేషాంశం వినియోగదారులందరికీ అందుబాటులో ఉండకపోవచ్చు.\r\n\r\nయాప్‌ను ఇన్‌స్టాల్ చేయడం ద్వారా, మీరు ఈ నిబంధనలు మరియు షరతులకు అంగీకరిస్తున్నారు: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Chrome కోసం రూపొందించబడింది – Microsoft 365 ఇన్‌స్టాల్ చేయకుండానే Word, Excel, PowerPoint, OneNote మరియు Sway ఆన్‌లైన్‌ని ఉపయోగించండి.\r\n\r\nవిశ్వాసంతో సృష్టించండి - మీ ఆలోచనలను పూర్తి విశ్వసనీయతతో వ్యక్తీకరించడానికి తెలిసిన ఫార్మాటింగ్ మరియు లేఅవుట్ ఎంపికలను ఉపయోగించండి.\r\n\r\nఎక్కడినుండైనా పని చేయండి – OneDrive for Business మరియు OneDriveతో ఏకీకరణకు ధన్యవాదాలు, ఎక్కడి నుండైనా మీ ఫైల్‌లను పొందండి.\r\n\r\nMicrosoft 365 బ్రౌజర్ విస్తరింపు ఇప్పుడు మీ కంటెంట్ ప్రూఫింగ్‌ను కలిగి ఉంది*. ఇది చాలా వెబ్‌సైట్‌లలో మీ రచనల కోసం స్పెల్లింగ్, వ్యాకరణం మరియు మెరుగుదల సూచనలను అందించే మైక్రోసాఫ్ట్ ఆన్‌లైన్ సేవకు కనెక్ట్ అవుతుంది మరియు 80 కంటే ఎక్కువ భాషల్లో అందుబాటులో ఉంది.\r\n\r\n*ఈ విశేశాంసం వినియోగదారులందరికీ అందుబాటులో ఉండకపోవచ్చు.\r\n\r\nయాప్‌ను ఇన్‌స్టాల్ చేయడం ద్వారా, మీరు ఈ నిబంధనలు మరియు షరతులకు అంగీకరిస్తున్నారు: http://aka.ms/officechromeextensionterms\r\n\r\nగోప్యతా విధానం:http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "మీ అనువర్తనాలన్నింటినీ విశ్లేషించండి"
+   },
+   "AppsSectionHeader": {
+      "message": "యాప్‌లు"
+   },
+   "BrowseToOpenLabel": {
+      "message": "అప్‌లోడ్ చేయండి మరియు తెరవండి..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "ఖాతాను సృష్టించండి"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "ఇటీవల చూసిన పత్రాలు లేవు."
+   },
+   "CreateNewLabel": {
+      "message": "కొత్త"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "$host$లోని ఎడిటర్‌ని ఆపివేయి",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "మేము ప్రస్తుతం మీ ఇటీవల పత్రాల జాబితాను పొందలేము."
+   },
+   "EditorBrandText": {
+      "message": "ఎడిటర్"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "వ్యాకరణం"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "ప్రస్తుతం $host$లో ఎడిటర్‌కు మద్దతు లేదు",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "ప్రస్తుతం $host$లో ఎడిటర్ ఆపివేయబడింది",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "ఎడిటర్ ఆఫ్ అయింది."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "$host$ తో ఎడిటర్ చేర్చబడింది",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(ప్రివ్యూ)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "ఎడిటర్ సేవను Microsoft ఎడిటర్ పొడిగింపు అందిస్తోంది."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "ప్రీమియంకు మారడం ద్వారా రచనలో అధునాతన ఆలోచనలు, 1 TB నిల్వను పొందండి."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "మెరుగుదలలు"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "రిఫైన్‌మెంట్‌లు అన్నవి అధునాతన రచన సూచనలు, మీరు మరింత స్పష్టంగా, క్లుప్తంగా లేదా మరింత గౌరవంగా వ్రాయడంలో ఇవి మీకు సహాయపడతాయి."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "అక్షరక్రమం"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "$host$లో ఎడిటర్‌ను ప్రారంభించు",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "ఫైలు రకానికి మద్దతు లేదు. దయచేసి Word, Excel లేదా PowerPoint పత్రాన్ని ఎంచుకోండి."
+   },
+   "LoadingRecentsLabel": {
+      "message": "లోడ్ అవుతోంది..."
+   },
+   "MoreFilesLabel": {
+      "message": "మరిన్ని పత్రాలు"
+   },
+   "MyAccountLabel": {
+      "message": "నా ఖాతాని వీక్షించండి"
+   },
+   "NextLabel": {
+      "message": "సైన్ ఇన్"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "దీనిని మళ్లీ చూపవద్దు"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "మేము మీ ఫైల్‌ను మీ OneDriveలోని \"Microsoft 365 బ్రౌజర్ విస్తరింపు\" ఫోల్డర్‌లో సేవ్ చేసాము."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "మేము మీ ఫైల్‌ను వ్యాపారం కోసం మీ OneDriveలోని \"Microsoft 365 బ్రౌజర్ విస్తరింపు\" ఫోల్డర్‌లో సేవ్ చేసాము."
+   },
+   "NotificationFileAccess": {
+      "message": "పొడిగింపు సెట్టింగుల్లో, మీరు ఫైలును బ్రౌజర్‌లో లాగి వదలాలి అనుకుంటే \"ఫైల్ URLలకు ప్రాప్యతను అనుమతించు\" చెక్ బాక్స్ ఎంచుకోండి."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "పరిమాణం కారణంగా Microsoft 365 బ్రౌజర్ విస్తరింపు మీ పత్రాన్ని తెరవలేకపోయింది. పత్రాన్ని తెరవడానికి దయచేసి నేరుగా OneDriveకి అప్‌లోడ్ చేయండి."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "క్షమించండి, మేము మీ ఫైలు తెరవలేకపోతున్నాము."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "క్షమించండి, మేము మీ ఫైలు తెరవలేకపోతున్నాము.  దయచేసి తర్వాత సమయంలో మళ్లీ ప్రయత్నించండి."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "క్షమించండి, మేము మీ ఫైలు తెరవలేకపోతున్నాము.  దయచేసి Word, Excel, లేదా PowerPointతో సృష్టించిన ఫైలు ఎంచుకోండి"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "మేము ప్రస్తుతం మీ పత్రం(లు)ను అప్‌లోడ్ చేస్తున్నాము."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "మీ Microsoft 365 సభ్యత్వం గడువు ముగిసి ఉండవచ్చు లేదా OneDrive for Businessని కలిగి ఉండకపోవచ్చు. మీ సభ్యత్వాన్ని తనిఖీ చేయండి లేదా బదులుగా Microsoft ఖాతాతో లాగిన్ చేయండి."
+   },
+   "NotificationNotSignedIn": {
+      "message": "వెబ్‌లో Microsoft 365లో ఫైల్‌లను వీక్షించడానికి మరియు సవరించడానికి విస్తరింపుకు సైన్ ఇన్ చేయండి."
+   },
+   "NotificationSetDefault": {
+      "message": "Files యాప్‌లో, Microsoft 365తో తెరవడానికి రెండు వేళ్లతో డాక్యుమెంట్‌లను ట్యాప్ చేయండి."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Word, Excel, లేదా PowerPointతో సృష్టించిన ఫైలు ఎంచుకోండి."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Microsoft 365 విస్తరింపు మీ పత్రాన్ని బ్రౌజర్‌లో తెరుస్తోంది"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "దీనిని మళ్లీ చూపవద్దు"
+   },
+   "O365FilesLabel": {
+      "message": "OneDrive for Business నుండి"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "మీరు ఆఫ్‌లైన్‌లో ఉన్నారు. దయచేసి Microsoft 365 బ్రౌజర్ విస్తరింపును ఉపయోగించడానికి మళ్లీ కనెక్ట్ చేయండి."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "OneDrive నుండి"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "తెరువు"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "పత్రాలు"
+   },
+   "SettingsLabel": {
+      "message": "సెట్టింగ్‌లు"
+   },
+   "ShareMessage": {
+      "message": "భాగస్వామ్యం చేయి"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "అనుమతి అవసరం"
+   },
+   "SharePermissionsTooltip": {
+      "message": "భాగస్వామ్యం చేయడానికి మీకు అనుమతి లేదు"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "మీరు మీ ఫైల్‌లను ఎక్కడ భద్రపరచాలనుకుంటున్నారు?"
+   },
+   "SignInLabel": {
+      "message": "సైన్ ఇన్"
+   },
+   "SignInMSALabel": {
+      "message": "Microsoft ఖాతాతో సైన్ ఇన్ చేయండి"
+   },
+   "SignInO365Label": {
+      "message": "కార్యాలయ లేదా పాఠశాల ఖాతాతో సైన్ ఇన్ చేయండి"
+   },
+   "SignOutLabel": {
+      "message": "సైన్ అవుట్"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "ఎడిటర్ సేవను Microsoft ఎడిటర్ పొడిగింపు అందిస్తోంది."
+   },
+   "SupportPageLabel": {
+      "message": "లాగిన్ చేయడంలో సహాయం కావాలా?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "మా ఉత్పత్తులను మెరుగుపరచడంలో మాకు సహాయంగా స్వయంచాలకంగా డేటాను పంపండి."
+   },
+   "TurnOnEditorLabel": {
+      "message": "ఎడిటర్‌ను ఆన్ చేయండి"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "OneDrive for Businessకు అప్‌లోడ్ చేయి"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "OneDriveకు అప్‌లోడ్ చేయి"
+   },
+   "UsernameLabel": {
+      "message": "సైన్ ఇన్ చేయలేదు"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Microsoft 365తో నేరుగా బ్రౌజర్‌లో Microsoft 365 ఫైల్‌లను తెరవండి."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

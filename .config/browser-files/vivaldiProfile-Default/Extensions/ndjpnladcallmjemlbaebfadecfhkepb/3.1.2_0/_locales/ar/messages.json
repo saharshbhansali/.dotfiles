@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "الحساب"
+   },
+   "AppDescription": {
+      "message": "يمكنك عرض المستندات وتحريرها وإنشاؤها في المستعرض."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "يمكنك عرض الملفات وتحريرها وإنشاءها في المستعرض، ويمكنك الحصول على أفضل كتابة عبر الويب."
+   },
+   "AppFolderName": {
+      "message": "ملحق Microsoft 365"
+   },
+   "AppListLabel": {
+      "message": "Web Apps"
+   },
+   "AppLongDescription": {
+      "message": "مصمم خصيصًا لمستعرض Chrome – يمكن استخدام Word وExcel وPowerPoint وOneNote وSway Online دون الحاجة إلى تثبيت Microsoft 365.\r\n\r\nإنشاء بثقة – يمكنك استخدام خيارات التنسيق والتخطيط المألوفة للتعبير عن الأفكار بدقة تامة.\r\n\r\nالعمل أثناء التنقل - يمكنك الوصول إلى ملفاتك من أي مكان، بفضل التكامل مع OneDrive وOneDrive for Business.\r\n\r\nبتثبيت التطبيق، فأنت توافق على هذه البنود والشروط: http://aka.ms/officechromeextensionterms\r\n\r\nنهج الخصوصية: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "يضع ملحق مستعرض Microsoft 365 أيقونة على شريط أدوات Microsoft Edge مما يوفر لك إمكانية الوصول المباشر إلى ملفاتك في Microsoft 365، سواء أكانت مخزنة على الإنترنت أو على جهاز الكمبيوتر لديك.\r\n\r\nيمكن لملحق الويب من Microsoft 365 فتح الملفات المخزنة في OneDrive و OneDrive for Business.\r\n\r\nستحصل على ميزات Word وExcel وPowerPoint وOneNote وSway مباشرة في المستعرض لديك بدون الحاجة إلى تثبيت Microsoft 365.\r\n\r\nإن ملحق مستعرض Microsoft 365 يتضمن الآن خاصية تدقيق المحتوى الخاص بك* حيث تتصل بخدمة Microsoft 365 عبر الإنترنت التي توفر اقتراحات التدقيق الإملائي والتدقيق النحوي واقتراحات للارتقاء بالأسلوب في معظم مواقع الويب وهي متوفرة بأكثر من 80 لغة.\r\n\r\n*قد لا تكون هذه الميزة متوفرة لجميع المستخدمين.\r\n\r\nمن خلال تثبيت التطبيق، فإنك توافق على هذه الشروط والأحكام: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "مصمم خصيصًا لـ Chrome – استخدم Word وExcel وPowerPoint وOneNote وSway Online بدون الحاجة إلى تثبيت Microsoft 365.\r\n\r\nقم بالإنشاء بسهولة – استخدم خيارات التنسيق والتخطيط المألوفة للتعبير عن أفكارك بأعلى دقة.\r\n\r\nأنجز أعمالك أثناء التنقل – تمتع بإمكانية الوصول من أي مكان إلى ملفاتك بفضل التكامل مع OneDrive وOneDrive for Business.\r\n\r\nيتضمن ملحق مستعرض Microsoft 365 الآن خاصية تدقيق المحتوى الخاص بك* حيث تتصل بخدمة Microsoft 365 عبر الإنترنت التي تقدم الاقتراحات الإملائية والنحوية واقتراحات للارتقاء بالأسلوب فيما يتعلق بكتابتك في أغلب مواقع الويب والمتوفرة بأكثر من 80 لغة.\r\n\r\n*قد لا تتوفر هذه الميزة لجميع المستخدمين.\r\n\r\nمن خلال تثبيت التطبيق، فإنك توافق على هذه الشروط والأحكام: http://aka.ms/officechromeextensionterms\r\n\r\nنهج الخصوصية: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "استكشاف جميع التطبيقات خاصتك"
+   },
+   "AppsSectionHeader": {
+      "message": "التطبيقات"
+   },
+   "BrowseToOpenLabel": {
+      "message": "تحميل وفتح..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "إنشاء حساب"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "لا توجد مستندات معروضة مؤخراً."
+   },
+   "CreateNewLabel": {
+      "message": "جديد"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "تعطيل Editor في $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "لا يمكن إحضار قائمة مستنداتك الأخيرة الآن."
+   },
+   "EditorBrandText": {
+      "message": "Editor"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "تدقيق نحوي"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Editor غير مدعم حالياً في $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editor معطل حالياً في $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Editor قيد إيقاف التشغيل."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "المحرر مضمن مع $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(معاينة)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "يتم توفير خدمة المحرر من قبل ملحق مساعد الكتابة من Microsoft."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "احصل على أفكار كتابية متقدمة بالإضافة إلى سعة تخزينية تبلغ 1 تيرابايت عند الانتقال إلى الإصدار المتميز."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "التحسينات"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "العبارات المنمقة هي اقتراحات كتابية متقدمة تساعدك على الكتابة بشكل أكثر وضوحاً واحترافية بلا إسهاب."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "تدقيق إملائي"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "تمكين Editor في $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "نوع الملف غير معتمد. الرجاء اختيار مستند Word أو Excel أو PowerPoint."
+   },
+   "LoadingRecentsLabel": {
+      "message": "يتم الآن التحميل..."
+   },
+   "MoreFilesLabel": {
+      "message": "مستندات إضافية"
+   },
+   "MyAccountLabel": {
+      "message": "عرض حسابي"
+   },
+   "NextLabel": {
+      "message": "تسجيل الدخول"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "عدم إظهار ذلك مرة أخرى"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "تم حفظ ملفك في مجلد \"ملحق Microsoft 365\" على OneDrive الخاص بك."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "حفظنا ملفك في مجلد \"ملحق Microsoft 365\" على OneDrive for Business الخاص بك."
+   },
+   "NotificationFileAccess": {
+      "message": "في إعدادات الملحقات، حدد خانة الاختيار \"السماح بالوصول إلى عناوين URL للملفات\" إذا كنت تريد سحب الملفات ووضعها في المستعرض."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "يتعذّر على ملحق Microsoft 365 فتح المستند بسبب الحجم.  الرجاء التحميل مباشرةً إلى OneDrive لفتح المستند."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "عذراً، تعذر فتح ملفك."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "عذراً، تعذر فتح ملفك.  الرجاء المحاولة مرة أخرى في وقت لاحق."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "عذراً، تعذر فتح ملفك.  الرجاء اختيار ملف تم إنشاؤه باستخدام Word أو Excel أو PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "يتم الآن تحميل المستندات الخاصة بك."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "ربما تكون صلاحية اشتراكك في Microsoft 365 قد انتهت أو قد لا يتضمن اشتراكك OneDrive for Business. تحقق من اشتراكك أو سجّل الدخول باستخدام حساب Microsoft."
+   },
+   "NotificationNotSignedIn": {
+      "message": "سجّل الدخول إلى الملحق لعرض الملفات وتحريرها في Microsoft 365 على الويب."
+   },
+   "NotificationSetDefault": {
+      "message": "في تطبيق \"الملفات\"، اضغط على المستندات باستخدام إصبعين لفتحها على Microsoft 365."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "اختر ملف تم إنشاؤه باستخدام Word أو Excel أو PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "يقوم ملحق Microsoft 365 بفتح المستند في المستعرض"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "عدم إظهار ذلك مرة أخرى"
+   },
+   "O365FilesLabel": {
+      "message": "من OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "أنت غير متصل. الرجاء إعادة الاتصال لاستخدام ملحق Microsoft 365."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "من OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "فتح"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "المستندات"
+   },
+   "SettingsLabel": {
+      "message": "إعدادات"
+   },
+   "ShareMessage": {
+      "message": "مشاركة"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "الإذن مطلوب"
+   },
+   "SharePermissionsTooltip": {
+      "message": "ليس لديك الإذن للمشاركة"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "أين تريد حفظ ملفاتك؟"
+   },
+   "SignInLabel": {
+      "message": "تسجيل الدخول"
+   },
+   "SignInMSALabel": {
+      "message": "تسجيل الدخول باستخدام حساب Microsoft"
+   },
+   "SignInO365Label": {
+      "message": "تسجيل الدخول باستخدام حساب خاص بالعمل أو المؤسسة التعليمية"
+   },
+   "SignOutLabel": {
+      "message": "تسجيل الخروج"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "يتم توفير خدمة المحرر من قبل ملحق مساعد الكتابة من Microsoft."
+   },
+   "SupportPageLabel": {
+      "message": "هل أنت بحاجة إلى مساعدة في تسجيل الدخول؟"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "الفرق"
+   },
+   "TelemetrySettingLabel": {
+      "message": "إرسال البيانات تلقائياً لمساعدتنا في تحسين منتجاتنا."
+   },
+   "TurnOnEditorLabel": {
+      "message": "تشغيل Editor"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "تحميل إلى OneDrive for Business"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "تحميل إلى OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "لم يتم تسجيل الدخول"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "افتح ملفات Microsoft 365 مباشرة في المستعرض باستخدام Microsoft 365."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

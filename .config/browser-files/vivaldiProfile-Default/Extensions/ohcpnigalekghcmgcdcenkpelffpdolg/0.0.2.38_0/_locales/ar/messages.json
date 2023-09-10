@@ -1,0 +1,197 @@
+{
+   "EnableHSL": {
+      "message": "تبين HSL"
+   },
+   "EnableRGB": {
+      "message": "تبين RGB"
+   },
+   "addToPalette": {
+      "message": "إضافة إلى لوحة الألوان"
+   },
+   "advancedOptions": {
+      "message": "خيارات متقدمة"
+   },
+   "appleIcon": {
+      "message": "استعمال Apple Digital لون متر شعار"
+   },
+   "approved": {
+      "message": "وافق"
+   },
+   "bbackgroundColor": {
+      "message": "لون الخلفية المنبثقة"
+   },
+   "bgPageUnavailable": {
+      "message": "لقطة خلفية لا تستجيب - يرجى تحديث الصفحة والمحاولة مرة أخرى."
+   },
+   "borderValue": {
+      "message": "الحدود لاستخدام (قيمة كس)"
+   },
+   "clear": {
+      "message": "واضح"
+   },
+   "clearSync": {
+      "message": "مسح تخزين المزامنة"
+   },
+   "closeAndExit": {
+      "message": "إغلاق وخروج لون اختيار الوضع"
+   },
+   "colorOfDay": {
+      "message": "لون اليوم"
+   },
+   "copycolorval": {
+      "message": "نسخ قيمة اللون"
+   },
+   "dblClick": {
+      "message": "نقرتين متتاليتين"
+   },
+   "dedupe": {
+      "message": "ديدوبي"
+   },
+   "default": {
+      "message": "الافتراضي"
+   },
+   "disablePickEveryTime": {
+      "message": "لا تبدأ اختيار كل مرة يتم النقر فوق المنبثقة"
+   },
+   "disableRewriting": {
+      "message": "تعطيل الانتماء للروابط غير التابعة"
+   },
+   "error": {
+      "message": "خطأ"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "إحضار الإعدادات من تخزين مزامنة حساب غوغل"
+   },
+   "fishEye": {
+      "message": "عين السمكة كمية التكبير"
+   },
+   "full": {
+      "message": "ممتلئ"
+   },
+   "hasAgreedToLicense": {
+      "message": "قد وافقت على شروط الاستخدام"
+   },
+   "help": {
+      "message": "مساعدة / معلومات"
+   },
+   "hideMinimize": {
+      "message": "إخفاء / تصغير "
+   },
+   "history": {
+      "message": "التاريخ"
+   },
+   "iconIsBitmap": {
+      "message": "هو التكبير بكسل المعاينة"
+   },
+   "iconIsPreview": {
+      "message": "استخدام رمز شارة مربع لون المعاينة"
+   },
+   "loadsyncOptions": {
+      "message": "تم تحميل خيارات التخزين المزامنة وحفظها."
+   },
+   "maxZoom": {
+      "message": "ماكس التكبير"
+   },
+   "modifyLicense": {
+      "message": "تعديل الترخيص"
+   },
+   "noSwatches": {
+      "message": "انقر على الألوان في سجل الألوان لإضافتها إلى لوحة للحفظ والطباعة."
+   },
+   "off": {
+      "message": "إيقاف"
+   },
+   "on": {
+      "message": "على"
+   },
+   "options": {
+      "message": "خيارات"
+   },
+   "pickAgainLocked": {
+      "message": "اختيار لون آخر [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "حدد اللون الحالي [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "بدء اختيار الألوان في كل مرة يتم النقر فوق المنبثقة"
+   },
+   "pixelatedPreview": {
+      "message": "يتم تقريب معاينة التكبير"
+   },
+   "popOutWindow": {
+      "message": "نافذة منبثقة (نافذة منفصلة)"
+   },
+   "pressEnterToPick": {
+      "message": "اضغط على إنتر لاختيار اللون"
+   },
+   "printSave": {
+      "message": "طباعة / حفظ..."
+   },
+   "reSnapPage": {
+      "message": "تحديث صورة من الصفحة [r]"
+   },
+   "registerButton": {
+      "message": "تسجيل"
+   },
+   "registered": {
+      "message": "مسجل"
+   },
+   "resetIcon": {
+      "message": "العودة إلى رمز عادي"
+   },
+   "rightClick": {
+      "message": "نقرة على الزر الايمن"
+   },
+   "saveOptions": {
+      "message": "حفظ الخيارات"
+   },
+   "savedoptions": {
+      "message": "تم حفظ الخيارات."
+   },
+   "seeTerms": {
+      "message": "انظر شروط الاستخدام"
+   },
+   "shareClors": {
+      "message": "لون الإحصاءات اليوم (انظر شروط الاستخدام)"
+   },
+   "showColorChooser": {
+      "message": "تظهر منتقي اللون"
+   },
+   "showDefaults": {
+      "message": "إظهار الإعدادات الافتراضية"
+   },
+   "showPreviousClr": {
+      "message": "عرض معاينة اللون الانقسام مع اللون السابق"
+   },
+   "showndefaults": {
+      "message": "يرجى الضغط على حفظ، تظهر الآن الافتراضيات."
+   },
+   "sort": {
+      "message": "فرز"
+   },
+   "terms": {
+      "message": "تعليمات الاستخدام"
+   },
+   "unregistered": {
+      "message": "غير مسجلة"
+   },
+   "usageStatistics": {
+      "message": "جمع إحصاءات الاستخدام (انظر شروط الاستخدام)"
+   },
+   "useCSSValues": {
+      "message": "استخدام قيم كس ل RGB/HSL"
+   },
+   "usePNG": {
+      "message": "استعمال PNG الجودة عند توفرها"
+   },
+   "usePrevColorBG": {
+      "message": "استخدام اللون السابق للخلفية"
+   }
+}

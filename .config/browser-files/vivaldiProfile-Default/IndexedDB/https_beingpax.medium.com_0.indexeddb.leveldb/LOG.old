@@ -1,0 +1,15 @@
+2023/09/04-22:08:13.511 1475 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/IndexedDB/https_beingpax.medium.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/04-22:08:13.511 1475 Recovering log #11
+2023/09/04-22:08:13.511 1475 Reusing old log /home/saharsh/.config/vivaldi/Default/IndexedDB/https_beingpax.medium.com_0.indexeddb.leveldb/000011.log 
+2023/09/05-01:51:36.259 1476 Level-0 table #16: started
+2023/09/05-01:51:36.267 1476 Level-0 table #16: 209 bytes OK
+2023/09/05-01:51:36.271 1476 Delete type=0 #11
+2023/09/05-01:51:36.271 1476 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/05-01:51:36.271 1476 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 230 : 1
+2023/09/05-01:51:36.271 1476 Compacting 1@1 + 1@2 files
+2023/09/05-01:51:36.273 1476 Generated table #17@1: 69 keys, 1238 bytes
+2023/09/05-01:51:36.273 1476 Compacted 1@1 + 1@2 files => 1238 bytes
+2023/09/05-01:51:36.276 1476 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/05-01:51:36.276 1476 Delete type=2 #13
+2023/09/05-01:51:36.276 1476 Delete type=2 #16
+2023/09/05-01:51:36.276 1476 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 230 : 1 .. (end); will stop at (end)

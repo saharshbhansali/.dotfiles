@@ -1,0 +1,200 @@
+{
+   "EnableHSL": {
+      "message": "Показать HSL"
+   },
+   "EnableRGB": {
+      "message": "Показать RGB"
+   },
+   "addToPalette": {
+      "message": "Добавить в палитру цветов"
+   },
+   "advancedOptions": {
+      "message": "Расширенные опции"
+   },
+   "allowWebGl": {
+      "message": "Разрешить webgl для пиксельного предварительного просмотра"
+   },
+   "appleIcon": {
+      "message": "Использование Apple Digital Цветной логотип"
+   },
+   "approved": {
+      "message": "Утвержденный"
+   },
+   "bbackgroundColor": {
+      "message": "Цвет фона всплывающего окна"
+   },
+   "bgPageUnavailable": {
+      "message": "Фоновый снимок не отвечает - обновите страницу и повторите попытку."
+   },
+   "borderValue": {
+      "message": "Границы для использования (значение css)"
+   },
+   "clear": {
+      "message": "Чисто"
+   },
+   "clearSync": {
+      "message": "Очистить хранилище синхронизации"
+   },
+   "closeAndExit": {
+      "message": "Закрыть и выйти из режима выбора цвета"
+   },
+   "colorOfDay": {
+      "message": "Цвет дня"
+   },
+   "copycolorval": {
+      "message": "Скопировать значение цвета"
+   },
+   "dblClick": {
+      "message": "Двойной клик"
+   },
+   "dedupe": {
+      "message": "дедупликации"
+   },
+   "default": {
+      "message": "По умолчанию"
+   },
+   "disablePickEveryTime": {
+      "message": "Не начинайте сбор при каждом нажатии всплывающего окна"
+   },
+   "disableRewriting": {
+      "message": "Отключить присоединение не связанных сторон"
+   },
+   "error": {
+      "message": "Ошибка"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Выбор настроек из хранилища синхронизации учетных записей google"
+   },
+   "fishEye": {
+      "message": "Увеличить размер глаз"
+   },
+   "full": {
+      "message": "Полный"
+   },
+   "hasAgreedToLicense": {
+      "message": "Согласился с условиями использования"
+   },
+   "help": {
+      "message": "Помощь / Информация"
+   },
+   "hideMinimize": {
+      "message": "Скрыть / минимизировать "
+   },
+   "history": {
+      "message": "История"
+   },
+   "iconIsBitmap": {
+      "message": "Значок увеличенного предварительного просмотра пикселей"
+   },
+   "iconIsPreview": {
+      "message": "Использовать значок значок квадрат превью"
+   },
+   "loadsyncOptions": {
+      "message": "Параметры синхронизации хранилища были загружены и сохранены."
+   },
+   "maxZoom": {
+      "message": "Максимальное увеличение"
+   },
+   "modifyLicense": {
+      "message": "Изменить лицензию"
+   },
+   "noSwatches": {
+      "message": "Нажмите цвета в истории цветов, чтобы добавить их в палитру для сохранения и печати."
+   },
+   "off": {
+      "message": "От"
+   },
+   "on": {
+      "message": "На"
+   },
+   "options": {
+      "message": "Опции"
+   },
+   "pickAgainLocked": {
+      "message": "Выбрать другой цвет [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Выбрать текущий цвет [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Начинать выбирать цвета при каждом нажатии всплывающего окна"
+   },
+   "pixelatedPreview": {
+      "message": "Увеличенный предварительный просмотр пикселирован"
+   },
+   "popOutWindow": {
+      "message": "Всплывающее окно (отдельное окно)"
+   },
+   "pressEnterToPick": {
+      "message": "Нажмите enter, чтобы выбрать цвет"
+   },
+   "printSave": {
+      "message": "Печать / сохранение..."
+   },
+   "reSnapPage": {
+      "message": "Обновить изображение страницы [r]"
+   },
+   "registerButton": {
+      "message": "Регистр"
+   },
+   "registered": {
+      "message": "Зарегистрированный"
+   },
+   "resetIcon": {
+      "message": "Вернуться к нормальному значку"
+   },
+   "rightClick": {
+      "message": "Правый клик"
+   },
+   "saveOptions": {
+      "message": "Сохранить параметры"
+   },
+   "savedoptions": {
+      "message": "Варианты сохранены."
+   },
+   "seeTerms": {
+      "message": "См. условия использования"
+   },
+   "shareClors": {
+      "message": "Цвет статистики дня (см. условия использования)"
+   },
+   "showColorChooser": {
+      "message": "Показать выбор цвета"
+   },
+   "showDefaults": {
+      "message": "Показывать значения по умолчанию"
+   },
+   "showPreviousClr": {
+      "message": "Показать предварительный просмотр цвета с предыдущим цветом"
+   },
+   "showndefaults": {
+      "message": "Нажмите «Сохранить», теперь отображаются значения по умолчанию."
+   },
+   "sort": {
+      "message": "сортировать"
+   },
+   "terms": {
+      "message": "Условия эксплуатации"
+   },
+   "unregistered": {
+      "message": "Незарегистрированный"
+   },
+   "usageStatistics": {
+      "message": "Собирать статистику использования (см. условия использования)"
+   },
+   "useCSSValues": {
+      "message": "Используйте значения css для RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Использование PNG качество при наличии"
+   },
+   "usePrevColorBG": {
+      "message": "Использовать предыдущий цвет для фона"
+   }
+}

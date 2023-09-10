@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "Konto"
+   },
+   "AppDescription": {
+      "message": "Dokumente in Ihrem Browser anzeigen, bearbeiten und erstellen."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "Dateien im Browser anzeigen, bearbeiten und erstellen und das Beste aus Ihren Texten im Web holen."
+   },
+   "AppFolderName": {
+      "message": "Microsoft 365-Browsererweiterung"
+   },
+   "AppListLabel": {
+      "message": "Web-Apps"
+   },
+   "AppLongDescription": {
+      "message": "Entwickelt für Chrome – Verwenden Sie Word, Excel, PowerPoint, OneNote und Sway Online, ohne Microsoft 365 installieren zu müssen.\r\n\r\nEin sicheres Gefühl beim Erstellen – Verwenden Sie vertraute Optionen für Formatierung und Layout, um Ihre Ideen auf den Punkt auszudrücken.\r\n\r\nUnterwegs arbeiten – Von überall Zugriff auf Ihre Dateien – dank der Integration in OneDrive und OneDrive for Business.\r\n\r\nIndem Sie die App installieren, stimmen Sie diesen Nutzungsbedingungen zu: http://aka.ms/officechromeextensionterms\r\n\r\nDatenschutzbestimmungen: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Die Microsoft 365-Browsererweiterung setzt ein Symbol auf der Microsoft Edge-Symbolleiste, das Ihnen direkten Zugriff auf Ihre Microsoft 365-Dateien ermöglicht – ganz gleich, ob sie online oder auf Ihrem Computer gespeichert sind.\r\n\r\nDie Microsoft 365-Web-Erweiterung kann Dateien öffnen, die in OneDrive und OneDrive for Business gespeichert sind.\r\n\r\nSie können auf Funktionen von Word, Excel, PowerPoint, OneNote und Sway direkt in Ihrem Browser zugreifen, ohne dass Microsoft 365 installiert werden muss.\r\n\r\nDie Microsoft 365-Browsererweiterung umfasst nun auch Korrekturhilfen für Ihre Inhalte*. Sie stellt eine Verbindung mit einem Microsoft-Onlinedienst her, der Empfehlungen für Rechtschreibung, Grammatik und die Verfeinerung Ihrer Texte auf den meisten Websites bietet und in mehr als 80 Sprachen verfügbar ist.\r\n\r\n*Dieses Feature steht möglicherweise nicht für alle Benutzer zur Verfügung.\r\n\r\nDurch das Installieren der App stimmen Sie diesen Nutzungsbedingungen zu: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Entwickelt für Chrome – Verwenden Sie Word, Excel, PowerPoint, OneNote und Sway Online, ohne Microsoft 365 installieren zu müssen.\r\n\r\nEin sicheres Gefühl beim Erstellen – Verwenden Sie vertraute Formatierungs- und Layoutoptionen, um Ihre Ideen mit voller Genauigkeit auszudrücken.\r\n\r\nUnterwegs arbeiten – Greifen Sie von überall aus auf Ihre Dateien zu, dank der Integration von OneDrive und OneDrive for Business.\r\n\r\nDie Microsoft 365-Browsererweiterung umfasst nun auch Korrekturhilfen für Ihre Inhalte*. Sie stellt eine Verbindung mit einem Microsoft-Onlinedienst her, der Empfehlungen für Rechtschreibung, Grammatik und die Verfeinerung Ihrer Texte auf den meisten Websites bietet und in mehr als 80 Sprachen verfügbar ist.\r\n\r\n*Dieses Feature ist möglicherweise nicht für alle Benutzer verfügbar.\r\n\r\nDurch das Installieren der App stimmen Sie diesen Nutzungsbedingungen zu: http://aka.ms/officechromeextensionterms\r\n\r\nDatenschutzrichtlinie: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "Alle Ihre Apps erkunden"
+   },
+   "AppsSectionHeader": {
+      "message": "Apps"
+   },
+   "BrowseToOpenLabel": {
+      "message": "Hochladen und öffnen..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Konto erstellen"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Keine zuletzt angezeigten Dokumente."
+   },
+   "CreateNewLabel": {
+      "message": "Neu"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Editor auf \"$host$\" deaktivieren",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Die Liste Ihrer zuletzt verwendeten Dokumente kann zurzeit nicht abgerufen werden."
+   },
+   "EditorBrandText": {
+      "message": "Editor"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Grammatik"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Editor wird zurzeit auf \"$host$\" nicht unterstützt.",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editor ist zurzeit auf \"$host$\" deaktiviert.",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Editor ist aus."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Editor ist im Lieferumfang von $host$ enthalten",
+      "placeholders": {
+         "host": {
+            "content": "1 $",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(Preview)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "Der Editordienst wird von der Microsoft Editor-Erweiterung bereitgestellt."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Erhalten Sie anspruchsvolle Formulierungsideen und 1 TB Speicher, wenn Sie zu Premium wechseln."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Verfeinerungen"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Verfeinerungen sind anspruchsvolle Formulierungsvorschläge, die Ihnen helfen sollen, Ihre Texte klarer, weniger wortreich oder formeller zu gestalten."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Rechtschreibung"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Editor auf \"$host$\" aktivieren",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Der Dateityp wird nicht unterstützt. Wählen Sie ein Word-, Excel- oder PowerPoint-Dokument aus."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Wird geladen..."
+   },
+   "MoreFilesLabel": {
+      "message": "Weitere Dokumente"
+   },
+   "MyAccountLabel": {
+      "message": "Mein Konto anzeigen"
+   },
+   "NextLabel": {
+      "message": "Anmelden"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Nicht mehr anzeigen"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Wir die Datei im Ordner \"Microsoft 365-Browsererweiterung\" auf OneDrive gespeichert."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Wir die Datei im Ordner \"Microsoft 365-Browsererweiterung\" auf OneDrive für Unternehmen gespeichert."
+   },
+   "NotificationFileAccess": {
+      "message": "Aktivieren Sie in den Erweiterungseinstellungen das Kontrollkästchen \"Zugriff auf Datei-URLs zulassen\", wenn Sie Dateien in Chrome ziehen und ablegen möchten."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Die Microsoft 365-Browsererweiterung kann Ihr Dokument wegen seiner Größe nicht öffnen. Laden Sie direkt auf OneDrive hoch, um das Dokument zu öffnen."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Wir konnten Ihre Datei leider nicht öffnen."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Wir konnten Ihre Datei leider nicht öffnen. Versuchen Sie es bitte später noch mal."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Wir konnten Ihre Datei leider nicht öffnen. Wählen Sie eine mit Word, Excel oder PowerPoint erstellte Datei aus."
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "Wir laden zurzeit Ihre Dokumente hoch."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Ihr Microsoft 365-Abonnement ist möglicherweise abgelaufen oder enthält eventuell nicht OneDrive for Business. Überprüfen Sie Ihr Abonnement, oder melden Sie sich stattdessen mit einem Microsoft-Konto an."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Melden Sie sich bei der Erweiterung an, um Dateien in Microsoft 365 im Web anzuzeigen und zu bearbeiten."
+   },
+   "NotificationSetDefault": {
+      "message": "Tippen Sie in der Dateien-App mit zwei Fingern auf Dokumente, um sie mit Microsoft 365 zu öffnen."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Wählen Sie eine mit Word, Excel oder PowerPoint erstellte Datei aus."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Die Microsoft 365-Erweiterung öffnet Ihr Dokument im Browser"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Nicht mehr anzeigen"
+   },
+   "O365FilesLabel": {
+      "message": "Von OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "Sie sind offline. Stellen Sie erneut eine Verbindung her, um Microsoft 365 Browsererweiterung zu verwenden."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Von OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Öffnen"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Dokumente"
+   },
+   "SettingsLabel": {
+      "message": "Einstellungen"
+   },
+   "ShareMessage": {
+      "message": "Teilen"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Berechtigung erforderlich"
+   },
+   "SharePermissionsTooltip": {
+      "message": "Sie haben keine Berechtigung zum Teilen."
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Wo möchten Sie Ihre Dateien speichern?"
+   },
+   "SignInLabel": {
+      "message": "Anmelden"
+   },
+   "SignInMSALabel": {
+      "message": "Mit einem Microsoft-Konto anmelden"
+   },
+   "SignInO365Label": {
+      "message": "Mit einem Geschäfts-, Schul- oder Unikonto anmelden"
+   },
+   "SignOutLabel": {
+      "message": "Abmelden"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "Der Editordienst wird von der Microsoft Editor-Erweiterung bereitgestellt."
+   },
+   "SupportPageLabel": {
+      "message": "Benötigen Sie Hilfe bei der Anmeldung?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Daten zur Verbesserung unserer Produkte automatisch senden"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Editor einschalten"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "Auf OneDrive for Business hochladen"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "Auf OneDrive hochladen"
+   },
+   "UsernameLabel": {
+      "message": "Nicht angemeldet"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Öffnen Sie Microsoft 365 Dateien direkt im Browser mit Microsoft 365."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

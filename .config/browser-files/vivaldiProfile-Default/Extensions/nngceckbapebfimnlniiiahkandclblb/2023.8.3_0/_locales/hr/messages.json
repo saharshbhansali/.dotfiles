@@ -1,0 +1,2247 @@
+{
+   "about": {
+      "message": "O aplikaciji"
+   },
+   "acceptPolicies": {
+      "message": "Označavanjem ove kućice slažete se sa sljedećim:"
+   },
+   "acceptPoliciesRequired": {
+      "message": "Uvjeti korištenja i Politika privatnosti nisu prihvaćeni."
+   },
+   "accessDenied": {
+      "message": "Access denied. You do not have permission to view this page."
+   },
+   "account": {
+      "message": "Račun"
+   },
+   "addFolder": {
+      "message": "Dodaj mapu"
+   },
+   "addItem": {
+      "message": "Dodaj stavku"
+   },
+   "addLogin": {
+      "message": "Dodaj prijavu"
+   },
+   "addLoginNotificationDesc": {
+      "message": "Upit za dodavanje prijave pojavljuje se kada se otkrije prva prijava na neko web mjesto. Bitwarden će te pitatati želiš li uneseno korisničko ime i lozinku spremiti u svoj trezor."
+   },
+   "addSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Dodaj Send"
+   },
+   "addedFolder": {
+      "message": "Mapa dodana"
+   },
+   "addedItem": {
+      "message": "Stavka dodana"
+   },
+   "address": {
+      "message": "Adresa"
+   },
+   "address1": {
+      "message": "Adresa 1"
+   },
+   "address2": {
+      "message": "Adresa 2"
+   },
+   "address3": {
+      "message": "Adresa 3"
+   },
+   "allItems": {
+      "message": "Sve stavke"
+   },
+   "allSends": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Svi Sendovi"
+   },
+   "allVaults": {
+      "message": "Svi trezori"
+   },
+   "apiAccessToken": {
+      "message": "Token za API pristup"
+   },
+   "apiKey": {
+      "message": "API ključ"
+   },
+   "apiUrl": {
+      "message": "URL API poslužitelja"
+   },
+   "appName": {
+      "message": "Bitwarden"
+   },
+   "april": {
+      "message": "travanj"
+   },
+   "attachmentSaved": {
+      "message": "Privitak spremljen"
+   },
+   "attachments": {
+      "message": "Privitci"
+   },
+   "august": {
+      "message": "kolovoz"
+   },
+   "authenticatorAppDesc": {
+      "description": "'Authy' and 'Google Authenticator' are product names and should not be translated.",
+      "message": "Koristi autentifikatorsku aplikaciju (npr. Authy ili Google Authentifikator) za generiranje kontrolnih kodova."
+   },
+   "authenticatorAppTitle": {
+      "message": "Autentifikatorska aplikacija"
+   },
+   "authenticatorKeyTotp": {
+      "message": "Ključ autentifikatora (TOTP)"
+   },
+   "autoFill": {
+      "message": "Auto-ispuna"
+   },
+   "autoFillAndSave": {
+      "message": "Auto-ispuni i spremi"
+   },
+   "autoFillInfo": {
+      "message": "Nema dostupnih prijava za auto-ispunu na web stranici u ovoj kartici."
+   },
+   "autoFillOnPageLoadNo": {
+      "message": "Ne koristi Auto-ispunu kod učitavanja"
+   },
+   "autoFillOnPageLoadUseDefault": {
+      "message": "Koristi zadane postavke"
+   },
+   "autoFillOnPageLoadYes": {
+      "message": "Auto-ispuna kod učitavanja"
+   },
+   "autoFillSuccess": {
+      "message": "Auto-ispunjena stavka"
+   },
+   "autoFillSuccessAndSavedUri": {
+      "message": "Auto-ispunjena stavka i spremanje URI"
+   },
+   "autofillError": {
+      "message": "Nije moguće auto-ispuniti odabranu prijavu na ovoj stranici. Umjesto toga kopiraj/zalijepi podatke."
+   },
+   "autofillIframeWarning": {
+      "message": "The form is hosted by a different domain than the URI of your saved login. Choose OK to auto-fill anyway, or Cancel to stop."
+   },
+   "autofillIframeWarningTip": {
+      "message": "To prevent this warning in the future, save this URI, $HOSTNAME$, to your Bitwarden login item for this site.",
+      "placeholders": {
+         "hostname": {
+            "content": "$1",
+            "example": "www.example.com"
+         }
+      }
+   },
+   "autofillPageLoadPolicyActivated": {
+      "message": "Prema pravilima tvoje organizacije uključena je auto-ispuna prilikom učitavanja stranice."
+   },
+   "autofillSelectInfoWithCommand": {
+      "message": "Odaberi stavku s ove stranice ili koristi prečac $COMMAND$",
+      "placeholders": {
+         "command": {
+            "content": "$1",
+            "example": "CTRL+Shift+L"
+         }
+      }
+   },
+   "autofillSelectInfoWithoutCommand": {
+      "message": "Odaberi stavku s ove stranice ili namjesti prečac u postavkama."
+   },
+   "autofillSettings": {
+      "message": "Postavke auto-ispune"
+   },
+   "autofillShortcut": {
+      "message": "Tipkovnički precač auto-ispune"
+   },
+   "autofillShortcutNotSet": {
+      "message": "Prečac auto-ispune nije postavljen. Promijeni u postavkama preglednika."
+   },
+   "autofillShortcutText": {
+      "message": "Prečac auto-ispune je: $COMMAND$. Promijeni u postavkama preglednika.",
+      "placeholders": {
+         "command": {
+            "content": "$1",
+            "example": "CTRL+Shift+L"
+         }
+      }
+   },
+   "autofillShortcutTextSafari": {
+      "message": "Zadani prečac auto-ispune: $COMMAND$.",
+      "placeholders": {
+         "command": {
+            "content": "$1",
+            "example": "CTRL+Shift+L"
+         }
+      }
+   },
+   "avoidAmbChar": {
+      "message": "Izbjegavaj dvosmislene znakove"
+   },
+   "awaitDesktop": {
+      "message": "Čekanje potvrde iz desktop aplikacije"
+   },
+   "awaitDesktopDesc": {
+      "message": "Potvrdi korištenje biometrije u Bitwarden desktop aplikaciji za korištenje biometrije u pregledniku."
+   },
+   "back": {
+      "message": "Natrag"
+   },
+   "badgeCounterDesc": {
+      "message": "Prikazuje broj spremljenih prijava za trenutnu web stranicu."
+   },
+   "baseDomain": {
+      "description": "Domain name. Ex. website.com",
+      "message": "Primarna domena"
+   },
+   "baseUrl": {
+      "message": "URL poslužitelja"
+   },
+   "biometricsNotEnabledDesc": {
+      "message": "Biometrija preglednika zahtijeva prethodno omogućenu biometriju u Bitwarden desktop aplikaciji."
+   },
+   "biometricsNotEnabledTitle": {
+      "message": "Biometrija nije omogućena"
+   },
+   "biometricsNotSupportedDesc": {
+      "message": "Biometrija preglednika nije podržana na ovom uređaju."
+   },
+   "biometricsNotSupportedTitle": {
+      "message": "Biometrija nije podržana"
+   },
+   "bitWebVault": {
+      "message": "Bitwarden web trezor"
+   },
+   "brand": {
+      "message": "Vrsta kartice"
+   },
+   "browserNotSupportClipboard": {
+      "message": "Web preglednik ne podržava jednostavno kopiranje međuspremnika. Umjesto toga ručno kopirajte."
+   },
+   "cancel": {
+      "message": "Odustani"
+   },
+   "capitalize": {
+      "description": "Make the first letter of a work uppercase.",
+      "message": "Prva slova velika"
+   },
+   "cardholderName": {
+      "message": "Vlasnik platne kartice"
+   },
+   "cards": {
+      "message": "Platne kartice"
+   },
+   "catchallEmail": {
+      "message": "Uhvati sve (catch-all) e-pošta"
+   },
+   "catchallEmailDesc": {
+      "message": "Koristi konfigurirani catch-all sandučić svoje domene."
+   },
+   "cfTypeBoolean": {
+      "message": "Boolean"
+   },
+   "cfTypeHidden": {
+      "message": "Skriveno"
+   },
+   "cfTypeLinked": {
+      "description": "This describes a field that is 'linked' (tied) to another field.",
+      "message": "Povezano"
+   },
+   "cfTypeText": {
+      "message": "Tekst"
+   },
+   "changeMasterPass": {
+      "message": "Promjeni glavnu lozinku"
+   },
+   "changeMasterPassword": {
+      "message": "Promjeni glavnu lozinku"
+   },
+   "changeMasterPasswordConfirmation": {
+      "message": "Svoju glavnu lozinku možeš promijeniti na web trezoru. Želiš li sada posjetiti bitwarden.com?"
+   },
+   "changedPasswordNotificationDesc": {
+      "message": "Upitaj za ažuriranje lozinke prijave ako se otkrije promjena na web stranici."
+   },
+   "characterMinimum": {
+      "message": "najmanje $LENGTH$ znakova",
+      "placeholders": {
+         "length": {
+            "content": "$1",
+            "example": "14"
+         }
+      }
+   },
+   "checkForBreaches": {
+      "message": "Provjeri je li lozinka ukradena prilikom krađe podataka"
+   },
+   "checkPassword": {
+      "message": "Provjeri je li lozinka bila ukradena."
+   },
+   "cityTown": {
+      "message": "Grad / Mjesto"
+   },
+   "clear": {
+      "description": "To clear something out. example: To clear browser history.",
+      "message": "Očisti"
+   },
+   "clearClipboard": {
+      "description": "Clipboard is the operating system thing where you copy/paste data to on your device.",
+      "message": "Očisti međuspremnik"
+   },
+   "clearClipboardDesc": {
+      "description": "Clipboard is the operating system thing where you copy/paste data to on your device.",
+      "message": "Automatski očisti kopirane vrijednosti iz međuspremnika."
+   },
+   "clone": {
+      "message": "Kloniraj"
+   },
+   "cloneItem": {
+      "message": "Kloniraj stavku"
+   },
+   "close": {
+      "message": "Zatvori"
+   },
+   "codeSent": {
+      "message": "Kôd poslan"
+   },
+   "collections": {
+      "message": "Zbirke"
+   },
+   "commandAutofillDesc": {
+      "message": "Auto-ispuni zadnju korištenu prijavu za trenutnu web stranicu."
+   },
+   "commandGeneratePasswordDesc": {
+      "message": "Generiraj i kopiraj novu nasumičnu lozinku u međuspremnik."
+   },
+   "commandLockVaultDesc": {
+      "message": "Zaključaj trezor"
+   },
+   "commandOpenPopup": {
+      "message": "Otvori iskočni prozor trezora"
+   },
+   "commandOpenSidebar": {
+      "message": "Otvori trezor u bočnoj traci"
+   },
+   "communityForums": {
+      "message": "Istraži forume zajednice Bitwarden"
+   },
+   "company": {
+      "message": "Tvrtka"
+   },
+   "confirmIdentity": {
+      "message": "Potvrdite lozinku za nastavak."
+   },
+   "confirmMasterPasswordRequired": {
+      "message": "Potreban je ponovni unos glavne lozinke."
+   },
+   "confirmNewMasterPass": {
+      "message": "Confirm new master password"
+   },
+   "confirmVaultExport": {
+      "message": "Potvrdi izvoz trezora"
+   },
+   "contactSupport": {
+      "message": "Kontaktiraj Bitwarden pomoć"
+   },
+   "contextMenuItemDesc": {
+      "message": "Koristi sekundarni klik za pristup generatoru lozinki i pripadajućim prijavama trenunte web stranice. "
+   },
+   "continue": {
+      "message": "Nastavi"
+   },
+   "convertOrganizationEncryptionDesc": {
+      "message": "$ORGANIZATION$ koristi jedinstvenu prijavu SSO s vlastitim poslužiteljem. Članovima organizacije glavna lozinka više nije potrebna.",
+      "placeholders": {
+         "organization": {
+            "content": "$1",
+            "example": "My Org Name"
+         }
+      }
+   },
+   "copyCustomFieldNameInvalidElement": {
+      "message": "Nije moguće identificirati valjani element formulara. Pokušaj provjeriti HTML."
+   },
+   "copyCustomFieldNameNotUnique": {
+      "message": "Nije nađen jedinstveni identifikator."
+   },
+   "copyElementIdentifier": {
+      "message": "Prilagođeno ime polja"
+   },
+   "copyNote": {
+      "message": "Kopiraj bilješku"
+   },
+   "copyNumber": {
+      "message": "Kopiraj broj"
+   },
+   "copyPassword": {
+      "message": "Kopiraj lozinku"
+   },
+   "copySecurityCode": {
+      "message": "Kopiraj kontrolni broj"
+   },
+   "copySendLink": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Kopiraj vezu na Send"
+   },
+   "copyUri": {
+      "message": "Kopiraj URI"
+   },
+   "copyUsername": {
+      "message": "Kopiraj korisničko ime"
+   },
+   "copyValue": {
+      "message": "Kopiraj vrijednost"
+   },
+   "copyVerificationCode": {
+      "message": "Kopiraj kôd za provjeru"
+   },
+   "country": {
+      "message": "Zemlja"
+   },
+   "createAccount": {
+      "message": "Stvori račun"
+   },
+   "createSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Stvori novi Send"
+   },
+   "createdSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Send stvoren"
+   },
+   "currentAccessCount": {
+      "message": "Trenutni broj pristupanja"
+   },
+   "currentMasterPass": {
+      "message": "Current master password"
+   },
+   "currentTab": {
+      "message": "Trenutna kartica"
+   },
+   "currentUri": {
+      "description": "The URI of one of the current open tabs in the browser.",
+      "message": "Trenutni URI"
+   },
+   "custom": {
+      "message": "Prilagođeno"
+   },
+   "customEnvironment": {
+      "message": "Prilagođeno okruženje"
+   },
+   "customEnvironmentFooter": {
+      "message": "Za napredne korisnike. Samostalno možeš odrediti osnovni URL svake usluge."
+   },
+   "customFields": {
+      "message": "Prilagođena polja"
+   },
+   "dark": {
+      "description": "Dark color",
+      "message": "Tamna"
+   },
+   "dateCreated": {
+      "description": "ex. Date this item was created",
+      "message": "Stvoreno"
+   },
+   "dateParsingError": {
+      "message": "Došlo je do greške kod spremanja vaših datuma isteka i brisanja."
+   },
+   "datePasswordUpdated": {
+      "description": "ex. Date this password was updated",
+      "message": "Lozinka ažurirana"
+   },
+   "dateUpdated": {
+      "description": "ex. Date this item was updated",
+      "message": "Ažurirano"
+   },
+   "days": {
+      "message": "$DAYS$ dana",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "december": {
+      "message": "prosinac"
+   },
+   "default": {
+      "message": "Zadano"
+   },
+   "defaultAutoFillOnPageLoad": {
+      "message": "Zadana postvaka Auto-ispune za prijave"
+   },
+   "defaultAutoFillOnPageLoadDesc": {
+      "message": "Nakon omogućavanja auto-ispune kod učitavanja stranice, moguće je uključiti/isključiti ovu značajku za svaku pojedinu prijavu. Ovo je zadana postavka za prijave koje nisu pojedinčano određene."
+   },
+   "defaultMatchDetection": {
+      "description": "Default URI match detection for auto-fill.",
+      "message": "Zadano otkrivanje podudaranja"
+   },
+   "defaultUriMatchDetection": {
+      "description": "Default URI match detection for auto-fill.",
+      "message": "Zadano otkrivanje URI podudaranja"
+   },
+   "defaultUriMatchDetectionDesc": {
+      "message": "Odaberi zadani način na koji će se riješavati otkrivanje URI-ja za prijavu pri izvođenju radnji kao što je auto-ispuna."
+   },
+   "delete": {
+      "message": "Izbriši"
+   },
+   "deleteAttachment": {
+      "message": "Izbriši privitak"
+   },
+   "deleteAttachmentConfirmation": {
+      "message": "Sigurno želiš izbrisati ovaj privitak?"
+   },
+   "deleteFolder": {
+      "message": "Izbriši mapu"
+   },
+   "deleteFolderConfirmation": {
+      "message": "Sigurno želiš izbrisati ovu mapu?"
+   },
+   "deleteItem": {
+      "message": "Izbriši stavku"
+   },
+   "deleteItemConfirmation": {
+      "message": "Želiš li zaista poslati u smeće?"
+   },
+   "deleteSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Izbriši Send"
+   },
+   "deleteSendConfirmation": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Sigurno želiš izbrisati ovaj Send?"
+   },
+   "deletedAttachment": {
+      "message": "Privitak izbrisan"
+   },
+   "deletedFolder": {
+      "message": "Mapa izbrisana"
+   },
+   "deletedItem": {
+      "message": "Stavka poslana u smeće"
+   },
+   "deletedSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Send izbrisan"
+   },
+   "deletionDate": {
+      "message": "Obriši za"
+   },
+   "deletionDateAndTimeRequired": {
+      "message": "Potrebno je unijeti datum i vrijeme brisanja."
+   },
+   "deletionDateDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Send će nakon navedenog vremena biti trajno izbrisan."
+   },
+   "deletionDateIsInvalid": {
+      "message": "Navedeni datum brisanja nije valjan."
+   },
+   "desktopIntegrationDisabledDesc": {
+      "message": "Integracija s preglednikom nije omogućena u Bitwarden desktop aplikaciji. Omogući integraciju u postavkama desktop aplikacije."
+   },
+   "desktopIntegrationDisabledTitle": {
+      "message": "Integracija s preglednikom nije omogućena"
+   },
+   "desktopIntegrationVerificationText": {
+      "message": "Provjeri da desktop aplikacija prikazuje ovaj otisak:"
+   },
+   "desktopSyncVerificationTitle": {
+      "message": "Potvrda desktop sinkronizacije"
+   },
+   "disableAutoTotpCopyDesc": {
+      "message": "Ako se za prijavu koristi dvostruka autentifikacija, TOTP kontrolni kôd se automatski kopira u međuspremnik nakon auto-ispune korisničkog imena i lozinke."
+   },
+   "disabled": {
+      "message": "Onemogućeno"
+   },
+   "disabledOrganizationFilterError": {
+      "message": "Stavkama u suspendiranoj Organizaciji se ne može pristupiti. Kontaktiraj vlasnika Organizacije za pomoć."
+   },
+   "display": {
+      "message": "Display"
+   },
+   "domainName": {
+      "description": "Domain name. Ex. website.com",
+      "message": "Naziv domene"
+   },
+   "dr": {
+      "message": "dr."
+   },
+   "dragToSort": {
+      "message": "Povuci za sortiranje"
+   },
+   "duoDesc": {
+      "description": "'Duo Security' and 'Duo Mobile' are product names and should not be translated.",
+      "message": "Potvrdi s Duo Security pomoću aplikacije Duo Mobile, SMS-om, telefonskim pozivom ili U2F sigurnosnim ključem."
+   },
+   "duoOrganizationDesc": {
+      "description": "'Duo Security' and 'Duo Mobile' are product names and should not be translated.",
+      "message": "Potvrdi s Duo Security za svoju organizaciju pomoću aplikacije Duo Mobile, SMS-om, telefonskim pozivom ili U2F sigurnosnim ključem."
+   },
+   "edit": {
+      "message": "Uredi"
+   },
+   "editFolder": {
+      "message": "Uredi mapu"
+   },
+   "editItem": {
+      "message": "Uredi stavku"
+   },
+   "editSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Uredi Send"
+   },
+   "editedFolder": {
+      "message": "Mapa spremljena"
+   },
+   "editedItem": {
+      "message": "Stavka izmijenjena"
+   },
+   "editedSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Send spremljen"
+   },
+   "email": {
+      "message": "E-pošta"
+   },
+   "emailAddress": {
+      "message": "Adresa e-pošte"
+   },
+   "emailDesc": {
+      "message": "Verifikacijski kodovi će biti poslani e-poštom."
+   },
+   "emailRequired": {
+      "message": "Adresa e-pošte je obavezna."
+   },
+   "emailTitle": {
+      "message": "E-pošta"
+   },
+   "emailVerificationRequired": {
+      "message": "Potrebna je potvrda e-pošte"
+   },
+   "emailVerificationRequiredDesc": {
+      "message": "Moraš ovjeriti svoju e-poštu u mrežnom trezoru za koritšenje ove značajke."
+   },
+   "enableAddLoginNotification": {
+      "message": "Upitaj za dodavanje prijave"
+   },
+   "enableAutoBiometricsPrompt": {
+      "message": "Traži biometrijsku autentifikaciju pri pokretanju"
+   },
+   "enableAutoFillOnPageLoad": {
+      "message": "Auto-ispuna kod učitavanja"
+   },
+   "enableAutoFillOnPageLoadDesc": {
+      "message": "Nakon učitavanja web stranice, ako je otkriven obrazac za prijavu, auto-ispuni."
+   },
+   "enableAutoTotpCopy": {
+      "message": "Automatski kopiraj TOTP"
+   },
+   "enableBadgeCounter": {
+      "message": "Prikaži značku brojača"
+   },
+   "enableChangedPasswordNotification": {
+      "message": "Upitaj za ažuriranje trenutne prijave"
+   },
+   "enableContextMenuItem": {
+      "message": "Prikaži opcije kotekstualnog izbornika"
+   },
+   "enableFavicon": {
+      "message": "Prikaži ikone mrežnih mjesta"
+   },
+   "encExportAccountWarningDesc": {
+      "message": "Ključ za šifriranje jedinstven je za svakog Bitwarden korisnika, kako bi se šifrirani izvoz mogao uvesti u drugi korisnički račun."
+   },
+   "encExportKeyWarningDesc": {
+      "message": "Ovaj izvoz šifrira tvoje podatke koristeći ključ za šifriranje. Promijeniš li naknadno ključ za šifriranje, potrebno je ponovno napraviti izvoz jer nećeš moći dešifrirati ovu izvezenu datoteku."
+   },
+   "enterEmailToGetHint": {
+      "message": "Unesi adresu e-pošte svog računa za primitak podsjetnika glavne lozinke."
+   },
+   "enterVerificationCodeApp": {
+      "message": "Unesi 6-znamenkasti kontrolni kôd iz autentifikatorske aplikacije."
+   },
+   "enterVerificationCodeEmail": {
+      "message": "Unesi 6-znamenkasti kontrolni kôd poslan e-poštom na $EMAIL$.",
+      "placeholders": {
+         "email": {
+            "content": "$1",
+            "example": "example@gmail.com"
+         }
+      }
+   },
+   "enterpriseSingleSignOn": {
+      "message": "Jedinstvena prijava na razini tvrtke (SSO)"
+   },
+   "environmentEditedClick": {
+      "message": "Klikni ovdje"
+   },
+   "environmentEditedReset": {
+      "message": "za ponovno postavljanje zadanih postavki"
+   },
+   "environmentSaved": {
+      "message": "URL-ovi okoline su spremljeni."
+   },
+   "error": {
+      "message": "Pogreška"
+   },
+   "errorEnableBiometricDesc": {
+      "message": "Desktop aplikacija je poništila akciju"
+   },
+   "errorEnableBiometricTitle": {
+      "message": "Nije moguće omogućiti biometriju"
+   },
+   "errorOccurred": {
+      "message": "Došlo je do pogreške"
+   },
+   "eu": {
+      "description": "European Union",
+      "message": "EU"
+   },
+   "ex": {
+      "message": "npr."
+   },
+   "exact": {
+      "message": "Točno"
+   },
+   "excludedDomains": {
+      "message": "Izuzete domene"
+   },
+   "excludedDomainsDesc": {
+      "message": "Bitwarden neće pitati treba li spremiti prijavne podatke za ove domene. Za primjenu promjena, potrebno je osvježiti stranicu."
+   },
+   "excludedDomainsInvalidDomain": {
+      "message": "$DOMAIN$ nije valjana domena",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "googlecom"
+         }
+      }
+   },
+   "experimentalFeature": {
+      "message": "Ugrožene ili nepouzdane web stranice mogu iskoristiti auto-ispunu prilikom učitavanja stranice."
+   },
+   "expiration": {
+      "message": "Istek"
+   },
+   "expirationDate": {
+      "message": "Vremenski ograničeni pristup"
+   },
+   "expirationDateAndTimeRequired": {
+      "message": "Potrebno je unijeti datum i vrijeme isteka."
+   },
+   "expirationDateDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Pristup ovom Sendu neće biti moguć nakon navednog roka."
+   },
+   "expirationDateIsInvalid": {
+      "message": "Navedeni rok isteka nije valjan."
+   },
+   "expirationMonth": {
+      "message": "Mjesec isteka"
+   },
+   "expirationYear": {
+      "message": "Godina isteka"
+   },
+   "expired": {
+      "message": "Isteklo"
+   },
+   "exportMasterPassword": {
+      "message": "Unesi glavnu lozinku za izvoz podataka iz trezora."
+   },
+   "exportVault": {
+      "message": "Izvezi trezor"
+   },
+   "exportWarningDesc": {
+      "message": "Ovaj izvoz sadrži podatke trezora u nešifriranom obliku! Izvezenu datoteku se ne bi smjelo pohranjivati ili slati putem nesigurnih kanala (npr. e-poštom). Izbriši ju odmah nakon završetka korištenja."
+   },
+   "exportingPersonalVaultDescription": {
+      "message": "Izvest će se samo stavke osobnog trezora povezanog s $EMAIL$. Stavke organizacijskog trezora neće biti uključene.",
+      "placeholders": {
+         "email": {
+            "content": "$1",
+            "example": "name@example.com"
+         }
+      }
+   },
+   "exportingPersonalVaultTitle": {
+      "message": "Izvoz osobnog trezora"
+   },
+   "exposedMasterPassword": {
+      "message": "Ukradena glavna lozinka"
+   },
+   "exposedMasterPasswordDesc": {
+      "message": "Lozinka je nađena među ukradenima tijekom krađa podataka. Za zaštitu svog računa koristi jedinstvenu lozinku. Želiš li svejedno korisiti ukradenu lozinku?"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Bitwarden je siguran i besplatan upravitelj lozinki za sve tvoje uređaje."
+   },
+   "extName": {
+      "description": "Extension name, MUST be less than 40 characters (Safari restriction)",
+      "message": "Bitwarden - besplatni upravitelj lozinki"
+   },
+   "faviconDesc": {
+      "message": "Prikaži prepoznatljivu sliku pored svake prijave."
+   },
+   "favorite": {
+      "message": "Favorit"
+   },
+   "favorites": {
+      "message": "Favoriti"
+   },
+   "featureUnavailable": {
+      "message": "Značajka nije dostupna"
+   },
+   "february": {
+      "message": "veljača"
+   },
+   "fifteenMinutes": {
+      "message": "15 minuta"
+   },
+   "file": {
+      "message": "Datoteka"
+   },
+   "fileFormat": {
+      "message": "Format datoteke"
+   },
+   "fingerprintMatchInfo": {
+      "message": "Provjeri je li trezor otključan i slaže li se jedinstvena fraza s drugim uređajem."
+   },
+   "fingerprintPhrase": {
+      "description": "A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.",
+      "message": "Jedinstvena fraza"
+   },
+   "fingerprintPhraseHeader": {
+      "message": "Jedinstvena fraza"
+   },
+   "firstName": {
+      "message": "Ime"
+   },
+   "fiveMinutes": {
+      "message": "5 minuta"
+   },
+   "folder": {
+      "message": "Mapa"
+   },
+   "folders": {
+      "message": "Mape"
+   },
+   "forwardedEmail": {
+      "message": "Proslijeđeni pseudonim e-pošte"
+   },
+   "forwardedEmailDesc": {
+      "message": "Generiraj pseudonim e-pošte s vanjskom uslugom prosljeđivanja."
+   },
+   "fourHours": {
+      "message": "4 sata"
+   },
+   "fullName": {
+      "message": "Ime i prezime"
+   },
+   "general": {
+      "message": "General"
+   },
+   "generatePassword": {
+      "message": "Generiraj lozinku"
+   },
+   "generatePasswordCopied": {
+      "message": "Generiraj lozinku (i kopiraj)"
+   },
+   "generateUsername": {
+      "message": "Generiraj korisničko ime"
+   },
+   "generator": {
+      "description": "Short for 'Password Generator'.",
+      "message": "Generator"
+   },
+   "getMasterPasswordHint": {
+      "message": "Slanje podsjetnika glavne lozinke"
+   },
+   "gettingStartedTutorial": {
+      "message": "Priručnik za početak rada"
+   },
+   "gettingStartedTutorialVideo": {
+      "message": "Pogledaj naš početni vodič za savjete kako najbolje iskoristiti proširenje preglednika."
+   },
+   "good": {
+      "description": "ex. A good password. Scale: Weak -> Good -> Strong",
+      "message": "Dobra"
+   },
+   "gotIt": {
+      "message": "U redu"
+   },
+   "helpCenter": {
+      "message": "Bitwarden centar za pomoć"
+   },
+   "helpFeedback": {
+      "message": "Pomoć i povratne informacije"
+   },
+   "hideEmail": {
+      "message": "Sakrij moju adresu e-pošte od primatelja."
+   },
+   "hintEqualsPassword": {
+      "message": "Podsjetnik za lozinku ne može biti isti kao lozinka."
+   },
+   "host": {
+      "description": "A URL's host value. For example, the host of https://sub.domain.com:443 is 'sub.domain.com:443'.",
+      "message": "Host"
+   },
+   "hostname": {
+      "description": "Part of a URL.",
+      "message": "Naziv poslužitelja"
+   },
+   "hours": {
+      "message": "sat(i)"
+   },
+   "howToAutofill": {
+      "message": "Kako auto-ispuniti"
+   },
+   "iconsUrl": {
+      "message": "URL poslužitelja ikona"
+   },
+   "identities": {
+      "message": "Identiteti"
+   },
+   "identityName": {
+      "message": "Ime identiteta"
+   },
+   "identityUrl": {
+      "message": "URL id poslužitelja"
+   },
+   "immediately": {
+      "message": "Odmah"
+   },
+   "importItems": {
+      "message": "Uvoz stavki"
+   },
+   "important": {
+      "message": "Važno:"
+   },
+   "includeNumber": {
+      "message": "Uključi broj"
+   },
+   "insecurePageWarning": {
+      "message": "Warning: This is an unsecured HTTP page, and any information you submit can potentially be seen and changed by others. This Login was originally saved on a secure (HTTPS) page."
+   },
+   "insecurePageWarningFillPrompt": {
+      "message": "Do you still wish to fill this login?"
+   },
+   "insertU2f": {
+      "message": "Umetni svoj sigurnosni ključ u USB priključak računala. Ako ima tipku, dodirni ju."
+   },
+   "insertYubiKey": {
+      "message": "Umetni svoj YubiKey u USB priključak računala, a zatim dodirni njegovu tipku."
+   },
+   "invalidEmail": {
+      "message": "Neispravna adresa e-pošte."
+   },
+   "invalidMasterPassword": {
+      "message": "Neispravna glavna lozinka"
+   },
+   "invalidPin": {
+      "message": "Nerispravan PIN."
+   },
+   "invalidVerificationCode": {
+      "message": "Nevažeći kôd za provjeru"
+   },
+   "itemAutoFillOnPageLoad": {
+      "message": "Auto-ispuna kod učitavanja stranice (ako je uključeno u Postavkama)"
+   },
+   "itemInformation": {
+      "message": "Informacije o stavci"
+   },
+   "january": {
+      "message": "siječanj"
+   },
+   "july": {
+      "message": "srpanj"
+   },
+   "june": {
+      "message": "lipanj"
+   },
+   "lastName": {
+      "message": "Prezime"
+   },
+   "lastSeenOn": {
+      "message": "zadnji put viđeno: $DATE$",
+      "placeholders": {
+         "date": {
+            "content": "$1",
+            "example": "Jun 15, 2015"
+         }
+      }
+   },
+   "lastSync": {
+      "message": "Posljednja sinkronizacija:"
+   },
+   "launch": {
+      "message": "Pokreni"
+   },
+   "learnMore": {
+      "message": "Saznaj više"
+   },
+   "learnMoreAboutAutofill": {
+      "message": "Saznaj više o auto-ispuni"
+   },
+   "learnOrg": {
+      "message": "Više o organizacijama"
+   },
+   "learnOrgConfirmation": {
+      "message": "Bitwarden omogućuje dijeljenje trezora s drugima pomoću organizacijskog računa. Želiš li sada posjetiti bitwarden.com za više informacija?"
+   },
+   "leaveOrganization": {
+      "message": "Napusti organizaciju"
+   },
+   "leaveOrganizationConfirmation": {
+      "message": "Sigurno želiš napustiti ovu organizaciju?"
+   },
+   "leftOrganization": {
+      "message": "Organizacija napuštena."
+   },
+   "length": {
+      "message": "Duljina"
+   },
+   "licenseNumber": {
+      "message": "Broj vozačke dozvole"
+   },
+   "light": {
+      "description": "Light color",
+      "message": "Svijetla"
+   },
+   "linkedValue": {
+      "description": "This describes a value that is 'linked' (tied) to another value.",
+      "message": "Povezana vrijednost"
+   },
+   "lock": {
+      "description": "Verb form: to make secure or inaccesible by",
+      "message": "Zaključaj"
+   },
+   "lockNow": {
+      "message": "Zaključaj sada"
+   },
+   "lockWithMasterPassOnRestart": {
+      "message": "Zaključaj glavnom lozinkom kod svakog pokretanja preglednika"
+   },
+   "logInInitiated": {
+      "message": "Pokrenuta prijava"
+   },
+   "logOut": {
+      "message": "Odjava"
+   },
+   "logOutConfirmation": {
+      "message": "Sigurno se želiš odjaviti?"
+   },
+   "loggedInAsOn": {
+      "message": "Korisnički račun: $EMAIL$ na $HOSTNAME$",
+      "placeholders": {
+         "email": {
+            "content": "$1",
+            "example": "name@example.com"
+         },
+         "hostname": {
+            "content": "$2",
+            "example": "bitwarden.com"
+         }
+      }
+   },
+   "loggedOut": {
+      "message": "Odjavljen"
+   },
+   "loggingInAs": {
+      "message": "Prijava kao"
+   },
+   "loggingInTo": {
+      "message": "Prijava u $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "login": {
+      "message": "Prijava"
+   },
+   "loginExpired": {
+      "message": "Sesija je istekla."
+   },
+   "loginOrCreateNewAccount": {
+      "message": "Prijavi se ili stvori novi račun za pristup svojem sigurnom trezoru."
+   },
+   "loginToVaultMenu": {
+      "message": "Prijavi se u svoj trezor"
+   },
+   "loginUnavailable": {
+      "message": "Prijava nije dostupna"
+   },
+   "loginWithDevice": {
+      "message": "Prijava uređajem"
+   },
+   "loginWithDeviceEnabledInfo": {
+      "message": "Prijava uređajem mora biti namještena u postavka Bitwarden mobilne aplikacije. Trebaš drugu opciju?"
+   },
+   "loginWithMasterPassword": {
+      "message": "Prijava glavnom lozinkom"
+   },
+   "logins": {
+      "message": "Prijave"
+   },
+   "lowercase": {
+      "message": "Mala slova (a - z)"
+   },
+   "manage": {
+      "message": "Upravljanje"
+   },
+   "march": {
+      "message": "ožujak"
+   },
+   "masterPass": {
+      "message": "Glavna lozinka"
+   },
+   "masterPassDesc": {
+      "message": "Glavnu lozinku koristiš za pristup svom trezoru. Vrlo je važno da ne zaboraviš glavnu lozinku. Ne postoji način za oporavak lozinke u slučaju da ju zaboraviš."
+   },
+   "masterPassDoesntMatch": {
+      "message": "Potvrda glavne lozinke se ne podudara."
+   },
+   "masterPassHint": {
+      "message": "Podsjetnik glavne lozinke (neobavezno)"
+   },
+   "masterPassHintDesc": {
+      "message": "Podsjetnik glavne lozinke ti može pomoći da se prisjetiš svoje lozinke ako ju zaboraviš."
+   },
+   "masterPassSent": {
+      "message": "Poslali smo e-poštu s podsjetnikom glavne lozinke."
+   },
+   "masterPasswordHint": {
+      "message": "Glavnu lozinku nije moguće oporaviti ako ju zaboraviš!"
+   },
+   "masterPasswordMinlength": {
+      "description": "The Master Password must be at least a specific number of characters long.",
+      "message": "Glavna lozinka mora imati najmanje $VALUE$ znakova.",
+      "placeholders": {
+         "value": {
+            "content": "$1",
+            "example": "8"
+         }
+      }
+   },
+   "masterPasswordPolicyInEffect": {
+      "message": "Jedno ili više pravila organizacije zahtijeva da tvoja glavna lozinka ispunjava sljedeće uvjete:"
+   },
+   "masterPasswordPolicyRequirementsNotMet": {
+      "message": "Tvoja nova glavna lozinka ne ispunjava zahtjeve."
+   },
+   "masterPasswordRequired": {
+      "message": "Potrebna je glavna lozinka."
+   },
+   "matchDetection": {
+      "description": "URI match detection for auto-fill.",
+      "message": "Otkrivanje podudaranja"
+   },
+   "maxAccessCountReached": {
+      "description": "This text will be displayed after a Send has been accessed the maximum amount of times.",
+      "message": "Dostignut najveći broj pristupanja"
+   },
+   "maxFileSize": {
+      "message": "Najveća veličina datoteke je 500 MB."
+   },
+   "maximumAccessCount": {
+      "message": "Ograničeni broj pristupanja"
+   },
+   "maximumAccessCountDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Ako je određen, ovom Sendu će se moći pristupiti samo ograničeni broj puta."
+   },
+   "may": {
+      "message": "svibanj"
+   },
+   "middleName": {
+      "message": "Srednje ime"
+   },
+   "minNumbers": {
+      "message": "Najmanje brojeva"
+   },
+   "minSpecial": {
+      "message": "Najmanje posebnih"
+   },
+   "minutes": {
+      "message": "minuta"
+   },
+   "move": {
+      "message": "Premjesti"
+   },
+   "moveToOrgDesc": {
+      "message": "Odaberi organizaciju u koju želiš premjestiti ovu stavku. Premještanje prenosi vlasništvo stavke na organizaciju. Nakon premještanja više nećeš biti izravni vlasnik ove stavke."
+   },
+   "moveToOrganization": {
+      "message": "Premjesti u organizaciju"
+   },
+   "movedItemToOrg": {
+      "message": "$ITEMNAME$ premješteno u $ORGNAME$",
+      "placeholders": {
+         "itemname": {
+            "content": "$1",
+            "example": "Secret Item"
+         },
+         "orgname": {
+            "content": "$2",
+            "example": "Company Name"
+         }
+      }
+   },
+   "mr": {
+      "message": "g."
+   },
+   "mrs": {
+      "message": "gđa."
+   },
+   "ms": {
+      "message": "gđica."
+   },
+   "mx": {
+      "message": "Mx"
+   },
+   "myVault": {
+      "message": "Moj trezor"
+   },
+   "name": {
+      "message": "Naziv"
+   },
+   "nameRequired": {
+      "message": "Ime je obavezno."
+   },
+   "nativeMessaginPermissionErrorDesc": {
+      "message": "Bez odobrenja za komunikaciju s Bitwarden Desktop aplikacijom nije moguće korištenje biometrije u proširenju preglednika."
+   },
+   "nativeMessaginPermissionErrorTitle": {
+      "message": "Dopuštenje nije dano"
+   },
+   "nativeMessaginPermissionSidebarDesc": {
+      "message": "Ovu ranju nije moguće napraviti u bočnom meniju. Pokušaj ponovno u iskočnom prozoru."
+   },
+   "nativeMessaginPermissionSidebarTitle": {
+      "message": "Greška zahtjeva dozvole"
+   },
+   "nativeMessagingInvalidEncryptionDesc": {
+      "message": "Desktop aplikacija je onemogućila sigurni komunikacijski kanal. Molimo, pokušaj ponovno."
+   },
+   "nativeMessagingInvalidEncryptionTitle": {
+      "message": "Desktop komunikacija prekinuta"
+   },
+   "nativeMessagingWrongUserDesc": {
+      "message": "Desktop aplikacija je prijavljena, ali s drugim korisničkim računom. Provjeri da obje aplikacije koriste isti korisnički račun."
+   },
+   "nativeMessagingWrongUserTitle": {
+      "message": "Pogrešan korisnički račun"
+   },
+   "never": {
+      "message": "Nikad"
+   },
+   "neverLockWarning": {
+      "message": "Sigurno želiš koristiti opciju „Nikada”? Postavljanje opcija zaključavanja na „Nikada” pohranjuje šifru tvojeg trezora na tvom uređaju. Ako koristiš ovu opciju, trebali bi osigurati da je uređaj pravilno zaštićen."
+   },
+   "newAccountCreated": {
+      "message": "Tvoj novi račun je kreiran! Sada se možeš prijaviti."
+   },
+   "newAroundHere": {
+      "message": "Novi korisnik?"
+   },
+   "newAttachment": {
+      "message": "Dodaj novi privitak"
+   },
+   "newCustomField": {
+      "message": "Novo prilagođeno polje"
+   },
+   "newMasterPass": {
+      "message": "New master password"
+   },
+   "newPassword": {
+      "message": "Nova lozinka"
+   },
+   "newUri": {
+      "message": "Novi URI"
+   },
+   "no": {
+      "message": "Ne"
+   },
+   "noAttachments": {
+      "message": "Nema privitaka."
+   },
+   "noCollectionsInList": {
+      "message": "Nema zbirki za prikaz."
+   },
+   "noFolders": {
+      "message": "Nema mapa na popisu."
+   },
+   "noItemsInList": {
+      "message": "Nema stavki za prikaz."
+   },
+   "noMatchingLogins": {
+      "message": "Nema podudarajućih prijava"
+   },
+   "noOrganizationsList": {
+      "message": "Ne pripadaš niti jednoj organizaciji. Organizacije omogućuju sigurno dijeljenje stavki s drugim korisnicima."
+   },
+   "noPasswordsInList": {
+      "message": "Nema lozinki na popisu."
+   },
+   "noTwoStepProviders": {
+      "message": "Ovaj račun ima omogućenu prijavu dvostrukom autentifikacijom, međutim ovaj web preglednik ne podržava niti jednog konfiguriranog pružatelja dvostruke autentifikacije."
+   },
+   "noTwoStepProviders2": {
+      "message": "Koristi podržani web-preglednik (npr. Chrome) i/ili dodaj dodatne usluge koje su bolje podržane u web preglednicima (npr. aplikacija Autentifikator)."
+   },
+   "noneFolder": {
+      "description": "This is the folder for uncategorized items",
+      "message": "Nema mape"
+   },
+   "notYou": {
+      "message": "Nisi ti?"
+   },
+   "note": {
+      "message": "Bilješka"
+   },
+   "notes": {
+      "message": "Bilješke"
+   },
+   "notificationAddDesc": {
+      "message": "Treba li Bitwarden zapamtiti ovu lozinku?"
+   },
+   "notificationAddSave": {
+      "message": "Spremi"
+   },
+   "notificationChangeDesc": {
+      "message": "Želiš li ovu lozinku ažurirati u Bitwarden-u?"
+   },
+   "notificationChangeSave": {
+      "message": "Ažuriraj"
+   },
+   "notificationSentDevice": {
+      "message": "Obavijest je poslana na tvoj uređaj."
+   },
+   "notificationsUrl": {
+      "message": "URL poslužitelja obavijesti"
+   },
+   "november": {
+      "message": "studeni"
+   },
+   "numWords": {
+      "message": "Broj riječi"
+   },
+   "number": {
+      "message": "Broj"
+   },
+   "numbers": {
+      "message": "Brojevi (0 - 9)"
+   },
+   "october": {
+      "message": "listopad"
+   },
+   "ok": {
+      "message": "U redu"
+   },
+   "onLocked": {
+      "message": "Pri zaključavanju sustava"
+   },
+   "onRestart": {
+      "message": "Pri pokretanju preglednika"
+   },
+   "oneDay": {
+      "message": "1 dan"
+   },
+   "oneHour": {
+      "message": "1 sat"
+   },
+   "oneMinute": {
+      "message": "1 minuta"
+   },
+   "opensInANewWindow": {
+      "message": "Opens in a new window"
+   },
+   "options": {
+      "message": "Opcije"
+   },
+   "organization": {
+      "description": "An entity of multiple related people (ex. a team or business organization).",
+      "message": "Organizacija"
+   },
+   "organizationIsDisabled": {
+      "message": "Organizacija suspendirana."
+   },
+   "other": {
+      "message": "Ostalo"
+   },
+   "overwritePassword": {
+      "message": "Prebriši lozinku"
+   },
+   "overwritePasswordConfirmation": {
+      "message": "Sigurno želiš prebrisati trenutnu lozinku?"
+   },
+   "overwriteUsername": {
+      "message": "Prebriši korisničko ime"
+   },
+   "overwriteUsernameConfirmation": {
+      "message": "Sigurno želiš prebrisati trenutno korisničko ime?"
+   },
+   "ownership": {
+      "message": "Vlasništvo"
+   },
+   "passGen": {
+      "message": "Generator lozinki"
+   },
+   "passGenInfo": {
+      "message": "Automatski generiraj jake, jedinstvene lozinke."
+   },
+   "passphrase": {
+      "message": "Frazna lozinka"
+   },
+   "passportNumber": {
+      "message": "Broj putovnice"
+   },
+   "password": {
+      "message": "Lozinka"
+   },
+   "passwordConfirmation": {
+      "message": "Potvrda glavne lozinke"
+   },
+   "passwordConfirmationDesc": {
+      "message": "Ova radnja je zaštićena. Za nastavak i potvrdu identiteta, unesi svoju glavnu lozinku."
+   },
+   "passwordCopied": {
+      "message": "Lozinka kopirana"
+   },
+   "passwordExposed": {
+      "message": "Ova lozinka je otkrivena $VALUE$ put(a) prilikom krađe podataka. Trebalo bi ju promijeniti.",
+      "placeholders": {
+         "value": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "passwordGeneratorPolicyInEffect": {
+      "message": "Jedno ili više pravila organizacije utječe na postavke generatora."
+   },
+   "passwordHint": {
+      "message": "Podsjetnik za lozinku"
+   },
+   "passwordHistory": {
+      "message": "Povijest"
+   },
+   "passwordPrompt": {
+      "message": "Ponovno zatraži glavnu lozinku"
+   },
+   "passwordProtected": {
+      "message": "Zaštićeno lozinkom"
+   },
+   "passwordSafe": {
+      "message": "Lozinka nije pronađena niti u jednoj krađi podataka. Sigurna je za korištenje."
+   },
+   "passwordType": {
+      "message": "Tip lozinke"
+   },
+   "pendingDeletion": {
+      "message": "Čeka brisanje"
+   },
+   "permanentlyDeleteItem": {
+      "message": "Trajno izbriši stavku"
+   },
+   "permanentlyDeleteItemConfirmation": {
+      "message": "Želiš li zaista trajno izbrisati ovu stavku?"
+   },
+   "permanentlyDeletedItem": {
+      "message": "Stavka trajno izbrisana"
+   },
+   "personalOwnershipPolicyInEffect": {
+      "message": "Pravila organizacije utječu na tvoje mogućnosti vlasništva. "
+   },
+   "personalOwnershipSubmitError": {
+      "message": "Pravila tvrtke onemogućuju spremanje stavki u osobni trezor. Promijeni vlasništvo stavke na tvrtku i odaberi dostupnu Zbirku."
+   },
+   "personalVaultExportPolicyInEffect": {
+      "message": "Jedno ili više pravila organizacija onemogućuje izvoz osobnog trezora. "
+   },
+   "phone": {
+      "message": "Telefon"
+   },
+   "pin": {
+      "description": "PIN code. Ex. The short code (often numeric) that you use to unlock a device.",
+      "message": "PIN"
+   },
+   "pinRequired": {
+      "message": "Potreban je PIN."
+   },
+   "plusAddressedEmail": {
+      "description": "Username generator option that appends a random sub-address to the username. For example: address+subaddress@email.com",
+      "message": "Plus adresa e-pošte"
+   },
+   "plusAddressedEmailDesc": {
+      "message": "Koristi mogućnosti podadresiranja svog davatelja e-pošte."
+   },
+   "policyInEffectLowercase": {
+      "message": "Sadrži jedno ili više malih slova"
+   },
+   "policyInEffectMinComplexity": {
+      "message": "Minimalna ocjena složenosti od $SCORE$",
+      "placeholders": {
+         "score": {
+            "content": "$1",
+            "example": "4"
+         }
+      }
+   },
+   "policyInEffectMinLength": {
+      "message": "Duljina najmanje $LENGTH$",
+      "placeholders": {
+         "length": {
+            "content": "$1",
+            "example": "14"
+         }
+      }
+   },
+   "policyInEffectNumbers": {
+      "message": "Sadrži jedan ili više brojeva"
+   },
+   "policyInEffectSpecial": {
+      "message": "Sadrži jedan ili više sljedećih posebnih znakova: $CHARS$",
+      "placeholders": {
+         "chars": {
+            "content": "$1",
+            "example": "!@#$%^&*"
+         }
+      }
+   },
+   "policyInEffectUppercase": {
+      "message": "Sadrži jedno ili više velikih slova"
+   },
+   "popOutNewWindow": {
+      "message": "Otvori u novom prozoru"
+   },
+   "popup2faCloseMessage": {
+      "message": "Ako klikneš izvan iskočnog prozora, za provjeru kontrolnog kôda iz e-pošte, on će se zatvoriti. Želiš li ovaj iskočni prozor otvoriti u novom prozoru kako se ne bi zatvorio?"
+   },
+   "popupU2fCloseMessage": {
+      "message": "Ovaj preglednik ne može obraditi U2F zahtjeve u ovom iskočnom prozoru. Želiš li otvoriti ovaj iskočni prozor u novom prozoru za prijavu putem U2F?"
+   },
+   "ppremiumSignUpFuture": {
+      "message": "Sve buduće premium značajke. Uskoro više!"
+   },
+   "ppremiumSignUpReports": {
+      "message": "Higijenu lozinki, zdravlje računa i izvještaje o krađi podatak radi zaštite svojeg trezora."
+   },
+   "ppremiumSignUpStorage": {
+      "message": "1 GB šifriranog prostora za pohranu podataka."
+   },
+   "ppremiumSignUpSupport": {
+      "message": "Prioritetnu korisničku podršku."
+   },
+   "ppremiumSignUpTotp": {
+      "message": "Generator TOTP kontrolnog koda (2FA) za prijave u tvom trezoru."
+   },
+   "ppremiumSignUpTwoStep": {
+      "message": "Dodatne mogućnosti za prijavu dvostrukom autentifikacijom kao što su YubiKey, FIDO U2F i Duo."
+   },
+   "premiumCurrentMember": {
+      "message": "Ti si premium član!"
+   },
+   "premiumCurrentMemberThanks": {
+      "message": "Hvala ti što podupireš Bitwarden."
+   },
+   "premiumManage": {
+      "message": "Upravljaj članstvom"
+   },
+   "premiumManageAlert": {
+      "message": "Svojim članstvom možeš upravljati na web trezoru. Želiš li sada posjetiti bitwarden.com?"
+   },
+   "premiumMembership": {
+      "message": "Premium članstvo"
+   },
+   "premiumNotCurrentMember": {
+      "message": "Trenutno nisi premium član."
+   },
+   "premiumPrice": {
+      "message": "Sve za samo $PRICE$ /godišnje!",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "$10"
+         }
+      }
+   },
+   "premiumPurchase": {
+      "message": "Kupi premium članstvo"
+   },
+   "premiumPurchaseAlert": {
+      "message": "Možeš kupiti premium članstvo na web trezoru. Želiš li sada posjetiti bitwarden.com?"
+   },
+   "premiumRefresh": {
+      "message": "Osvježi status članstva"
+   },
+   "premiumRequired": {
+      "message": "Potrebno premium članstvo"
+   },
+   "premiumRequiredDesc": {
+      "message": "Za korištenje ove značajke potrebno je Premium članstvo."
+   },
+   "premiumSignUpAndGet": {
+      "message": "Prijavi se za premium članstvo, čime dobivaš:"
+   },
+   "premiumSubcriptionRequired": {
+      "message": "Potrebna Premium pretplata"
+   },
+   "privacyPolicy": {
+      "message": "Pravila privatnosti"
+   },
+   "privateModeWarning": {
+      "message": "Podrška za privatni način rada je eksperimentalna, a neke su značajke ograničene."
+   },
+   "random": {
+      "message": "Nasumično"
+   },
+   "randomWord": {
+      "message": "Nasumična riječ"
+   },
+   "rateExtension": {
+      "message": "Ocijeni proširenje"
+   },
+   "rateExtensionDesc": {
+      "message": "Razmotri da nam pomogneš dobrom recenzijom!"
+   },
+   "reTypeMasterPass": {
+      "message": "Ponovno upiši glavnu lozinku"
+   },
+   "recoveryCodeDesc": {
+      "message": "Izgubljen je pristup uređaju za dvostruku autentifikaciju? Koristi svoj kôd za oporavak za onemogućavanje svih pružatelja usluga dvostruke autentifikacije na tvojem računu."
+   },
+   "recoveryCodeTitle": {
+      "message": "Kôd za oporavak"
+   },
+   "refresh": {
+      "message": "Osvježi"
+   },
+   "refreshComplete": {
+      "message": "Osvježavanje završeno"
+   },
+   "regEx": {
+      "description": "A programming term, also known as 'RegEx'.",
+      "message": "Regularni izraz"
+   },
+   "regeneratePassword": {
+      "message": "Ponovno generiraj lozinku"
+   },
+   "regenerateUsername": {
+      "message": "Ponovno generiraj korisničko ime"
+   },
+   "region": {
+      "message": "Region"
+   },
+   "rememberEmail": {
+      "message": "Zapamti adresu e-pošte"
+   },
+   "rememberMe": {
+      "message": "Zapamti me"
+   },
+   "remove": {
+      "message": "Ukloni"
+   },
+   "removeMasterPassword": {
+      "message": "Ukloni glavnu lozinku"
+   },
+   "removePassword": {
+      "message": "Ukloni lozinku"
+   },
+   "removePasswordConfirmation": {
+      "message": "Sigurno želiš ukloniti lozinku?"
+   },
+   "removedMasterPassword": {
+      "message": "Glavna lozinka uklonjena."
+   },
+   "removedPassword": {
+      "message": "Lozinka uklonjena"
+   },
+   "resendNotification": {
+      "message": "Ponovno pošalji obavijest"
+   },
+   "resetPasswordAutoEnrollInviteWarning": {
+      "message": "Pravilo ove organizacija automatski će te učlaniti u ponovno postavljanje lozinke. Učlanjenje će omogućiti administratorima organizacije promjenu tvoje glavne lozinke."
+   },
+   "resetPasswordPolicyAutoEnroll": {
+      "message": "Automatsko učlanjenje"
+   },
+   "restoreItem": {
+      "message": "Vrati stavku"
+   },
+   "restoreItemConfirmation": {
+      "message": "Sigurno želiš vratiti ovu stavku?"
+   },
+   "restoredItem": {
+      "message": "Stavka vraćena"
+   },
+   "save": {
+      "message": "Spremi"
+   },
+   "searchCollection": {
+      "message": "Pretraživanje zbirke"
+   },
+   "searchFolder": {
+      "message": "Mapa pretraživanja"
+   },
+   "searchSends": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Pretraži Sendove"
+   },
+   "searchTrash": {
+      "message": "Pretraži smeće"
+   },
+   "searchType": {
+      "message": "Tip pretrage"
+   },
+   "searchVault": {
+      "message": "Pretraži trezor"
+   },
+   "secureNotes": {
+      "message": "Sigurne bilješke"
+   },
+   "security": {
+      "message": "Sigurnost"
+   },
+   "securityCode": {
+      "message": "Kontrolni broj"
+   },
+   "select": {
+      "message": "Odaberi"
+   },
+   "selectFile": {
+      "message": "Odaberi datoteku."
+   },
+   "selectFolder": {
+      "message": "Odaberi mapu..."
+   },
+   "selectOneCollection": {
+      "message": "Moraš odabrati barem jednu zbirku."
+   },
+   "selfHosted": {
+      "message": "Vlastiti poslužitelj"
+   },
+   "selfHostedEnvironment": {
+      "message": "Vlastito hosting okruženje"
+   },
+   "selfHostedEnvironmentFooter": {
+      "message": "Navedi osnovni URL svoje lokalno smještene Bitwarden instalacije."
+   },
+   "send": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Send"
+   },
+   "sendCode": {
+      "message": "Pošalji kôd"
+   },
+   "sendDisableDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Onemogući ovaj Send da mu nitko ne može pristupiti."
+   },
+   "sendDisabled": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Send onemogućen"
+   },
+   "sendDisabledWarning": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Pravila tvrtke omogućuju brisanje samo postojećeg Senda"
+   },
+   "sendFileCalloutHeader": {
+      "message": "Prije početka"
+   },
+   "sendFileDesc": {
+      "message": "Datoteka koju želiš poslati"
+   },
+   "sendFirefoxCustomDatePopoutMessage1": {
+      "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read '**To use a calendar style date picker ** click here to pop out your window.'",
+      "message": "Biranje datuma na kalendaru"
+   },
+   "sendFirefoxCustomDatePopoutMessage2": {
+      "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'To use a calendar style date picker **click here** to pop out your window.'",
+      "message": "klikni ovjde"
+   },
+   "sendFirefoxCustomDatePopoutMessage3": {
+      "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'To use a calendar style date picker click here **to pop out your window.**'",
+      "message": "za iskočni prozor"
+   },
+   "sendFirefoxFileWarning": {
+      "message": "Za odabir datoteke u Firefoxu, otvori proširenje u bočnoj traci ili otvori iskočni prozor klikom na ovau poruku."
+   },
+   "sendHideText": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Sakrij tekst ovog Senda."
+   },
+   "sendLink": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Veza na Send"
+   },
+   "sendLinuxChromiumFileWarning": {
+      "message": "Za odabir datoteke, otvori proširenje u bočnoj traci (ako je moguće) ili u iskočnom prozoru klikom na ovu poruku."
+   },
+   "sendNameDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Nadimak za ovaj Send"
+   },
+   "sendNotesDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Privatne bilješke o Sendu."
+   },
+   "sendOptionsPolicyInEffect": {
+      "message": "Jedno ili više pravila organizacije utječe na postavke Senda."
+   },
+   "sendPasswordDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Neobavezno zahtijevaj korisnika lozinku za pristup ovom Sendu."
+   },
+   "sendSafariFileWarning": {
+      "message": "Za odabir datoteke u Safariju, otvori iskočni prozor klikom na ovu poruku."
+   },
+   "sendShareDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Kopiraj vezu na Send nakon spremanja"
+   },
+   "sendTextDesc": {
+      "message": "Tekst kojeg želiš poslati"
+   },
+   "sendTypeFile": {
+      "message": "Datoteka"
+   },
+   "sendTypeHeader": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Koja je ovo vrsta Senda?"
+   },
+   "sendTypeText": {
+      "message": "Tekst"
+   },
+   "sendVerificationCode": {
+      "message": "Slanje verifikacijskog kôda e-poštom"
+   },
+   "sendVerificationCodeEmailAgain": {
+      "message": "Ponovno slanje kontrolnog koda e-poštom"
+   },
+   "september": {
+      "message": "rujan"
+   },
+   "serverVersion": {
+      "message": "Verzija poslužitelja"
+   },
+   "service": {
+      "message": "Usluga"
+   },
+   "sessionTimeout": {
+      "message": "Tvoja sesija je istekla. Vrati se i pokušaj s ponovnom prijavom."
+   },
+   "setMasterPassword": {
+      "message": "Postavi glavnu lozinku"
+   },
+   "setYourPinCode": {
+      "message": "Postavi svoj PIN kôd za otključavanje Bitwardena. Postavke PIN-a se resetiraju ako se potpuno odjaviš iz aplikacije."
+   },
+   "settings": {
+      "message": "Postavke"
+   },
+   "settingsEdited": {
+      "message": "Postavke su izmijenjene"
+   },
+   "share": {
+      "message": "Podijeli"
+   },
+   "shared": {
+      "message": "Dijeljeno"
+   },
+   "showCardsCurrentTab": {
+      "message": "Prikaži platne kartice"
+   },
+   "showCardsCurrentTabDesc": {
+      "message": "Prikazuj platne kartice za jednostavnu auto-ispunu."
+   },
+   "showIdentitiesCurrentTab": {
+      "message": "Prikaži identitete"
+   },
+   "showIdentitiesCurrentTabDesc": {
+      "message": "Prikazuj identitete za jednostavnu auto-ispunu."
+   },
+   "solarizedDark": {
+      "description": "'Solarized' is a noun and the name of a color scheme. It should not be translated.",
+      "message": "Solarized Dark"
+   },
+   "specialCharacters": {
+      "message": "Posebni znakovi (!@#$%^&*)"
+   },
+   "ssn": {
+      "message": "Broj zdravstvenog osiguranja"
+   },
+   "ssoCompleteRegistration": {
+      "message": "Za dovršetak jedinstvene prijave na razini tvrtke (SSO), postavi glavnu lozinku za pristup i zaštitu tvog trezora."
+   },
+   "ssoKeyConnectorError": {
+      "message": "Pogreška konektora ključa: provjeri je li konektor ključa dostupan i radi li ispravno."
+   },
+   "startDesktopDesc": {
+      "message": "Bitwarden desktop aplikacija mora biti pokrenuta prije korištenja ove funkcije."
+   },
+   "startDesktopTitle": {
+      "message": "Pokreni Bitwarden dekstop aplikaciju"
+   },
+   "startsWith": {
+      "message": "Počinje s"
+   },
+   "stateProvince": {
+      "message": "Država / Pokrajina"
+   },
+   "strong": {
+      "description": "ex. A strong password. Scale: Weak -> Good -> Strong",
+      "message": "Jaka"
+   },
+   "submit": {
+      "message": "Pošalji"
+   },
+   "sync": {
+      "message": "Sinkronizacija"
+   },
+   "syncVaultNow": {
+      "message": "Odmah sinkroniziraj trezor"
+   },
+   "syncingComplete": {
+      "message": "Sinkronizacija dovršena"
+   },
+   "syncingFailed": {
+      "message": "Sinkronizacija nije uspjela"
+   },
+   "tab": {
+      "message": "Kartica"
+   },
+   "tenSeconds": {
+      "message": "10 sekundi"
+   },
+   "termsOfService": {
+      "message": "Uvjeti korištenja"
+   },
+   "theme": {
+      "message": "Tema"
+   },
+   "themeDesc": {
+      "message": "Promijeni temu boja."
+   },
+   "thirdParty": {
+      "message": "Third-party"
+   },
+   "thirdPartyServerMessage": {
+      "message": "Povezan s implementacijom poslužitelja treće strane, $SERVERNAME$. Provjeri bugove pomoću službenog poslužitelja ili ih prijavi poslužitelju treće strane.",
+      "placeholders": {
+         "servername": {
+            "content": "$1",
+            "example": "ThirdPartyServerName"
+         }
+      }
+   },
+   "thirtyMinutes": {
+      "message": "30 minuta"
+   },
+   "thirtySeconds": {
+      "message": "30 sekundi"
+   },
+   "title": {
+      "message": "Titula"
+   },
+   "toggleCharacterCount": {
+      "message": "Prikaži/Sakrij broj znakova"
+   },
+   "toggleCurrentUris": {
+      "description": "Toggle the display of the URIs of the currently open tabs in the browser.",
+      "message": "Uključi/Isključi trenutne URI"
+   },
+   "toggleOptions": {
+      "message": "Uključi/isključi opcije"
+   },
+   "toggleVisibility": {
+      "message": "Prikaži/Sakrij"
+   },
+   "tools": {
+      "message": "Alati"
+   },
+   "trash": {
+      "description": "Noun: a special folder to hold deleted items",
+      "message": "Smeće"
+   },
+   "twentySeconds": {
+      "message": "20 sekundi"
+   },
+   "twoMinutes": {
+      "message": "2 minute"
+   },
+   "twoStepLogin": {
+      "message": "Prijava dvostrukom autentifikacijom"
+   },
+   "twoStepLoginConfirmation": {
+      "message": "Prijava dvostrukom autentifikacijom čini tvoj račun još sigurnijim tako što će zahtijevati da potvrdiš prijavu putem drugog uređaja pomoću sigurnosnog koda, autentifikatorske aplikacije, SMS-om, pozivom ili e-poštom. Prijavu dvostrukom autentifikacijom možeš omogućiti na web trezoru. Želiš li sada posjetiti bitwarden.com?"
+   },
+   "twoStepOptions": {
+      "message": "Mogućnosti prijave dvostrukom autentifikacijom"
+   },
+   "type": {
+      "message": "Vrsta"
+   },
+   "typeCard": {
+      "message": "Platna kartica"
+   },
+   "typeIdentity": {
+      "message": "Identitet"
+   },
+   "typeLogin": {
+      "message": "Prijava"
+   },
+   "typeLogins": {
+      "message": "Prijave"
+   },
+   "typeSecureNote": {
+      "message": "Sigurna bilješka"
+   },
+   "types": {
+      "message": "Vrste"
+   },
+   "unexpectedError": {
+      "message": "Došlo je do neočekivane pogreške."
+   },
+   "unlock": {
+      "message": "Otključaj"
+   },
+   "unlockVaultMenu": {
+      "message": "Otključaj svoj trezor"
+   },
+   "unlockWithBiometrics": {
+      "message": "Otključaj biometrijom"
+   },
+   "unlockWithPin": {
+      "message": "Otključaj PIN-om"
+   },
+   "updateKey": {
+      "message": "Ne možeš koristiti ovu značajku prije nego ažuriraš ključ za šifriranje."
+   },
+   "updateMasterPassword": {
+      "message": "Ažuriraj glavnu lozinku"
+   },
+   "updateMasterPasswordWarning": {
+      "message": "Tvoju glavnu lozinku je nedavno promijenio administrator tvoje organizacije. Za pristup trezoru, potrebno je ažurirati glavnu lozinku, što će te odjaviti iz trenutne sesije, te ćeš se morati ponovno prijaviti. Aktivne sesije na drugim uređajima mogu ostati aktivne još sat vremena."
+   },
+   "updateWeakMasterPasswordWarning": {
+      "message": "Your master password does not meet one or more of your organization policies. In order to access the vault, you must update your master password now. Proceeding will log you out of your current session, requiring you to log back in. Active sessions on other devices may continue to remain active for up to one hour."
+   },
+   "updatedMasterPassword": {
+      "message": "Glavna lozinka ažurirana"
+   },
+   "uppercase": {
+      "message": "Velika slova (A - Z)"
+   },
+   "uri": {
+      "message": "URI"
+   },
+   "uriPosition": {
+      "description": "A listing of URIs. Ex: URI 1, URI 2, URI 3, etc.",
+      "message": "URI $POSITION$",
+      "placeholders": {
+         "position": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "us": {
+      "description": "United States",
+      "message": "US"
+   },
+   "useAnotherTwoStepMethod": {
+      "message": "Koristiti drugi način prijave dvostrukom autentifikacijom"
+   },
+   "username": {
+      "message": "Korisničko ime"
+   },
+   "usernameType": {
+      "message": "Tip korisničkog imena"
+   },
+   "value": {
+      "message": "Vrijednost"
+   },
+   "valueCopied": {
+      "description": "Value has been copied to the clipboard.",
+      "message": " kopirano",
+      "placeholders": {
+         "value": {
+            "content": "$1",
+            "example": "Password"
+         }
+      }
+   },
+   "vault": {
+      "message": "Trezor"
+   },
+   "vaultExportDisabled": {
+      "message": "Izvoz trezora onemogućen"
+   },
+   "vaultTimeout": {
+      "message": "Istek trezora"
+   },
+   "vaultTimeoutAction": {
+      "message": "Nakon isteka trezora"
+   },
+   "vaultTimeoutActionPolicyInEffect": {
+      "message": "Your organization policies have set your vault timeout action to $ACTION$.",
+      "placeholders": {
+         "action": {
+            "content": "$1",
+            "example": "Lock"
+         }
+      }
+   },
+   "vaultTimeoutLogOutConfirmation": {
+      "message": "Odjava će ukloniti pristup tvom trezoru i zahtijevati mrežnu potvrdu identiteta nakon isteka vremenske neaktivnosti. Sigurno želiš koristiti ovu postavku?"
+   },
+   "vaultTimeoutLogOutConfirmationTitle": {
+      "message": "Potvrda akcije vremenske neaktivnosti"
+   },
+   "vaultTimeoutPolicyInEffect": {
+      "message": "Pravilo tvoje organizacije utječe na istek trezora. Najveće dozvoljeno vrijeme isteka je $HOURS$:$MINUTES$ h.",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "5"
+         },
+         "minutes": {
+            "content": "$2",
+            "example": "5"
+         }
+      }
+   },
+   "vaultTimeoutPolicyWithActionInEffect": {
+      "message": "Your organization policies are affecting your vault timeout. Maximum allowed vault timeout is $HOURS$ hour(s) and $MINUTES$ minute(s). Your vault timeout action is set to $ACTION$.",
+      "placeholders": {
+         "action": {
+            "content": "$3",
+            "example": "Lock"
+         },
+         "hours": {
+            "content": "$1",
+            "example": "5"
+         },
+         "minutes": {
+            "content": "$2",
+            "example": "5"
+         }
+      }
+   },
+   "vaultTimeoutTooLarge": {
+      "message": "Vrijeme isteka premašuje ograničenje koje je postavila tvoja organizacija."
+   },
+   "verificationCode": {
+      "message": "Kôd za provjeru"
+   },
+   "verificationCodeEmailSent": {
+      "message": "E-pošta za potvrdu poslana je na $EMAIL$.",
+      "placeholders": {
+         "email": {
+            "content": "$1",
+            "example": "example@gmail.com"
+         }
+      }
+   },
+   "verificationCodeRequired": {
+      "message": "Potvrdni kôd je obavezan."
+   },
+   "verificationCodeTotp": {
+      "message": "Kôd za provjeru (TOTP)"
+   },
+   "verifyIdentity": {
+      "message": "Potvrdi identitet"
+   },
+   "version": {
+      "message": "Verzija"
+   },
+   "view": {
+      "message": "Prikaz"
+   },
+   "viewAllLoginOptions": {
+      "message": "Pogledaj sve mogućnosti prijave"
+   },
+   "viewItem": {
+      "message": "Prikaz stavke"
+   },
+   "warning": {
+      "description": "WARNING (should stay in capitalized letters if the language permits)",
+      "message": "UPOZORENJE"
+   },
+   "weak": {
+      "description": "ex. A weak password. Scale: Weak -> Good -> Strong",
+      "message": "Slaba"
+   },
+   "weakAndBreachedMasterPasswordDesc": {
+      "message": "Slaba lozinka je nađena među ukradenima tijekom krađa podataka. Za zaštitu svog računa koristi jaku i jedinstvenu lozinku. Želiš li svejedno korisiti slabu, ukradenu lozinku?"
+   },
+   "weakAndExposedMasterPassword": {
+      "message": "Slaba i ukradena glavna lozinka"
+   },
+   "weakMasterPassword": {
+      "message": "Slaba glavna lozinka"
+   },
+   "weakMasterPasswordDesc": {
+      "message": "Odabrana glavna lozinka je slaba. Trebaš koristiti jaču glavnu lozinku (ili frazu) kako bi tvoj Bitwarden račun bio pravilno zaštićen. Sigurno želiš koristiti ovakvu, slabu glavnu lozinku?"
+   },
+   "webAuthnAuthenticate": {
+      "message": "Ovjeri WebAuthn"
+   },
+   "webAuthnDesc": {
+      "message": "Koristi WebAuthn sigurnosni ključ za pristup svojem računu."
+   },
+   "webAuthnNewTab": {
+      "message": "Nastavi na WebAuthn 2FA verifikaciju u novoj kartici."
+   },
+   "webAuthnNewTabOpen": {
+      "message": "Otvori novu karticu"
+   },
+   "webAuthnTitle": {
+      "message": "FIDO2 WebAuthn"
+   },
+   "webVaultUrl": {
+      "message": "URL poslužitelja web trezora"
+   },
+   "website": {
+      "message": "Web stranica"
+   },
+   "websiteName": {
+      "message": "Naziv web mjesta"
+   },
+   "whatWouldYouLikeToGenerate": {
+      "message": "Što želiš generirati?"
+   },
+   "whoOwnsThisItem": {
+      "message": "Tko je vlasnik ove stavke?"
+   },
+   "wordSeparator": {
+      "message": "Razdjelitelj riječi"
+   },
+   "yes": {
+      "message": "Da"
+   },
+   "yourAccountsFingerprint": {
+      "description": "A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.",
+      "message": "Jedinstvena fraza tvog računa"
+   },
+   "yourVaultIsLocked": {
+      "message": "Tvoj trezor je zaključan. Potvrdi glavnu lozinku za nastavak."
+   },
+   "yubiKeyDesc": {
+      "message": "Koristi YubiKey za pristup svojem računu. Radi s YubiKey 4, 4 Nano, 4C i NEO uređajima."
+   },
+   "yubiKeyTitle": {
+      "message": "YubiKey OTP sigurnosni ključ"
+   },
+   "zipPostalCode": {
+      "message": "Poštanski broj"
+   }
+}

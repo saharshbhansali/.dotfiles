@@ -1,0 +1,33 @@
+2023/09/06-22:09:16.232 125c4b Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/09/06-22:09:16.232 125c4b Recovering log #212
+2023/09/06-22:09:16.233 125c4b Reusing old log /home/saharsh/.config/vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000212.log 
+2023/09/07-01:10:49.846 125c4c Level-0 table #216: started
+2023/09/07-01:10:49.873 125c4c Level-0 table #216: 2108733 bytes OK
+2023/09/07-01:10:49.877 125c4c Delete type=0 #212
+2023/09/07-01:10:49.918 125c4c Level-0 table #218: started
+2023/09/07-01:10:49.984 125c4c Level-0 table #218: 3285898 bytes OK
+2023/09/07-01:10:49.987 125c4c Delete type=0 #215
+2023/09/07-01:10:49.988 125c4c Compacting 4@0 + 4@1 files
+2023/09/07-01:10:50.025 125c4c Generated table #219@0: 13 keys, 2511091 bytes
+2023/09/07-01:10:50.061 125c4c Generated table #220@0: 10 keys, 2541728 bytes
+2023/09/07-01:10:50.097 125c4c Generated table #221@0: 2 keys, 2474713 bytes
+2023/09/07-01:10:50.121 125c4c Generated table #222@0: 12 keys, 1572520 bytes
+2023/09/07-01:10:50.121 125c4c Compacted 4@0 + 4@1 files => 9100052 bytes
+2023/09/07-01:10:50.124 125c4c compacted to: files[ 0 4 1 0 0 0 0 ]
+2023/09/07-01:10:50.124 125c4c Delete type=2 #206
+2023/09/07-01:10:50.124 125c4c Delete type=2 #207
+2023/09/07-01:10:50.124 125c4c Delete type=2 #208
+2023/09/07-01:10:50.124 125c4c Delete type=2 #209
+2023/09/07-01:10:50.124 125c4c Delete type=2 #211
+2023/09/07-01:10:50.124 125c4c Delete type=2 #213
+2023/09/07-01:10:50.124 125c4c Delete type=2 #216
+2023/09/07-01:10:50.124 125c4c Delete type=2 #218
+2023/09/07-14:43:10.273 125c4c Level-0 table #224: started
+2023/09/07-14:43:10.307 125c4c Level-0 table #224: 3132734 bytes OK
+2023/09/07-14:43:10.310 125c4c Delete type=0 #217
+2023/09/08-03:05:39.735 125c4c Level-0 table #226: started
+2023/09/08-03:05:39.767 125c4c Level-0 table #226: 2646642 bytes OK
+2023/09/08-03:05:39.772 125c4c Delete type=0 #223
+2023/09/08-03:05:39.815 125c4c Level-0 table #228: started
+2023/09/08-03:05:39.855 125c4c Level-0 table #228: 3271454 bytes OK
+2023/09/08-03:05:39.859 125c4c Delete type=0 #225

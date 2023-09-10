@@ -1,0 +1,204 @@
+<div class="popup_view" data-ng-style="{direction: ctrl.rtl ? 'rtl' : 'ltr'}" data-bind-drag-and-drop
+     data-ng-model="ctrl.filesSelected" data-ng-change="ctrl.onFileInputChange()">
+    <div class="login_view" data-ng-show="ctrl.hasSignedIn === ctrl.constants.SIGNINSTATUS.NONE">
+        <div class="login_title">
+            <label>{{ 'AppName' | i18n }}</label>
+        </div>
+        <div class="login_subtitle">
+            <label>{{ ctrl.appDescriptionMessage }}</label>
+        </div>
+        <div class="login_panel">
+            <div data-ng-show="!ctrl.useAuthNext">
+                <div class="login_option">
+                    <button type="button" class="login_button" href=""
+                            data-ng-click="ctrl.onWelcomeSignInClick(ctrl.constants.USER_SERVICE_TYPE.O365)"
+                            tabindex="0">
+                        {{ 'SignInO365Label' | i18n }}
+                    </button>
+                </div>
+                <div class="login_option">
+                    <button type="button" class="login_button" href=""
+                            data-ng-click="ctrl.onWelcomeSignInClick(ctrl.constants.USER_SERVICE_TYPE.MSA)"
+                            tabindex="0">
+                        {{ 'SignInMSALabel' | i18n }}
+                    </button>
+                </div>
+            </div>
+            <div data-ng-show="ctrl.useAuthNext">
+                <div class="login_option">
+                    <button type="button" class="login_button" href=""
+                            data-ng-click="ctrl.onWelcomeSignInClick(ctrl.constants.USER_SERVICE_TYPE.MSID)"
+                            tabindex="0">
+                        {{ 'SignInLabel' | i18n }}
+                    </button>
+                </div>
+            </div>
+            <button class="login_help" type="button" data-ng-click="ctrl.openSupportPage()">
+                {{ 'SupportPageLabel' | i18n }}
+            </button>
+        </div>
+    </div>
+
+    <div class="home_view" data-ng-show="ctrl.hasSignedIn !== ctrl.constants.SIGNINSTATUS.NONE">
+        <!--
+        Fading Panel
+        It is used to fade out the popup when the menu is dropped.
+        Clicking on the panel hides the menu
+        -->
+        <div class="fading_panel" data-ng-style="{visibility: ctrl.accountPanelOpened ? 'visible' : 'hidden'}"
+             data-ng-click="ctrl.currentViewMode = ctrl.constants.MENU_VIEWMODE.NONE; ctrl.accountPanelOpened = false">
+        </div>
+
+        <div class="profile_panel">
+            <div data-ng-click="ctrl.openMyAccountPage()" tabindex="0" aria-label="{{ctrl.username}}" role="link"
+                 aria-roledescription="{{ 'MyAccountLabel' | i18n }}">
+                <div class="profile_button box" aria-hidden="true">
+                    <div class="profile_circle_inner" ng-if="ctrl.profilePicture === ''">
+                        <i class="ms-Icon ms-Icon--Contact"></i>
+                    </div>
+                    <img class="profile_picture" ng-if="ctrl.profilePicture !== ''" ng-src="{{ctrl.profilePicture}}" />
+                </div>
+                <div class="profile_name">
+                    <label class="account_name" role="link">{{ctrl.username}}</label>
+                </div>
+            </div>
+            <button id="settings_drop_down" type="button" class="settings_button" data-ng-click="ctrl.onProfileClick()"
+                    aria-label="{{ 'SettingsLabel' | i18n }}" aria-haspopup="true"
+                    aria-expanded="{{ctrl.accountPanelOpened}}">
+                <i class="ms-Icon ms-Icon--ChevronDown" ng-if="ctrl.accountPanelOpened === false"
+                   aria-hidden="true"></i>
+                <i class="ms-Icon ms-Icon--ChevronUp" ng-if="ctrl.accountPanelOpened === true" aria-hidden="true"></i>
+            </button>
+        </div>
+
+        <div class="account_panel menu-switch-animation" ng-if="ctrl.accountPanelOpened">
+            <div>
+                <button class="account_link" id="account_link_button" role="link" type="button"
+                        data-ng-click="ctrl.openMyAccountPage()">
+                    {{ 'MyAccountLabel' | i18n }}
+                </button>
+            </div>
+            <div class="settings_group">
+                <div class="checkbox_group ms-CheckBox">
+                    <label role="checkbox" aria-checked="{{ctrl.webRedirectInputChecked}}" class="ms-CheckBox-field"
+                           ng-class="ctrl.webRedirectInputChecked? 'is-checked':''" tabindex="0"
+                           ng-click="ctrl.onWebRedirectInputChange()">
+                        <span class="ms-Label">{{ 'WebRedirectSettingLabel' | i18n }}</span>
+                    </label>
+                </div>
+                <div class="checkbox_group ms-CheckBox">
+                    <label role="checkbox" aria-checked="{{ctrl.telemetryInputChecked}}" class="ms-CheckBox-field"
+                           ng-class="ctrl.telemetryInputChecked? 'is-checked':''" tabindex="0"
+                           ng-click="ctrl.onTelemetryInputChange()">
+                        <span class="ms-Label">{{ 'TelemetrySettingLabel' | i18n }}</span>
+                    </label>
+                </div>
+
+            </div>
+
+            <button class="signout_button" type="button" href="" data-ng-click="ctrl.onSignOutClick()">
+                {{ 'SignOutLabel' | i18n }}
+            </button>
+        </div>
+
+        <div class="app_panel">
+            <div class="app_group">
+                <div class="app_group_header">
+                    <label>{{ 'AppsSectionHeader' | i18n }}</label>
+                    <button class="m365_home_link" data-ng-click="ctrl.openOfficeHome()" tabindex="{{ctrl.accountPanelOpened ? -1 : 0}}">
+                        <i class="ms-Icon ms-Icon--Forward" aria-hidden="true"></i>
+                        <label>{{ 'OfficeOnlineAppName' | i18n}}</label>
+                    </button>
+                </div>
+                <div class="app_table" ng-keydown="ctrl.handleTableNavigation($event)">
+                    <div class="app_table_row" data-ng-repeat="appGroup in ctrl.appLaunchers">
+                        <div class="app_table_cell" data-ng-repeat="app in appGroup"
+                             data-ng-if="!app.isBusinessOnly || ctrl.constants.USER_TYPE.O365 === userType">
+                            <button class="app_button box_expand" data-ng-click="ctrl.createDocument(app, $event)"
+                                    ng-init="focus=false" ng-focus="focus=true" ng-blur="focus=false"
+                                    ng-mouseover="focus=true" ng-mouseleave="focus=false"
+                                    tabindex="{{ctrl.accountPanelOpened ? -1 : 0}}">
+                                <i ng-class="{{ 'app.iconClass' }}" aria-hidden="true"></i>
+                                <label class="app_name">{{ app.label | i18n }}</label>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <button class="apps_module_link" data-ng-click="ctrl.openAppsModule()" tabindex="{{ctrl.accountPanelOpened ? -1 : 0}}">
+                        <i class="ms-Icon ms-Icon--Forward" aria-hidden="true"></i>
+                        <label>{{ 'AppsModuleLinkText' | i18n}}</label>
+                    </button>
+                </div>
+            </div>
+
+            <div class="mru_panel" data-ng-controller="MruController as mructrl" data-ng-init="mructrl.onLoad()"
+                 data-ng-show="ctrl.hasSignedIn !== ctrl.constants.SIGNINSTATUS.NONE && ctrl.hasSignedIn !== ctrl.constants.SIGNINSTATUS.UNKNOWN">
+                <div class="mru_header">
+                    <div class="mru_label">{{ 'RecentDocsLabel' | i18n }}</div>
+                    <button class="mru_view_more"
+                            data-ng-if="userType !== mructrl.constants.USER_TYPE.NONE && mructrl.recentDocuments.length > 0"
+                            data-ng-click="ctrl.browseToRecents()" tabindex="{{ctrl.accountPanelOpened ? -1 : 0}}">
+                        <i class="ms-Icon ms-Icon--Forward" aria-hidden="true"></i>
+                        <label>{{ 'MoreFilesLabel' | i18n }}</label>
+                    </button>
+                </div>
+                <div class="mru_message_panel"
+                     data-ng-if="mructrl.currentDisplayPanel === mructrl.constants.RECENTS.DISPLAY_PANEL.LOADING">
+                    <div class="mru_message_content">
+                        <div>{{ 'LoadingRecentsLabel' | i18n }}</div>
+                    </div>
+                </div>
+                <div class="mru_message_panel"
+                     data-ng-if="mructrl.currentDisplayPanel === mructrl.constants.RECENTS.DISPLAY_PANEL.NO_DOCS">
+                    <div class="mru_message_content">
+                        {{ 'CreateDocsMessageLabel' | i18n }}
+                    </div>
+                </div>
+                <div class="mru_message_panel"
+                     data-ng-if="mructrl.currentDisplayPanel === mructrl.constants.RECENTS.DISPLAY_PANEL.ERROR">
+                    <div class="mru_message_content">
+                        {{ 'DocumentsNotFoundMessageLabel' | i18n }}
+                    </div>
+                </div>
+                <!--Pull SharingController outside of ng-repeat to avoid instantiating it multiple times-->
+                <div data-ng-if="mructrl.currentDisplayPanel === mructrl.constants.RECENTS.DISPLAY_PANEL.LIST"
+                     data-ng-controller="SharingController as sharingctrl">
+                    <div class="action_panel" data-ng-model="mructrl.recentDocuments">
+                        <div class="mru_group">
+                            <div class="animate-repeat mru_container" data-ng-repeat="doc in mructrl.recentDocuments"
+                                 data-ng-click="mructrl.openRecentDocument(doc, $event)"
+                                 tabindex="{{ctrl.accountPanelOpened ? -1 : 0}}">
+                                <div class="list_row box_expand">
+                                    <div>
+                                        <img class="list_image" data-ng-src="{{ doc.imageSource }}"
+                                             data-i18n-attr="{{ doc.appLabel }}|alt" />
+                                    </div>
+                                    <div class="list_end">
+                                        <div class="mru_name" title="{{doc.name}}">
+                                            {{ doc.name }}
+                                        </div>
+                                        <!--Sharing experiment-->
+                                        <!--<div class="sharing_experiment" ng-include="sharingctrl.flightView"></div>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-ng-if="ctrl.constants.USER_TYPE.MSA === userType" class="mru_msa_bottom_padding"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div data-ng-if="ctrl.constants.USER_TYPE.O365 === userType" class="open_local_panel">
+                <button class="upload_button" type="button" data-bind-file-input-container-click
+                        tabindex="{{ctrl.accountPanelOpened ? -1 : 0}}">
+                    <i class="ms-Icon ms-Icon--Upload" aria-hidden="true"></i>
+                    <label class="upload_label">{{ 'BrowseToOpenLabel' | i18n }}</label>
+                </button>
+                <input data-bind-file-change type="file" id="file_picker" title="file_picker"
+                       data-ng-model="ctrl.filesSelected" data-ng-change="ctrl.onFileInputChange()"
+                       accept=".doc,.dot,.docx,.dotx,.odt,.ppt,.pot,.pps,.pptx,.ppsx,.odp,.xlsx,.xlsm,.xlsb,.ods" />
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,34 @@
+{
+   "background": {
+      "page": "/background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/gauge-19.png",
+         "38": "images/gauge-38.png"
+      },
+      "default_popup": "index.html",
+      "default_title": "Speedtest"
+   },
+   "content_scripts": [ {
+      "js": [ "webspeed.js" ],
+      "matches": [ "https://*/*", "http://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://www.speedtest.net https://www.googletagmanager.com/gtm.js https://www.google-analytics.com/analytics.js; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "images/gauge-128.png",
+      "16": "images/gauge-16.png",
+      "48": "images/gauge-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoCt7UPjDs3ueWsmkGOsIFW5losKjnM4ZBnZEuiDQZuJa7nHwJFBwdJosWB/Acp1ZQIG/pHNvzHp/k1N+BVsl9hArB/y0NYKPcOfts75CdniwyAW1mLRFsNI4iO+tZgNimF2+6FhU6rp3jp/ky+pwFUwd+BliIsTiJi3CB+CayQx5+aUkxmCbYuc6IIL9zMjas73YqH4lXB8gJkYtFSVpqSEpNac0MYSdZv81hpHeFSjMcBMQMQJHrelVX9AAJB80rS5tVkAlsJCZS20tg4vOV+oNTRvPp634AqZgB3bV2zzfdIzpUGiwbNb0EVrnJv9dXLQ5+glxhK9V/DA3zcD3UwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "options_page": "index.html?options=true",
+   "permissions": [ "webRequest", "background", "storage", "tabs" ],
+   "short_name": "Speedtest",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.9.11"
+}

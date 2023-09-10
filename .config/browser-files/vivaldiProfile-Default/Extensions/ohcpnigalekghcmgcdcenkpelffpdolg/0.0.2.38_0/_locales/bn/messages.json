@@ -1,0 +1,197 @@
+{
+   "EnableHSL": {
+      "message": "প্রদর্শনী HSL"
+   },
+   "EnableRGB": {
+      "message": "প্রদর্শনী RGB"
+   },
+   "addToPalette": {
+      "message": "রঙ প্যালেট যোগ করুন"
+   },
+   "advancedOptions": {
+      "message": "উন্নত বিকল্প"
+   },
+   "allowWebGl": {
+      "message": "Pixelated পূর্বরূপের জন্য webgl অনুমোদন করুন"
+   },
+   "appleIcon": {
+      "message": "ব্যবহার Apple Digital রং মিটার লোগো"
+   },
+   "approved": {
+      "message": "অনুমোদিত"
+   },
+   "bbackgroundColor": {
+      "message": "পপআপ পটভূমি রং"
+   },
+   "bgPageUnavailable": {
+      "message": "ব্যাকগ্রাউন্ড স্ন্যাপশট সাড়া দিচ্ছে না - দয়া করে পৃষ্ঠাটি রিফ্রেশ করুন এবং আবার চেষ্টা করুন।"
+   },
+   "borderValue": {
+      "message": "সীমানা ব্যবহার (CSS মান)"
+   },
+   "clear": {
+      "message": "পরিষ্কার"
+   },
+   "clearSync": {
+      "message": "সিঙ্ক সঞ্চয়স্থান পরিষ্কার করুন"
+   },
+   "closeAndExit": {
+      "message": "বন্ধ এবং প্রস্থান রঙ পিক মোড"
+   },
+   "colorOfDay": {
+      "message": "দিনের রং"
+   },
+   "copycolorval": {
+      "message": "রঙ মান কপি"
+   },
+   "dblClick": {
+      "message": "ডবল ক্লিক করুন"
+   },
+   "default": {
+      "message": "ডিফল্ট"
+   },
+   "disablePickEveryTime": {
+      "message": "প্রতিটি সময় পপআপ ক্লিক করা হয় না শুরু না ক্লিক করুন"
+   },
+   "disableRewriting": {
+      "message": "অ-অ্যাফিলিয়েট লিঙ্কগুলির অক্ষমকরণ"
+   },
+   "error": {
+      "message": "এরর"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "গুগুল একাউন্ট সিঙ্ক স্টোরেজ থেকে সেটিংস আনতে"
+   },
+   "fishEye": {
+      "message": "মাছের চোখের জুম পরিমাণ"
+   },
+   "full": {
+      "message": "সম্পূর্ণ"
+   },
+   "hasAgreedToLicense": {
+      "message": "ব্যবহারের শর্তাবলী সম্মত হয়েছে"
+   },
+   "help": {
+      "message": "সাহায্যের / তথ্য"
+   },
+   "hideMinimize": {
+      "message": "লুকাতে / কমান "
+   },
+   "history": {
+      "message": "ইতিহাস"
+   },
+   "iconIsBitmap": {
+      "message": "আইকনটি পিক্সেল পূর্বরূপ জুম হয়েছে"
+   },
+   "iconIsPreview": {
+      "message": "আইকন ব্যাজ বর্গাকার রঙ পূর্বরূপ ব্যবহার করুন"
+   },
+   "loadsyncOptions": {
+      "message": "সিঙ্ক স্টোরেজ বিকল্প লোড করা এবং সংরক্ষণ করা হয়েছে।"
+   },
+   "maxZoom": {
+      "message": "সর্বাধিক জুম হয়েছে"
+   },
+   "modifyLicense": {
+      "message": "লাইসেন্স পরিবর্তন করুন"
+   },
+   "noSwatches": {
+      "message": "সংরক্ষণ এবং মুদ্রণ জন্য একটি প্যালেট থেকে তাদের রং ইতিহাসে রং ক্লিক করুন।"
+   },
+   "off": {
+      "message": "বন্ধ"
+   },
+   "on": {
+      "message": "উপর"
+   },
+   "options": {
+      "message": "অপশন"
+   },
+   "pickAgainLocked": {
+      "message": "অন্য রঙ চয়ন করুন [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "বর্তমান রং নির্বাচন করুন [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "প্রতিটি বার পপআপ ক্লিক করা হয় পিকিং শুরু"
+   },
+   "pixelatedPreview": {
+      "message": "জুমিত পূর্বরূপটি পিক্সেলেটেড"
+   },
+   "popOutWindow": {
+      "message": "পপ-আউট (পৃথক উইন্ডো)"
+   },
+   "pressEnterToPick": {
+      "message": "রঙ চয়ন করতে এন্টার টিপুন"
+   },
+   "printSave": {
+      "message": "মুদ্রণ / সংরক্ষণ..."
+   },
+   "reSnapPage": {
+      "message": "পৃষ্ঠাটি রিফ্রেশ করুন [r]"
+   },
+   "registerButton": {
+      "message": "নিবন্ধন"
+   },
+   "registered": {
+      "message": "নিবন্ধভুক্ত"
+   },
+   "resetIcon": {
+      "message": "স্বাভাবিক আইকন থেকে প্রত্যাবর্তন"
+   },
+   "rightClick": {
+      "message": "সঠিক পছন্দ"
+   },
+   "saveOptions": {
+      "message": "বিকল্পগুলি সংরক্ষণ করুন"
+   },
+   "savedoptions": {
+      "message": "বিকল্প সংরক্ষিত"
+   },
+   "seeTerms": {
+      "message": "ব্যবহারের শর্তাবলী দেখুন"
+   },
+   "shareClors": {
+      "message": "দিনের পরিসংখ্যান (ব্যবহারের শর্তাবলী দেখুন)"
+   },
+   "showColorChooser": {
+      "message": "রঙ চয়নকারী দেখান"
+   },
+   "showDefaults": {
+      "message": "ডিফল্ট দেখান"
+   },
+   "showPreviousClr": {
+      "message": "আগের রঙের সাথে বিভক্ত রং প্রাকদর্শন দেখান"
+   },
+   "showndefaults": {
+      "message": "সংরক্ষণ টিপুন, এখন ডিফল্ট দেখাচ্ছে।"
+   },
+   "sort": {
+      "message": "সাজান"
+   },
+   "terms": {
+      "message": "ব্যবহারের শর্তাবলী"
+   },
+   "unregistered": {
+      "message": "রেজিষ্টারী করা হয় নাই এমন"
+   },
+   "usageStatistics": {
+      "message": "ব্যবহারের পরিসংখ্যান সংগ্রহ করুন (ব্যবহারের শর্তাবলী দেখুন)"
+   },
+   "useCSSValues": {
+      "message": "জন্য CSS মান ব্যবহার করুন RGB/HSL"
+   },
+   "usePNG": {
+      "message": "ব্যবহার PNG গুণমান যখন উপলব্ধ"
+   },
+   "usePrevColorBG": {
+      "message": "পটভূমির জন্য পূর্ববর্তী রং ব্যবহার করুন"
+   }
+}

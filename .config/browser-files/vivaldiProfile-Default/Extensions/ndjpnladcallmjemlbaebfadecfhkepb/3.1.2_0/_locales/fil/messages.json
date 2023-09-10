@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "Account"
+   },
+   "AppDescription": {
+      "message": "Tumingin, mag-edit, at gumawa ng mga dokumento sa iyong browser."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "Tumingin, mag-edit, at gumawa ng mga file sa browser, at ilabas ang iyong pinakamahusay na pagsusulat sa buong web."
+   },
+   "AppFolderName": {
+      "message": "Extension ng browser ng Microsoft 365"
+   },
+   "AppListLabel": {
+      "message": "Mga Web App"
+   },
+   "AppLongDescription": {
+      "message": "Ginawa para sa Chrome – Gamitin ang Word, Excel, PowerPoint, OneNote, at Sway Online nang hindi kinakailangang naka-install ang Microsoft 365.\r\n\r\nGumawa nang may confidence – Gumamit ng mga pamilyar na opsyon sa pag-format at layout para ipahayag ang iyong mga ideya nang buong katapatan.\r\n\r\nMagtrabaho nang naglalakbay – Kunin ang iyong mga file mula sa kahit saan, salamat sa integration sa OneDrive at OneDrive for Business.\r\n\r\nSa pamamagitan ng pag-install sa app, sumasang-ayon ka sa mga tuntunin at kondisyong ito: http://aka.ms/officechromeextensionterms\r\n\r\nPatakaran sa Privacy: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Naglalagay ang extension ng browser ng Microsoft 365 ng icon sa toolbar ng Microsoft Edge na nagbibigay sa iyo ng direktang access sa mga file ng Microsoft 365 mo, kahit online ang mga ito o nasa iyong computer.\r\n\r\nMaaaring magbukas ng mga file ang extension ng web ng Microsoft 365 na naka-store sa OneDrive at OneDrive for Business.\r\n\r\nNakukuha mo mismo ang mga feature ng Word, Excel, Powerpoint, OneNote, at Sway sa iyong browser nang hindi kinakailangang naka-install ang Microsoft 365.\r\n\r\nKasama ngayon sa extension ng browser ng Microsoft 365 ang pag-proof ng iyong nilalaman*. Kumokonekta ito sa online na serbisyo ng Microsoft na nag-aalok ng mga mungkahi sa spelling, grammar, at mga pagpipino para sa iyong pagsusulat sa karamihang mga website at available sa mahigit sa 80 wika.\r\n\r\n*Maaaring hindi available para sa lahat ng gumagamit ang feature na ito.\r\n\r\nSa pamamagitan ng pag-install sa app, sumsasang-ayon ka sa mga tuntunin at kondisyong ito: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Ginawa para sa Chrome – Gamitin ang Word, Excel, PowerPoint, OneNote, at Sway Online nang hindi kinakailangang naka-install ang Microsoft 365.\r\n\r\nGumawa nang may confidence – Gumamit ng mga pamilyar na opsyon sa pag-format at layout para ipahayag ang iyong mga ideya nang buong katapatan.\r\n\r\nMagtrabaho nang naglalakbay – Kunin ang iyong mga file mula sa kahit saan, salamat sa integration sa OneDrive at OneDrive for Business.\r\n\r\nKasama ngayon sa extension ng browser ng Microsoft 365 ang pag-proof ng iyong nilalaman*. Kumokonekta ito sa online na serbisyo ng Microsoft na nag-aalok ng mga mungkahi sa spelling, grammar, at mga pagpipino para sa iyong pagsusulat sa karamihang mga website at available sa mahigit sa 80 wika.\r\n\r\n*Maaaring hindi available para sa lahat ng gumagamit ang feature na ito.\r\n\r\nSa pamamagitan ng pag-install sa app, sumsasang-ayon ka sa mga tuntunin at kondisyong ito: http://aka.ms/officechromeextensionterms\r\n\r\nPatakaran sa Privacy: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "Galugarin ang lahat ng iyong App"
+   },
+   "AppsSectionHeader": {
+      "message": "Mga App"
+   },
+   "BrowseToOpenLabel": {
+      "message": "I-upload at Buksan..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Gumawa ng account"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Walang kamakailang natingnang dokumento."
+   },
+   "CreateNewLabel": {
+      "message": "Bago"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Huwag Paganahin ang Editor sa $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Hindi namin makuha sa ngayon ang listahan ng iyong mga kamakailang dokumento."
+   },
+   "EditorBrandText": {
+      "message": "Editor"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Grammar"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Kasalukuyang hindi sinusuportahan ang Editor sa $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Kasalukuyang hindi pinapagana ang Editor sa $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Naka-off ang Editor."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Kasama ang Editor sa $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(Preview)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "Ang serbisyo ng Editor ay inilaan ng ekstensiyon ng Microsoft editor."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Makakuha ng mga advanced na ideya sa pagsulat at 1 TB na storage kapag nag-premium ka."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Mga Pagsasaayos"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Ang mga pagpipino ay mga advanced na suhestiyon sa pagsusulat para gawing mas malinaw, mas maikli, o mas pormal ang iyong pagsulat."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Spelling"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Paganahin ang Editor sa $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Hindi sinusuportahan ang uri ng file. Mangyaring pumili ng dokumento sa Word, Excel o PowerPoint."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Nilo-load..."
+   },
+   "MoreFilesLabel": {
+      "message": "Higit pang dokumento"
+   },
+   "MyAccountLabel": {
+      "message": "Tingnan ang Aking Account"
+   },
+   "NextLabel": {
+      "message": "Mag-sign in"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Huwag itong ipakita ulit"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Na-save namin ang iyong file sa folder na \"Extension ng browser ng Microsoft 365\" sa OneDrive mo."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Na-save namin ang iyong file sa folder na \"Extension ng browser ng Microsoft 365\" sa iyong OneDrive for Business."
+   },
+   "NotificationFileAccess": {
+      "message": "Sa mga setting ng extension, piliin ang checkbox na \"Payagan ang access sa mga URL ng file\" kung gusto mong mag-drag at mag-drop ng mga file sa browser."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Hindi mabuksan ng extension ng browser ng Microsoft 365 ang iyong dokumento dahil sa sukat.  Paki-upload nang direkta sa OneDrive para buksan ang dokumento."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Paumanhin, hindi namin nabuksan ang iyong file."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Paumanhin, hindi namin nabuksan ang iyong file.  Pakisubukang muli sa ibang pagkakataon."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Paumanhin, hindi namin nabuksan ang iyong file.  Mangyaring pumili ng file na ginawa sa Word, Excel o PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "Kasalukuyan naming ina-upload ang iyong (mga) dokumento."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Maaaring nag-expire ang iyong subscription sa Microsoft 365 o maaaring hindi kasama ang OneDrive for Business. Suriin ang iyong subscription o sa halip, mag-log in sa Account sa Microsoft."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Mag-sign in sa extension para tingnan at i-edit ang mga file sa Microsoft 365 sa web."
+   },
+   "NotificationSetDefault": {
+      "message": "Sa app na Mga File, i-tap ang mga dokumento gamit ang dalawang daliri para buksan gamit ang Microsoft 365."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Pumili ng file na ginawa sa Word, Excel o PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Binubuksan ng extension ng Microsoft 365 ang iyong dokumento sa browser"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Huwag itong ipakita ulit"
+   },
+   "O365FilesLabel": {
+      "message": "Mula sa OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "Offline ka. Muling kumonekta para gamitin ang extension ng browser ng Micrsoft 365."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Mula sa OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Buksan"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Mga Dokumento"
+   },
+   "SettingsLabel": {
+      "message": "Mga Setting"
+   },
+   "ShareMessage": {
+      "message": "Ibahagi"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Nangangailangan ng pahintulot"
+   },
+   "SharePermissionsTooltip": {
+      "message": "Wala kang pahintulot na magbahagi"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Saan mo gustong i-save ang iyong mga file?"
+   },
+   "SignInLabel": {
+      "message": "Mag-sign in"
+   },
+   "SignInMSALabel": {
+      "message": "Mag-sign in gamit ang isang account sa Microsoft"
+   },
+   "SignInO365Label": {
+      "message": "Mag-sign in gamit ang isang account sa trabaho o paaralan"
+   },
+   "SignOutLabel": {
+      "message": "Mag-sign out"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "Ang serbisyo ng Editor ay inilaan ng ekstensiyon ng Microsoft editor."
+   },
+   "SupportPageLabel": {
+      "message": "Kailangan ng Tulong sa Pag-log In?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Awtomatikong magpadala ng data para tulungan kaming pagandahin ang aming mga produkto."
+   },
+   "TurnOnEditorLabel": {
+      "message": "I-on ang Editor"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "I-upload sa OneDrive for Business"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "I-upload sa OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "Hindi naka-sign in"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Buksan ang mga file ng Microsoft 365 nang direkta sa browser gamit ang Microsoft 365."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

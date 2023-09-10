@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: normal;
+  src: url(chrome-extension://__MSG_@@extension_id__/fonts/Inconsolata.ttf);
+}
+
+@font-face {
+  font-family: 'Courier New';
+  font-style: normal;
+  font-weight: normal;
+  src: url(chrome-extension://__MSG_@@extension_id__/fonts/CourierNew.ttf);
+}
+
+@font-face {
+  font-family: 'Monaco';
+  font-style: normal;
+  font-weight: normal;
+  src: url(chrome-extension://__MSG_@@extension_id__/fonts/Monaco.ttf);
+}
+
+@font-face {
+  font-family: 'Anonymous Pro';
+  font-style: normal;
+  font-weight: normal;
+  src: url(chrome-extension://__MSG_@@extension_id__/fonts/AnonymousPro.ttf);
+}
+
+@font-face {
+  font-family: 'DejaVuSansMono';
+  font-style: normal;
+  font-weight: normal;
+  src: url(chrome-extension://__MSG_@@extension_id__/fonts/DejaVuSansMono.ttf);
+}
+
+@font-face {
+  font-family: 'DroidSansMono';
+  font-style: normal;
+  font-weight: normal;
+  src: url(chrome-extension://__MSG_@@extension_id__/fonts/DroidSansMono.ttf);
+}
+
+@font-face {
+  font-family: 'Monofur';
+  font-style: normal;
+  font-weight: normal;
+  src: url(chrome-extension://__MSG_@@extension_id__/fonts/Monofur.ttf);
+}
+
+@font-face {
+  font-family: 'ProFont';
+  font-style: normal;
+  font-weight: normal;
+  src: url(chrome-extension://__MSG_@@extension_id__/fonts/ProFont.ttf);
+}
+
+@font-face {
+  font-family: 'ProggyClean';
+  font-style: normal;
+  font-weight: normal;
+  src: url(chrome-extension://__MSG_@@extension_id__/fonts/ProggyClean.ttf);
+}
+
+@font-face {
+  font-family: 'Consolas';
+  font-style: normal;
+  font-weight: normal;
+  src: url(chrome-extension://__MSG_@@extension_id__/fonts/Consolas.ttf);
+}
+
+body {
+  margin: 0;
+  overflow: auto;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+pre {
+  counter-reset: lines;
+  word-wrap: normal !important;
+  white-space: pre !important;
+  font-family: inherit;
+  line-height: normal;
+  outline: none;
+  cursor: text;
+  display: block;
+  overflow: visible;
+}
+
+pre .line {
+  counter-increment: lines;
+  -webkit-user-select: none;
+}
+
+pre .line::before {
+  content: counter(lines);
+  text-align: right;
+  display: inline-block;
+  width: 2em;
+  padding-right: 0.5em;
+  margin-right: 0.5em;
+  color: #BBB;
+  border-right: solid 1px;
+}

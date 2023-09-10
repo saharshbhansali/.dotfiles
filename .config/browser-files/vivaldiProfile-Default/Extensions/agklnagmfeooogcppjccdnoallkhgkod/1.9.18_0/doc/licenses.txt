@@ -1,0 +1,21 @@
+domino@2.1.6
+├─ licenses: BSD-2-Clause
+├─ repository: https://github.com/fgnass/domino
+├─ publisher: Felix Gnass
+└─ email: fgnass@gmail.com
+
+dompurify@3.0.4
+├─ licenses: (MPL-2.0 OR Apache-2.0)
+├─ repository: https://github.com/cure53/DOMPurify
+├─ publisher: Dr.-Ing. Mario Heiderich, Cure53
+├─ email: mario@cure53.de
+└─ url: https://cure53.de/
+
+save-my-phind@1.9.18
+└─ licenses: Custom: https://chrome.google.com/webstore/detail/agklnagmfeooogcppjccdnoallkhgkod
+
+turndown@7.1.2
+├─ licenses: MIT
+├─ repository: https://github.com/mixmark-io/turndown
+└─ publisher: Dom Christie
+

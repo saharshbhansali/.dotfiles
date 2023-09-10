@@ -1,0 +1,829 @@
+{
+   "400": {
+      "message": "الخادم قال أن هذا الطلب خاطيء"
+   },
+   "409": {
+      "message": "تم تقديم هذا بالفعل من قبل"
+   },
+   "429": {
+      "message": "لقد قدمت الكثير من اوقات الرعاية الاعلانية لهذا الفيديو الواحد، هل أنت متأكد من وجود هذا العدد؟"
+   },
+   "Chapters": {
+      "message": "الفصول"
+   },
+   "ContinueVoting": {
+      "message": "متابعة التصويت"
+   },
+   "CopyAndDownvote": {
+      "message": "نسخ وتصويت معارض"
+   },
+   "Credits": {
+      "message": "المساهمون في العمل"
+   },
+   "Description": {
+      "description": "Description of the extension.",
+      "message": "تخطي الرعاية الاعلانية ، التسول في الاشتراك والمزيد على مقاطع الفيديو على اليوتيوب. التبليغ عن الرعايه الاعلانيه علي مقاطع الفيديو التي تشاهدها لتوفير وقتك و وقت الآخرين."
+   },
+   "Dismiss": {
+      "message": "إلغاء"
+   },
+   "Donate": {
+      "message": "تبرع"
+   },
+   "Editing": {
+      "message": "التعديل"
+   },
+   "End": {
+      "description": "Button that skips to the end of a segment",
+      "message": "النهاية"
+   },
+   "FullDetails": {
+      "message": "التفاصيل الكاملة"
+   },
+   "GotIt": {
+      "description": "Used as the button to dismiss a tooltip",
+      "message": "فهمت"
+   },
+   "Hide": {
+      "message": "لا تظهر أبداً"
+   },
+   "Import": {
+      "description": "Button to initiate importing segments. Appears under the textbox where they paste in the data",
+      "message": "استورد"
+   },
+   "LearnMore": {
+      "message": "معرفة المزيد"
+   },
+   "Loading": {
+      "message": "جاري التحميل..."
+   },
+   "OpenCategoryWikiPage": {
+      "message": "افتح صفحة ويكي هذه الفئة."
+   },
+   "OpenSubmissionMenu": {
+      "message": "افتح قائمة الإرسال"
+   },
+   "Options": {
+      "message": "خيارات"
+   },
+   "Segment": {
+      "message": "جزء"
+   },
+   "Segments": {
+      "message": "أجزاء"
+   },
+   "SegmentsCap": {
+      "message": "أجزاء من المقطع"
+   },
+   "SponsorTimeEditScrollNewFeature": {
+      "message": "استخدم عجلة الماوس أثناء التمرير فوق مربع التعديل لضبط الوقت بسرعة. يمكن استخدام مجموعات مفتاح ctrl أو Shift لضبط التغييرات."
+   },
+   "Submissions": {
+      "message": "المشاركات"
+   },
+   "Submitting": {
+      "message": "إرسال"
+   },
+   "Unknown": {
+      "message": "حدث خطأ في إرسال توقيت الرعاة الخاص بك، الرجاء المحاولة مرة أخرى لاحقاً."
+   },
+   "Username": {
+      "message": "اسم المستخدم"
+   },
+   "acceptPermission": {
+      "message": "قَبُول الإذن"
+   },
+   "actions": {
+      "description": "Header of the unsubmitted segments list",
+      "message": "قائمة الأوامر"
+   },
+   "adblockerIssueWhitelist": {
+      "message": "إذا كنت غير قادر على حل هذا، عطل إعداد \"فرض قناة التحقق قبل التخطي\"، لأن SponsorBlock غير قادر على استرداد معلومات القناة لهذا المقطع"
+   },
+   "add": {
+      "message": "أضِف"
+   },
+   "areYouSureReset": {
+      "message": "هل أنت متيقِّن من رغبتك في إعادة تعيين هذا؟"
+   },
+   "autoHideInfoButton": {
+      "message": "إخفاء تلقائي لزر \"معلومات\""
+   },
+   "autoSkip": {
+      "message": "تخطي تلقائي"
+   },
+   "autoSkip_POI": {
+      "message": "تخطي تلقائي حتى البدء"
+   },
+   "betaServerWarning": {
+      "message": "الخادم التجريبي مفعّل!"
+   },
+   "bracketEnd": {
+      "message": "(النهاية)"
+   },
+   "bracketNow": {
+      "message": "(الآن)"
+   },
+   "cancel": {
+      "message": "إلغاء"
+   },
+   "category": {
+      "message": "الفئة"
+   },
+   "categoryUpdate1": {
+      "message": "الفئات هنا!"
+   },
+   "category_chapter": {
+      "message": "فصل"
+   },
+   "category_chapter_guideline1": {
+      "message": "لا تذكر أسماء العلامة التجارية الراعية"
+   },
+   "category_exclusive_access": {
+      "message": "وصول حصري"
+   },
+   "category_exclusive_access_description": {
+      "message": "فقط لتوسيم مقاطع فيديو بِرُمَّتها. تستخدم عند عرض الفيديو منتج أو خدمة أو موقع حصلوا عليه مجانا أو بثمن مخفف."
+   },
+   "category_filler_short": {
+      "message": "حشو"
+   },
+   "category_interaction": {
+      "message": "التذكير بالتفاعل (الاشتراك)"
+   },
+   "category_interaction_description": {
+      "message": "عند وجود تذكار قصير للاشتراك أو المتابعة في منتصف محتوى. إذا كان طويل أو حول شيء محدد، يجب أن يكون تحت الترويج الذاتي."
+   },
+   "category_interaction_short": {
+      "message": "التذكير بالتفاعل"
+   },
+   "category_intro": {
+      "message": "انترو"
+   },
+   "category_intro_description": {
+      "message": "فاصل زمني بدون محتوى فعلي. يمكن أن يكون توقفًا مؤقتًا أو إطارًا ثابتًا أو تكرار الرسوم المتحركة. لا يتضمن انتقالات تحتوي على معلومات."
+   },
+   "category_intro_guideline1": {
+      "message": "فاصل بدون محتوى فعلي"
+   },
+   "category_intro_short": {
+      "message": "استراحة"
+   },
+   "category_livestream_messages_short": {
+      "message": "قراءة الرسالة"
+   },
+   "category_music_offtopic": {
+      "message": "الموسيقى: مقطع غير موسيقي"
+   },
+   "category_music_offtopic_short": {
+      "message": "غير موسيقي"
+   },
+   "category_outro": {
+      "message": "الخاتمة/تترات النهاية"
+   },
+   "category_poi_highlight": {
+      "message": "ابراز"
+   },
+   "category_poi_highlight_guideline3": {
+      "message": "يمكن التخطي إلى عنوان المقطع أو الصورة المصغرة"
+   },
+   "category_preview": {
+      "message": "معاينة/خلاصة"
+   },
+   "category_preview_guideline2": {
+      "message": "موجز الفيديو السابق"
+   },
+   "category_selfpromo": {
+      "message": "دعاية غير مدفوعة/ذاتية"
+   },
+   "category_selfpromo_description": {
+      "message": "شبيه بـ \"رعاية\" ولكن غير ممولة أو أن تكون دعاية ذاتية. يشمل هذا البضائع من قبل صانع المحتوى أو تبرعات او معلومات حول من تعاونوا معهم."
+   },
+   "category_sponsor": {
+      "message": "رعاية"
+   },
+   "category_sponsor_description": {
+      "message": "الدعايات المدفوعة و التوصيات المدفوعة و الإعلانات المباشرة. ليس للدعاية الذاتية أو اعلانات مجانية لأسباب انسانية/مبدعين/مواقع/منتجات يحبونها."
+   },
+   "category_sponsor_guideline1": {
+      "message": "دعايات مدفوعة"
+   },
+   "change": {
+      "message": "تغيير"
+   },
+   "channelWhitelisted": {
+      "message": "القناة في القائمة البيضاء!"
+   },
+   "chooseACategory": {
+      "message": "اختر فئة"
+   },
+   "chooseACountry": {
+      "message": "اختر البلد"
+   },
+   "clearThis": {
+      "message": "هل أنت متأكد أنك تريد حذف هذا؟\n\n"
+   },
+   "clearTimes": {
+      "message": "مسح الأجزاء"
+   },
+   "clearTimesButton": {
+      "message": "مسح الأوقات"
+   },
+   "closeIcon": {
+      "message": "أيقونة الإغلاق"
+   },
+   "closePopup": {
+      "message": "إغلاق النافذة المنبثقة"
+   },
+   "confirmMSG": {
+      "message": "لتحرير أو حذف قيّم فردياً، انقر فوق زر المعلومات أو فتح الإضافة عن طريق النقر على أيقونة الإضافة في الزاوية اليمنى العليا."
+   },
+   "confirmNoticeTitle": {
+      "message": "إرسال المقطع"
+   },
+   "confirmResetToDefault": {
+      "message": "هل أنت متأكد من أنك تريد إعادة تعيين كافة الإعدادات إلى حالتها الافتراضية؟ لا يمكنك التراجع عن ذلك."
+   },
+   "connectionError": {
+      "message": "حدث خطأ في الاتصال. رمز الخطأ: "
+   },
+   "considerDonating": {
+      "message": "ساعد في تمويل التطوير"
+   },
+   "copyDebugInformationFailed": {
+      "message": "فشل في الكتابة إلى الحافظة"
+   },
+   "copyPublicID": {
+      "message": "نسخ رمز المستخدم"
+   },
+   "copySegmentID": {
+      "message": "نسخ معرف الجزء"
+   },
+   "createdBy": {
+      "message": "أنشئت من قِبل"
+   },
+   "darkModeOptionsPage": {
+      "message": "الوضع الداكن في صفحة الخيارات"
+   },
+   "dayAbbreviation": {
+      "description": "100d",
+      "message": "ي"
+   },
+   "delete": {
+      "message": "حذف"
+   },
+   "disable": {
+      "message": "تعطيل"
+   },
+   "disableAutoSkip": {
+      "message": "تعطيل التخطي التلقائي"
+   },
+   "discountLink": {
+      "message": "رابط الخصم (انظر إلى السعر الوردي)"
+   },
+   "downvote": {
+      "message": "تصويت سلبي"
+   },
+   "downvoteDescription": {
+      "message": "خاطئ/التوقيت غير صحيح"
+   },
+   "edit": {
+      "message": "تعديل"
+   },
+   "enableAutoSkip": {
+      "message": "تفعيل التخطي التلقائي"
+   },
+   "enableQueryByHashPrefix": {
+      "message": "الاستعلام عن طريق بادئة التجزئة"
+   },
+   "enableRefetchWhenNotFound": {
+      "message": "إعادة جلب الشرائح في مقاطع الفيديو الجديدة"
+   },
+   "enableShowCategoryWithoutPermission": {
+      "message": "إظهار الفئات في قائمة الإرسال حتى دون إذن الإرسال"
+   },
+   "enableTestingServer": {
+      "message": "تمكين الخادم التجريبي"
+   },
+   "enableTrackDownvotes": {
+      "message": "حفظ التصويت السلبي للمقاطع"
+   },
+   "enableViewTracking": {
+      "message": "تمكين تتبع مرات التخطي"
+   },
+   "enableViewTrackingInPrivate": {
+      "message": "تفعيل تتبع عدد التخطي في علامات التبويب الخاصة / التصفح المتخفي"
+   },
+   "errorCode": {
+      "message": "رمز الخطأ: "
+   },
+   "exportOptions": {
+      "message": "إستيراد/تصدير جميع الإعدادات"
+   },
+   "exportOptionsCopy": {
+      "message": "تعديل/نسخ"
+   },
+   "exportOptionsDownload": {
+      "message": "حفظ إلى ملف"
+   },
+   "exportOptionsUpload": {
+      "message": "تحميل من ملف"
+   },
+   "exportSegmentsAsURL": {
+      "message": "شارك كرابط"
+   },
+   "forceChannelCheck": {
+      "message": "إجبار القناة على التحقق قبل التخطي"
+   },
+   "full": {
+      "description": "Used for the name of the option to label an entire video as sponsor or self promotion.",
+      "message": "فيديو كامل"
+   },
+   "fullName": {
+      "description": "Name of the extension.",
+      "message": "سبونسر بلوك لليوتيوب - تخطي الرعاية الاعلانية"
+   },
+   "guidelines": {
+      "message": "الإرشادات"
+   },
+   "harmfulVote": {
+      "description": "Used for chapter segments when the text is harmful/offensive to remove it faster",
+      "message": "ضار"
+   },
+   "help": {
+      "message": "المساعدة"
+   },
+   "helpPageCopyOfDatabase": {
+      "message": "هل يمكنني الحصول على نسخة من قاعدة البيانات؟ ماذا يحدث إذا اختفيت؟"
+   },
+   "helpPageCopyOfDatabase1": {
+      "message": "قاعدة البيانات عامة ومتاحة على"
+   },
+   "helpPageFeatureDisclaimer": {
+      "message": "العديد من الميزات معطلة بشكل تلقائي. إذا كنت ترغب في تخطي المقدمة و الخاتمة و استخدام الدعوات و إلخ. يمكنك تمكين هذه الميزات بالأسفل. يمكنك أيضًا إخفاء و إظهار عناصر واجهة المستخدم."
+   },
+   "helpPageHowSkippingWorks": {
+      "message": "كيف يعمل التخطي"
+   },
+   "helpPageNews": {
+      "message": "الأخبار وكيف تم صنعها"
+   },
+   "helpPageReviewOptions": {
+      "message": "يرجى مراجعة الخيارات أدناه"
+   },
+   "helpPageSourceCode": {
+      "message": "أين يمكنني الحصول على شفرة المصدر؟"
+   },
+   "helpPageThanksForInstalling": {
+      "message": "شكرا على تثبيت SponsorBlock."
+   },
+   "helpPageTooSlow": {
+      "message": "هذا بطيء جداً"
+   },
+   "hiddenDueToDownvote": {
+      "message": "مخفي: تصويت سلبي"
+   },
+   "hiddenDueToDuration": {
+      "message": "مخفي: قصير جداً"
+   },
+   "hideButtons": {
+      "message": "إخفاء الأزرار على مشغل اليوتيوب"
+   },
+   "hideButtonsDescription": {
+      "message": "هذا يخفي الأزرار التي تظهر على مشغل اليوتيوب لإرسال أجزاء للتخطي."
+   },
+   "hideDeleteButton": {
+      "message": "إخفاء زر \"حذف\" على مشغّل اليوتيوب"
+   },
+   "hideDonationLink": {
+      "message": "إخفاء رابط التبرع"
+   },
+   "hideForever": {
+      "message": "إخفاء دائم"
+   },
+   "hideInfoButton": {
+      "message": "إخفاء زر \"معلومات\" على مشغّل اليوتيوب"
+   },
+   "hideSegment": {
+      "message": "إخفاء المقطع"
+   },
+   "hideThis": {
+      "message": "إخفاء هذا"
+   },
+   "hitGoBack": {
+      "message": "قم الضغط علي تخطي للوصول إلى المكان الذي أتيت منه."
+   },
+   "hourAbbreviation": {
+      "description": "100h",
+      "message": "س"
+   },
+   "hourLower": {
+      "message": "ساعة"
+   },
+   "hoursLower": {
+      "message": "ساعات"
+   },
+   "incorrectCategory": {
+      "message": "تغيير الفئة"
+   },
+   "incorrectVote": {
+      "message": "غير صحيح"
+   },
+   "inspect": {
+      "message": "فحص"
+   },
+   "manualPaused": {
+      "message": "تم إيقاف الموقت"
+   },
+   "manualSkip": {
+      "message": "تخطي يدوي"
+   },
+   "manualSkip_POI": {
+      "message": "اسأل عند تحميل الفيديو"
+   },
+   "manuallyHidden": {
+      "message": "مخفي يدوياً"
+   },
+   "minLower": {
+      "message": "دقيقة"
+   },
+   "minsLower": {
+      "message": "دقائق"
+   },
+   "mobileUpdateInfo": {
+      "message": "m.youtube.com مدعوم الآن"
+   },
+   "moreCategories": {
+      "message": "المزيد من الفئات"
+   },
+   "multipleSegments": {
+      "message": "أجزاء متعددة"
+   },
+   "mute": {
+      "message": "كتم"
+   },
+   "mute_category": {
+      "message": "كتم {0}؟"
+   },
+   "muted": {
+      "description": "Example: Sponsor Muted",
+      "message": "تم كتم {0}"
+   },
+   "nextChapterKeybind": {
+      "description": "Keybind label",
+      "message": "الفصل التالي"
+   },
+   "noDiscount": {
+      "message": "أنت لست مؤهلاً للحصول على خصم"
+   },
+   "noVideoID": {
+      "message": "لم يتم العثور على فيديو يوتيوب.\nإذا كان هذا غير صحيح، قم بتحديث الصفحة."
+   },
+   "notSet": {
+      "message": "لم يتم التعيين"
+   },
+   "noticeUpdate": {
+      "description": "The first line of the message displayed after the notice was upgraded.",
+      "message": "تم تحديث الإشعار!"
+   },
+   "noticeUpdate2": {
+      "description": "The second line of the message displayed after the notice was upgraded.",
+      "message": "إذا كنت لا تزال تعجبه، اضغط على زر لا يظهر أبدا."
+   },
+   "noticeVisibilityLabel": {
+      "description": "Option label",
+      "message": "تخطي ظهور الإشعار"
+   },
+   "noticeVisibilityMode0": {
+      "message": "الحجم الكامل لإشعارات التخطي"
+   },
+   "noticeVisibilityMode1": {
+      "message": "إشعارات تخطي صغيرة للتخطي التلقائي"
+   },
+   "openOptionsPage": {
+      "message": "فتح صفحة الخيارات"
+   },
+   "openPopup": {
+      "message": "فتح نافذة SponsorBlock المنبثقة"
+   },
+   "optionsTabAdvanced": {
+      "description": "Appears in Options as a tab header for advanced/niche options. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "متنوع"
+   },
+   "optionsTabBackup": {
+      "description": "Appears in Options as a tab header for options related to saving/restoring your settings. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "النسخ الاحتياطي/الاستعادة"
+   },
+   "optionsTabBehavior": {
+      "description": "Appears in Options as a tab header for options related to categories and skipping behavior. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "سلوك"
+   },
+   "optionsTabInterface": {
+      "description": "Appears in Options as a tab header for options related to GUI and sounds. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "واجهه المستخدم"
+   },
+   "optionsTabKeyBinds": {
+      "description": "Appears in Options as a tab header for keybinds. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "اختصارات لوحة المفاتيح"
+   },
+   "patreonSignIn": {
+      "message": "سجل مع بيتريون (Patreon)"
+   },
+   "paused": {
+      "message": "ايقاف مؤقت"
+   },
+   "permissionRequestFailed": {
+      "message": "فشل طلب الإذن ، هل نقرت على رفض؟"
+   },
+   "permissionRequestSuccess": {
+      "message": "نجح طلب الإذن!"
+   },
+   "playChapter": {
+      "message": "شغل الفصل"
+   },
+   "popupHint": {
+      "message": "تلميح: يمكنك إعداد اختصارات مفاتيح للتقديم في الخيارات"
+   },
+   "preview": {
+      "message": "معاينة"
+   },
+   "previewColor": {
+      "description": "Referring to submissions that have not been sent to the server yet.",
+      "message": "لون غير المرسل"
+   },
+   "previousChapterKeybind": {
+      "description": "Keybind label",
+      "message": "الفصل السابق"
+   },
+   "questionButton": {
+      "message": "لدي سؤال"
+   },
+   "readTheGuidelines": {
+      "description": "Show the first time they submit or if they are \"high risk\"",
+      "message": "اقرأ الإرشادات!!"
+   },
+   "recordTimesDescription": {
+      "message": "إرسال"
+   },
+   "refreshSegments": {
+      "message": "تحديث الأجزاء"
+   },
+   "removeFromWhitelist": {
+      "message": "إزالة القناة من القائمة البيضاء"
+   },
+   "renderAsChapters": {
+      "description": "Refers to drawing segments on the YouTube seek bar as split up chapters, similar to the existing chapter system",
+      "message": "جعل المقاطع كفصول"
+   },
+   "reportButtonInfo": {
+      "message": "الإبلاغ عن هذا التقديم كغير صحيح."
+   },
+   "reportButtonTitle": {
+      "message": "إبلاغ"
+   },
+   "reset": {
+      "message": "إعادة تعيين"
+   },
+   "resetToDefault": {
+      "message": "إعادة تعيين الإعدادات الإفتراضية"
+   },
+   "reskip": {
+      "message": "اعاده التخطي"
+   },
+   "save": {
+      "message": "حفظ"
+   },
+   "savedPeopleFrom": {
+      "message": "لقد وفّرت على الناس "
+   },
+   "seekBarColor": {
+      "message": "لون شريط البحث"
+   },
+   "segmentsStillLoading": {
+      "message": "لا تزل الشرائح قيد التحميل..."
+   },
+   "selectYourCountry": {
+      "message": "اختر بلدك"
+   },
+   "serverDown": {
+      "message": "يبدو أن الخادم غير متصل. تواصل مع المطوّر على الفور."
+   },
+   "setOptions": {
+      "message": "تعيين الخيارات"
+   },
+   "setSkipShortcut": {
+      "description": "Keybind label",
+      "message": "تخطي الجزء"
+   },
+   "setStartSponsorShortcut": {
+      "description": "Keybind label",
+      "message": "بدء/إيقاف الجزء"
+   },
+   "setSubmitKeybind": {
+      "description": "Keybind label",
+      "message": "إرسال الأجزاء"
+   },
+   "setUsername": {
+      "message": "تعيين اسم مستخدم"
+   },
+   "showButtons": {
+      "message": "إظهار الأزرار على مشغل اليوتيوب"
+   },
+   "showCategoryGuidelines": {
+      "message": "إظهار مساعدة الفئة"
+   },
+   "showDeleteButton": {
+      "message": "إظهار زر \"حذف\" على مشغّل اليوتيوب"
+   },
+   "showInfoButton": {
+      "message": "إظهار زر \"معلومات\" على مشغّل اليوتيوب"
+   },
+   "showNotice": {
+      "message": "إظهار الإشعار مرة أخرى"
+   },
+   "showOverlay": {
+      "message": "إظهار في شريط البحث"
+   },
+   "showOverlay_POI": {
+      "message": "إظهار في شريط البحث"
+   },
+   "showOverlay_full": {
+      "message": "إظهار التسمية"
+   },
+   "showSegmentNameInChapterBar": {
+      "message": "إظهار المقطع الحالي بجانب وقت الفيديو"
+   },
+   "showSkipButton": {
+      "message": "إبقاء زر \"تخطي للعنوان الرئيس\" على المشغّل"
+   },
+   "showSkipNotice": {
+      "message": "إظهار إشعار بعد تخطي قطاع ما"
+   },
+   "showUnsubmittedSegments": {
+      "description": "Show/hide button for the unsubmitted segments list",
+      "message": "أظهر الأجزاء"
+   },
+   "showUploadButton": {
+      "message": "إظهار زر الرفع"
+   },
+   "skip": {
+      "message": "تخطي"
+   },
+   "skipOption": {
+      "description": "Used on the options page to describe the ways to skip the segment (auto skip, manual, etc.)",
+      "message": "خيار التخطي"
+   },
+   "skip_category": {
+      "message": "تخطي {0}؟"
+   },
+   "skip_to_category": {
+      "description": "Used for skipping to things (Skip to Highlight)",
+      "message": "تخطي إلى {0}؟"
+   },
+   "skipped": {
+      "description": "Example: Sponsor Skipped",
+      "message": "تم تخطي {0}"
+   },
+   "skipped_to_category": {
+      "description": "Used for skipping to things (Skipped to Highlight)",
+      "message": "تم التخطي إلى {0}"
+   },
+   "sortSegments": {
+      "message": "ترتيب الأجزاء"
+   },
+   "sourceCode": {
+      "description": "Used on Firefox Store Page",
+      "message": "الشفرة المصدرية"
+   },
+   "sponsor404": {
+      "message": "لم يتم العثور على أجزاء"
+   },
+   "sponsorCancel": {
+      "message": "إلغاء إنشاء جزء"
+   },
+   "sponsorEnd": {
+      "message": "ينتهي الجزء الآن"
+   },
+   "sponsorFound": {
+      "message": "يحتوي هذا الفيديو على أجزاء في قاعدة البيانات!"
+   },
+   "sponsorStart": {
+      "message": "يبدأ الجزء الآن"
+   },
+   "submissionEditHint": {
+      "description": "Appears in the popup to inform them that editing has been moved to the video player.",
+      "message": "سيظهر تحرير الجزء بعد النقر على إرسال"
+   },
+   "submit": {
+      "message": "إرسال"
+   },
+   "submitCheck": {
+      "message": "هل أنت متأكد أنك تريد إرسال هذا؟"
+   },
+   "success": {
+      "message": "تم بنجاح!"
+   },
+   "supportOtherSites": {
+      "message": "دعم مواقع يوتيوب الطرف الثالث"
+   },
+   "supportedSites": {
+      "message": "المواقع المدعومة: "
+   },
+   "to": {
+      "description": "Used between segments. Example: 1:20 to 1:30",
+      "message": "إلى"
+   },
+   "trackDownvotesWarning": {
+      "message": "تحذير: سيؤدي تعطيل هذا إلى حذف جميع الأصوات المعارضة التي تم تخزينها مسبقًا"
+   },
+   "unbind": {
+      "description": "Unbind keyboard shortcut",
+      "message": "إلغاء ربط"
+   },
+   "unmute": {
+      "message": "إلغاء الكتم"
+   },
+   "unskip": {
+      "message": "الرجوع في التخطي"
+   },
+   "unsubmitted": {
+      "message": "غير مرسلة"
+   },
+   "unsubmittedSegmentCounts": {
+      "description": "Example: You currently have 12 unsubmitted segments on 5 videos",
+      "message": "لديك حاليا {0} على {1}"
+   },
+   "upvote": {
+      "message": "تصويت إيجابي"
+   },
+   "upvoteButtonInfo": {
+      "message": "التصويت على هذا الإرسال"
+   },
+   "videoID": {
+      "description": "Header of the unsubmitted segments list",
+      "message": "معرف المقطع"
+   },
+   "videosPlural": {
+      "description": "Example: You currently have 12 unsubmitted segments on 5 *videos*",
+      "message": "مقاطع"
+   },
+   "videosSingular": {
+      "description": "Example: You currently have 3 unsubmitted segments on 1 *video*",
+      "message": "مقطع"
+   },
+   "viewLeaderboard": {
+      "message": "المتصدرين"
+   },
+   "voteOnTime": {
+      "message": "صوّت لجزء"
+   },
+   "voted": {
+      "message": "تم التصويت!"
+   },
+   "warningConfirmButton": {
+      "message": "أنا أفهم السبب"
+   },
+   "warningTitle": {
+      "message": "لقد حصلت على تحذير"
+   },
+   "website": {
+      "description": "Used on Firefox Store Page",
+      "message": "موقع الويب"
+   },
+   "whatQueryByHashPrefix": {
+      "message": "بدلاً من طلب مقاطع من الخادم باستخدام معرف الفيديو ، يتم إرسال الأحرف الأربعة الأولى من تجزئة معرف الفيديو. سيرسل هذا الخادم البيانات مرة أخرى لجميع مقاطع الفيديو ذات التجزئات المتشابهة."
+   },
+   "whatRefetchWhenNotFound": {
+      "message": "إذ كان الفيديو جديد، ولم يتم العثور على أي أقسام، سيتم أستمرار البحث على أقسام كل بضع دقائق بينما تشاهد."
+   },
+   "whatShowCategoryWithoutPermission": {
+      "message": "تحتاج بعض الفئات إلى إذن لتقديمها بسبب الحد الأدنى من متطلبات السمعة"
+   },
+   "whatTrackDownvotes": {
+      "message": "أي مقاطع قمت بالتصويت السلبي لها ستبقى مخفية حتى بعد التحديث"
+   },
+   "whatViewTracking": {
+      "message": "تتعقب هذه المِيزة الأجزاء التي تخطيتها للسماح للمستخدمين بمعرفة مقدار ما ساعد إرسالهم الآخرين واستخدامه كمقياس جنبًا إلى جنب مع الأصوات المؤيدة لضمان عدم وصول البريد العشوائي إلى قاعدة البيانات. :)"
+   },
+   "whitelistChannel": {
+      "message": "إضافة القناة إلى القائمة البيضاء"
+   },
+   "youHaveSavedTime": {
+      "description": "You've saved people from 887,362 segments (236d 15h 5.3 minutes of their lives).",
+      "message": "لقد وفّرت على الناس"
+   },
+   "youHaveSavedTimeEnd": {
+      "description": "You've saved people from 887,362 segments (236d 15h 5.3 minutes of their lives).",
+      "message": " من حياتهم"
+   },
+   "youHaveSkipped": {
+      "message": "قمت بتخطي "
+   },
+   "yourWork": {
+      "description": "Used to describe the section that will show you the statistics from your submissions.",
+      "message": "عملك"
+   },
+   "youtubeKeybindWarning": {
+      "message": "هذا اختصار يوتيوب مدمج. هل أنت متأكد أنك تريد استخدامه؟"
+   }
+}

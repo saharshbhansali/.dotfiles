@@ -1,0 +1,182 @@
+{
+   "addToPalette": {
+      "message": "Dodajte v barvno paleto"
+   },
+   "advancedOptions": {
+      "message": "Napredne možnosti"
+   },
+   "appleIcon": {
+      "message": "Uporaba Apple Digital Barvni logotip"
+   },
+   "approved": {
+      "message": "Odobren"
+   },
+   "bbackgroundColor": {
+      "message": "Popup barve ozadja"
+   },
+   "bgPageUnavailable": {
+      "message": "Posnetek v ozadju se ne odziva - osvežite stran in poskusite znova."
+   },
+   "borderValue": {
+      "message": "Meje za uporabo (css vrednost)"
+   },
+   "clear": {
+      "message": "Jasno"
+   },
+   "clearSync": {
+      "message": "Jasno sinhronizacijo shranjevanja"
+   },
+   "closeAndExit": {
+      "message": "Zapiranje in izstop v načinu izbire barv"
+   },
+   "colorOfDay": {
+      "message": "Barva dneva"
+   },
+   "copycolorval": {
+      "message": "Kopirajte barvno vrednost"
+   },
+   "dblClick": {
+      "message": "Dvojni klik"
+   },
+   "default": {
+      "message": "Privzeto"
+   },
+   "disablePickEveryTime": {
+      "message": "Ne zaženejte vsakič, ko kliknete pojavno okno"
+   },
+   "disableRewriting": {
+      "message": "Onemogočite pripadnost povezav, ki niso povezane z affiliate-om"
+   },
+   "error": {
+      "message": "Napaka"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Pridobite nastavitve iz shrambe za sinhronizacijo v računu Google"
+   },
+   "fishEye": {
+      "message": "Količino povečave za oko"
+   },
+   "full": {
+      "message": "Polno"
+   },
+   "hasAgreedToLicense": {
+      "message": "Se je strinjal s pogoji uporabe"
+   },
+   "help": {
+      "message": "Pomoč / info"
+   },
+   "hideMinimize": {
+      "message": "Skriti / zmanjšati "
+   },
+   "history": {
+      "message": "Zgodovina"
+   },
+   "iconIsBitmap": {
+      "message": "Ikona je povečana predogled piksla"
+   },
+   "iconIsPreview": {
+      "message": "Uporabite ikono značke kvadratni barvni predogled"
+   },
+   "loadsyncOptions": {
+      "message": "Možnosti shranjevanja sinhronizacije so bile naložene in shranjene."
+   },
+   "maxZoom": {
+      "message": "Največja povečava"
+   },
+   "modifyLicense": {
+      "message": "Spremeniti licenco"
+   },
+   "noSwatches": {
+      "message": "V barvni zgodovini kliknite barve, da jih dodate v paleto za shranjevanje in tiskanje."
+   },
+   "on": {
+      "message": "Naprej"
+   },
+   "options": {
+      "message": "Opcije"
+   },
+   "pickAgainLocked": {
+      "message": "Izberite drugo barvo [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Izberite trenutno barvo [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Vsakič, ko kliknete pojavno okno, začnite izbrati barve"
+   },
+   "pixelatedPreview": {
+      "message": "Predogled z zoomom je pixelated"
+   },
+   "popOutWindow": {
+      "message": "Pop-out (ločeno okno)"
+   },
+   "pressEnterToPick": {
+      "message": "Pritisnite enter za izbiro barve"
+   },
+   "printSave": {
+      "message": "Tiskanje / shranjevanje..."
+   },
+   "reSnapPage": {
+      "message": "Osvežite sliko strani [r]"
+   },
+   "registered": {
+      "message": "Registrirano"
+   },
+   "resetIcon": {
+      "message": "Vrnite se na običajno ikono"
+   },
+   "rightClick": {
+      "message": "Desni klik"
+   },
+   "saveOptions": {
+      "message": "Shranite možnosti"
+   },
+   "savedoptions": {
+      "message": "Možnosti shranjene."
+   },
+   "seeTerms": {
+      "message": "Glej pogoje uporabe"
+   },
+   "shareClors": {
+      "message": "Barva dnevne statistike (glej pogoje uporabe)"
+   },
+   "showColorChooser": {
+      "message": "Pokaži barvne izbirnike"
+   },
+   "showDefaults": {
+      "message": "Prikaži privzete nastavitve"
+   },
+   "showPreviousClr": {
+      "message": "Prikaži predogled barvnega predogleda s prejšnjo barvo"
+   },
+   "showndefaults": {
+      "message": "Prosimo, pritisnite Shrani, zdaj pa prikažete privzete nastavitve."
+   },
+   "sort": {
+      "message": "razvrsti"
+   },
+   "terms": {
+      "message": "Pogoji uporabe"
+   },
+   "unregistered": {
+      "message": "Neregistrirane"
+   },
+   "usageStatistics": {
+      "message": "Zbiranje statističnih podatkov o uporabi (glej pogoje uporabe)"
+   },
+   "useCSSValues": {
+      "message": "Uporabite css vrednosti za RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Uporaba PNG kakovost, če je na voljo"
+   },
+   "usePrevColorBG": {
+      "message": "Uporabite prejšnjo barvo za ozadje"
+   }
+}

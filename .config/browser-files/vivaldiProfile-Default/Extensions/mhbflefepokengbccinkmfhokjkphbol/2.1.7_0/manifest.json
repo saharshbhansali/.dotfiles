@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_popup": "html/popup.html"
+   },
+   "author": "Manjunadha Abhinai (ViTrendz)",
+   "background": {
+      "service_worker": "service_worker/background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "js/attendance.js", "js/marks_page.js", "js/course_page.js", "js/navbar.js", "js/da_upload.js", "js/captcha/bitmaps.js", "js/captcha/captchaparser.js", "js/exam_schedule.js", "js/navbarcc.js", "js/time_table.js" ],
+      "matches": [ "*://vtop.vit.ac.in/*", "*://vtopcc.vit.ac.in/vtop/*" ]
+   } ],
+   "description": "Enhance your VTOP in one click",
+   "host_permissions": [ "*://vtop.vit.ac.in/*", "*://vtopcc.vit.ac.in/vtop/*" ],
+   "icons": {
+      "128": "assets/icons/img_128.png",
+      "16": "assets/icons/img_16.png",
+      "48": "assets/icons/img_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiuIR0SpG9/l9O9t5qrNIolmOarsWHgj/+g26yA7oxAUBjvJQg73MK1TNmo1ntIFoaLpIuws8bBT8BLgf9OC5hxYiME6ivrfQ81PPdh39OiB/u391p5uVfoSig+vBF9ky+F2aRwfjbnF8bJUnr3dmfTlMjWmK3h3WSj2e/oCYqRlYqqyLYSVmbw2gEzYWa2KE5E32eK3OTLyPjJgeUvC111sT8dEBtp+lCub9i3AXiaOGVSZM+AJXuw8toGMhfWLqusCwEWxrmPZFnMb8OKxbl3YWeMOdOnL168VZoRIMr/OJUbhcK6kuEGzoZ9sxUdP6eQXfFG1AbbytgjGJZs4a7QIDAQAB",
+   "manifest_version": 3,
+   "name": "ViBoot",
+   "oauth2": {
+      "client_id": "208230014476-3b0u1ld7t9j08aopogkjrocbtahp1h9v.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/calendar" ]
+   },
+   "permissions": [ "webRequest", "downloads", "storage", "tabs", "identity", "alarms", "identity.email", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.7",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*.vit.ac.in/*" ],
+      "resources": [ "js/captcha/weights.json" ]
+   } ]
+}

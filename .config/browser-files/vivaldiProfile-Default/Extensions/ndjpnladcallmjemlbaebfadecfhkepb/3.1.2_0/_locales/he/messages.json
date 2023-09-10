@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "חשבון"
+   },
+   "AppDescription": {
+      "message": "הצג, ערוך וצור מסמכים בדפדפן שלך."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "הצג, ערוך וצור קבצים בתוך הדפדפן, והצג את הכתיבה הטובה ביותר שלך ברחבי האינטרנט."
+   },
+   "AppFolderName": {
+      "message": "הרחבת דפדפן Microsoft 365"
+   },
+   "AppListLabel": {
+      "message": "יישומי אינטרנט"
+   },
+   "AppLongDescription": {
+      "message": "תוכנן עבור Chrome – השתמש ב- Word,‏‏ Excel,‏ PowerPoint‏, OneNote ו- Sway Online מבלי להתקין את Microsoft 365 במחשב.\r\n\r\nצור בביטחון – השתמש באפשרויות עיצוב ופריסת מוכרות כדי לבטא את הרעיונות שלך בנאמנות מלאה.\r\n\r\nעבוד בדרכים – גש לקבצים שלך מכל מקום, הודות לשילוב עם OneDrive ו- OneDrive for Business.\r\n\r\nבעצם התקנת האפליקציה, אתה מסכים לתנאים ולהתניות אלה: http://aka.ms/officechromeextensionterms\r\n\r\nמדיניות פרטיות: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "הרחבת הדפדפן של Microsoft 365 מציבה בסרגל הכלים של Microsoft Edge סמל שמספק לך גישה ישירה לקבצי Microsoft 365 שלך, בין אם הם מאוחסנים באופן מקוון או במחשב שלך.\r\n\r\nהרחבת האינטרנט של Microsoft 365 יכולה לפתוח קבצים המאוחסנים ב- OneDrive וב- OneDrive for Business.\r\n\r\nאתה מקבל את התכונות של Word‏, Excel‏, PowerPoint‏, OneNote ו- Sway ישירות בדפדפן שלך ללא צורך בהתקנת Microsoft 365.\r\n\r\nהרחבת הדפדפן של Microsoft 365 כוללת כעת הגהה של התוכן שלך*. היא מתחברת לשירות מקוון של Microsoft שמציע הצעות איות, דקדוק וליטוש עבור הכתיבה שלך ברוב אתרי האינטרנט, והוא זמין ביותר מ- 80 שפות.\r\n\r\n*ייתכן שתכונה זו לא תהיה זמינה לכל המשתמשים.\r\n\r\nעל-ידי התקנת היישום, אתה מסכים לתנאים ולהתניות האלה: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "נבנה עבור Chrome – השתמש ב- Word‏, Excel‏, PowerPoint‏, OneNote ו- Sway Online ללא צורך בהתקנת Microsoft 365.\r\n\r\nצור בביטחון – השתמש באפשרויות עיצוב ופריסה מוכרות כדי להביע את רעיונותיך ברמת אמינות מלאה.\r\n\r\nעבוד תוך כדי תנועה – גש אל הקבצים שלך מכל מקום, הודות לשילוב עם OneDrive ו- OneDrive for Business.\r\n\r\nהרחבת דפדפן Microsoft 365 כוללת כעת הגהה של התוכן שלך. היא מתחברת לשירות מקוון של Microsoft המציע הצעות איות, דקדוק וליטוש עבור הכתיבה שלך ברוב אתרי האינטרנט, והוא זמין ביותר מ- 80 שפות.\r\n\r\n*ייתכן שתכונה זו לא תהיה זמינה לכל המשתמשים.\r\n\r\nעל-ידי התקנת האפליקציה, אתה מסכים לתנאים ולהתניות האלה: http://aka.ms/officechromeextensionterms\r\n\r\nמדיניות פרטיות: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "סייר בכל האפליקציות שלך"
+   },
+   "AppsSectionHeader": {
+      "message": "אפליקציות"
+   },
+   "BrowseToOpenLabel": {
+      "message": "העלאה ופתיחה..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "צור חשבון"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "אין מסמכים שהוצגו לאחרונה."
+   },
+   "CreateNewLabel": {
+      "message": "חדש"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "הפוך את 'עורך' ללא זמין ב- $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "אין אפשרות לקבל את רשימת המסמכים האחרונים שלך כעת."
+   },
+   "EditorBrandText": {
+      "message": "עורך"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "בדיקת דקדוק"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "'עורך' אינו נתמך כעת ב- $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "'עורך' אינו זמין כעת ב- $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "'עורך' מבוטל."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "עורך נכלל עם $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(Preview)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "שירות העורך מסופק על-ידי הרחבת עורך Microsoft."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "קבל רעיונות כתיבה מתקדמים ושטח אחסון של ‎1 TB כשאתה עובר לגירסת Premium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "מיקודים"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "מיקודים הם הצעות כתיבה מתקדמות שעוזרות להפוך את הכתיבה שלך לברורה יותר, לתמציתית יותר או לרשמית יותר."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "בדיקת איות"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "הפוך את 'עורך' לזמין ב- $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "סוג הקובץ אינו נתמך. בחר מסמך Word,‏ Excel או PowerPoint."
+   },
+   "LoadingRecentsLabel": {
+      "message": "טוען..."
+   },
+   "MoreFilesLabel": {
+      "message": "מסמכים נוספים"
+   },
+   "MyAccountLabel": {
+      "message": "הצג את החשבון שלי"
+   },
+   "NextLabel": {
+      "message": "היכנס"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "אל תציג זאת שוב"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "שמרנו את הקובץ בתיקיית \"הרחבת דפדפן Microsoft 365\" ב- OneDrive שלך."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "שמרנו את הקובץ בתיקיית \"הרחבת דפדפן Microsoft 365\" ב- OneDrive for Business שלך."
+   },
+   "NotificationFileAccess": {
+      "message": "בהגדרות התוספים, בחר את תיבת הסימון \"אפשר גישה לכתובות אתרים של קבצים\" אם ברצונך לגרור ולשחרר קבצים לתוך הדפדפן."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "הרחבת דפדפן של Microsoft 365 אין אפשרות לפתוח את המסמך שלך עקב הגודל. העלה את המסמך ישירות ל- OneDrive כדי לפתוח אותו."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "מצטערים, לא היתה אפשרות לפתוח את הקובץ."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "מצטערים, לא היתה אפשרות לפתוח את הקובץ. נסה שוב במועד מאוחר יותר."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "מצטערים, לא היתה אפשרות לפתוח את הקובץ. בחר קובץ שנוצר באמצעות Word‏, Excel או PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "אנו מעלים כעת את המסמכים שלך."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "ייתכן שתוקפו של מנוי Microsoft 365 שלך פג או שהוא אינו כולל את OneDrive for Business. בדוק את המנוי או היכנס באמצעות חשבון Microsoft במקום זאת."
+   },
+   "NotificationNotSignedIn": {
+      "message": "היכנס אל התוסף כדי להציג ולערוך קבצים ב- Microsoft 365 באינטרנט."
+   },
+   "NotificationSetDefault": {
+      "message": "באפליקציה 'Files', הקש על מסמכים בשתי אצבעות כדי לפתוח אותם באמצעות Microsoft 365."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "בחר קובץ שנוצר באמצעות Word‏, Excel או PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "ההרחבה Microsoft 365 פותחת את המסמך שלך בדפדפן"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "אל תציג זאת שוב"
+   },
+   "O365FilesLabel": {
+      "message": "מ- OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "אתה נמצא במצב לא מקוון. התחבר מחדש כדי להשתמש בהרחבת Microsoft 365 שלך."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "מ- OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "פתח"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "מסמכים"
+   },
+   "SettingsLabel": {
+      "message": "הגדרות"
+   },
+   "ShareMessage": {
+      "message": "שתף"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "נדרשת הרשאה"
+   },
+   "SharePermissionsTooltip": {
+      "message": "אין לך הרשאה לשתף"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "היכן ברצונך לשמור את הקבצים שלך?"
+   },
+   "SignInLabel": {
+      "message": "היכנס"
+   },
+   "SignInMSALabel": {
+      "message": "היכנס באמצעות חשבון Microsoft"
+   },
+   "SignInO365Label": {
+      "message": "היכנס באמצעות חשבון בעבודה או בבית ספר"
+   },
+   "SignOutLabel": {
+      "message": "צא"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "שירות העורך מסופק על-ידי הרחבת עורך Microsoft."
+   },
+   "SupportPageLabel": {
+      "message": "זקוק לעזרה בכניסה?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "שלח נתונים באופן אוטומטי כדי לעזור לנו לשפר את המוצרים שלנו."
+   },
+   "TurnOnEditorLabel": {
+      "message": "הפעל את 'עורך'"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "העלה אל OneDrive for Business"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "העלה אל OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "לא נכנס"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "פתח Microsoft 365 ישירות בדפדפן באמצעות Microsoft 365."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

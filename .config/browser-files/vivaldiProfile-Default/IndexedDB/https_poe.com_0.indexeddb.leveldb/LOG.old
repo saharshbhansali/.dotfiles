@@ -1,0 +1,15 @@
+2023/09/08-15:46:50.236 1a7c Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/IndexedDB/https_poe.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/08-15:46:50.253 1a7c Recovering log #4
+2023/09/08-15:46:50.254 1a7c Reusing old log /home/saharsh/.config/vivaldi/Default/IndexedDB/https_poe.com_0.indexeddb.leveldb/000004.log 
+2023/09/09-02:24:52.958 1a79 Level-0 table #8: started
+2023/09/09-02:24:52.960 1a79 Level-0 table #8: 209 bytes OK
+2023/09/09-02:24:52.963 1a79 Delete type=0 #4
+2023/09/09-02:24:52.963 1a79 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/09-02:24:52.963 1a79 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 227 : 1
+2023/09/09-02:24:52.963 1a79 Compacting 1@1 + 1@2 files
+2023/09/09-02:24:52.965 1a79 Generated table #9@1: 69 keys, 1203 bytes
+2023/09/09-02:24:52.965 1a79 Compacted 1@1 + 1@2 files => 1203 bytes
+2023/09/09-02:24:52.967 1a79 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/09-02:24:52.968 1a79 Delete type=2 #5
+2023/09/09-02:24:52.968 1a79 Delete type=2 #8
+2023/09/09-02:24:52.968 1a79 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 227 : 1 .. (end); will stop at (end)

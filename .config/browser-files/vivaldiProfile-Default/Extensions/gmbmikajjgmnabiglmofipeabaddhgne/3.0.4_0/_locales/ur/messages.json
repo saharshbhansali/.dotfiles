@@ -1,0 +1,335 @@
+{
+   "account": {
+      "message": "اکاؤنٹ"
+   },
+   "apply": {
+      "message": "لاگو کریں"
+   },
+   "audio_default_filename": {
+      "message": "بلاعنوان آڈیو"
+   },
+   "authorization_needed": {
+      "message": "آپ کو Google Drive میں محفوظ کریں کو اجازت دینی ہوگی۔"
+   },
+   "automatically_open_file": {
+      "message": "خودکار طور پر محفوظ کردہ فائل کھولیں"
+   },
+   "cancel": {
+      "message": "منسوخ کریں"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome صفحات کو اسکرین کیپچر نہیں کیا جا سکتا ہے۔ ایک معیاری ویب صفحہ آزمائیں۔"
+   },
+   "change_dest_folder": {
+      "message": "منزل مقصود فولڈر تبدیل کریں…"
+   },
+   "chrome_extension_name": {
+      "message": "Google Drive میں محفوظ کریں"
+   },
+   "close": {
+      "message": "بند کریں"
+   },
+   "convert_to_google_format": {
+      "message": "محفوظ کردہ لنک کو Google ایڈیٹر فارمیٹ میں تبدیل کریں"
+   },
+   "debug": {
+      "message": "ڈیبگ کریں"
+   },
+   "default_acl_domain": {
+      "message": "ڈومین کا ڈیفالٹ"
+   },
+   "default_acl_none": {
+      "message": "میرے لیے نجی ہے"
+   },
+   "default_acl_text": {
+      "message": "ڈیفالٹ ACL"
+   },
+   "default_filename": {
+      "message": "بلاعنوان"
+   },
+   "download_canceled": {
+      "message": "ڈاؤن لوڈ منسوخ۔"
+   },
+   "download_failure": {
+      "message": "ڈاؤن لوڈ ناکام: $1۔",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "ڈاؤن لوڈ ناکام: کوئی ڈیٹا نہیں ملا۔"
+   },
+   "download_failure_too_big_mb": {
+      "message": "ڈاؤن لوڈ کی ناکامی: ماخذ بہت بڑا ہے ($1 MB)۔",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "$1 ڈاؤن لوڈ ہو رہا ہے…",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_request_failed": {
+      "message": "ڈاؤن لوڈ کی درخواست ناکام ہوگئی"
+   },
+   "download_unknown_name": {
+      "message": "ڈاؤن لوڈ ہو رہا ہے…"
+   },
+   "empty_page_capture": {
+      "message": "صفحہ کے مواد کو MHTML کے بطور قید نہیں کرسکا۔"
+   },
+   "enable_file_url": {
+      "message": "ایکسٹنشنز کی ترتیبات والے صفحے پر \"فائل URLs تک رسائی کی اجازت دیں\" کے ساتھ فائل URLs کا اختیار لازماً فعال ہونا چاہیے۔"
+   },
+   "ext_description": {
+      "message": "ویب مواد یا اسکرین کیپچر کو براہ راست Google Drive میں محفوظ کریں۔"
+   },
+   "failure_page_capture": {
+      "message": "صفحہ کے مواد کو MHTML کے بطور قید نہیں کرسکا: $1۔",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "تاثرات بھیجیں (صرف داخلی)"
+   },
+   "file_bug_internal": {
+      "message": "ایک بگ درج کریں (صرف داخلی)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> کو \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a> میں محفوظ کر دیا گیا۔ \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">تبدیل کریں\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> کو کوڑے دان میں منتقل کر دیا گیا ہے۔ \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a> پر جائیں۔",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "مدد"
+   },
+   "html_default_filename": {
+      "message": "بلاعنوان HTML"
+   },
+   "image_capture_failed": {
+      "message": "تصویر کو قید کرنے میں ناکام۔"
+   },
+   "image_capture_failed_reason": {
+      "message": "تصویر کو قید کرنے میں ناکام ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "بلاعنوان تصویر"
+   },
+   "invalid_url": {
+      "message": "غلط URL: $1۔ ڈاؤن لوڈ کردہ URLs کا http://, https://‎ یا file://‎ کے ساتھ شروع ہونا ضروری ہے۔",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "متفرق"
+   },
+   "my_drive": {
+      "message": "میری ڈرائیو"
+   },
+   "options_header_text": {
+      "message": "Google Drive میں محفوظ کریں توسیع کے اختیارات"
+   },
+   "options_title": {
+      "message": "Google Drive میں محفوظ کریں اختیارات"
+   },
+   "page_size_not_supported": {
+      "message": "صفحہ کا سائز معاون نہیں ہے: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "بلاعنوان PDF"
+   },
+   "percent": {
+      "message": "$1% ہوگیا",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "printer_name": {
+      "message": "Google Drive میں محفوظ کریں"
+   },
+   "privacy": {
+      "message": "رازداری"
+   },
+   "rename": {
+      "message": "نام بدلیں"
+   },
+   "rename_prompt": {
+      "message": "نام بدلیں:"
+   },
+   "save_as_html": {
+      "message": "HTML ماخذ (‎.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google دستاویز"
+   },
+   "save_as_image_entire": {
+      "message": "پورے صفحے کی تصویر (‎.png)"
+   },
+   "save_as_image_select": {
+      "message": "(‎.png) محفوظ کرنے کے لیے ایریا منتخب کریں"
+   },
+   "save_as_image_select_failed": {
+      "message": "اسکرین شاٹ لینا ناکام ہو گيا۔ اگر مسئلہ برقرار رہتا ہے تو آپ اپنی \"کوکیز اور دیگر سائٹ اور پلگ ان ڈیٹا\" (Ctrl+Shift+Delete) کو صاف کر کے اسے حل کر سکتے ہیں۔"
+   },
+   "save_as_image_visible": {
+      "message": "مرئی صفحے کی تصویر (‎.png)"
+   },
+   "save_as_mhtml": {
+      "message": "ویب آرکائیو (‎.mht)"
+   },
+   "save_audio": {
+      "message": "آڈیو Google Drive میں محفوظ کریں"
+   },
+   "save_image": {
+      "message": "تصویر کو Google Drive میں محفوظ کریں"
+   },
+   "save_link": {
+      "message": "لنک کو Google Drive میں محفوظ کریں"
+   },
+   "save_page_as": {
+      "message": "صفحہ کو محفوظ کریں بطور"
+   },
+   "save_to_folder_text": {
+      "message": "فولڈر میں محفوظ کریں"
+   },
+   "save_to_google_drive_action": {
+      "message": "Google Drive میں محفوظ کریں"
+   },
+   "save_video": {
+      "message": "ویڈیو کو Google Drive میں محفوظ کریں"
+   },
+   "saving": {
+      "message": "$1 کوGoogle Drive میں محفوظ کیا جارہا ہے…",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "ایک فولڈر میں محفوظ کریں کو منتخب کریں"
+   },
+   "send_feedback": {
+      "message": "تاثرات بھیجیں"
+   },
+   "sign_out": {
+      "message": "سائن آؤٹ کریں"
+   },
+   "start_download_exception": {
+      "message": "ڈاؤن لوڈ شروع کرنے میں ناکام: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "بلاعنوان عبارت"
+   },
+   "trash": {
+      "message": "کوڑے دان"
+   },
+   "unspecified_error": {
+      "message": "غیرصراحت کردہ غلطی"
+   },
+   "upload_canceled": {
+      "message": "اپ لوڈ منسوخ ہوگیا"
+   },
+   "upload_failure": {
+      "message": "اپ لوڈ ناکام: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "$1 کو Google Drive میں اپ لوڈ کیا جارہا ہے…",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">لنک کھولیں\u003C/a>، اور پتہ والے بار کے دائیں سمت Google Drive میں محفوظ کریں بٹن کا استعمال کرکے صفحہ محفوظ کریں۔",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "یہ ایک ویب صفحہ کا لنک ہے"
+   },
+   "video_default_filename": {
+      "message": "بلاعنوان ویڈیو"
+   },
+   "xml_default_filename": {
+      "message": "بلاعنوان XML"
+   }
+}

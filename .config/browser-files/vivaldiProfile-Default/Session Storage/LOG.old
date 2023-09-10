@@ -1,0 +1,24 @@
+2023/09/06-22:09:15.611 3 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/Session Storage/MANIFEST-000001
+2023/09/06-22:09:15.635 3 Recovering log #181
+2023/09/06-22:09:15.638 3 Reusing old log /home/saharsh/.config/vivaldi/Default/Session Storage/000181.log 
+2023/09/07-02:04:09.500 5 Level-0 table #186: started
+2023/09/07-02:04:09.513 5 Level-0 table #186: 17119 bytes OK
+2023/09/07-02:04:09.517 5 Delete type=0 #181
+2023/09/07-16:09:12.667 5 Level-0 table #188: started
+2023/09/07-16:09:12.676 5 Level-0 table #188: 24911 bytes OK
+2023/09/07-16:09:12.691 5 Delete type=0 #185
+2023/09/07-21:33:49.502 5 Level-0 table #190: started
+2023/09/07-21:33:49.511 5 Level-0 table #190: 19173 bytes OK
+2023/09/07-21:33:49.521 5 Delete type=0 #187
+2023/09/08-02:31:17.812 5 Level-0 table #192: started
+2023/09/08-02:31:17.815 5 Level-0 table #192: 21120 bytes OK
+2023/09/08-02:31:17.820 5 Delete type=0 #189
+2023/09/08-02:31:17.820 5 Compacting 4@0 + 1@1 files
+2023/09/08-02:31:17.829 5 Generated table #193@0: 7826 keys, 223108 bytes
+2023/09/08-02:31:17.829 5 Compacted 4@0 + 1@1 files => 223108 bytes
+2023/09/08-02:31:17.832 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/08-02:31:17.833 5 Delete type=2 #183
+2023/09/08-02:31:17.833 5 Delete type=2 #186
+2023/09/08-02:31:17.833 5 Delete type=2 #188
+2023/09/08-02:31:17.833 5 Delete type=2 #190
+2023/09/08-02:31:17.833 5 Delete type=2 #192

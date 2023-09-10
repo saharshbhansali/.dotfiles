@@ -1,0 +1,44 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "images/print-friendly-green-19px.png",
+         "24": "images/print-friendly-green-19px.png",
+         "32": "images/print-friendly-green-19px.png"
+      },
+      "default_title": "PrintFriendly - Print and PDF Web Pages"
+   },
+   "background": {
+      "service_worker": "service_worker.js",
+      "type": "module"
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self';",
+      "sandbox": "sandbox allow-scripts allow-popups allow-modals allow-downloads; script-src 'self'; child-src 'self';"
+   },
+   "default_locale": "en",
+   "description": "Make web pages printer-friendly and convert them to PDFs. Easily remove ads and navigation, and customize what you print or PDF.",
+   "differential_fingerprint": "1.d71032141c17df15af87e083cddcbd838679e38be07761008cc2a7951e346e58",
+   "homepage_url": "https://www.printfriendly.com",
+   "icons": {
+      "128": "images/print-friendly-128px.png",
+      "16": "images/print-friendly-16px.png",
+      "48": "images/print-friendly-48px.png"
+   },
+   "incognito": "split",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCv9zsC6sxYyVj0O0JqoH8ZHAeUVP/cOG5cNqf88kID0LgwIaPWWXQB4vAfwOyHGV7ZaN5IEgngd11MU3iiGa0STjlDeZD0neeTHLIyvovz3q6v+9fAeOtcyPcexNbPvGO9AU+aWRBtBf8+xUwUOEdlB9joM/E4xcx/V44XyRsZXwIDAQAB",
+   "manifest_version": 3,
+   "name": "PrintFriendly - Print and PDF Web Pages",
+   "options_ui": {
+      "page": "options.html"
+   },
+   "permissions": [ "activeTab", "contextMenus", "scripting", "storage" ],
+   "sandbox": {
+      "pages": [ "print_sandbox_page.html" ]
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.4.5",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "core.html", "algo.html", "print_sandbox_page.html" ]
+   } ]
+}

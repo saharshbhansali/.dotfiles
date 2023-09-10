@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "መለያ"
+   },
+   "AppDescription": {
+      "message": "በአሳሽዎ ላይ ሰነዶችን ይመልከቱ፣ ያርትዑ እንዲሁም ይፍጠሩ።"
+   },
+   "AppDescriptionWithEditor": {
+      "message": "በአሳሹ ውስጥ ፋይሎችን ይመልከቱ ፣ ያርትዑ እና ይፍጠሩ እንዲሁም በመላው ድር ላይ የእርስዎን ምርጥ አጻጻፍ ያምጡ።"
+   },
+   "AppFolderName": {
+      "message": "የ Microsoft 365 አሳሽ ቅጥያ"
+   },
+   "AppListLabel": {
+      "message": "የድር መተግበሪያዎች"
+   },
+   "AppLongDescription": {
+      "message": "ለ Chrome የተገነባ – Microsoft 365 መጫን ሳያስፈልግ Word፣ Excel፣ PowerPoint፣ OneNote፣ እና Sway Online ይጠቀሙ።\r\n\r\nበመተማመን ይፍጠሩ – በሙሉ ታማኝነት ሃሳብዎን ለመግለጽ የተለመዱ ቅርጸት እና የአቀማመጥ አማራጮችን ይጠቀሙ።\r\n\r\nበመሄድ ላይ እያሉ ይስሩ – ከማንኛውም ቦታ ከፋይሎችዎ ጋር ይገናኙ፣ ከ OneDrive እና OneDrive ለ Business ጋር ውህደት እናመሰግናለን።\r\n\r\nመተግበሪያውን በመጫንዎ፣ ከነዚህ ውሎች እና ሁኔታዎች ጋር ተስማምቷል ማለት ነው፥http://aka.ms/officechromeextensionterms\r\n\r\nየግላዊነት ፖሊሲ፥ http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "የ Microsoft 365 አሳሽ ቅጥያ በመስመር ላይ ወይም በኮምፒውተርዎ ላይ ወደ ተከማቹ የ Microsoft 365 ፋይሎችዎ በቀጥታ መድረሻ የሚሰጥዎትን አዶ በ Microsoft Edge የመሳሪያ አሞሌ ላይ ያኖራል።\r\n\r\nየ Microsoft 365 የድር ቅጥያ በ OneDrive ወይም OneDrive ለ Business ውስጥ የተከማቹ ፋይሎችን መክፈት ይችላል።\r\n\r\nየ Word፣ Excel፣ PowerPoint፣ OneNote፣ እና Sway ባህሪያትን Microsoft 365 መጫን ሳይኖርብዎት እዛው በአሳሽዎ ውስጥ ያገኛሉ።\r\n\r\nየ Microsoft 365 አሳሽ ቅጥያ አሁን ይዘትዎን ማረም ያካትታል*። ለጽሁፍዎ የስርዓተ ሆሄያት፣ የሰዋሰው፣ እና የማጣሪያ ጥቆማዎችን በብዙ ድር ጣቢያዎች ላይ ከሚያቀርብ የ Microsoft የመስመር ላይ አገልግሎት ጋር ይገናኛል እና ከ80 በላይ በሚሆኑ ቋንቋዎች የሚገኝ ነው።\r\n\r\n*ይህ ባህሪ ለሁሉም ተጠቃሚዎች የሚገኝ ላይሆን ይችላል።\r\n\r\nመተግበሪያውን በመጫን በእነዚህ ደንቦች እና ሁኔታዎች ይስማማሉ፦ \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "ለ Chrome የተገነባ – Microsoft 365 መጫን ሳይኖርብዎት በመስመር ላይ Word፣ Excel፣ PowerPoint፣ OneNote፣ እና Swayን ይጠቀሙ።\r\n\r\nበመተማመን ይፍጠሩ – ሀሳቦችዎን በሙሉ ታማኝነት ለመግለጽ የሚታወቁ የቅርጸት እና የአቀማመጥ አማራጮችን ይጠቀሙ።\r\n\r\nበእንቅስቃሴ ላይ ሳሉ ይስሩ – ከየትም ሆነው ፋይሎችዎ ጋር ይድረሱ፣ ከ OneDrive ጋር ማቀናጀት እና OneDrive for Business ምስጋና ይገባቸው።\r\n\r\nየ Microsoft 365 አሳሽ ቅጥያ አሁን ይዘትዎን ማረም ያካትታል*። ለጽሁፍዎ የስርዓተ ሆሄያት፣ የሰዋሰው፣ እና የማጣሪያ ጥቆማዎችን በብዙ ድር ጣቢያዎች ላይ ከሚያቀርብ የ Microsoft የመስመር ላይ አገልግሎት ጋር ይገናኛል እና ከ80 በላይ በሚሆኑ ቋንቋዎች የሚገኝ ነው።\r\n\r\n*ይህ ባህሪ ለሁሉም ተጠቃሚዎች የሚገኝ ላይሆን ይችላል።\r\n\r\nመተግበሪያውን በመጫን በእነዚህ ደንቦች እና ሁኔታዎች ይስማማሉ፦ http://aka.ms/officechromeextensionterms\r\n\r\nየግላዊነት ፖሊሲ፦ http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "ሁሉንም መተግበሪያዎችዎን ያስሱ"
+   },
+   "AppsSectionHeader": {
+      "message": "መተግበሪያዎች"
+   },
+   "BrowseToOpenLabel": {
+      "message": "ስቀል እና ክፈት..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "መለያ ፍጠር"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "በቅርቡ የታዩ ሰነዶች የሉም።"
+   },
+   "CreateNewLabel": {
+      "message": "አዲስ"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "በ $አስተናጋጅ$ ላይ አርታኢን አሰናክል",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "የእርስዎን የቅርብ ጊዜ የሰነዶችዎን ዝርዝር በአሁኑ ጊዜ ማግኘት አልቻልንም።"
+   },
+   "EditorBrandText": {
+      "message": "አርታኢ"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "ሰዋስው "
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "አርታኢ በአሁኑ ጊዜ በ $አስተናጋጅ$ ላይ አይደገፍም",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "አርታኢ በአሁኑ ጊዜ በ $አስተናጋጅ$ ላይ ተሰናክሏል",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "አርታኢው ጠፍቷል።"
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "አርታዒ ከ $host$ ጋር ተካቷል",
+      "placeholders": {
+         "host": {
+            "content": "1 $",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(ቅድመ ዕይታ)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "የአርታዒ አገልግሎት በመቅረብ ላይ ያለው በ Microsoft አርታዒ ቅጥያ ነው።"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "ወደ ፕሪሚየም በሚያሳድጉበት ጊዜ የላቁ የጽሑፍ ሀሳቦችን እና 1 ቴባ ማከማቻን ያግኙ።"
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "መሻሻሎች"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "ማስተካከያዎች ጽሑፍዎን ይበልጥ ግልፅ፣ ትንሽ ቃላትን ወይም የበለጠ መደበኛ ለማድረግ የሚያግዙ የላቀ የጽሑፍ አስተያየቶች ናቸው፡፡"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "ስርዓተ ሆሄያት"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "በ $አስተናጋጅ$ ላይ አርታኢን ያንቁ",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "የፋይሉ አይነት አይደገፍም። እባክዎ የWord, Excel ወይም PowerPoint ሰነድ ይምረጡ።"
+   },
+   "LoadingRecentsLabel": {
+      "message": "በመጫን ላይ..."
+   },
+   "MoreFilesLabel": {
+      "message": "ተጨማሪ ሰነዶች"
+   },
+   "MyAccountLabel": {
+      "message": "መለያዬን ተመልከት"
+   },
+   "NextLabel": {
+      "message": "በምዝበባ ግባ"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "ይህን እንደገና አታሳይ"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "የእርስዎን ፋይል በ \"Microsoft 365 አሳሽ ቅጥያ\" አቃፊ ውስጥ በእርስዎ OneDrive ላይ አስቀምጠናል።"
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "የእርስዎን ፋይል በ \"Microsoft 365 አሳሽ ቅጥያ\" አቃፊ ውስጥ በእርስዎ OneDrive for Business ላይ አስቀምጠናል፡።"
+   },
+   "NotificationFileAccess": {
+      "message": "ወደ አሳሹ ፋይሎችን መጎተት እና መጣል ከፈለጉ በቅጥያ ቅንብሮች \"ወደ ፋይል መዳረሻ ይፍቀዱ URLs\"   ማረጋገጫ ሳጥንን ይምረጡ፡፡ "
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "የ Microsoft 365 የአሳሽ ቅጥያ በመጠኑ ምክንያት ሰነድዎን መክፈት አልቻለም።  እባክዎ ሰነዱን ለመክፈት በቀጥታ ወደ OneDrive ይስቀሉ።"
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "ይቅርታ፣ ፋይልዎን መክፈት አልቻልንም"
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "ይቅርታ፤ ፋይልዎን መክፈት አልቻልንም።  እባክዎ ወደ በኋላ እንደገና ይሞክሩ።"
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "ይቅርታ፣ ፋይልዎን መክፈት አልቻልንም። እባክዎ በWord፣  Excel ወይም PowerPoint የተፈጠሩ ፋይሎችን ምረጥ"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "አሁን የእርስዎን ሰነዶች በመስቀል ላይ ነን።"
+   },
+   "NotificationInvalidSubscription": {
+      "message": "የ Microsoft 365 ምዝገባዎ የመጠቀሚያ ጊዜ አልፎ ሊሆን ይችላል ወይም OneDrive ለ Business ን ላይጨምር ይችላል። ምዝገባዎን ያረጋግጡ ወይም በ Microsoft መለያዎ ይግቡ።"
+   },
+   "NotificationNotSignedIn": {
+      "message": "Microsoft 365 በድሩ ላይ ፋይሎችን ለማየት እና ለማስተካከል ወደ ቅጥያው ይግቡ።"
+   },
+   "NotificationSetDefault": {
+      "message": "በፋይሎች መተግበሪያ ውስጥ፣ ሰነዶችን በ Microsoft 365 ለመክፈት በሁለት ጣቶች መታ ያድርጓቸው።"
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "ይቅርታ፣ ፋይልዎን መክፈት አልቻልንም። እባክዎ በWord፣ Excel ወይም PowerPoint የተፈጠሩ ፋይሎችን ምረጥ።"
+   },
+   "NotificationWebDocRedirect": {
+      "message": "የ Microsoft 365 ቅጥያ ሰነድዎን በአሳሹ ውስጥ በመክፈት ላይ ነው"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "ይህን እንደገና አታሳይ"
+   },
+   "O365FilesLabel": {
+      "message": "ከ OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "ከመስመር ውጪ ነዎት። የ Microsoft 365 አሳሽ ቅጥያን ለመጠቀም እባክዎን እንደገና ያገናኙ።"
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "ከ OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "ክፈት"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "ሰነዶች"
+   },
+   "SettingsLabel": {
+      "message": "ማስተካከያ"
+   },
+   "ShareMessage": {
+      "message": "አጋራ"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "ፈቃድ ይፈለጋል"
+   },
+   "SharePermissionsTooltip": {
+      "message": "ለማጋራት ፈቃድ የለህም"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "ፋይሎችዎን የት ማስቀመጥ ይፈልጋሉ?"
+   },
+   "SignInLabel": {
+      "message": "በምዝገባ ግባ"
+   },
+   "SignInMSALabel": {
+      "message": "በ Microsoft መለያ ወይም የስራ ወይም የትምህርት ቤት መለያ መለያ ይግቡ።"
+   },
+   "SignInO365Label": {
+      "message": "በ Microsoft መለያ ወይም የስራ ወይም የትምህርት ቤት መለያ መለያ ይግቡ።"
+   },
+   "SignOutLabel": {
+      "message": "ከምዝገባ ውጣ"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "የአርታዒ አገልግሎት በመቅረብ ላይ ያለው በ Microsoft አርታዒ ቅጥያ ነው።"
+   },
+   "SupportPageLabel": {
+      "message": "ለመግባት እርዳታ ይፈልጋሉ?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "ቡድኖች"
+   },
+   "TelemetrySettingLabel": {
+      "message": "ምርቶቻችንን ለማሻሻል እንዲረዳን፣ በራስ ሰር መንገድ ወደ እኛ ዳታ ይላኩ።"
+   },
+   "TurnOnEditorLabel": {
+      "message": "አርታአኢውን ክፈት"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "ወደ OneDrive for Business ስቀል"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "ወደ OneDrive ስቀል"
+   },
+   "UsernameLabel": {
+      "message": "በምዝገባ አልገቡም"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "የ Microsoft 365 ፋይሎችን በቀጥታ በአሳሹ ውስጥ ከ Microsoft 365 ጋር ይክፈቱ።"
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

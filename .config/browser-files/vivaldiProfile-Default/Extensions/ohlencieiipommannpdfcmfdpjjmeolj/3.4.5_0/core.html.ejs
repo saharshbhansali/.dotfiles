@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_parent">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="referrer" content="origin">
+    <script type="text/javascript" src="assets/unversioned/jquery/3.6.0.min.js"></script>
+    <script type="text/javascript" src="assets/client/core.js"></script>
+    <% if(forceProduction) { %>
+    <script type="text/javascript" src="sentry.original.js"></script>
+    <script type="text/javascript" src="init-sentry.js"></script>
+    <% } %>
+    <style><%- inlineContentOf('assets/pf-app/main.css') %></style>
+  </head>
+  <body class="cs-core-iframe" style="visibility: hidden;">
+    <iframe id="cs-core-print-sandbox-iframe" src="/print_sandbox_page.html" style="visibility: hidden;position: absolute;"></iframe>
+  </body>
+</html>

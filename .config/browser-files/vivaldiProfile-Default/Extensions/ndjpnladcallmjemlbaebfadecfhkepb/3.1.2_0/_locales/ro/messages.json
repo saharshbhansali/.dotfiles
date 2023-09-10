@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "Cont"
+   },
+   "AppDescription": {
+      "message": "Vizualizați, editați și creați documente în browser."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "Vizualizați, editați și creați fișiere în browser și afișați cea mai bună scriere pe web."
+   },
+   "AppFolderName": {
+      "message": "Extensie de browser Microsoft 365"
+   },
+   "AppListLabel": {
+      "message": "Aplicații web"
+   },
+   "AppLongDescription": {
+      "message": "Special pentru Chrome - Utilizați Word, Excel, PowerPoint, OneNote și Sway Online fără a fi nevoie să instalați Microsoft 365.\r\n\r\nCreați cu încredere – Utilizați opțiunile familiare de formatare și de aspect pentru a vă exprima ideile cu deplină fidelitate.\r\n\r\nLucrați în deplasare - Vă accesați fișierele de oriunde, datorită integrării cu OneDrive și OneDrive pentru business.\r\n\r\nPrin instalarea aplicației, vă exprimați acordul cu acest set de termeni și condiții: http://aka.ms/officechromeextensionterms\r\n\r\nPolitica de confidențialitate: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Extensia de browser Microsoft 365 aplică o pictogramă pe bara de instrumente Microsoft Edge care vă oferă acces direct la fișierele Microsoft 365, indiferent dacă sunt stocate online sau pe computer.\r\n\r\nExtensia web Microsoft 365 poate deschide fișiere stocate în OneDrive și OneDrive pentru business.\r\n\r\nBeneficiați de caracteristicile Word, Excel, PowerPoint, OneNote și Sway direct în browser fără a fi necesar să instalați Office.\r\n\r\nExtensia de browser Microsoft 365 include acum verificarea conținutului*. Se conectează la un serviciu online Microsoft care oferă sugestii de ortografie, gramatică și perfecționare pentru scrierea pe majoritatea site-urilor web și este disponibil în mai mult de 80 de limbi.\r\n\r\n*Este posibil ca această caracteristică să nu fie disponibilă tuturor utilizatorilor.\r\n\r\nPrin instalarea aplicației, sunteți de acord cu acești termeni și condiții: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Creat pentru Chrome – utilizați Word, Excel, PowerPoint, OneNote și Sway Online fără a fi necesar să instalați Microsoft 365.\r\n\r\nCreați cu încredere – folosiți opțiunile familiare de formatare și aspect pentru a vă exprima ideile în deplină fidelitate.\r\n\r\nLucrați din mers – vă puteți accesa fișierele de oriunde, datorită integrării cu OneDrive și OneDrive pentru business.\r\n\r\nExtensia de browser Microsoft 365 include acum verificarea conținutului*. Se conectează la un serviciu online Microsoft care oferă sugestii de ortografie, gramatică și perfecționare pentru scrierea pe majoritatea site-urilor web și este disponibil în mai mult de 80 de limbi.\r\n\r\n*Este posibil ca această caracteristică să nu fie disponibilă tuturor utilizatorilor.\r\n\r\nPrin instalarea aplicației, sunteți de acord cu acești termeni și condiții: http://aka.ms/officechromeextensionterms\r\n\r\nPolitica de confidențialitate: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "Explorați toate aplicațiile"
+   },
+   "AppsSectionHeader": {
+      "message": "Aplicații"
+   },
+   "BrowseToOpenLabel": {
+      "message": "Încărcați și deschideți..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Creați un cont"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Nu s-au vizualizat recent documente."
+   },
+   "CreateNewLabel": {
+      "message": "Nou"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Dezactivați Editorul pe $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Nu putem obține lista de documente recente chiar acum."
+   },
+   "EditorBrandText": {
+      "message": "Editor"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Gramatică"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Editorul nu este acceptat în prezent pe $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editorul este dezactivat în prezent pe $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Editorul este dezactivat."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Editorul este inclus în $host$",
+      "placeholders": {
+         "host": {
+            "content": "1$",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(Previzualizare)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "Serviciul Editor este furnizat de extensia Microsoft Editor."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Obțineți idei de scriere avansate și 1 TB de spațiu de stocare atunci când treceți la versiunea premium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Rafinări"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Rafinamentele sunt sugestii de scriere avansate care vă ajută să faceți scrisul mai clar, mai concis sau mai formal."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Verificare ortografică"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Activare Editor pe $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Tipul de fișier nu este acceptat. Alegeți un document Word, Excel sau PowerPoint."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Se încarcă..."
+   },
+   "MoreFilesLabel": {
+      "message": "Mai multe documente"
+   },
+   "MyAccountLabel": {
+      "message": "Vedeți Contul meu"
+   },
+   "NextLabel": {
+      "message": "Conectare"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Nu se mai afișează"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "V-am salvat fișierul în folderul „Extensie browser Microsoft 365” din contul dvs. OneDrive"
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "V-am salvat fișierul în folderul „Extensie browser Microsoft 365” din contul dvs. OneDrive pentru business"
+   },
+   "NotificationFileAccess": {
+      "message": "În setările extensiei, bifați caseta „Permiteți accesul la adresele URL de fișier” dacă doriți să glisați și să fixați fișiere în browser."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Extensia de browser Microsoft 365 nu vă poate deschide documentul din cauza dimensiunii. Vă rugăm să îl încărcați direct în OneDrive pentru a deschide documentul."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Din păcate, nu v-am putut deschide fișierul."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Din păcate, nu v-am putut deschide fișierul. Încercați din nou mai târziu."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Din păcate, nu v-am putut deschide fișierul. Alegeți un fișier creat cu Word, Excel sau PowerPoint."
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "În prezent vă încărcăm documentele."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Abonamentul dvs. Microsoft 365 este probabil expirat sau nu include OneDrive pentru business. Verificați abonamentul sau conectați-vă în schimb cu un cont Microsoft."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Conectați-vă la extensie pentru a vizualiza și a edita fișiere în Microsoft 365 pe web."
+   },
+   "NotificationSetDefault": {
+      "message": "În aplicația Fișiere, atingeți documentele cu două degete pentru a le deschide cu Microsoft 365."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Alegeți un fișier creat cu Word, Excel sau PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Extensia Microsoft 365 deschide documentul în browser"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Nu se mai afișează"
+   },
+   "O365FilesLabel": {
+      "message": "Din OneDrive pentru business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "Sunteți offline. Reconectați-vă pentru a utiliza extensia Microsoft 365 browser."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Din OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Deschidere"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Documente"
+   },
+   "SettingsLabel": {
+      "message": "Setări"
+   },
+   "ShareMessage": {
+      "message": "Partajare"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Permisiune necesară"
+   },
+   "SharePermissionsTooltip": {
+      "message": "Nu aveți permisiunea de a partaja"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Unde doriți să salvați fișierele?"
+   },
+   "SignInLabel": {
+      "message": "Conectare"
+   },
+   "SignInMSALabel": {
+      "message": "Conectați-vă cu un cont Microsoft"
+   },
+   "SignInO365Label": {
+      "message": "Conectați-vă cu un cont de la locul de muncă sau de la școală"
+   },
+   "SignOutLabel": {
+      "message": "Deconectare"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "Serviciul Editor este furnizat de extensia Microsoft Editor."
+   },
+   "SupportPageLabel": {
+      "message": "Aveți nevoie de ajutor pentru conectare?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Trimiteți automat date pentru a ne ajuta să ne îmbunătățim produsele."
+   },
+   "TurnOnEditorLabel": {
+      "message": "Activați Editorul"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "Încărcați pe OneDrive pentru business"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "Încărcați pe OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "Nu v-ați conectat"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Deschideți fișierele Microsoft 365 direct în browser cu Microsoft 365."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "บัญชีผู้ใช้"
+   },
+   "AppDescription": {
+      "message": "ดู แก้ไข และสร้างเอกสารในเบราว์เซอร์ของคุณ"
+   },
+   "AppDescriptionWithEditor": {
+      "message": "ดู แก้ไข และสร้างไฟล์ Office ภายในเบราว์เซอร์ และนำเสนอการเขียนที่ดีที่สุดของคุณทั่วทั้งเว็บ"
+   },
+   "AppFolderName": {
+      "message": "ส่วนขยาย Microsoft 365"
+   },
+   "AppListLabel": {
+      "message": "Web App"
+   },
+   "AppLongDescription": {
+      "message": "ออกแบบมาเพื่อ Chrome – ใช้ Word, Excel, PowerPoint, OneNote และ Sway Online แบบไม่ต้องติดตั้ง Microsoft 365 \r\n\r\nสร้างอย่างมั่นใจ – ใช้ตัวเลือกการจัดรูปแบบและเค้าโครงที่คุณคุ้นเคยเพื่อบอกเล่าไอเดียของคุณให้เที่ยงตรงมากที่สุด\r\n\r\nทำงานได้จากทุกที่ – เข้าถึงไฟล์ได้จากทุกที่ด้วยการรวมกับ OneDrive และ OneDrive for Business\r\n\r\nเมื่อคุณติดตั้งแอปนี้ คุณได้ยอมรับข้อกำหนดและเงื่อนไขเหล่านี้: http://aka.ms/officechromeextensionterms\r\n\r\nนโยบายความเป็นส่วนตัว: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "ส่วนขยายเบราว์เซอร์ของ Microsoft 365 จะนำไอคอนไว้บนแถบเครื่องมือ Microsoft Edge ซึ่งทำให้คุณสามารถเข้าถึงไฟล์ Microsoft 365 ของคุณโดยตรง ไม่ว่าจะจัดเก็บไฟล์แบบออนไลน์หรือบนคอมพิวเตอร์ของคุณ \r\n\r\nส่วนขยายเวบของ Microsoft 365 สามารถเปิดไฟล์ที่จัดเก็บไว้ใน OneDrive และ OneDrive for Business \r\n\r\nคุณจะได้รับฟีเจอร์ของ Word, Excel, PowerPoint, OneNote และ Sway ในเบราว์เซอร์ของคุณโดยไม่จำเป็นต้องติดตั้ง Microsoft 365 \r\n\r\nในตอนนี้ส่วนขยายเบราว์เซอร์ของ Microsoft 365 มีการพิสูจน์อักษรเนื้อหาของคุณ* โดยมีการเชื่อมต่อกับบริการออนไลน์ของ Microsoft ที่มีคำแนะนำการสะกด ไวยากรณ์ และการทำงานแบบประณีตสำหรับการเขียนของคุณบนเว็บไซต์ส่วนใหญ่และมีให้ใช้งานในกว่า 80 ภาษา \r\n\r\n* ฟีเจอร์นี้อาจไม่พร้อมใช้งานสำหรับผู้ใช้ทั้งหมด \r\n\r\nในการติดตั้งแอป คุณยอมรับข้อกำหนดและเงื่อนไขเหล่านี้: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "สร้างมาเพื่อ Chrome –ใช้ Word, Excel, PowerPoint, OneNote และ Sway แบบออนไลน์โดยไม่จำเป็นต้องติดตั้ง Microsoft 365 \r\n\r\nสร้างด้วยความมั่นใจ – ใช้ตัวเลือกการจัดรูปแบบและเค้าโครงที่คุ้นเคยเพื่อแสดงความคิดเห็นของคุณได้อย่างแม่นยำที่สุด \r\n\r\nทำงานในระหว่างเดินทาง – เข้าถึงไฟล์ของคุณได้จากทุกที่ด้วยการรวม OneDrive และ OneDrive for Business เข้าด้วยกัน \r\n\r\nในตอนนี้ ส่วนขยายของเบราว์เซอร์ Microsoft 365 มีการพิสูจน์อักษรเนื้อหาของคุณ* โดยมีการเชื่อมต่อกับบริการออนไลน์ของ Microsoft ที่มีคำแนะนำการสะกด ไวยากรณ์ และการทำงานแบบประณีตสำหรับการเขียนของคุณบนเว็บไซต์ส่วนใหญ่และมีให้ใช้งานในกว่า 80 ภาษา \r\n\r\n* ฟีเจอร์นี้อาจไม่พร้อมใช้งานสำหรับผู้ใช้ทั้งหมด \r\n\r\nในการติดตั้งแอป คุณยอมรับข้อกำหนดและเงื่อนไขเหล่านี้: http://aka.ms/officechromeextensionterms\r\n\r\nนโยบายความเป็นส่วนตัว: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "สํารวจแอปทั้งหมดของคุณ"
+   },
+   "AppsSectionHeader": {
+      "message": "แอป"
+   },
+   "BrowseToOpenLabel": {
+      "message": "อัปโหลดและเปิด..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "สร้างบัญชีผู้ใช้"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "ไม่มีเอกสารที่ดูล่าสุด"
+   },
+   "CreateNewLabel": {
+      "message": "ใหม่"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "ปิดใช้งานตัวแก้ไขใน $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "เราไม่สามารถรับรายการเอกสารล่าสุดของคุณได้ในขณะนี้"
+   },
+   "EditorBrandText": {
+      "message": "ตัวแก้ไข"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "ไวยากรณ์"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "ขณะนี้ตัวแก้ไขไม่ได้รับการสนับสนุนใน $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "ขณะนี้ตัวแก้ไขถูกปิดใช้งานใน $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "ตัวแก้ไขปิดอยู่"
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "ตัวแก้ไขจะรวมอยู่ใน $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(พรีวิว)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "บริการตัวแก้ไขให้บริการโดยส่วนขยายของตัวแก้ไขของ Microsoft"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "รับไอเดียการเขียนขั้นสูงและพื้นที่เก็บข้อมูลขนาด 1 TB เมื่อยกระดับเป็นพรีเมียม"
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "การปรับปรุง"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "การปรับปรุงเป็นคำแนะนำในการเขียนขั้นสูงเพื่อช่วยให้การเขียนของคุณเข้าใจง่ายขึ้น ใช้คำฟุ่มเฟือยน้อยลง หรือเป็นทางการมากขึ้น"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "การสะกด"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "เปิดใช้งานตัวแก้ไขใน $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "ชนิดไฟล์ไม่ได้รับการสนับสนุน โปรดเลือกเอกสาร Word, Excel หรือ PowerPoint"
+   },
+   "LoadingRecentsLabel": {
+      "message": "กำลังโหลด..."
+   },
+   "MoreFilesLabel": {
+      "message": "เอกสารเพิ่มเติม"
+   },
+   "MyAccountLabel": {
+      "message": "ดูบัญชีของฉัน"
+   },
+   "NextLabel": {
+      "message": "ลงชื่อเข้าใช้"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Do not show this again"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "We saved your file in the \"Microsoft 365 browser extension\" folder on your OneDrive."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "We saved your file in the \"Microsoft 365 browser extension\" folder on your OneDrive for Business."
+   },
+   "NotificationFileAccess": {
+      "message": "In the extension settings, select the \"Allow access to file URLs\" checkbox if you want to drag and drop files into the browser."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Microsoft 365 browser extension is unable to open your document because of the size.  Please upload directly to OneDrive to open the document."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Sorry, we were unable to open your file."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Sorry, we were unable to open your file.  Please try again at a later time."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Sorry, we were unable to open your file.  Please choose a file created with Word, Excel, or PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "We are currently uploading your document(s)."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Your Microsoft 365 subscription may be expired or may not include OneDrive for Business. Check your subscription or log in with a Microsoft Account instead."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Sign in to the extension to view and edit files in Microsoft 365 on the web."
+   },
+   "NotificationSetDefault": {
+      "message": "In the Files app, tap documents with two fingers to open with Microsoft 365."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Choose a file created with Word, Excel, or PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "ส่วนขยาย Microsoft 365 กำลังเปิดเอกสารของคุณในเบราว์เซอร์"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "ไม่ต้องแสดงข้อความนี้อีก"
+   },
+   "O365FilesLabel": {
+      "message": "จาก OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "คุณออฟไลน์อยู่ โปรดเชื่อมต่อใหม่อีกครั้งเพื่อใช้ส่วนขยาย Microsoft 365"
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "จาก OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "เปิด"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "เอกสาร"
+   },
+   "SettingsLabel": {
+      "message": "การตั้งค่า"
+   },
+   "ShareMessage": {
+      "message": "แชร์"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "จำเป็นต้องมีสิทธิ์"
+   },
+   "SharePermissionsTooltip": {
+      "message": "คุณไม่มีสิทธิ์ในการแชร์"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "คุณต้องการบันทึกไฟล์ของคุณไว้ที่ใด"
+   },
+   "SignInLabel": {
+      "message": "ลงชื่อเข้าใช้"
+   },
+   "SignInMSALabel": {
+      "message": "ลงชื่อเข้าใช้ด้วยบัญชี Microsoft"
+   },
+   "SignInO365Label": {
+      "message": "ลงชื่อเข้าใช้ด้วยบัญชีของที่ทำงานหรือโรงเรียน"
+   },
+   "SignOutLabel": {
+      "message": "ออกจากระบบ"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "บริการตัวแก้ไขให้บริการโดยส่วนขยายของตัวแก้ไขของ Microsoft"
+   },
+   "SupportPageLabel": {
+      "message": "ต้องการความช่วยเหลือในการเข้าสู่ระบบหรือไม่"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "ส่งข้อมูลโดยอัตโนมัติเพื่อช่วยเราปรับปรุงผลิตภัณฑ์"
+   },
+   "TurnOnEditorLabel": {
+      "message": "เปิดตัวแก้ไข"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "อัปโหลดไปยัง OneDrive for Business"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "อัปโหลดไปยัง OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "ไม่ได้ลงชื่อเข้าใช้"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "เปิดไฟล์ Microsoft 365 ได้โดยตรงในเบราว์เซอร์ด้วย Microsoft 365"
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

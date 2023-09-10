@@ -1,0 +1,42 @@
+{
+   "appDesc": {
+      "description": "",
+      "message": "全部入りブックマーク管理ツール"
+   },
+   "in": {
+      "description": "",
+      "message": "で"
+   },
+   "openRaindrop": {
+      "description": "",
+      "message": "開く Raindrop.io web-サイト"
+   },
+   "openSidePanel": {
+      "description": "",
+      "message": "開く サイドバー"
+   },
+   "saveHighlight": {
+      "description": "",
+      "message": "保存 ハイライト"
+   },
+   "saveImage": {
+      "description": "",
+      "message": "保存 画像"
+   },
+   "saveLink": {
+      "description": "",
+      "message": "保存 リンク"
+   },
+   "savePage": {
+      "description": "",
+      "message": "作成 新しいブックマーク"
+   },
+   "savePageOrHighlight": {
+      "description": "",
+      "message": "新しいブックマーク / 保存 ハイライト"
+   },
+   "saveVideo": {
+      "description": "",
+      "message": "保存 動画"
+   }
+}

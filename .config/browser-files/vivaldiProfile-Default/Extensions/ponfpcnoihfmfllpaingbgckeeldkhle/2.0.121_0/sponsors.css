@@ -1,0 +1,145 @@
+/*
+##
+##  Enhancer for YouTube™
+##  =====================
+##
+##  Author: Maxime RF <https://www.mrfdev.com>
+##
+##  This file is protected by copyright laws and international copyright
+##  treaties, as well as other intellectual property laws and treaties.
+##
+##  All rights not expressly granted to you are retained by the author.
+##  Read the license.txt file for more details.
+##
+##  © MRFDEV.com - All Rights Reserved
+##
+*/
+fieldset.sponsor {
+  position: relative;
+}
+.sponsor-card {
+  display: flex;
+  align-items: center;
+}
+@media (max-width: 500px) {
+  .sponsor-card {
+    flex-direction: column;
+  }
+}
+.sponsor-image {
+  margin-right: .8em;
+}
+.sponsor-image img {
+  height: auto;
+  width: 100%;
+}
+#asphalt .sponsor-image img {
+  min-width: 8.125em;
+}
+.sponsor-title {
+  font-weight: bold;
+}
+.sponsor-description {
+  margin-block-start: .5em;
+  margin-block-end: 0;
+}
+.sponsor-link {
+  color: var(--primary-color, #d40000);
+  cursor: pointer;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.hide-sponsor {
+  position: absolute;
+  top: -5px;
+  right: 5px;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  opacity: .7;
+  text-decoration: none;
+  padding: 0;
+}
+.hide-sponsor svg {
+  fill: var(--hide-sponsor-svg-fill-color);
+  height: 1.5em;
+  width: 1.5em;
+}
+.sponsor#asphalt legend::before {
+  content: "Sponsor";
+}
+.sponsor#asphalt .sponsor-description::before {
+  content: "Asphalt 8 has everything to fulfill your racing needs: 330+ licensed vehicles, action-packed races, 75 tracks, offline & online gameplay, single- & multiplayer modes, cross-play & more. From the blazing Nevada Desert to the tight turns of Tokyo, you'll find a world of challenges, excitement and arcade fun on your road to the top!";
+}
+.sponsor#asphalt .sponsor-link::before {
+  content: "Download for free on Windows, Mac or any mobile device!";
+}
+html[lang="de"] .sponsor#asphalt legend::before {
+  content: "Sponsor";
+}
+html[lang="de"] .sponsor#asphalt .sponsor-description::before {
+  content: "Asphalt 8 hat alles, um deine Rennanforderungen zu erfüllen: über 330 lizenzierte Fahrzeuge, actiongeladene Rennen, 75 Strecken, Offline- und Online-Gameplay, Einzel- und Mehrspielermodi, Crossplay und mehr. Von der lodernden Wüste in Nevada bis zu den engen Kurven in Tokio findest du auf deinem Weg an die Spitze eine Welt voller Herausforderungen, Spannung und Arcade-Spaß!";
+}
+html[lang="de"] .sponsor#asphalt .sponsor-link::before {
+  content: "Kostenlos herunterladen für Windows, Mac oder jedes Mobilgerät!";
+}
+html[lang="es"] .sponsor#asphalt legend::before,
+html[lang="es-419"] .sponsor#asphalt legend::before {
+  content: "Patrocinador";
+}
+html[lang="es"] .sponsor#asphalt .sponsor-description::before,
+html[lang="es-419"] .sponsor#asphalt .sponsor-description::before {
+  content: "Asphalt 8 tiene todo lo necesario para satisfacer tus ganas de velocidad: más de 330 vehículos con licencia, carreras llenas de acción, 75 circuitos, juego online y offline, modo individual y multijugador, multiplataforma y más. ¡Desde el ardiente desierto de Nevada hasta las cerradas curvas de Tokio, encontrarás un mundo de desafíos, emoción y diversión arcade en tu camino hacia la cima!";
+}
+html[lang="es"] .sponsor#asphalt .sponsor-link::before,
+html[lang="es-419"] .sponsor#asphalt .sponsor-link::before {
+  content: "¡Descárgalo gratis en Windows, Mac o cualquier dispositivo móvil!";
+}
+html[lang="fr"] .sponsor#asphalt legend::before {
+  content: "Sponsor";
+}
+html[lang="fr"] .sponsor#asphalt .sponsor-description::before {
+  content: "Asphalt 8 a tout ce qu'il faut pour assouvir votre passion de la course :  + de 330 véhicules officiels, des courses intenses, 75 circuits, des parties en ligne et hors ligne, des modes solo et multijoueur, du cross-play et bien plus. Du désert aride du Nevada aux virages serrés de Tokyo, vous trouverez un monde de défis, d'excitation et de fun façon arcade dans votre ascension vers le sommet !";
+}
+html[lang="fr"] .sponsor#asphalt .sponsor-link::before {
+  content: "Téléchargez le jeu gratuitement sur Windows, Mac ou n'importe quel appareil mobile !";
+}
+html[lang="it"] .sponsor#asphalt legend::before {
+  content: "Sponsor";
+}
+html[lang="it"] .sponsor#asphalt .sponsor-description::before {
+  content: "Asphalt 8 ha tutto il necessario per soddisfare la tua sete di velocità: più di 330 veicoli su licenza, gare adrenaliniche, 75 tracciati, corse online e offline, modalità per giocatore singolo e multiplayer... e tanto altro ancora! Dalle distese desertiche del Nevada alle curve di Tokyo, la strada verso la vetta è costellata di corse arcade mozzafiato!";
+}
+html[lang="it"] .sponsor#asphalt .sponsor-link::before {
+  content: "Scarica gratis su Windows, Mac e dispositivi portatili!";
+}
+html[lang="pt-BR"] .sponsor#asphalt legend::before,
+html[lang="pt-PT"] .sponsor#asphalt legend::before {
+  content: "Patrocinador";
+}
+html[lang="pt-BR"] .sponsor#asphalt .sponsor-description::before,
+html[lang="pt-PT"] .sponsor#asphalt .sponsor-description::before {
+  content: "Asphalt 8 tem tudo que você precisa para satisfazer sua sede de velocidade: mais de 330 veículos licenciados, corridas cheias de ação, 75 pistas, jogabilidade online e off-line, modos solo e multiplayer, multiplataforma e mais. Do deserto escaldante de Nevada até as curvas fechadas de Tóquio, você encontrará um mundo de diversão arcade!";
+}
+html[lang="pt-BR"] .sponsor#asphalt .sponsor-link::before,
+html[lang="pt-PT"] .sponsor#asphalt .sponsor-link::before {
+  content: "Baixe de graça para Windows, Mac ou aparelho mobile!";
+}
+html[lang="zh-CN"] .sponsor#asphalt legend::before {
+  content: "赞助";
+}
+html[lang="zh-CN"] .sponsor#asphalt .sponsor-description::before {
+  content: "《狂野飙车8》可满足你对赛车的所有需求：超过300款授权车辆、精彩刺激的比赛、75条赛道、离线与在线玩法、单人与多人模式，还可跨平台畅玩等。从炽热的内华达沙漠到遍布急转弯的东京，投身充满挑战、刺激和街机乐趣的世界，一路驶向巅峰！";
+}
+html[lang="zh-CN"] .sponsor#asphalt .sponsor-link::before {
+  content: "支持 Windows、Mac和任意移动设备，免费下载！";
+}
+html[lang="zh-TW"] .sponsor#asphalt legend::before {
+  content: "贊助";
+}
+html[lang="zh-TW"] .sponsor#asphalt .sponsor-description::before {
+  content: "「狂野飆車8」能完全滿足你的賽車魂：超過330台的授權車輛、精彩刺激的比賽、75條賽道、離線與連線均可暢玩、單人和多人遊戲模式，還有跨平台等多種玩法。你將可從熾熱的內華達沙漠飆至東京的急彎街道，體驗充滿挑戰的街機之樂，朝著世界級頂尖車手的目標邁進！";
+}
+html[lang="zh-TW"] .sponsor#asphalt .sponsor-link::before {
+  content: "Windows、Mac或任一行動裝置皆可免費下載！";
+}

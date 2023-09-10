@@ -1,0 +1,537 @@
+{
+   "CSS3ColorFormat": {
+      "description": "'CSS' refers to web technology, the eg: (#1,#2,#3) refers to an example default value for the field which is literally '(#1,#2,#3)'",
+      "message": "CSS value format eg: (#1,#2,#3)"
+   },
+   "EnableHSL": {
+      "description": "'HSL' refers to the hue-saturation-lightness color format",
+      "message": "Show HSL"
+   },
+   "EnableHex": {
+      "message": "Show hexadecimal"
+   },
+   "EnableRGB": {
+      "description": "'RGB' refers to the red-green-blue color format",
+      "message": "Show RGB"
+   },
+   "ShowRGBHSL": {
+      "description": "'RGB' refers to the red-green-blue color format, 'HSL' refers to the hue-saturation-lightness color format 'Hex' refers to the hexadecimal color format",
+      "message": "Also show Hex, RGB and/or HSL (configure above)"
+   },
+   "addAllConfirm": {
+      "message": "This will add %history_count% entries to the Palette which already has %palette_count% entries.  Are you sure?"
+   },
+   "addToHistory": {
+      "message": "Add to color history"
+   },
+   "addToPalette": {
+      "message": "Add to color palette"
+   },
+   "add_all": {
+      "message": "Add All"
+   },
+   "advancedOptions": {
+      "message": "Advanced Options"
+   },
+   "allowWebGl": {
+      "description": "The technology known as 'WebGL' is used for zoomed preview, see https://get.webgl.org/",
+      "message": "Allow WebGL for Pixelated Preview"
+   },
+   "appleIcon": {
+      "description": "'Apple' refers to the company, 'Digital Color Meter' refers to a program included on MacOS and developed by Apple. This is for people who do not like the default logo.",
+      "message": "Use Apple Digital Color Meter logo"
+   },
+   "approved": {
+      "message": "Approved"
+   },
+   "auto_install_key": {
+      "message": "Click here to Automatically Install this License into your Color Pick Extension"
+   },
+   "autocopyhex": {
+      "message": "Attempt to auto copy value to clipboard"
+   },
+   "bbackgroundColor": {
+      "message": "Popup Background Color"
+   },
+   "bgPageUnavailable": {
+      "message": "Page Snapshot Not Responding.  You may adjust the timeout in advanced options and then refresh the page and try again."
+   },
+   "bgPageUnavailableSnap": {
+      "message": "Page Snapshot Not Responding.  You may adjust the timeout in advanced options."
+   },
+   "borderValue": {
+      "description": "'css' refers to web technology",
+      "message": "Borders to use (css value)"
+   },
+   "buyRegisterTip": {
+      "description": "'ColorPick' refers to the extName key, see that description for details, if that key is not translated leave this part of the string untranslated",
+      "message": "Click to Buy & Register a ColorPick License."
+   },
+   "cacheSnapshots": {
+      "message": "Store snapshots to session storage"
+   },
+   "clear": {
+      "message": "Clear"
+   },
+   "clearSync": {
+      "message": "Clear Sync Storage"
+   },
+   "closeAndExit": {
+      "message": "Close and Exit Color Pick Mode"
+   },
+   "closePopupOnTrigger": {
+      "message": "Auto close popup when first starting extension"
+   },
+   "colorOfDay": {
+      "message": "Color of the day"
+   },
+   "colorProfileWarning1": {
+      "message": "You may observe inexact results for non sRGB color profile."
+   },
+   "colorProfileWarning2": {
+      "message": "Your browser may allow you to 'Force color profile' or your system may allow you to configure the default."
+   },
+   "configurationHelp": {
+      "message": "Help, Options & History"
+   },
+   "confirmEmptyPalleteWhenLeaving": {
+      "message": "Confirm closing this tab with palette entires"
+   },
+   "controlsHiddenDelay": {
+      "message": "ms Delay while extension controls are hidden"
+   },
+   "copycolorval": {
+      "message": "Copy the color value"
+   },
+   "credits": {
+      "message": "Credits"
+   },
+   "dblClick": {
+      "message": "Double click"
+   },
+   "dedupe": {
+      "message": "dedupe"
+   },
+   "default": {
+      "message": "Default"
+   },
+   "deleteConfirm": {
+      "message": "Are you sure?"
+   },
+   "desktopapp": {
+      "description": "'ColorPick' refers to the extName key, see that description for details, if that key is not translated leave this part of the string untranslated",
+      "message": "Desktop ColorPick App"
+   },
+   "disablePickEveryTime": {
+      "description": "'start picking' in this usage refers to entering color selection mode.  By default the mode will be retained instead (locked (selected) or unlocked (picking)).  'popup' refers to the extension's popup menu triggered when clicking the icon.",
+      "message": "Do not start picking each time popup is clicked"
+   },
+   "disableRewriting": {
+      "message": "Disable affiliation of non-affiliate links"
+   },
+   "disableUninstallSurvey": {
+      "message": "Disable extension removal survey after uninstall"
+   },
+   "error": {
+      "message": "Error"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "description": "The extension name may translate easily from 'Color Pick Eyedropper' however it is preferred to leave it english unless your locale has a matching translation for eyedropper, color, and pick.  If you can omit the space between Color and Pick in your language then please do so.  Eyedropper referrs to what the tool would be called in image editing software such as photoshop in your locale.  Definitions follow: color - the property possessed by an object of producing different sensations on the eye as a result of the way the object reflects or emits light.  pick -  choose (someone or something) from a number of alternatives, typically after careful thought.  eyedropper - a short glass tube with a rubber bulb at one end and a tiny hole at the other, for measuring out drops of medicine or other liquids, (also eyedropper tool) (in image-editing software) a function enabling the user to copy color from any part of an image.",
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "description": "'Google' refers to the company, 'Account Sync Storage' refers to the ability to synchronize sittings across devices.  This feature pulls the setting stored to the account for display.",
+      "message": "Fetch settings from Google Account Sync Storage"
+   },
+   "fifth": {
+      "description": "As in 'one fifth' and to be concatenated with a color related word like tone, saturation or brightness",
+      "message": "Fifth"
+   },
+   "fishEye": {
+      "message": "Fish Eye Zoom Amount"
+   },
+   "full": {
+      "message": "Full"
+   },
+   "generate": {
+      "message": "Generate"
+   },
+   "generate_palette": {
+      "message": "Generate Palette"
+   },
+   "getStandaloneApp": {
+      "description": "'ColorPick' refers to the extName key, see that description for details, if that key is not translated leave this part of the string untranslated",
+      "message": "ColorPick Standalone Application"
+   },
+   "half": {
+      "description": "As in 'one half' and to be concatenated with a color related word like tone, saturation or brightness",
+      "message": "Half"
+   },
+   "hasAgreedToLicense": {
+      "message": "Has agreed to Terms of Use"
+   },
+   "help": {
+      "message": "Help/Info"
+   },
+   "helpPage": {
+      "message": "todo"
+   },
+   "hexHasHash": {
+      "message": "Prefix hexadecimal value with #"
+   },
+   "hexIsLowerCase": {
+      "message": "Lower case hexadecimal values"
+   },
+   "hideMinimize": {
+      "description": "This will hide the extension's popup menu triggered when clicking the extension icon, the [esc] key does this too.",
+      "message": "Hide/Minimize "
+   },
+   "hideWatermark": {
+      "description": "'ColorPick' refers to the extName key, see that description for details, if that key is not translated leave this part of the string untranslated",
+      "message": "Hide ColorPick watermark on webpage corner (registered only)"
+   },
+   "history": {
+      "message": "History"
+   },
+   "iconIsBitmap": {
+      "message": "Icon is zoomed pixel preview"
+   },
+   "iconIsPreview": {
+      "message": "Use icon badge square color preview"
+   },
+   "lessFishEye": {
+      "message": "Reduce or Disable Fish Eye Bulge"
+   },
+   "licenseComError": {
+      "message": "Problem communicating with license server."
+   },
+   "licenseComFirewall": {
+      "message": "Make sure your firewall is open on port 80 or contact your system administrator."
+   },
+   "licenseExceeded": {
+      "message": "License may be in use on the maximum number of hosts.  License upgrade may resolve the issue... Launch upgrade webpage?"
+   },
+   "loadsyncOptions": {
+      "message": "Sync Storage options have been loaded and saved."
+   },
+   "maxZoom": {
+      "message": "Max Zoomed"
+   },
+   "maximum": {
+      "message": "Max"
+   },
+   "minimum": {
+      "message": "Min"
+   },
+   "mobileapp": {
+      "description": "'ColorPick' refers to the extName key, see that description for details, if that key is not translated leave this part of the string untranslated",
+      "message": "Mobile ColorPick App"
+   },
+   "modifyLicense": {
+      "message": "Modify License"
+   },
+   "noSwatches": {
+      "message": "Click colors in color history to add them to a palette for saving and printing."
+   },
+   "off": {
+      "message": "Off"
+   },
+   "oldHistoryFirst": {
+      "message": "Reverse history (show oldest first)"
+   },
+   "on": {
+      "message": "On"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "palette": {
+      "message": "Palette"
+   },
+   "palette_analogous": {
+      "description": "see the message palette_analogous_info for details",
+      "message": "Analogous"
+   },
+   "palette_analogous_info": {
+      "message": "Analogous colors are 2 colors one 30° increment away from the original color."
+   },
+   "palette_complement": {
+      "description": "see the message palette_complement_info for details",
+      "message": "Complement"
+   },
+   "palette_complement_info": {
+      "message": "The complement for a given color is 180 degrees away and it's opposite on the color wheel.  This is six 30° increments away.  Please note slight precision inaccuracy is possible as we move into and out of the HSV color space, you can work around this by taking the complement of the complementary color."
+   },
+   "palette_contrasting": {
+      "description": "see the message palette_contrasting_info for details",
+      "message": "Contrasting"
+   },
+   "palette_contrasting_info": {
+      "message": "Contrasting colors are 2 colors three 30° increments away from the original color."
+   },
+   "palette_harmonious": {
+      "description": "see the message palette_harmonious_info for details",
+      "message": "Harmonious"
+   },
+   "palette_harmonious_info": {
+      "message": "Harmonious colors are 2 colors two 30° increments away from the original color."
+   },
+   "palette_minus_darkness": {
+      "description": "Used in conjunction with half, third, etc to specify a modification to color brightness values in the direction of decresing darkness (increasing brightness)",
+      "message": "-Darkness"
+   },
+   "palette_minus_saturation": {
+      "description": "Used in conjunction with half, third, etc to specify a modification to color saturation values in the negative (decreasing) direction so that they become less vibrant",
+      "message": "-Saturation"
+   },
+   "palette_plus_darkness": {
+      "description": "Used in conjunction with half, third, etc to specify a modification to color brightness values in the direction of increasing darkness (decreasing brightness)",
+      "message": "+Darkness"
+   },
+   "palette_plus_saturation": {
+      "description": "Used in conjunction with half, third, etc to specify a modification to color saturation values in the positive (increasing) direction so that they become more vibrant",
+      "message": "+Saturation"
+   },
+   "palette_splilt_complementary": {
+      "description": "see the message palette_splilt_complementary_info for details",
+      "message": "Split Complementary"
+   },
+   "palette_splilt_complementary_info": {
+      "message": "Split complementary colors are 2 colors five 30° increments away from the base color, each a single 30° increment from the complementary color."
+   },
+   "palette_square": {
+      "description": "see the message palette_square_info for details",
+      "message": "Square"
+   },
+   "palette_square_info": {
+      "message": "Square colors are 3 colors each three 30° increments away from the base color, and includes the complementary color.  This forms a perfect square."
+   },
+   "palette_tetradic_info": {
+      "message": "Tetradic (Rectangular) include the complementary color, and also two additional colors each two 30° increments away from the base color or its complement in the same direction (clockwise or counterclockwise).  Depending on if Left or Right is selected the increments will be rectangular in one direction or the other."
+   },
+   "palette_tetradic_left": {
+      "description": "see the message palette_tetradic_info for details",
+      "message": "Left Tetradic (Rectangular)"
+   },
+   "palette_tetradic_right": {
+      "description": "see the message palette_tetradic_info for details",
+      "message": "Right Tetradic (Rectangular)"
+   },
+   "palette_tone_gen_info": {
+      "message": "Depending on the start color selected, optionally add several half tones (one) or another number of colors for each generated hue but different brightness or saturation.  Choices are dynamic depending on the color selected and what direction we may modify it without running out of changes."
+   },
+   "palette_triadic": {
+      "description": "see the message palette_triadic_info for details",
+      "message": "Triadic"
+   },
+   "palette_triadic_info": {
+      "message": "Triadic colors are 2 colors four 30° increments away from the base color, each four 30° increment from the original color.  The two colors added are also 4 increments away from each other forming an equilateral triangle of color."
+   },
+   "pickAgainLocked": {
+      "description": "Pick Another Color, the [Enter] keyboard key does this too.",
+      "message": "Pick Another Color [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "description": "Select Current Color, the [Enter] keyboard key does this too.",
+      "message": "Select Current Color [Enter]"
+   },
+   "pickEveryTime": {
+      "description": "'Start picking' in this usage refers to entering color selection mode.  If this feature is disabled the previous mode will be retained instead (locked (selected) or unlocked (picking)).  'popup' refers to the extension's popup menu triggered when clicking the icon.",
+      "message": "Start picking colors each time popup is clicked"
+   },
+   "pixelatedPreview": {
+      "message": "Zoomed Preview is Pixelated"
+   },
+   "pleaseTryAgainSoon": {
+      "message": "Please try again soon."
+   },
+   "popOutWindow": {
+      "message": "Pop-Out (separate window)"
+   },
+   "popupWaitTimeout": {
+      "message": "Popup wait time, in milliseconds"
+   },
+   "pressEnterToPick": {
+      "message": "Press Enter to Pick Color"
+   },
+   "printSave": {
+      "message": "print / save..."
+   },
+   "quarter": {
+      "description": "As in 'one quarter' and to be concatenated with a color related word like tone, saturation or brightness",
+      "message": "Quarter"
+   },
+   "reLoad": {
+      "message": "Reload"
+   },
+   "reSnapPage": {
+      "description": "Take a new snapshot for colors, the [r] keyboard key does this too.",
+      "message": "Refresh Picture of Page [r]"
+   },
+   "registerBanner": {
+      "message": "Happy? Register"
+   },
+   "registerBannerLong": {
+      "description": "'ColorPick' refers to the extName key, see that description for details, if that key is not translated leave this part of the string untranslated",
+      "message": "Please Register ColorPick!"
+   },
+   "registerButton": {
+      "message": "Register"
+   },
+   "registered": {
+      "message": "Registered"
+   },
+   "reloadRequired": {
+      "message": "Sorry - the page must be reloaded for this feature of the ColorPick extension to work. This can occcur when the extension updates or is reloaded."
+   },
+   "resetIcon": {
+      "message": "Revert to normal icon"
+   },
+   "rightClick": {
+      "message": "Right click"
+   },
+   "saveOptions": {
+      "message": "Save Options"
+   },
+   "savedoptions": {
+      "message": "Options Saved."
+   },
+   "seeAdvOption": {
+      "message": "See advanced option"
+   },
+   "seeOption": {
+      "message": "See option"
+   },
+   "seeTerms": {
+      "message": "See Terms of Use"
+   },
+   "selectWithExt": {
+      "description": "'ColorPick Eyedropper' refers to the extName key, see that description for details, if that key is not translated leave this part of the string untranslated",
+      "message": "Select with ColorPick Eyedropper"
+   },
+   "shareClors": {
+      "message": "Color of the Day Statistics (See Terms of Use)"
+   },
+   "showColorChooser": {
+      "message": "Show Color Chooser"
+   },
+   "showDefaults": {
+      "message": "Show Defaults"
+   },
+   "showPreviewInContent": {
+      "description": "'picking' in this usage refers to being in color selection mode.",
+      "message": "Show zoom preview near cursor while picking"
+   },
+   "showPreviousClr": {
+      "message": "Show Split Color Preview with Previous Color"
+   },
+   "showndefaults": {
+      "message": "Please press save, now showing defaults."
+   },
+   "snapMode": {
+      "message": "Snap Mode - backup mode handles various errors"
+   },
+   "snapModeBlock": {
+      "description": "(RegEx i) refers to regular expression pattern matching object for JavaScript programing.",
+      "message": "Blocked Pages [RegEx,i]"
+   },
+   "snapModeCloseTab": {
+      "message": "Close tab when exiting pick mode"
+   },
+   "snapModeDesc": {
+      "message": "Snap Mode - Pick from Screenshot"
+   },
+   "snapMode_prompt": {
+      "message": "Not Working? Click to try Snap Mode."
+   },
+   "snapWaitTimeout": {
+      "message": "Snapshot wait time, in milliseconds"
+   },
+   "sort": {
+      "message": "sort"
+   },
+   "sponsors": {
+      "message": "Sponsors"
+   },
+   "supportColorInputs": {
+      "description": "'ColorPick Eyedropper' refers to the extName key, see that description for details.  'input[type=color]' is an html query selector literal known to developers and should remain intact",
+      "message": "Add ColorPick Eyedropper near input[type=color] fields on websites"
+   },
+   "tabletModePitch": {
+      "message": "Add Tablet Edition"
+   },
+   "tabletModePrompt": {
+      "message": "Zoom to Tablet Edition"
+   },
+   "terms": {
+      "message": "Terms of Use"
+   },
+   "third": {
+      "description": "As in 'one third' and to be concatenated with a color related word like tone, saturation or brightness",
+      "message": "Third"
+   },
+   "tips_0": {
+      "description": "'ColorPick' refers to the extName key, see that description for details, if that key is not translated leave this part of the string untranslated",
+      "message": "Register ColorPick for the option to hide this 'watermark' message."
+   },
+   "tips_1": {
+      "description": "'pick' refers to selection of the current color, or the user has chosen the current color.",
+      "message": "Move your mouse over the web page to examine pixel color values. Click to the web page to pick!"
+   },
+   "tips_1_locked": {
+      "message": "Click the web page to unlock and examine color values again."
+   },
+   "tips_2": {
+      "description": "'ColorPick' refers to the extName key, see that description for details, if that key is not translated leave this part of the string untranslated",
+      "message": "Return to the ColorPick menu for fine adjustment options, history or to exit ColorPick."
+   },
+   "tips_3": {
+      "message": "Chase this message for tips and more."
+   },
+   "tips_4": {
+      "description": "'ColorPick Eyedropper' refers to the extName key, see that description for details, if that key is not translated leave this part of the string untranslated",
+      "message": "Did you know? ColorPick Eyedropper is available for iPhone and Android!  Also you may find the 'Tablet Edition' Extension; see Options."
+   },
+   "tips_5": {
+      "description": "'ColorPick' refers to the extName key, see that description for details, if that key is not translated leave this part of the string untranslated",
+      "message": "Your Ad Here - Contact via vidsb.com to Sponsor ColorPick."
+   },
+   "trash_alt_click": {
+      "message": "Alternatively you may alt-click some items to remove them."
+   },
+   "trash_can": {
+      "message": "Drag items here to remove them."
+   },
+   "undo": {
+      "message": "Undo"
+   },
+   "unregistered": {
+      "message": "Unregistered"
+   },
+   "usageStatistics": {
+      "message": "Gather Usage Statistics (See Terms of Use)"
+   },
+   "useCSSValues": {
+      "description": "'CSS' refers to web technology, 'RGB' refers to the red-green-blue color format, 'HSL' refers to the hue-saturation-lightness color format",
+      "message": "Use CSS values for RGB/HSL"
+   },
+   "usePNG": {
+      "description": "'PNG' refers to web technology for image encoding",
+      "message": "Use PNG quality when available"
+   },
+   "usePrevColorBG": {
+      "message": "Use Previous Color for Background"
+   },
+   "was": {
+      "message": "Was"
+   },
+   "watermark_help": {
+      "message": "Watermark may be disabled from advanced options once you have registered the ColorPick extension."
+   },
+   "zoomPreviewDefaultTip": {
+      "message": "Drag or use the arrows to pan this view, once it loads.  In the event of a problem loading; alternative modes such as snap mode or tablet mode may be available depending on settings.  If snap mode has been blocked, unblock from settings or click to enable snap mode here."
+   }
+}

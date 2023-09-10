@@ -1,0 +1,383 @@
+{
+   "AccountLabel": {
+      "_message.comment": "Label text for account information",
+      "message": "Account"
+   },
+   "AppDescription": {
+      "_message.comment": "Application description. A plain text string (no HTML or other formatting; no more than 132 characters)",
+      "message": "View, edit, and create documents in your browser."
+   },
+   "AppDescriptionWithEditor": {
+      "_message.comment": "Application description with Editor. A plain text string (no HTML or other formatting; no more than 132 characters). The string MUST be less than 132 characters in all locales. This is a hard requirement.",
+      "message": "View, edit, and create files within the browser, and bring out your best writing across the web."
+   },
+   "AppFolderName": {
+      "_message.comment": "Application folder name for uploaded documents",
+      "message": "Microsoft 365 browser extension"
+   },
+   "AppListLabel": {
+      "_message.comment": "Label text for app list header",
+      "message": "Web Apps"
+   },
+   "AppLongDescription": {
+      "_message.comment": "Application long description",
+      "message": "Built for Chrome – Use Word, Excel, PowerPoint, OneNote, and Sway Online without needing Microsoft 365 installed.\r\n\r\nCreate with confidence – Use familiar formatting and layout options to express your ideas in full fidelity.\r\n\r\nWork on the go – Get to your files from anywhere, thanks to integration with OneDrive and OneDrive for Business.\r\n\r\nBy installing the app, you agree to these terms and conditions: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacy Policy: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "_message.comment": "Application long description for Microsoft Edge",
+      "message": "Microsoft 365 browser extension puts an icon on the Microsoft Edge toolbar that gives you direct access to your Microsoft 365 files, whether they are stored online or on your computer.\r\n\r\nMicrosoft 365 web extension can open files stored in OneDrive and OneDrive for Business.\r\n\r\nYou get the features of Word, Excel, PowerPoint, OneNote, and Sway right in your browser without needing Microsoft 365 installed.\r\n\r\nThe Microsoft 365 browser extension now includes proofing of your content*. It connects to a Microsoft online service that offers spelling, grammar and refinements suggestions for your writing on most websites and is available in more than 80 languages.\r\n\r\n*This feature may not be available for all users.\r\n\r\nBy installing the app, you agree to these terms and conditions: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "_message.comment": "Application long description with Editor - Editor is the brand name for the new feature.",
+      "message": "Built for Chrome – Use Word, Excel, PowerPoint, OneNote, and Sway Online without needing Microsoft 365 installed.\r\n\r\nCreate with confidence – Use familiar formatting and layout options to express your ideas in full fidelity.\r\n\r\nWork on the go – Get to your files from anywhere, thanks to integration with OneDrive and OneDrive for Business.\r\n\r\nThe Microsoft 365 browser extension now includes proofing of your content*. It connects to a Microsoft online service that offers spelling, grammar and refinements suggestions for your writing on most websites and is available in more than 80 languages.\r\n\r\n*This feature may not be available for all users.\r\n\r\nBy installing the app, you agree to these terms and conditions: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacy Policy: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "_message.comment": "Application name",
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "_message.comment": "Application name for Edge",
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "_message.comment": "Application short name",
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "_message.comment": "{locked}",
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "_message.comment": "Text for the link to the apps module",
+      "message": "Explore all your Apps"
+   },
+   "AppsSectionHeader": {
+      "_message.comment": "Text for the header of the apps section",
+      "message": "Apps"
+   },
+   "BrowseToOpenLabel": {
+      "_message.comment": "Label text for file picker",
+      "message": "Upload and Open..."
+   },
+   "CopyrightLabel": {
+      "_message.comment": "Label text for copyright",
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "_message.comment": "Label text for account creation link",
+      "message": "Create an account"
+   },
+   "CreateDocsMessageLabel": {
+      "_message.comment": "Label text for document creation to appear in recents list",
+      "message": "No recently viewed documents."
+   },
+   "CreateNewLabel": {
+      "_message.comment": "Label text for creating new document",
+      "message": "New"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "_message.comment": "Label text for button that allows a user to disable the Editor feature on a specific page such as facebook.com or twitter.com. Expect host name to be passed in.",
+      "message": "Disable Editor on $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "_message.comment": "Message to display when we receive an error call the MRU service",
+      "message": "We can't get the list of your recent documents right now."
+   },
+   "EditorBrandText": {
+      "_message.comment": "Microsoft Editor product brand name displayed without the Microsoft prefix. This is required to save space in the dropdown and needs to be applied to localized strings as well.",
+      "message": "Editor"
+   },
+   "EditorGrammarToggleLabel": {
+      "_message.comment": "Label text for the toggle control that allows user to turn on or off grammar checking in Editor",
+      "message": "Grammar"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "_message.comment": "Label text for tells the user that the Editor feature has been blocked by the system or remotely by Microsoft on a specific page such as facebook.com or twitter.com and cannot be enabled by the user. Expect host name to be passed in.",
+      "message": "Editor is not currently supported on $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "_message.comment": "Label text for tells the user that the Editor feature has been disabled on a specific page such as facebook.com or twitter.com. Expect host name to be passed in.",
+      "message": "Editor is currently disabled on $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "_message.comment": "Label text for tells the user that the Editor feature has been turned off.",
+      "message": "Editor is off."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "_message.comment": "Label for telling the user that the Editor feature is provided natively on a specific page such as outlook.com. Expect host name to be passed in.",
+      "message": "Editor is included with $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "_message.comment": "Label shown at the right of the 'Editor' brand name to signify that it is a preview. In English it will look like: 'Microsoft Editor (Preview)'. NOTE: as of 8 jan 2020 the brand name has been confirmed to be 'Editor'.",
+      "message": "(Preview)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "_message.comment": "The text shown in the popup when Microsoft Editor extension is detected.",
+      "message": "The Editor service is being provided by the Microsoft Editor extension."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "_message.comment": "The tooltip text of refinements toggle for non-subscription users.",
+      "message": "Get advanced writing ideas and 1 TB storage when you go premium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "_message.comment": "Label text for the toggle control that allows user to turn on or off advanced grammar and style checking (refinements) in Editor",
+      "message": "Refinements"
+   },
+   "EditorRefinementsTooltip": {
+      "_message.comment": "The tooltip text of refinements toggle for subscription users.",
+      "message": "Refinements are advanced writing suggestions to help make your writing clearer, less wordy or more formal."
+   },
+   "EditorSpellingToggleLabel": {
+      "_message.comment": "Label text for the toggle control that allows user to turn on or off spellchecking in Editor",
+      "message": "Spelling"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "_message.comment": "Label text for button that allows a user to enable back the Editor feature on a specific page such as facebook.com or twitter.com. Expect host name to be passed in.",
+      "message": "Enable Editor on $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "_message.comment": "Excel app name",
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "_message.comment": "Excel app name",
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "_message.comment": "Text for file type error message",
+      "message": "The file type is not supported. Please choose a Word, Excel or PowerPoint document."
+   },
+   "LoadingRecentsLabel": {
+      "_message.comment": "Label to display while getting recents list",
+      "message": "Loading..."
+   },
+   "MoreFilesLabel": {
+      "_message.comment": "Label to view more recent documents",
+      "message": "More docs"
+   },
+   "MyAccountLabel": {
+      "_message.comment": "Label text for my account page",
+      "message": "View My Account"
+   },
+   "NextLabel": {
+      "_message.comment": "Label text for next",
+      "message": "Sign in"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Do not show this again"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "We saved your file in the \"Microsoft 365 browser extension\" folder on your OneDrive."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "We saved your file in the \"Microsoft 365 browser extension\" folder on your OneDrive for Business."
+   },
+   "NotificationFileAccess": {
+      "message": "In the extension settings, select the \"Allow access to file URLs\" checkbox if you want to drag and drop files into the browser."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Microsoft 365 browser extension is unable to open your document because of the size.  Please upload directly to OneDrive to open the document."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Sorry, we were unable to open your file."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Sorry, we were unable to open your file.  Please try again at a later time."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Sorry, we were unable to open your file.  Please choose a file created with Word, Excel, or PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "We are currently uploading your document(s)."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Your Microsoft 365 subscription may be expired or may not include OneDrive for Business. Check your subscription or log in with a Microsoft Account instead."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Sign in to the extension to view and edit files in Microsoft 365 on the web."
+   },
+   "NotificationSetDefault": {
+      "message": "In the Files app, tap documents with two fingers to open with Microsoft 365."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Choose a file created with Word, Excel, or PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "_message.comment": "Text for web document redirect notification",
+      "message": "The Microsoft 365 extension is opening your document in the browser"
+   },
+   "NotificationWebDocRedirectButton": {
+      "_message.comment": "Text for dismissing the web document redirect notification",
+      "message": "Do not show this again"
+   },
+   "O365FilesLabel": {
+      "_message.comment": "Label text for O365 files",
+      "message": "From OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "_message.comment": "Text for directing to Microsoft 365 on the web",
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "_message.comment": "Label to tell user they are working offline",
+      "message": "You're offline. Please re-connect to use Microsoft 365 browser extension."
+   },
+   "OneDriveAppName": {
+      "_message.comment": "OneDrive app name",
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "_message.comment": "Label text for OneDrive files",
+      "message": "From OneDrive"
+   },
+   "OneNoteAppName": {
+      "_message.comment": "OneNote app name",
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "_message.comment": "OneNote app name",
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "_message.comment": "Label text for opening documents",
+      "message": "Open"
+   },
+   "OutlookAppName": {
+      "_message.comment": "Outlook app name",
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "_message.comment": "PowerPoint app name",
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "_message.comment": "PowerPoint app name",
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "_message.comment": "Label text for opening recent documents",
+      "message": "Documents"
+   },
+   "SettingsLabel": {
+      "_message.comment": "Label text for settings",
+      "message": "Settings"
+   },
+   "ShareMessage": {
+      "_message.comment": "Accessibility text for sharing buttons",
+      "message": "Share"
+   },
+   "SharePermissionsErrorMessage": {
+      "_message.comment": "Text for on-hover error message (Edge only)",
+      "message": "Permission required"
+   },
+   "SharePermissionsTooltip": {
+      "_message.comment": "Text for HTML title attribute (Chrome only)",
+      "message": "You don't have permission to share"
+   },
+   "SharePointAppName": {
+      "_message.comment": "SharePoint app name",
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "_message.comment": "SharePoint site app name",
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "_message.comment": "Label text for sign in location",
+      "message": "Where do you want to save your files?"
+   },
+   "SignInLabel": {
+      "_message.comment": "Label text for Sign in link",
+      "message": "Sign in"
+   },
+   "SignInMSALabel": {
+      "_message.comment": "Label text for Sign in to MSA link",
+      "message": "Sign in with a Microsoft account"
+   },
+   "SignInO365Label": {
+      "_message.comment": "Label text for Sign in to O365 link",
+      "message": "Sign in with a work or school account"
+   },
+   "SignOutLabel": {
+      "_message.comment": "Label text for Sign out link",
+      "message": "Sign out"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "_message.comment": "Label for telling the user that Editor's functionality is being provided by the standalone extension.",
+      "message": "The Editor service is being provided by the Microsoft Editor extension."
+   },
+   "SupportPageLabel": {
+      "_message.comment": "Label text for support page",
+      "message": "Need Help Logging In?"
+   },
+   "SwayAppName": {
+      "_message.comment": "Sway app name",
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "_message.comment": "Teams app name",
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "_message.comment": "Label text for telemetry checkbox",
+      "message": "Automatically send data to help us improve our products."
+   },
+   "TurnOnEditorLabel": {
+      "_message.comment": "Label text for button that allows a user to turn back on the Editor feature.",
+      "message": "Turn on Editor"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "_message.comment": "Label text for local file picker in Edge for O365 users",
+      "message": "Upload to OneDrive for Business"
+   },
+   "UploadToOneDriveLabel": {
+      "_message.comment": "Label text for local file picker in Edge for MSA users",
+      "message": "Upload to OneDrive"
+   },
+   "UsernameLabel": {
+      "_message.comment": "Label text for username",
+      "message": "Not signed in"
+   },
+   "WebRedirectSettingLabel": {
+      "_message.comment": "Label text for web document redirect checkbox",
+      "message": "Open Microsoft 365 files directly in the browser with Microsoft 365."
+   },
+   "WordAppName": {
+      "_message.comment": "Word app name",
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "_message.comment": "Word app name",
+      "message": "Word"
+   }
+}

@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "खाता"
+   },
+   "AppDescription": {
+      "message": "अपने ब्राउज़र में दस्तावेज़ देखें, संपादित करें और बनाएँ."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "ब्राउज़र के भीतर Office फ़ाइलें देखें, संपादित करें और बनाएँ, और वेब पर अपना सर्वश्रेष्ठ लेखन सामने लाएँ."
+   },
+   "AppFolderName": {
+      "message": "Microsoft 365 ब्राउज़र एक्सटेंशन"
+   },
+   "AppListLabel": {
+      "message": "Web Apps"
+   },
+   "AppLongDescription": {
+      "message": "Chrome के लिए निर्मित – Microsoft 365 इंस्टॉल किए बिना Word, Excel, PowerPoint, OneNote और Sway Online का उपयोग करें.\r\n\r\nविश्वास के साथ बनाएँ– अपने विचार सटीक रूप से व्यक्त करने के लिए परिचित फ़ॉर्मैटिंग और लेआउट विकल्पों का उपयोग करें.\r\n\r\nचलते-फिरते काम करें – OneDrive और व्यवसाय के लिए OneDrive के साथ एकीकरण की बदौलत कहीं से भी अपनी फ़ाइलों पर पहुँचें.\r\n\r\nऐप इंस्टॉल करके, आप इन नियम और शर्तों से सहमत होते हैं: http://aka.ms/officechromeextensionterms\r\n\r\nगोपनीयता नीति: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Microsoft 365 ब्राउज़र एक्सटेंशन Microsoft Edge उपकरण पट्टी पर एक चिह्न लगाता है जो आपको अपनी Microsoft 365 फ़ाइलों पर सीधी पहुँच प्रदान करता है, चाहे वे ऑनलाइन हों या आपके कंप्यूटर पर संग्रहित हों.\r\n\r\nMicrosoft 365 वेब एक्सटेंशन OneDrive और व्यवसाय के लिए OneDrive में संग्रहित फ़ाइलें खोल सकता है.\r\n\r\nMicrosoft 365 इंस्टॉल किए बिना, आप अपने ब्राउज़र में ही Word, Excel, PowerPoint, OneNote और Sway की सुविधाएँ प्राप्त करते हैं.\r\n\r\nMicrosoft 365 ब्राउज़र एक्सटेंशन में अब आपकी सामग्री की अशुद्धि जाँच शामिल है*. यह एक Microsoft online सेवा से कनेक्ट करता है, जो अधिकांश वेबसाइटों पर आपके लेखन के लिए वर्तनी, व्याकरण और परिशोधन संबंधी सुझाव प्रदान करती है और 80 से अधिक भाषाओं में उपलब्ध है.\r\n\r\n* यह सुविधा शायद सभी उपयोगकर्ताओं के लिए उपलब्ध न हो.\r\n\r\nइस ऐप को इंस्टॉल करके, आप इन नियमों और शर्तों से सहमत होते हैं: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Chrome के लिए निर्मित – Microsoft 365 इंस्टॉल किए बिना Word, Excel, PowerPoint, OneNote और Sway Online का उपयोग करें.\r\n\r\nविश्वास के साथ बनाएँ– अपने विचार सटीक रूप से व्यक्त करने के लिए परिचित फ़ॉर्मैटिंग और लेआउट विकल्पों का उपयोग करें.\r\n\r\nचलते-फिरते काम करें – OneDrive और व्यवसाय के लिए OneDrive के साथ एकीकरण की बदौलत कहीं से भी अपनी फ़ाइलों पर पहुँचें.\r\n\r\nMicrosoft 365 ब्राउज़र एक्सटेंशन में अब आपकी सामग्री की अशुद्धि जाँच शामिल है*. यह एक Microsoft online सेवा से कनेक्ट करता है, जो अधिकांश वेबसाइटों पर आपके लेखन के लिए वर्तनी, व्याकरण और परिशोधन संबंधी सुझाव प्रदान करती है और 80 से अधिक भाषाओं में उपलब्ध है.\r\n\r\n* यह सुविधा शायद सभी उपयोगकर्ताओं के लिए उपलब्ध न हो.\r\n\r\nऐप इंस्टॉल करके, आप इन नियमों और शर्तों से सहमत हैं: http://aka.ms/officechromeextensionterms\r\n\r\nगोपनीयता नीति:http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "अपने सभी ऐप्स का अन्वेषण करें"
+   },
+   "AppsSectionHeader": {
+      "message": "ऐप्स"
+   },
+   "BrowseToOpenLabel": {
+      "message": "अपलोड करें और खोलें..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "एक खाता बनाएँ"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "हाल ही में कोई दस्तावेज़ नहीं देखे गए."
+   },
+   "CreateNewLabel": {
+      "message": "नया"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "$host$ पर संपादकअक्षम करें",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "हम आपके हाल ही की दस्तावेज़ों की सूची अभी प्राप्त नहीं कर सकते हैं."
+   },
+   "EditorBrandText": {
+      "message": "संपादक"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "व्याकरण"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "संपादक वर्तमान में $host$ पर समर्थित नहीं है",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "संपादक वर्तमान में $host$ पर अक्षम है",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "संपादक बंद है."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "संपादक $host$ के साथ शामिल है",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "Outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(पूर्वावलोकन)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "एडिटर सर्विस माइक्रोसॉफ्ट एडिटर एक्सटेंशन द्वारा दी जा रही है."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "प्रीमियम चुनकर उन्नत लेखन सुझाव और 1 TB संग्रहण प्राप्त करें."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "परिष्करण"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "शोधन आपके लेखन को स्पष्ट, कम शब्दों या अधिक औपचारिक बनाने में मदद करने के लिए उन्नत लेखन सुझाव हैं."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "वर्तनी"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "$host$ पर संपादक सक्षम करें",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "फ़ाइल प्रकार समर्थित नहीं है. कृपया Word, Excel या PowerPoint दस्तावेज़ चुनें."
+   },
+   "LoadingRecentsLabel": {
+      "message": "लोड कर रहा है..."
+   },
+   "MoreFilesLabel": {
+      "message": "अधिक दस्तावेज़"
+   },
+   "MyAccountLabel": {
+      "message": "मेरा खाता देखें"
+   },
+   "NextLabel": {
+      "message": "साइन इन करें"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "यह फिर से न दिखाएँ"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "हमने आपकी फ़ाइल को आपके OneDrive पर \"ब्राउज़र एक्सटेंशन Microsoft 365\" फ़ोल्डर में सहेजा है."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "हमने आपकी फ़ाइल को आपके व्यवसाय के लिए OneDrive पर \"Microsoft 365 ब्राउज़र एक्सटेंशन\" फ़ोल्डर में सहेजा है."
+   },
+   "NotificationFileAccess": {
+      "message": "यदि आप फ़ाइलों को ब्राउज़र में ड्रैग एंड ड्रॉप करना चाहते हैं, तो एक्सटेंशन सेटिंग्स में \"फ़ाइल URLs पर पहुँच की अनुमति दें\" चेकबॉक्स चुनें."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "आकार के कारण Microsoft 365 ब्राउज़र एक्सटेंशन आपके दस्तावेज़ को नहीं खोल सकता है.  कृपया दस्तावेज़ खोलने के लिए सीधे OneDrive पर अपलोड करें."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "क्षमा करें, हम आपकी फ़ाइल को खोलने में असमर्थ थे."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "क्षमा करें, हम आपकी फ़ाइल को खोलने में असमर्थ थे.  कृपया बाद में किसी समय पुनः प्रयास करें."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "क्षमा करें, हम अपनी फ़ाइल को खोलने में असमर्थ थे.  कृपया Word, Excel या PowerPoint के साथ बनाई गई कोई फ़ाइल चुनें"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "हम वर्तमान में आपका(आपके) दस्तावेज़ अपलोड कर रहे हैं."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "हो सकता है आपकी Microsoft 365 सदस्यता की समय सीमा समाप्त हो गई हो या उसमें व्यवसाय के लिए OneDrive शामिल न हो. अपनी सदस्यता की जाँच करें या इसके बजाय Microsoft खाते के साथ लॉग इन करें."
+   },
+   "NotificationNotSignedIn": {
+      "message": "वेब पर Microsoft 365 में फ़ाइलों को देखने और संपादित करने के लिए एक्सटेंशन में साइन इन करें."
+   },
+   "NotificationSetDefault": {
+      "message": "फ़ाइल ऐप में, Microsoft 365 के साथ खोलने के लिए दो उँगलियों से दस्तावेज़ों पर टैप करें."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Word, Excel या PowerPoint के साथ बनाई गई कोई फ़ाइल चुनें."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Microsoft 365 एक्सटेंशन आपके दस्तावेज़ को ब्राउज़र में खोल रहा है"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "यह फिर से न दिखाएँ"
+   },
+   "O365FilesLabel": {
+      "message": "व्यवसाय के लिए OneDrive से"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "आप ऑफ़लाइन हैं. कृपया ब्राउज़र एक्सटेंशन का उपयोग करने Microsoft 365 लिए पुनः कनेक्ट करें."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "OneDrive से"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "खुला"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "दस्तावेज़"
+   },
+   "SettingsLabel": {
+      "message": "सेटिंग्स"
+   },
+   "ShareMessage": {
+      "message": "साझा करें"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "अनुमति आवश्यक"
+   },
+   "SharePermissionsTooltip": {
+      "message": "आपके पास साझा करने की अनुमति नहीं है"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "आप अपनी फ़ाइलें कहाँ सहेजना चाहते हैं?"
+   },
+   "SignInLabel": {
+      "message": "साइन इन करें"
+   },
+   "SignInMSALabel": {
+      "message": "Microsoft खाते के साथ साइन इन करें"
+   },
+   "SignInO365Label": {
+      "message": "किसी कार्यस्थल या विद्यालय खाते से साइन इन करें"
+   },
+   "SignOutLabel": {
+      "message": "साइन आउट करें"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "एडिटर सर्विस माइक्रोसॉफ्ट एडिटर एक्सटेंशन द्वारा दी जा रही है."
+   },
+   "SupportPageLabel": {
+      "message": "लॉग इन करने में मदद चाहिए?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "अपने उत्पादों को बेहतर बनाने में हमारी मदद करने के लिए स्वचालित रूप से डेटा भेजें."
+   },
+   "TurnOnEditorLabel": {
+      "message": "संपादक चालू करें"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "व्यवसाय के लिए OneDrive में अपलोड करें"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "OneDrive में अपलोड करें"
+   },
+   "UsernameLabel": {
+      "message": "साइन इन किया हुआ नहीं"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Microsoft 365 फ़ाइलों को Microsoft 365 के साथ सीधे ब्राउज़र में खोलें."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

@@ -1,0 +1,21 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="./experimentation/sharing/sharingA/sharingA.css">
+</head>
+
+<div data-ng-controller="SharingAController as sharingA" ng-init="sharingA.init(doc)">
+    <div class="mru_name" title="{{doc.name}}" data-ng-click="mructrl.openRecentDocument(doc, $event)">{{ doc.name }}</div>
+
+    <button class="share_button" data-ng-if="sharingA.shareDoc.canBeShared" data-ng-click="sharingA.shareDocument($event)" 
+            alt="{{ 'ShareMessage' | i18n }} {{sharingA.shareDoc.name}}">
+        <em class="ms-Icon ms-Icon--AddFriend ribbon_button_icon"></em>
+    </button>
+
+    <button class="share_button share_button_disabled" data-ng-disabled="true" data-ng-if="!sharingA.shareDoc.canBeShared" 
+            title="{{ 'SharePermissionsTooltip' | i18n }} {{sharingA.shareDoc.name}}." alt="{{ 'SharePermissionsTooltip' | i18n }} {{sharingA.shareDoc.name}}">
+        <em class="ms-Icon ms-Icon--AddFriend ribbon_button_icon"></em>
+    </button>
+
+    <div class="fake_tooltip" data-ng-if="!sharingA.shareDoc.canBeShared && !sharingA.isChrome">
+        {{ 'SharePermissionsErrorMessage' | i18n }}
+    </div>
+</div>

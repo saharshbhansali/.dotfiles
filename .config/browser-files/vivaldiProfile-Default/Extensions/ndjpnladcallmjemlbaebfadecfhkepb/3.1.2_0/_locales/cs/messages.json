@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "Účet"
+   },
+   "AppDescription": {
+      "message": "Prohlížejte, upravujte a vytvářejte dokumenty v prohlížeči."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "Prohlížejte, upravujte a vytvářejte soubory v prohlížeči a oslňte na síti svými vynikajícími psanými příspěvky."
+   },
+   "AppFolderName": {
+      "message": "rozšíření prohlížeče Microsoft Office 365"
+   },
+   "AppListLabel": {
+      "message": "Webové aplikace"
+   },
+   "AppLongDescription": {
+      "message": "Kompatibilita s Chromem: Word, Excel, PowerPoint, OneNote i Sway Online můžete používat, i když si nenainstalujete Microsoft 365.\r\n\r\nZnámé prostředí: Prostřednictvím známých možností formátování a rozložení můžete vyjádřit svoje myšlenky a nápady bez kompromisů.\r\n\r\nPřístup odkudkoli: Ke svým souborům se můžete dostat odkudkoli díky integraci s OneDrivem a OneDrivem pro firmy.\r\n\r\nNainstalováním aplikace vyjadřujete svůj souhlas s těmito podmínkami a ujednáními: http://aka.ms/officechromeextensionterms\r\n\r\nZásady ochrany osobních údajů: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Rozšíření Microsoft 365 pro prohlížeč umístí na panel nástrojů prohlížeče Microsoft Edge ikonu, která vám umožní přímý přístup k souborům Microsoft 365 bez ohledu na to, jestli jsou uložené online nebo na počítači.\r\n\r\nWebové rozšíření Microsoft 365 dokáže otevřít soubory uložené na OneDrivu a na OneDrivu pro firmy.\r\n\r\nFunkce Wordu, Excelu, PowerPointu, OneNotu a Swaye jsou dostupné přímo z prohlížeče, aniž by musel být nainstalovaný Microsoft 365.\r\n\r\nRozšíření Microsoft 365 pro prohlížeč teď zahrnuje službu kontroly vašeho obsahu* využívající připojení k online službě Microsoftu, která nabízí návrhy pravopisu, gramatiky a stylu při psaní na většině webů a je k dispozici ve více než 80 jazycích.\r\n\r\n*Tato funkce nemusí být k dispozici pro všechny uživatele.\r\n\r\nNainstalováním aplikace vyjadřujete svůj souhlas s těmito podmínkami a ujednáními: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Vyzkoušejte řešení přímo pro Chrome: Word, Excel, PowerPoint, OneNote a Sway Online můžete používat, aniž byste si museli nainstalovat Microsoft 365.\r\n\r\nVyužijte funkce na maximum: Známé možnosti pro formátování a rozložení vám umožní přesně vystihnout myšlenky a nápady.\r\n\r\nPracujte na cestách: Díky integraci s OneDrivem a OneDrivem pro firmy se ke svým souborům dostanete odkudkoli.\r\n\r\nRozšíření Microsoft 365 pro prohlížeč teď zahrnuje službu kontroly vašeho obsahu* využívající připojení k online službě Microsoftu, která nabízí návrhy pravopisu, gramatiky a stylu při psaní na většině webů a je k dispozici ve více než 80 jazycích.\r\n\r\n*Tato funkce nemusí být k dispozici všem uživatelům.\r\n\r\nInstalací aplikace souhlasíte s těmito podmínkami a ujednáními: http://aka.ms/officechromeextensionterms\r\n\r\nZásady ochrany osobních údajů: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "Prozkoumejte všechny svoje aplikace"
+   },
+   "AppsSectionHeader": {
+      "message": "Aplikace"
+   },
+   "BrowseToOpenLabel": {
+      "message": "Nahrát a otevřít..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Vytvořit účet"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Žádné naposledy zobrazené dokumenty"
+   },
+   "CreateNewLabel": {
+      "message": "Nové"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Zakázat Editor na webu $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "V této chvíli nemůžeme načíst seznam vámi naposledy použitých dokumentů."
+   },
+   "EditorBrandText": {
+      "message": "Editor"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Gramatika"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Editor není na webu $host$ aktuálně podporovaný.",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editor je na webu $host$ aktuálně zakázaný.",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Editor je vypnutý."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Editor je zahrnutý v $host$",
+      "placeholders": {
+         "host": {
+            "content": "1 USD",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(Preview)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "Rozšíření Microsoft Editoru poskytuje službu Editor."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Když přejdete na verzi Premium, budete moct využívat moderní návrhy pro psaní a úložiště o velikost 1 TB."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Vylepšení"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Návrhy na vylepšení představují návrhy pro zdokonalení písemného projevu, aby byl srozumitelnější, výstižnější nebo formálnější."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Pravopis"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Povolit Editor na webu $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Tento typ souboru se nepodporuje. Vyberte prosím dokument aplikace Word, Excel nebo PowerPoint."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Načítá se..."
+   },
+   "MoreFilesLabel": {
+      "message": "Další dokumenty"
+   },
+   "MyAccountLabel": {
+      "message": "Zobrazit můj účet"
+   },
+   "NextLabel": {
+      "message": "Přihlásit se"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Znovu nezobrazovat"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Váš soubor jsme uložili do složky „rozšíření prohlížeče Microsoft Office 365“ ve vašem úložišti OneDrive."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Váš soubor jsme uložili do složky „rozšíření prohlížeče Microsoft Office 365“ ve vašem úložišti OneDrive pro firmy."
+   },
+   "NotificationFileAccess": {
+      "message": "V nastavení rozšíření zaškrtněte políčko pro povolení přístupu k souborovým adresám URL, pokud chcete přetahovat soubory do prohlížeče."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Rozšíření prohlížeče Microsoft Office 365 nemůže váš dokument otevřít kvůli velikosti.  Pokud chcete dokument otevřít, nahrajte ho prosím přímo do úložiště OneDrive."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Bohužel nemůžeme váš soubor otevřít."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Bohužel nemůžeme váš soubor otevřít. Zkuste to prosím později."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Bohužel nemůžeme váš soubor otevřít. Vyberte prosím soubor vytvořený pomocí aplikace Word, Excel nebo PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "V této chvíli nahráváme vaše dokumenty."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Pravděpodobně vypršela platnost vašeho předplatného Microsoft 365 nebo předplatné nezahrnuje OneDrive pro firmy. Zkontrolujte si předplatné nebo se přihlaste účtem Microsoft."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Přihlaste se k rozšíření, pokud chcete zobrazovat a upravovat soubory v Microsoft 365 na webu."
+   },
+   "NotificationSetDefault": {
+      "message": "V aplikaci Soubory klepněte dvěma prsty na dokumenty, které se mají otevírat pomocí Microsoft Office 365."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Zvolte soubor vytvořený pomocí aplikace Word, Excel nebo PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Rozšíření Microsoft 365 otevírá dokument v prohlížeči."
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Znovu nezobrazovat"
+   },
+   "O365FilesLabel": {
+      "message": "Z OneDrivu pro firmy"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "Jste offline. Pokud chcete používat rozšíření prohlížeče Microsoft 365, připojte se prosím znovu."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Z OneDrivu"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Otevřít"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Dokumenty"
+   },
+   "SettingsLabel": {
+      "message": "Nastavení"
+   },
+   "ShareMessage": {
+      "message": "Sdílet"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Vyžadují se oprávnění."
+   },
+   "SharePermissionsTooltip": {
+      "message": "Nemáte oprávnění ke sdílení."
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Kam chcete soubory uložit?"
+   },
+   "SignInLabel": {
+      "message": "Přihlásit se"
+   },
+   "SignInMSALabel": {
+      "message": "Přihlásit se účtem Microsoft"
+   },
+   "SignInO365Label": {
+      "message": "Přihlásit se přes pracovní nebo školní účet"
+   },
+   "SignOutLabel": {
+      "message": "Odhlásit se"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "Rozšíření Microsoft Editoru poskytuje službu Editor."
+   },
+   "SupportPageLabel": {
+      "message": "Potřebujete pomoct s přihlášením?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Automaticky odesílat data, která nám pomáhají zlepšovat naše produkty"
+   },
+   "TurnOnEditorLabel": {
+      "message": "Zapnout Editor"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "Nahrát na OneDrive pro firmy"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "Nahrát na OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "Bez přihlášení"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Pomocí Microsoft 365 můžete otevírat Microsoft 365 soubory přímo v prohlížeči."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

@@ -1,0 +1,194 @@
+{
+   "EnableHSL": {
+      "message": "Espectáculo HSL"
+   },
+   "EnableRGB": {
+      "message": "Espectáculo RGB"
+   },
+   "addToPalette": {
+      "message": "Agregar a la paleta de colores"
+   },
+   "advancedOptions": {
+      "message": "Opciones avanzadas"
+   },
+   "allowWebGl": {
+      "message": "Permitir webgl para vista previa pixelada"
+   },
+   "appleIcon": {
+      "message": "Utilizar Apple Digital Logotipo de medidor de color"
+   },
+   "approved": {
+      "message": "Aprobado"
+   },
+   "bbackgroundColor": {
+      "message": "Color de fondo emergente"
+   },
+   "bgPageUnavailable": {
+      "message": "La instantánea de fondo no responde: actualice la página y vuelva a intentarlo."
+   },
+   "borderValue": {
+      "message": "Bordes para usar (valor css)"
+   },
+   "clear": {
+      "message": "Claro"
+   },
+   "clearSync": {
+      "message": "Almacenamiento de sincronización claro"
+   },
+   "closeAndExit": {
+      "message": "Cerrar y salir del modo de captura de color"
+   },
+   "colorOfDay": {
+      "message": "Color del día"
+   },
+   "copycolorval": {
+      "message": "Copiar el valor del color"
+   },
+   "dblClick": {
+      "message": "Haga doble clic"
+   },
+   "default": {
+      "message": "Defecto"
+   },
+   "disablePickEveryTime": {
+      "message": "No empiece a elegir cada vez que haga clic en una ventana emergente"
+   },
+   "disableRewriting": {
+      "message": "Deshabilitar la afiliación de enlaces no afiliados"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Obtenga la configuración del almacenamiento de sincronización de Google Account."
+   },
+   "fishEye": {
+      "message": "Cantidad del zoom ojo de pez"
+   },
+   "full": {
+      "message": "Completo"
+   },
+   "hasAgreedToLicense": {
+      "message": "Ha aceptado los términos de uso"
+   },
+   "help": {
+      "message": "Ayuda / info"
+   },
+   "hideMinimize": {
+      "message": "Ocultar / minimizar "
+   },
+   "history": {
+      "message": "Historia"
+   },
+   "iconIsBitmap": {
+      "message": "El ícono es una vista previa de píxel ampliada"
+   },
+   "iconIsPreview": {
+      "message": "Usar la insignia del icono de vista previa de color cuadrado"
+   },
+   "loadsyncOptions": {
+      "message": "Se han cargado y guardado las opciones de almacenamiento de sincronización."
+   },
+   "maxZoom": {
+      "message": "Max zoomed"
+   },
+   "modifyLicense": {
+      "message": "Modificar licencia"
+   },
+   "noSwatches": {
+      "message": "Haga clic en colores en el historial de colores para agregarlos a una paleta para guardarlos e imprimirlos."
+   },
+   "off": {
+      "message": "Apagado"
+   },
+   "on": {
+      "message": "En"
+   },
+   "options": {
+      "message": "Opciones"
+   },
+   "pickAgainLocked": {
+      "message": "Elige otro color [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Seleccionar color actual [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Comience a elegir los colores cada vez que haga clic en la ventana emergente"
+   },
+   "pixelatedPreview": {
+      "message": "La vista previa ampliada está pixelada."
+   },
+   "popOutWindow": {
+      "message": "Ventana emergente (ventana separada)"
+   },
+   "pressEnterToPick": {
+      "message": "Presiona enter para elegir color"
+   },
+   "printSave": {
+      "message": "Imprimir / guardar..."
+   },
+   "reSnapPage": {
+      "message": "Actualizar imagen de la página [r]"
+   },
+   "registerButton": {
+      "message": "Registro"
+   },
+   "registered": {
+      "message": "Registrado"
+   },
+   "resetIcon": {
+      "message": "Volver al ícono normal"
+   },
+   "rightClick": {
+      "message": "Botón derecho del ratón"
+   },
+   "saveOptions": {
+      "message": "Guardar opciones"
+   },
+   "savedoptions": {
+      "message": "Opciones salvadas."
+   },
+   "seeTerms": {
+      "message": "Ver los términos de uso"
+   },
+   "shareClors": {
+      "message": "Estadísticas del color del día (ver condiciones de uso)"
+   },
+   "showColorChooser": {
+      "message": "Mostrar el selector de color"
+   },
+   "showDefaults": {
+      "message": "Mostrar valores predeterminados"
+   },
+   "showPreviousClr": {
+      "message": "Mostrar vista previa de color dividido con el color anterior"
+   },
+   "showndefaults": {
+      "message": "Presione Guardar, que ahora muestra los valores predeterminados."
+   },
+   "sort": {
+      "message": "ordenar"
+   },
+   "terms": {
+      "message": "Términos de Uso"
+   },
+   "unregistered": {
+      "message": "No registrado"
+   },
+   "usageStatistics": {
+      "message": "Reunir estadísticas de uso (ver los términos de uso)"
+   },
+   "useCSSValues": {
+      "message": "Usar valores css para RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Utilizar PNG calidad cuando está disponible"
+   },
+   "usePrevColorBG": {
+      "message": "Usar color anterior para fondo"
+   }
+}

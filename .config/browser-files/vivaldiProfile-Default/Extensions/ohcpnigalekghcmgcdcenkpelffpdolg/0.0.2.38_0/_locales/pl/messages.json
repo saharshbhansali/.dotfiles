@@ -1,0 +1,197 @@
+{
+   "EnableHSL": {
+      "message": "Pokazać HSL"
+   },
+   "EnableRGB": {
+      "message": "Pokazać RGB"
+   },
+   "addToPalette": {
+      "message": "Dodać do palety kolorów"
+   },
+   "advancedOptions": {
+      "message": "Zaawansowane opcje"
+   },
+   "allowWebGl": {
+      "message": "Zezwalaj na webgl dla podglądu pikselowego"
+   },
+   "appleIcon": {
+      "message": "Posługiwać się Apple Digital Kolorowy licznik logo"
+   },
+   "approved": {
+      "message": "Zatwierdzony"
+   },
+   "bbackgroundColor": {
+      "message": "Kolor tła popup"
+   },
+   "bgPageUnavailable": {
+      "message": "Migawka tła nie odpowiadająca - odśwież stronę i spróbuj ponownie."
+   },
+   "borderValue": {
+      "message": "Granice używania (wartość css)"
+   },
+   "clear": {
+      "message": "Jasny"
+   },
+   "clearSync": {
+      "message": "Czytelna synchronizacja"
+   },
+   "closeAndExit": {
+      "message": "Zamknij i wyjdź z trybu wyboru koloru"
+   },
+   "colorOfDay": {
+      "message": "Kolor dnia"
+   },
+   "copycolorval": {
+      "message": "Skopiować wartość koloru"
+   },
+   "dblClick": {
+      "message": "Podwójne kliknięcie"
+   },
+   "default": {
+      "message": "Zaniedbanie"
+   },
+   "disablePickEveryTime": {
+      "message": "Nie zaczynaj pobierać za każdym razem, gdy klikniesz"
+   },
+   "disableRewriting": {
+      "message": "Wyłącz współpracę linków innych firm"
+   },
+   "error": {
+      "message": "Błąd"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Pobierać ustawienia z pamięci synchronizacji konta Google"
+   },
+   "fishEye": {
+      "message": "Rybie oko powiększenie kwoty"
+   },
+   "full": {
+      "message": "Pełny"
+   },
+   "hasAgreedToLicense": {
+      "message": "Zgodził się na warunki użytkowania"
+   },
+   "help": {
+      "message": "Pomoc / info"
+   },
+   "hideMinimize": {
+      "message": "Ukryć / zminimalizować "
+   },
+   "history": {
+      "message": "Historia"
+   },
+   "iconIsBitmap": {
+      "message": "Ikona jest powiększany podgląd pikseli"
+   },
+   "iconIsPreview": {
+      "message": "Użyj ikony odznaka ikona kwadratowego podglądu koloru"
+   },
+   "loadsyncOptions": {
+      "message": "Synchronizowane opcje zapisu zostały załadowane i zapisane."
+   },
+   "maxZoom": {
+      "message": "Maks. powiększenie"
+   },
+   "modifyLicense": {
+      "message": "Zmień licencję"
+   },
+   "noSwatches": {
+      "message": "Kliknij kolory w historii kolorów, aby dodać je do palety, aby zapisać i wydrukować."
+   },
+   "off": {
+      "message": "Poza"
+   },
+   "on": {
+      "message": "Na"
+   },
+   "options": {
+      "message": "Opcji"
+   },
+   "pickAgainLocked": {
+      "message": "Wybierz inny kolor [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Wybierz bieżący kolor [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Zacznij zbierać kolory za każdym razem, gdy klikniesz"
+   },
+   "pixelatedPreview": {
+      "message": "Powiększony podgląd jest pikselowany"
+   },
+   "popOutWindow": {
+      "message": "Pop-out (osobne okno)"
+   },
+   "pressEnterToPick": {
+      "message": "Naciśnij enter, aby wybrać kolor"
+   },
+   "printSave": {
+      "message": "Drukuj / zapisz..."
+   },
+   "reSnapPage": {
+      "message": "Odśwież obraz strony [r]"
+   },
+   "registerButton": {
+      "message": "Zarejestrować"
+   },
+   "registered": {
+      "message": "Zarejestrowany"
+   },
+   "resetIcon": {
+      "message": "Powróć do normalnej ikony"
+   },
+   "rightClick": {
+      "message": "Kliknij prawym przyciskiem myszy"
+   },
+   "saveOptions": {
+      "message": "Zapisz opcje"
+   },
+   "savedoptions": {
+      "message": "Opcje zapisane."
+   },
+   "seeTerms": {
+      "message": "Zobacz warunki użytkowania"
+   },
+   "shareClors": {
+      "message": "Kolor dziennych statystyk (patrz warunki użytkowania)"
+   },
+   "showColorChooser": {
+      "message": "Pokaż kolorowy wybór"
+   },
+   "showDefaults": {
+      "message": "Pokaż wartości domyślne"
+   },
+   "showPreviousClr": {
+      "message": "Pokaż podgląd koloru podzielonego z poprzednim kolorem"
+   },
+   "showndefaults": {
+      "message": "Proszę nacisnąć przycisk Zapisz, teraz pokazano wartości domyślne."
+   },
+   "sort": {
+      "message": "sortować"
+   },
+   "terms": {
+      "message": "Warunki korzystania"
+   },
+   "unregistered": {
+      "message": "Niezarejestrowany"
+   },
+   "usageStatistics": {
+      "message": "Zebrać statystyki użytkowania (zobacz warunki użytkowania)"
+   },
+   "useCSSValues": {
+      "message": "Użyj wartości css dla RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Posługiwać się PNG jakość, jeśli jest dostępna"
+   },
+   "usePrevColorBG": {
+      "message": "Użyj poprzedniego koloru tła"
+   }
+}

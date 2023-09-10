@@ -1,0 +1,197 @@
+{
+   "EnableHSL": {
+      "message": "ショー HSL"
+   },
+   "EnableRGB": {
+      "message": "ショー RGB"
+   },
+   "addToPalette": {
+      "message": "カラーパレットに追加する"
+   },
+   "advancedOptions": {
+      "message": "高度なオプション"
+   },
+   "appleIcon": {
+      "message": "つかいます Apple Digital カラーメーターロゴ"
+   },
+   "approved": {
+      "message": "承認された"
+   },
+   "bbackgroundColor": {
+      "message": "ポップアップ背景色"
+   },
+   "bgPageUnavailable": {
+      "message": "背景スナップショットが応答していません - ページを更新してもう一度お試しください。"
+   },
+   "borderValue": {
+      "message": "使用する境界（CSS値）"
+   },
+   "clear": {
+      "message": "クリア"
+   },
+   "clearSync": {
+      "message": "クリア同期ストレージ"
+   },
+   "closeAndExit": {
+      "message": "終了してカラーピックモードを終了する"
+   },
+   "colorOfDay": {
+      "message": "今日の色"
+   },
+   "copycolorval": {
+      "message": "色の値をコピーする"
+   },
+   "dblClick": {
+      "message": "ダブルクリック"
+   },
+   "dedupe": {
+      "message": "重複除外"
+   },
+   "default": {
+      "message": "デフォルト"
+   },
+   "disablePickEveryTime": {
+      "message": "ポップアップがクリックされるたびにピッキングを開始しない"
+   },
+   "disableRewriting": {
+      "message": "非アフィリエイトリンクの所属を無効にする"
+   },
+   "error": {
+      "message": "エラー"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Googleアカウントの同期ストレージから設定を取得する"
+   },
+   "fishEye": {
+      "message": "魚眼レンズズーム量"
+   },
+   "full": {
+      "message": "満員"
+   },
+   "hasAgreedToLicense": {
+      "message": "利用規約に同意した"
+   },
+   "help": {
+      "message": "ヘルプ/情報"
+   },
+   "hideMinimize": {
+      "message": "隠す/最小化する "
+   },
+   "history": {
+      "message": "歴史"
+   },
+   "iconIsBitmap": {
+      "message": "アイコンはズームされたピクセルプレビュー"
+   },
+   "iconIsPreview": {
+      "message": "アイコンのバッジを使用する正方形の色のプレビュー"
+   },
+   "loadsyncOptions": {
+      "message": "同期ストレージオプションが読み込まれて保存されました。"
+   },
+   "maxZoom": {
+      "message": "最大ズーム"
+   },
+   "modifyLicense": {
+      "message": "ライセンスを変更する"
+   },
+   "noSwatches": {
+      "message": "色履歴の色をクリックして、保存および印刷用のパレットに色を追加します。"
+   },
+   "off": {
+      "message": "オフ"
+   },
+   "on": {
+      "message": "に"
+   },
+   "options": {
+      "message": "オプション"
+   },
+   "pickAgainLocked": {
+      "message": "別の色を選ぶ [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "現在の色を選択 [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "ポップアップがクリックされるたびに色を選択し始める"
+   },
+   "pixelatedPreview": {
+      "message": "ズームプレビューはピクセル化されています"
+   },
+   "popOutWindow": {
+      "message": "ポップアウト（別ウィンドウ）"
+   },
+   "pressEnterToPick": {
+      "message": "Enterキーを押して色を選択"
+   },
+   "printSave": {
+      "message": "印刷/保存..."
+   },
+   "reSnapPage": {
+      "message": "ページをリフレッシュする [r]"
+   },
+   "registerButton": {
+      "message": "登録"
+   },
+   "registered": {
+      "message": "登録された"
+   },
+   "resetIcon": {
+      "message": "通常のアイコンに戻る"
+   },
+   "rightClick": {
+      "message": "右クリック"
+   },
+   "saveOptions": {
+      "message": "オプションを保存"
+   },
+   "savedoptions": {
+      "message": "オプションが保存されました。"
+   },
+   "seeTerms": {
+      "message": "利用規約を参照してください"
+   },
+   "shareClors": {
+      "message": "日統計の色（使用条件を参照）"
+   },
+   "showColorChooser": {
+      "message": "ショーカラーチューザー"
+   },
+   "showDefaults": {
+      "message": "デフォルトを表示"
+   },
+   "showPreviousClr": {
+      "message": "前の色で分割カラープレビューを表示する"
+   },
+   "showndefaults": {
+      "message": "保存を押して、デフォルトを表示してください。"
+   },
+   "sort": {
+      "message": "ソート"
+   },
+   "terms": {
+      "message": "利用規約"
+   },
+   "unregistered": {
+      "message": "登録されていない"
+   },
+   "usageStatistics": {
+      "message": "使用統計を収集する（利用規約を参照）"
+   },
+   "useCSSValues": {
+      "message": "のCSS値を使用する RGB/HSL"
+   },
+   "usePNG": {
+      "message": "つかいます PNG 利用可能な場合は品質"
+   },
+   "usePrevColorBG": {
+      "message": "バックグラウンドに前の色を使用する"
+   }
+}

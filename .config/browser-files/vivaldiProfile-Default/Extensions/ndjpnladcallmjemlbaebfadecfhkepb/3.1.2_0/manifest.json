@@ -1,0 +1,60 @@
+{
+   "author": "Microsoft Corporation",
+   "background": {
+      "persistent": true,
+      "scripts": [ "vendors.js", "background/background.js", "nucleus/nucleus.background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "20": "assets/icon_20.png",
+         "40": "assets/icon.png"
+      },
+      "default_popup": "index.html",
+      "default_title": "__MSG_AppShortName__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content/auth.js" ],
+      "matches": [ "https://login.live.com/*", "https://login.microsoftonline.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "content/wac.js" ],
+      "matches": [ "https://*.live.com/*", "https://*.microsoft.com/*", "https://*.live-int.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "content/sso.js" ],
+      "matches": [ "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "nucleus/nucleus.js" ],
+      "matches": [ "https://*.sharepoint.com/*", "https://*.sharepoint-df.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "default-src 'self' https://graph.microsoft.com https://static2.sharepointonline.com https://login.microsoftonline.com; connect-src file: https://graph.microsoft.com https://browser.events.data.microsoft.com https://eu-office.events.data.microsoft.com https://browser.pipe.aria.microsoft.com https://nleditor.osi.office.net http://officeonlineextension-office365.msedge.net https://login.microsoftonline.com https://login.live.com https://apis.live.net https://api.onedrive.com https://login.windows.net https://ocws.officeapps.live.com; font-src data: https://static2.sharepointonline.com https://spoprod-a.akamaihd.net; form-action 'none'; frame-src 'self' https://login.microsoftonline.com https://login.live.com; img-src data: https://static2.sharepointonline.com; base-uri 'none'; style-src 'self' 'sha256-1PxuDsPyGK6n+LZsMv0gG4lMX3i3XigG6h0CzPIjwrE='; ",
+   "default_locale": "en",
+   "description": "__MSG_AppDescription__",
+   "externally_connectable": {
+      "ids": [ "gpaiobkfhnonedkhhfjpmhdalgeoebfa", "nhcphhbmofkiafbceklinalkdknleigf" ],
+      "matches": [ "https://*.live.com/*", "https://*.partner.officewebapps.cn/*", "https://*.gov.online.office365.us/*", "https://*.dod.online.office365.us/*", "https://project.microsoft.com/*" ]
+   },
+   "file_browser_handlers": [ {
+      "default_title": "__MSG_OfficeOnlineAppName__",
+      "file_filters": [ "filesystem:*.doc", "filesystem:*.dot", "filesystem:*.docx", "filesystem:*.dotx", "filesystem:*.odt", "filesystem:*.ppt", "filesystem:*.pot", "filesystem:*.pps", "filesystem:*.pptx", "filesystem:*.ppsx", "filesystem:*.odp", "filesystem:*.xlsx", "filesystem:*.xlsm", "filesystem:*.xlsb", "filesystem:*.ods" ],
+      "id": "open"
+   } ],
+   "icons": {
+      "128": "assets/icon.png",
+      "16": "assets/icon_16.png",
+      "32": "assets/icon_32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkwOuH7+Huq1B0+0d0yk6w8ulfgCV+mMkaeJgJhVrR7t4h7TCyG/BR4yF18ijiB9o+XcvGdZPypaVDEi49atDqW+A9T3p4XcMV71BW3VKLYiFoj1jWyliAMWbtUiHsG3dQrTzRTmO6aSr5tpf9/tKYXcVWZl04yJrlDs8YigH77XwoZXWUWadqna3uT/lTRbReD4vy8Pdl5ofiX81CVApkkkzJ74toKe6kslSCK7RmM9XF0HIdpYRxyxT284btINJ59fn5s8bf/qBQiegU4dKlJq1PKWGUNUJZRAkXX6fPYgHPM9u9+7dvEmdgJx2EkFB1CHw59NCxK9vysPmv57QZQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_AppName__",
+   "optional_permissions": [ "fileBrowserHandler" ],
+   "permissions": [ "notifications", "storage", "tabs", "webRequest", "webRequestBlocking", "https://nleditor.osi.office.net/**/*", "https://login.windows.net/**/*", "nativeMessaging", "fileBrowserHandler", "clipboardRead" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1.2"
+}

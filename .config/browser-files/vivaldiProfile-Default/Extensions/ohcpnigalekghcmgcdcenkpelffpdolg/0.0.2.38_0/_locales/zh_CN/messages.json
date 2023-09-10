@@ -1,0 +1,197 @@
+{
+   "EnableHSL": {
+      "message": "显示 HSL"
+   },
+   "EnableRGB": {
+      "message": "显示 RGB"
+   },
+   "addToPalette": {
+      "message": "添加到调色板"
+   },
+   "advancedOptions": {
+      "message": "高级选项"
+   },
+   "appleIcon": {
+      "message": "使用 Apple Digital 彩色仪表标志"
+   },
+   "approved": {
+      "message": "批准"
+   },
+   "bbackgroundColor": {
+      "message": "弹出背景颜色"
+   },
+   "bgPageUnavailable": {
+      "message": "后台快照无响应 - 请刷新页面，然后重试。"
+   },
+   "borderValue": {
+      "message": "使用边界（css值）"
+   },
+   "clear": {
+      "message": "明确"
+   },
+   "clearSync": {
+      "message": "清除同步存储"
+   },
+   "closeAndExit": {
+      "message": "关闭退出颜色选择模式"
+   },
+   "colorOfDay": {
+      "message": "一天的颜色"
+   },
+   "copycolorval": {
+      "message": "复制颜色值"
+   },
+   "dblClick": {
+      "message": "双击"
+   },
+   "dedupe": {
+      "message": "重复数据删除"
+   },
+   "default": {
+      "message": "默认"
+   },
+   "disablePickEveryTime": {
+      "message": "每次弹出单击时都不要开始选择"
+   },
+   "disableRewriting": {
+      "message": "禁止关联非联属网络连结"
+   },
+   "error": {
+      "message": "错误"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "从Google帐户同步存储中获取设置"
+   },
+   "fishEye": {
+      "message": "鱼眼缩放量"
+   },
+   "full": {
+      "message": "充分"
+   },
+   "hasAgreedToLicense": {
+      "message": "已同意使用条款"
+   },
+   "help": {
+      "message": "帮助/信息"
+   },
+   "hideMinimize": {
+      "message": "隐藏/最小化 "
+   },
+   "history": {
+      "message": "历史"
+   },
+   "iconIsBitmap": {
+      "message": "图标是缩放像素预览"
+   },
+   "iconIsPreview": {
+      "message": "使用图标徽章正方形颜色预览"
+   },
+   "loadsyncOptions": {
+      "message": "已加载并保存同步存储选项。"
+   },
+   "maxZoom": {
+      "message": "最大放大"
+   },
+   "modifyLicense": {
+      "message": "修改许可证"
+   },
+   "noSwatches": {
+      "message": "单击颜色历史记录中的颜色将其添加到调色板进行保存和打印。"
+   },
+   "off": {
+      "message": "离"
+   },
+   "on": {
+      "message": "上"
+   },
+   "options": {
+      "message": "选项"
+   },
+   "pickAgainLocked": {
+      "message": "挑选另一种颜色 [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "选择当前颜色 [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "每次点击弹出窗口时，开始挑选颜色"
+   },
+   "pixelatedPreview": {
+      "message": "缩放的预览是像素化的"
+   },
+   "popOutWindow": {
+      "message": "弹出窗口（单独窗口）"
+   },
+   "pressEnterToPick": {
+      "message": "按enter键选择颜色"
+   },
+   "printSave": {
+      "message": "打印/保存..."
+   },
+   "reSnapPage": {
+      "message": "刷新页面图片 [r]"
+   },
+   "registerButton": {
+      "message": "寄存器"
+   },
+   "registered": {
+      "message": "注册"
+   },
+   "resetIcon": {
+      "message": "恢复正常图标"
+   },
+   "rightClick": {
+      "message": "右键点击"
+   },
+   "saveOptions": {
+      "message": "保存选项"
+   },
+   "savedoptions": {
+      "message": "保存选项"
+   },
+   "seeTerms": {
+      "message": "看到使用条款"
+   },
+   "shareClors": {
+      "message": "日间颜色统计（见使用条款）"
+   },
+   "showColorChooser": {
+      "message": "显示颜色选择器"
+   },
+   "showDefaults": {
+      "message": "显示默认值"
+   },
+   "showPreviousClr": {
+      "message": "显示以前颜色的分割颜色预览"
+   },
+   "showndefaults": {
+      "message": "请按保存，现在显示默认值。"
+   },
+   "sort": {
+      "message": "分类"
+   },
+   "terms": {
+      "message": "使用条款"
+   },
+   "unregistered": {
+      "message": "未注册"
+   },
+   "usageStatistics": {
+      "message": "收集使用统计资料（见使用条款）"
+   },
+   "useCSSValues": {
+      "message": "使用css值 RGB/HSL"
+   },
+   "usePNG": {
+      "message": "使用 PNG 质量可用"
+   },
+   "usePrevColorBG": {
+      "message": "使用以前的颜色作为背景"
+   }
+}

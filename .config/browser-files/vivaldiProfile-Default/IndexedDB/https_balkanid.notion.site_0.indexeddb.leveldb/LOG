@@ -1,0 +1,26 @@
+2023/09/02-19:50:08.143 10005f Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/IndexedDB/https_balkanid.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/02-19:50:08.143 10005f Recovering log #4
+2023/09/02-19:50:08.143 10005f Reusing old log /home/saharsh/.config/vivaldi/Default/IndexedDB/https_balkanid.notion.site_0.indexeddb.leveldb/000004.log 
+2023/09/02-19:50:09.592 100063 Level-0 table #8: started
+2023/09/02-19:50:09.594 100063 Level-0 table #8: 2596 bytes OK
+2023/09/02-19:50:09.598 100063 Delete type=0 #4
+2023/09/02-19:50:09.598 10005f Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/02-21:16:03.570 100060 Level-0 table #10: started
+2023/09/02-21:16:03.572 100060 Level-0 table #10: 256 bytes OK
+2023/09/02-21:16:03.576 100060 Delete type=0 #7
+2023/09/02-21:16:03.576 100060 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x05\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 215 : 0
+2023/09/02-21:16:03.576 100060 Compacting 1@0 + 1@1 files
+2023/09/02-21:16:03.578 100060 Generated table #11@0: 118 keys, 1605 bytes
+2023/09/02-21:16:03.578 100060 Compacted 1@0 + 1@1 files => 1605 bytes
+2023/09/02-21:16:03.581 100060 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/02-21:16:03.581 100060 Delete type=2 #8
+2023/09/02-21:16:03.581 100060 Delete type=2 #10
+2023/09/02-21:16:03.581 100060 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x05\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 215 : 0 .. (end); will stop at (end)
+2023/09/02-21:16:03.581 100060 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x00\x00\xc8\x0b\x00T\x00r\x00a\x00n\x00s\x00a\x00c\x00t\x00i\x00o\x00n' @ 89 : 1
+2023/09/02-21:16:03.581 100060 Compacting 1@1 + 1@2 files
+2023/09/02-21:16:03.583 100060 Generated table #12@1: 56 keys, 1051 bytes
+2023/09/02-21:16:03.583 100060 Compacted 1@1 + 1@2 files => 1051 bytes
+2023/09/02-21:16:03.586 100060 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/02-21:16:03.586 100060 Delete type=2 #5
+2023/09/02-21:16:03.586 100060 Delete type=2 #11
+2023/09/02-21:16:03.586 100060 Manual compaction at level-1 from '\x00\x02\x00\x00\xc8\x0b\x00T\x00r\x00a\x00n\x00s\x00a\x00c\x00t\x00i\x00o\x00n' @ 89 : 1 .. (end); will stop at (end)

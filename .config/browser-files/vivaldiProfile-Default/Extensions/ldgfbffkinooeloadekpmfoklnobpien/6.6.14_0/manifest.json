@@ -1,0 +1,56 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "assets/action_chrome_16.png",
+         "24": "assets/action_chrome_24.png",
+         "32": "assets/action_chrome_32.png"
+      },
+      "default_popup": "index.html?action"
+   },
+   "author": "Mussabekov Rustem",
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+E"
+         }
+      },
+      "open_raindrop": {
+         "description": "__MSG_openRaindrop__"
+      },
+      "save_page": {
+         "description": "__MSG_savePageOrHighlight__",
+         "suggested_key": {
+            "default": "Ctrl+Shift+S"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "differential_fingerprint": "1.dd914680eadce31c05f6f6f7709ec81a71e5d8db68e932f4c284a30794303abb",
+   "homepage_url": "https://app.raindrop.io",
+   "icons": {
+      "128": "assets/icon_128.png",
+      "16": "assets/icon_16.png",
+      "32": "assets/icon_32.png",
+      "48": "assets/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhcGaQeOT/1tYUGcFtjvmL5cl6hkjmRte1B/i6bmbr3Xn/E8DHLE79qnPxjGKAQ7DMGO3paXg+CGMlG/1NaVNW8XeGdSaGICb8tr9ubOQrHokrn7oYvf7x51GzYoXmRmlTeX/Kl/Wy9sWA45YiwqXTDTLQDAUSdLM3OGU2IWpAGxdvQ7YMRjs37IHIJCoob79Vjd69mXrX9HTcNFjwSDvhznabgBInqBdPpupbRevHByad0aFOgWlWFEnspZx6LXJ5wPDDo0DxB4jKjBlf7dKt1wNdVuCIkFlLafjrGsVOPC8tVll5A9REuBWWcWp84HsT112OhMF+HSKtqr/dFuRgwIDAQAB",
+   "manifest_version": 3,
+   "name": "Raindrop.io",
+   "omnibox": {
+      "keyword": "rd"
+   },
+   "optional_host_permissions": [ "*://*/*" ],
+   "optional_permissions": [ "tabs" ],
+   "permissions": [ "contextMenus", "activeTab", "scripting", "storage", "sidePanel" ],
+   "short_name": "Raindrop.io",
+   "side_panel": {
+      "default_path": "sidepanel.html"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.6.14",
+   "version_name": "5.6.14"
+}

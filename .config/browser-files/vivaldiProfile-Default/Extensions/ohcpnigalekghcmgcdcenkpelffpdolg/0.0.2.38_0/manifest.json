@@ -1,0 +1,49 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "options_prefs.js", "options_prefs_helpers.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "img/icons/no-shadow/icon16.png",
+         "19": "img/icons/no-shadow/icon19.png",
+         "32": "img/icons/no-shadow/icon32.png",
+         "38": "img/icons/no-shadow/icon38.png",
+         "48": "img/icons/no-shadow/icon48.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extName__"
+   },
+   "content_scripts": [ {
+      "js": [ "Cr.js", "options_prefs.js", "colorpick.user.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "installkey.user.js" ],
+      "matches": [ "http://vidsbee.com/OrderComplete.php*", "https://vidsbee.com/OrderComplete.php*" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": true,
+      "js": [ "color-input.user.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "32": "img/icon32.png",
+      "48": "img/icon48.png",
+      "64": "img/icon64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQ5RNV1CKA5WrBBEoajq13LzG/2q0rsvkryxfwsk7vZfWsgjXY6PosENTt6O4JntRYktshOBrQxUuKBKlAS6YNqLUq6FOhFBrF6JMRozwq+RgvYvWwzhm9Xx2IQ4ziuW9EebD8KqTGvgxlHm1EZsPkGiNDJux1/9vpn0b44WhUTwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "options_page": "options.html",
+   "permissions": [ "activeTab", "tabs", "\u003Call_urls>", "storage", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.2.38",
+   "web_accessible_resources": [ "img/icon16.png", "img/icon64.png", "img/icons/palette/icon32.png", "img/icons/history/icon32.png", "img/icons/search/icon32.png", "img/game/bunny.webp", "img/game/rabbit.webp", "img/crosshair.png", "img/close.png", "img/sponsors/colordoctor.jpg", "img/sponsors/waterpik.jpg", "img/sponsors/picks.jpg", "img/sponsors/laser.jpg", "img/sponsors/color.jpg", "img/sponsors/prismacolor.jpg", "img/sponsors/bulb.jpg", "img/sponsors/purple.jpg" ]
+}

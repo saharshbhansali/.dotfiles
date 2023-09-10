@@ -1,0 +1,194 @@
+{
+   "addToPalette": {
+      "message": "Zur Farbpalette hinzufügen"
+   },
+   "advancedOptions": {
+      "message": "Erweiterte Optionen"
+   },
+   "allowWebGl": {
+      "message": "Webgl für die pixelierte Vorschau zulassen"
+   },
+   "appleIcon": {
+      "message": "Benutzen Apple Digital Farbmesslogo"
+   },
+   "approved": {
+      "message": "Genehmigt"
+   },
+   "bbackgroundColor": {
+      "message": "Popup-Hintergrundfarbe"
+   },
+   "bgPageUnavailable": {
+      "message": "Hintergrundschnappschuss reagiert nicht - bitte aktualisieren Sie die Seite und versuchen Sie es erneut."
+   },
+   "borderValue": {
+      "message": "Grenzen zu verwenden (css-Wert)"
+   },
+   "clear": {
+      "message": "Klar"
+   },
+   "clearSync": {
+      "message": "Synchronisierungsspeicher löschen"
+   },
+   "closeAndExit": {
+      "message": "Schließen und beenden Sie den Farbauswahlmodus"
+   },
+   "colorOfDay": {
+      "message": "Farbe des Tages"
+   },
+   "copycolorval": {
+      "message": "Kopiere den Farbwert"
+   },
+   "dblClick": {
+      "message": "Doppelklick"
+   },
+   "dedupe": {
+      "message": "deduktion"
+   },
+   "default": {
+      "message": "Standard"
+   },
+   "disablePickEveryTime": {
+      "message": "Fangen Sie nicht an, jedes Mal zu klicken, wenn Popup angeklickt wird"
+   },
+   "disableRewriting": {
+      "message": "Deaktivieren der Zugehörigkeit von Nicht-Partner-Links"
+   },
+   "error": {
+      "message": "Fehler"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Abrufen von Einstellungen vom Google-Kontosynchronisierungsspeicher"
+   },
+   "fishEye": {
+      "message": "Fischauge Zoom-Betrag"
+   },
+   "full": {
+      "message": "Voll"
+   },
+   "hasAgreedToLicense": {
+      "message": "Hat den Nutzungsbedingungen zugestimmt"
+   },
+   "help": {
+      "message": "Hilfe / Info"
+   },
+   "hideMinimize": {
+      "message": "Verstecken / minimieren "
+   },
+   "history": {
+      "message": "Geschichte"
+   },
+   "iconIsBitmap": {
+      "message": "Symbol ist vergrößerte Pixelvorschau"
+   },
+   "iconIsPreview": {
+      "message": "Verwenden Sie das Symbol badge square color preview"
+   },
+   "loadsyncOptions": {
+      "message": "Synchronisierungsspeicheroptionen wurden geladen und gespeichert."
+   },
+   "maxZoom": {
+      "message": "Max gezoomt"
+   },
+   "modifyLicense": {
+      "message": "Lizenz ändern"
+   },
+   "noSwatches": {
+      "message": "Klicken Sie auf Farben in der Farbhistorie, um sie einer Palette zum Speichern und Drucken hinzuzufügen."
+   },
+   "off": {
+      "message": "Aus"
+   },
+   "on": {
+      "message": "Auf"
+   },
+   "options": {
+      "message": "Optionen"
+   },
+   "pickAgainLocked": {
+      "message": "Wähle eine andere Farbe [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Aktuelle Farbe auswählen [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Fangen Sie an, Farben auszuwählen, jedes Mal, wenn Popup angeklickt wird"
+   },
+   "pixelatedPreview": {
+      "message": "Gezoomte Vorschau ist pixelig"
+   },
+   "popOutWindow": {
+      "message": "Pop-Out (separates Fenster)"
+   },
+   "pressEnterToPick": {
+      "message": "Drücke Enter, um die Farbe auszuwählen."
+   },
+   "printSave": {
+      "message": "Drucken / speichern..."
+   },
+   "reSnapPage": {
+      "message": "Bild der Seite aktualisieren [r]"
+   },
+   "registerButton": {
+      "message": "Neu registrieren"
+   },
+   "registered": {
+      "message": "Eingetragen"
+   },
+   "resetIcon": {
+      "message": "Zum normalen Symbol zurückkehren"
+   },
+   "rightClick": {
+      "message": "Rechtsklick"
+   },
+   "saveOptions": {
+      "message": "Optionen speichern"
+   },
+   "savedoptions": {
+      "message": "Optionen gespeichert."
+   },
+   "seeTerms": {
+      "message": "Siehe Nutzungsbedingungen"
+   },
+   "shareClors": {
+      "message": "Farbe der Tagesstatistik (siehe Nutzungsbedingungen)"
+   },
+   "showColorChooser": {
+      "message": "Farbauswahl anzeigen"
+   },
+   "showDefaults": {
+      "message": "Standardeinstellungen anzeigen"
+   },
+   "showPreviousClr": {
+      "message": "Split-Farbvorschau mit vorheriger Farbe anzeigen"
+   },
+   "showndefaults": {
+      "message": "Bitte drücken Sie Speichern und zeigen die Standardwerte an."
+   },
+   "sort": {
+      "message": "sortieren"
+   },
+   "terms": {
+      "message": "Nutzungsbedingungen"
+   },
+   "unregistered": {
+      "message": "Nicht registriert"
+   },
+   "usageStatistics": {
+      "message": "Nutzungsstatistiken sammeln (siehe Nutzungsbedingungen)"
+   },
+   "useCSSValues": {
+      "message": "Verwenden Sie CSS-Werte für RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Benutzen PNG qualität, wenn verfügbar"
+   },
+   "usePrevColorBG": {
+      "message": "Verwenden Sie die vorherige Farbe für den Hintergrund"
+   }
+}

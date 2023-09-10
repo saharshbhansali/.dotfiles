@@ -1,0 +1,197 @@
+{
+   "EnableHSL": {
+      "message": "Šou HSL"
+   },
+   "EnableRGB": {
+      "message": "Šou RGB"
+   },
+   "addToPalette": {
+      "message": "Pridať do farebnej palety"
+   },
+   "advancedOptions": {
+      "message": "Pokročilé nastavenia"
+   },
+   "allowWebGl": {
+      "message": "Povoliť webglu pre pixelový náhľad"
+   },
+   "appleIcon": {
+      "message": "Použitie Apple Digital Logo farebného metra"
+   },
+   "approved": {
+      "message": "Schválený"
+   },
+   "bbackgroundColor": {
+      "message": "Popup farbu pozadia"
+   },
+   "bgPageUnavailable": {
+      "message": "Snímka pozadia neodpovedá - obnovte stránku a skúste to znova."
+   },
+   "borderValue": {
+      "message": "Hranice na použitie (css hodnota)"
+   },
+   "clear": {
+      "message": "Jasný"
+   },
+   "clearSync": {
+      "message": "Jasné ukladanie synchronizácie"
+   },
+   "closeAndExit": {
+      "message": "Zavrite a ukončite režim výberu farieb"
+   },
+   "colorOfDay": {
+      "message": "Farba dňa"
+   },
+   "copycolorval": {
+      "message": "Skopírujte hodnotu farby"
+   },
+   "dblClick": {
+      "message": "Dvojité kliknutie"
+   },
+   "default": {
+      "message": "Štandardné"
+   },
+   "disablePickEveryTime": {
+      "message": "Nezačať vyberať zakaždým, keď sa na ne klikne"
+   },
+   "disableRewriting": {
+      "message": "Zakázať pridruženie nepríbuzných odkazov"
+   },
+   "error": {
+      "message": "Chyba"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Načítať nastavenia z úložiska synchronizácie účtu Google"
+   },
+   "fishEye": {
+      "message": "Veľkosť rybieho oka"
+   },
+   "full": {
+      "message": "Plne"
+   },
+   "hasAgreedToLicense": {
+      "message": "Súhlasil s podmienkami používania"
+   },
+   "help": {
+      "message": "Help / info"
+   },
+   "hideMinimize": {
+      "message": "Skryť / minimalizovať "
+   },
+   "history": {
+      "message": "Histórie"
+   },
+   "iconIsBitmap": {
+      "message": "Ikona bola priblížená"
+   },
+   "iconIsPreview": {
+      "message": "Používať ikonu štvorcový náhľad"
+   },
+   "loadsyncOptions": {
+      "message": "Možnosti uloženia synchronizácie boli načítané a uložené."
+   },
+   "maxZoom": {
+      "message": "Maximálne zväčšené"
+   },
+   "modifyLicense": {
+      "message": "Upraviť licenciu"
+   },
+   "noSwatches": {
+      "message": "Kliknutím na farby v histórii farieb pridajte ich do palety na uloženie a tlač."
+   },
+   "off": {
+      "message": "Preč"
+   },
+   "on": {
+      "message": "Na"
+   },
+   "options": {
+      "message": "Možnosti"
+   },
+   "pickAgainLocked": {
+      "message": "Vyberte inú farbu [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Vyberte aktuálnu farbu [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Začať vyberať farby pri každom prekliknutí"
+   },
+   "pixelatedPreview": {
+      "message": "Zväčšený náhľad je pixelovaný"
+   },
+   "popOutWindow": {
+      "message": "Pop-out (samostatné okno)"
+   },
+   "pressEnterToPick": {
+      "message": "Stlačením tlačidla enter vyberte farbu"
+   },
+   "printSave": {
+      "message": "Tlačiť / uložiť..."
+   },
+   "reSnapPage": {
+      "message": "Obnoviť obrázok stránky [r]"
+   },
+   "registerButton": {
+      "message": "Registrovať"
+   },
+   "registered": {
+      "message": "Registrovaný"
+   },
+   "resetIcon": {
+      "message": "Vrátiť sa na normálnu ikonu"
+   },
+   "rightClick": {
+      "message": "Kliknite pravým tlačidlom myši"
+   },
+   "saveOptions": {
+      "message": "Uložiť možnosti"
+   },
+   "savedoptions": {
+      "message": "Uložené možnosti."
+   },
+   "seeTerms": {
+      "message": "Pozri podmienky používania"
+   },
+   "shareClors": {
+      "message": "Štatistika farieb dňa (pozri podmienky používania)"
+   },
+   "showColorChooser": {
+      "message": "Zobraziť výber farieb"
+   },
+   "showDefaults": {
+      "message": "Zobraziť predvolené hodnoty"
+   },
+   "showPreviousClr": {
+      "message": "Zobraziť rozdelený farebný náhľad s predchádzajúcou farbou"
+   },
+   "showndefaults": {
+      "message": "Stlačte tlačidlo Uložiť, teraz sa zobrazujú predvolené hodnoty."
+   },
+   "sort": {
+      "message": "druh"
+   },
+   "terms": {
+      "message": "Podmienky používania"
+   },
+   "unregistered": {
+      "message": "Neregistrovaný"
+   },
+   "usageStatistics": {
+      "message": "Zhromažďovať štatistiky používania (pozri podmienky používania)"
+   },
+   "useCSSValues": {
+      "message": "Použite css hodnoty pre RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Použitie PNG ak je k dispozícii"
+   },
+   "usePrevColorBG": {
+      "message": "Použite predchádzajúcu farbu na pozadie"
+   }
+}

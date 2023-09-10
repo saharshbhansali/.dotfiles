@@ -1,0 +1,21 @@
+body {
+  font-family: Inconsolata;
+}
+
+body > div {
+  color: gray;
+  margin-left: 1em;
+  padding: 2em;
+}
+
+select {
+  margin-bottom: 10px;
+}
+
+pre {
+  left: -10px;
+  top: 10px;
+  position: relative;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}

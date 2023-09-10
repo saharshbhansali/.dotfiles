@@ -1,0 +1,31 @@
+body {
+  padding: 8px;
+  font-family: Ubuntu, Arial, sans-serif;
+}
+
+.item {
+  padding: 8px 0;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+}
+
+#options {
+  display: flex;
+  flex-direction: column;
+  flex: auto 1 1;
+}
+
+#controls {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 0 16px 16px 0;
+}
+
+#status {
+  display: inline;
+  color: rgba(16, 145, 16, 0.79);
+}

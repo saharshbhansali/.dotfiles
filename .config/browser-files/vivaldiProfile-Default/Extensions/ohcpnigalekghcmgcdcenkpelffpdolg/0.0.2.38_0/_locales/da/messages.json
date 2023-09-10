@@ -1,0 +1,197 @@
+{
+   "EnableHSL": {
+      "message": "At vise HSL"
+   },
+   "EnableRGB": {
+      "message": "At vise RGB"
+   },
+   "addToPalette": {
+      "message": "Tilføj til farvepalet"
+   },
+   "advancedOptions": {
+      "message": "Avancerede indstillinger"
+   },
+   "allowWebGl": {
+      "message": "Tillad webgl for pixelated preview"
+   },
+   "appleIcon": {
+      "message": "Brug Apple Digital Farve meter logo"
+   },
+   "approved": {
+      "message": "Godkendt"
+   },
+   "bbackgroundColor": {
+      "message": "Popup baggrundsfarve"
+   },
+   "bgPageUnavailable": {
+      "message": "Baggrundsbillede tager ikke imod - opdater siden og prøv igen."
+   },
+   "borderValue": {
+      "message": "Grænser til brug (css værdi)"
+   },
+   "clear": {
+      "message": "Klar"
+   },
+   "clearSync": {
+      "message": "Slet synkroniseringslagring"
+   },
+   "closeAndExit": {
+      "message": "Luk og afslut farvevalgtilstand"
+   },
+   "colorOfDay": {
+      "message": "Dagens farve"
+   },
+   "copycolorval": {
+      "message": "Kopier farveværdien"
+   },
+   "dblClick": {
+      "message": "Dobbeltklik"
+   },
+   "default": {
+      "message": "Standard"
+   },
+   "disablePickEveryTime": {
+      "message": "Start ikke med at vælge hver gang popup klikkes"
+   },
+   "disableRewriting": {
+      "message": "Deaktivere tilknytning af ikke-tilknyttede links"
+   },
+   "error": {
+      "message": "Fejl"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Hent indstillinger fra Google-konto-synkroniseringslagring"
+   },
+   "fishEye": {
+      "message": "Fisk øje zoom mængde"
+   },
+   "full": {
+      "message": "Fuld"
+   },
+   "hasAgreedToLicense": {
+      "message": "Har accepteret vilkår for brug"
+   },
+   "help": {
+      "message": "Hjælp / info"
+   },
+   "hideMinimize": {
+      "message": "Skjule / minimere "
+   },
+   "history": {
+      "message": "Historie"
+   },
+   "iconIsBitmap": {
+      "message": "Ikonet er zoomet pixel preview"
+   },
+   "iconIsPreview": {
+      "message": "Brug ikon badge kvadrat farve forhåndsvisning"
+   },
+   "loadsyncOptions": {
+      "message": "Synkroniseringsindstillingerne er blevet indlæst og gemt."
+   },
+   "maxZoom": {
+      "message": "Max zoomet"
+   },
+   "modifyLicense": {
+      "message": "Ændre licens"
+   },
+   "noSwatches": {
+      "message": "Klik på farver i farvehistorik for at tilføje dem til en palette for at gemme og udskrive."
+   },
+   "off": {
+      "message": "Af"
+   },
+   "on": {
+      "message": "På"
+   },
+   "options": {
+      "message": "Muligheder"
+   },
+   "pickAgainLocked": {
+      "message": "Vælg en anden farve [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Vælg nuværende farve [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Begynde at vælge farver hver gang popup klikkes"
+   },
+   "pixelatedPreview": {
+      "message": "Zoomforhåndsvisning er pixeleret"
+   },
+   "popOutWindow": {
+      "message": "Pop-out (separat vindue)"
+   },
+   "pressEnterToPick": {
+      "message": "Tryk enter for at vælge farve"
+   },
+   "printSave": {
+      "message": "Print / gem..."
+   },
+   "reSnapPage": {
+      "message": "Opdatér billedet af siden [r]"
+   },
+   "registerButton": {
+      "message": "Tilmeld"
+   },
+   "registered": {
+      "message": "Anbefalet"
+   },
+   "resetIcon": {
+      "message": "Vende tilbage til normal ikon"
+   },
+   "rightClick": {
+      "message": "Højreklik"
+   },
+   "saveOptions": {
+      "message": "Gemme muligheder"
+   },
+   "savedoptions": {
+      "message": "Indstillinger gemt."
+   },
+   "seeTerms": {
+      "message": "Se vilkår for brug"
+   },
+   "shareClors": {
+      "message": "Dagstatistikens farve (se brugsbetingelser)"
+   },
+   "showColorChooser": {
+      "message": "Vis farve vælger"
+   },
+   "showDefaults": {
+      "message": "Vis standardindstillinger"
+   },
+   "showPreviousClr": {
+      "message": "Vis split farve preview med tidligere farve"
+   },
+   "showndefaults": {
+      "message": "Tryk venligst på Gem, nu viser standardindstillingerne."
+   },
+   "sort": {
+      "message": "sortere"
+   },
+   "terms": {
+      "message": "Vilkår for brug"
+   },
+   "unregistered": {
+      "message": "Uregistrerede"
+   },
+   "usageStatistics": {
+      "message": "Indsamle brugsstatistikker (se brugsbetingelser)"
+   },
+   "useCSSValues": {
+      "message": "Brug css værdier for RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Brug PNG kvalitet, når den er tilgængelig"
+   },
+   "usePrevColorBG": {
+      "message": "Brug tidligere farve til baggrund"
+   }
+}

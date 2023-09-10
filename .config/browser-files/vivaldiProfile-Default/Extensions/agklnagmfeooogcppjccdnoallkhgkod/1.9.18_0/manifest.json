@@ -1,0 +1,30 @@
+{
+   "action": {
+      "default_icon": "assets/icons/icon_disabled-500.png"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "main.js" ],
+      "matches": [ "*://*.phind.com/*" ]
+   } ],
+   "description": "🚀 Export your Phind.com search threads into markdown files!\n",
+   "differential_fingerprint": "1.c657644e742eb70ddf67ce5f57413b8973ef3d07047e17c8ceb6d1a7561da278",
+   "host_permissions": [ "https://*.phind.com/*" ],
+   "icons": {
+      "128": "assets/icons/icon-128.png",
+      "16": "assets/icons/icon-16.png",
+      "48": "assets/icons/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlk/d1obEt+3M1cFZqO8hO/R4p72VpaDxUe/8xZqUo15lhz27cWt4aJ2RVJjIK/85T+9tWRJQV/LPU+MYxQRnDoLBavP6yvd3JLzqLBAmeE16HyAPYYWBvmhoofhzLWabqQODRMMx+5uSgyrcySAxNjmmpwnsoej7Lo5yxETEOgJH8FHSV4lLjFAuBTtPy1AoHkRRxtBFuth4uIw16/3fuBUSVF9dF6BZjTlWSiKPTnzgNWgY9ng06lULf3vKKe0Ut4wpxy02tZnyGy5Tu/WArVAfuSbiWI4oN5Aaf/djyj9Qk+JH2sAWdMspd/HCmN4qqjabpOGAwhbxSTUS/OmBqwIDAQAB",
+   "manifest_version": 3,
+   "name": "Save my Phind - AI Conversation Exporter",
+   "permissions": [ "scripting", "activeTab", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.9.18",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "infos.json", "assets/*" ]
+   } ]
+}

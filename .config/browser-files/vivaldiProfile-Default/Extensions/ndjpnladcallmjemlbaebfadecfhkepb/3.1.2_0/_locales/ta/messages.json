@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "கணக்கு"
+   },
+   "AppDescription": {
+      "message": "உங்கள் உலாவியில் ஆவணங்களைப் பார்க்கலாம், திருத்தலாம் மற்றும் உருவாக்கலாம்."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "உலாவியில் கோப்புகளைப் பார்க்கலாம், திருத்தலாம் மற்றும் உருவாக்கலாம், வலையில் சிறப்பாக எழுதலாம்."
+   },
+   "AppFolderName": {
+      "message": "Microsoft 365 உலாவி நீட்டிப்பு"
+   },
+   "AppListLabel": {
+      "message": "வலைப் பயன்பாடுகள்"
+   },
+   "AppLongDescription": {
+      "message": "Chrome-க்காக கட்டமைத்தது - Microsoft 365-ஐ நிறுவாமலேயே, Word, Excel, PowerPoint, OneNote, Sway Online ஆகியவற்றைப் பயன்படுத்துங்கள்.\r\n\r\nதன்னம்பிக்கையுடன் உருவாக்குங்கள் - உங்கள் யோசனைகளை முழு ஈடுபாட்டுடன் வெளிப்படுத்த, புகழ்பெற்ற வடிவமைப்பு மற்றும் தளவமைப்பு விருப்பங்களைப் பயன்படுத்துங்கள்.\r\n\r\nபயணத்தின்போதும் பணியாற்றுங்கள் - OneDrive மற்றும் OneDrive for Business உடனான ஒருங்கிணைப்பு மூலம் உங்கள் கோப்புகளை எங்கிருந்தும் பெறுங்கள்.\r\n\r\nபயன்பாட்டை நிறுவுவதன் மூலம், இந்த விதிகள் மற்றும் நிபந்தனைகளை ஏற்கிறீர்கள்: http://aka.ms/officechromeextensionterms\r\n\r\nதனியுரிமைக் கொள்கை: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Microsoft 365 உலாவி நீட்டிப்பானது உங்கள் Microsoft 365 கோப்புகள் ஆன்லைனில் அல்லது உங்கள் கணினியில் சேமிக்கப்பட்டிருந்தாலும் அவற்றுக்கான நேரடி அணுகலை உங்களுக்கு அளிக்கும் வகையில் Microsoft Edge கருவிப்பட்டியில் படவுருவை வைக்கிறது.\r\n\r\nMicrosoft 365 வலை நீட்டிப்பால் OneDrive மற்றும் OneDrive for Business-இல் சேமிக்கப்பட்ட கோப்புகளைத் திறக்க முடியும்.\r\n\r\nMicrosoft 365-ஐ நிறுவாமல் உங்கள் உலாவியிலேயே Word, Excel, PowerPoint, OneNote, Sway ஆகியவற்றின் அம்சங்களைப் பெறுவீர்கள்.\r\n\r\nMicrosoft 365 உலாவி நீட்டிப்பு இப்போது உங்கள் உள்ளடக்கத்தின் திருத்தத்தை உள்ளடக்குகிறது*. பெரும்பாலான வலைத்தளங்களில் உங்கள் எழுத்துக்கான எழுத்துப்பிழைச் சரிபார்ப்பு, இலக்கணம் மற்றும் மேம்படுத்தல் பரிந்துரைகளை வழங்கும் Microsoft ஆன்லைன் சேவையுடன் இது இணைக்கிறது, மேலும் இது 80-க்கும் மேற்பட்ட மொழிகளில் கிடைக்கிறது.\r\n\r\n*இந்த அம்சம் அனைத்துப் பயனர்களுக்கும் கிடைக்காமல் போகலாம்.\r\n\r\nபயன்பாட்டை நிறுவுவதன் மூலம் இந்த விதிமுறைகள் மற்றும் நிபந்தனைகளை ஒப்புக்கொள்கிறீர்கள்: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Chrome-க்காக உருவாக்கப்பட்டது – Microsoft 365-ஐ நிறுவாமலேயே Word, Excel, PowerPoint, OneNote மற்றும் Sway Online-ஐப் பயன்படுத்துங்கள்.\r\n\r\nதன்னம்பிக்கையுடன் உருவாக்குங்கள் – உங்கள் கருத்துகளை முழுவதும் தன்னம்பிக்கையுடன் வெளிப்படுத்த பழக்கமான வடிவமைப்பு மற்றும் தளவமைப்பு விருப்பங்களைப் பயன்படுத்ததுங்கள்.\r\n\r\nபயணத்தின்போதும் பணியாற்றுங்கள் - OneDrive மற்றும் OneDrive for Business உடனான ஒருங்கிணைப்பு மூலம் உங்கள் கோப்புகளை எங்கிருந்தும் பெறுங்கள்.\r\n\r\nMicrosoft 365 உலாவி நீட்டிப்பில் இப்போது உங்கள் உள்ளடக்கத்தின் எழுத்துப்பிழைச் சரிபார்ப்பு உள்ளது*. இது Microsoft ஆன்லைன் சேவையுடன் இணைந்து பெரும்பாலான வலைத்தளங்களில் உங்கள் எழுத்துக்கான எழுத்துப்பிழைச் சரிபார்ப்பு, இலக்கணம் மற்றும் மேம்படுத்தல் பரிந்துரைகளை வழங்குகிறது மற்றும் 80-க்கும் மேற்பட்ட மொழிகளில் கிடைக்கிறது.\r\n\r\n*இந்த அம்சம் எல்லாப் பயனர்களுக்கும் கிடைக்காமல் போகலாம்.\r\n\r\nபயன்பாட்டை நிறுவுவதன் மூலம், இந்த நிபந்தனைகள் மற்றும் விதிமுறைகள்: http://aka.ms/officechromeextensionterms\r\n\r\nதனியுரிமைக் கொள்கை: http://aka.ms/privacy ஆகியவற்றுக்கு ஒப்புக்கொள்கிறீர்கள்\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "உங்கள் பயன்பாடுகள் அனைத்தையும் ஆராயவும்"
+   },
+   "AppsSectionHeader": {
+      "message": "பயன்பாடுகள்"
+   },
+   "BrowseToOpenLabel": {
+      "message": "பதிவேற்றித் திறக்கவும்..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "ஒரு கணக்கை உருவாக்கவும்"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "சமீபத்தில் பார்த்த ஆவணங்கள் இல்லை."
+   },
+   "CreateNewLabel": {
+      "message": "புதிய"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "$host$-இல் திருத்தியை முடக்கு",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "உங்கள் சமீபத்திய ஆவணங்களின் பட்டியலை எங்களால் இப்போது பெற முடியாது."
+   },
+   "EditorBrandText": {
+      "message": "திருத்தி"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "இலக்கணம்"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "திருத்தி தற்போது $host$-இல் ஆதரிக்கப்படவில்லை",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "திருத்தி தற்போது $host$-இல் முடக்கப்பட்டுள்ளது",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "திருத்தி ஆஃப்."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "திருத்தி, $host$ உடன் சேர்க்கப்பட்டுள்ளது",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(முன்னோட்டம்)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "திருத்தி சேவை Microsoft திருத்தி நீட்டிப்பு மூலம் வழங்கப்படுகிறது."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "நீங்கள் பிரீமியம் பதிப்பைப் பயன்படுத்தும்போது மேம்பட்ட எழுத்து முறை யோசனைகள் மற்றும் 1 TB சேமிப்பிடத்தைப் பெறுங்கள்."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "மேம்பாடுகள்"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "சுத்திகரிப்புகள் என்பவை நீங்கள் எழுதுவதைத் தெளிவாகவும், குறைவான சொற்களைக் கொண்டதாகவும் அல்லது முறையானதாகவும் மாற்ற உதவும் மேம்பட்ட எழுத்து பரிந்துரைகள் ஆகும்."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "எழுத்துப்பிழைத் தீர்வி"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "$host$-இல் திருத்தியை இயக்கு",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "கோப்பு வகை ஆதரிக்கப்படவில்லை. Word, Excel அல்லது PowerPoint ஆவணத்தைத் தேர்வுசெய்க."
+   },
+   "LoadingRecentsLabel": {
+      "message": "ஏற்றுகிறது..."
+   },
+   "MoreFilesLabel": {
+      "message": "மேலும் ஆவணங்கள்"
+   },
+   "MyAccountLabel": {
+      "message": "எனது கணக்கைக் காட்டு"
+   },
+   "NextLabel": {
+      "message": "உள்நுழை"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "இதை மீண்டும் காட்ட வேண்டாம்"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "நாங்கள் உங்கள் கோப்பை உங்கள் OneDrive -இல் \"Microsoft 365 உலாவி நீட்டிப்பு\" கோப்புறையில் சேமித்துள்ளோம்."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "நாங்கள் உங்கள் கோப்பை உங்கள் OneDrive for Business -இல் \"Microsoft 365 உலாவி நீட்டிப்பு\" கோப்புறையில் சேமித்துள்ளோம்."
+   },
+   "NotificationFileAccess": {
+      "message": "நீட்டிப்பு அமைப்புகளில், உலாவியில் நீங்கள் கோப்புகளை இழுத்து விட விரும்பினால், சரிபார்ப்புப் பட்டியில் “கோப்பு URLகளை அணுக அனுமதி” என்பதைத் தேர்ந்தெடுக்கவும்."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "அளவு காரணமாக Microsoft 365 உலாவி நீட்டிப்பால் உங்கள் ஆவணத்தைத் திறக்க இயலவில்லை.  ஆவணத்தைத் திறக்க, OneDrive -இல் நேரடியாகப் பதிவேற்றவும்."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "மன்னிக்கவும், எங்களால் உங்கள் கோப்பைத் திறக்க இயலவில்லை."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "மன்னிக்கவும், எங்களால் உங்கள் கோப்பைத் திறக்க இயலவில்லை.  பின்னர் மீண்டும் முயற்சிக்கவும்."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "மன்னிக்கவும், எங்களால் உங்கள் கோப்பைத் திறக்க இயலவில்லை.  Word, Excel அல்லது PowerPoint-இல் உருவாக்கப்பட்ட ஒரு கோப்பைத் தேர்வுசெய்க"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "தற்போது உங்கள் ஆவணத்தை(களை) பதிவேற்றுகிறோம்."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "உங்கள் Microsoft 365 சந்தா காலாவதியாகி இருக்கலாம் அல்லது அதில் OneDrive for Business இல்லாமல் இருக்கலாம். உங்கள் சந்தாவைச் சரிபாருங்கள் அல்லது அதற்குப் பதிலாக Microsoft கணக்கில் உள்நுழையுங்கள்."
+   },
+   "NotificationNotSignedIn": {
+      "message": "கோப்புகளை Microsoft 365 வலையில் காணவும் திருத்தவும் நீட்டிப்பில் உள்நுழையவும்."
+   },
+   "NotificationSetDefault": {
+      "message": "கோப்புகள் பயன்பாட்டில், Microsoft 365 மூலம் திறக்க இரு விரல்களால் ஆவணங்களைத் தட்டவும்."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Word, Excel அல்லது PowerPoint-இல் உருவாக்கப்பட்ட ஒரு கோப்பைத் தேர்வுசெய்க."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Microsoft 365 நீட்டிப்பு உங்கள் ஆவணத்தை உலாவியில் திறக்கிறது"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "இதை மீண்டும் காட்ட வேண்டாம்"
+   },
+   "O365FilesLabel": {
+      "message": "OneDrive for Business-இலிருந்து"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "ஆஃப்லைனில் உள்ளீர்கள். Chrome-க்கான Microsoft 365 உலாவி நீட்டிப்பைப் பயன்படுத்த, மீண்டும் இணைக்கவும்."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "OneDrive-இலிருந்து"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "திற"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "ஆவணங்கள்"
+   },
+   "SettingsLabel": {
+      "message": "அமைப்புகள்"
+   },
+   "ShareMessage": {
+      "message": "பகிர்"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "அனுமதி தேவை"
+   },
+   "SharePermissionsTooltip": {
+      "message": "பகிர, உங்களுக்கு அனுமதியில்லை"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "உங்கள் கோப்புகளை எங்கே சேமிக்க விரும்புகிறீர்கள்?"
+   },
+   "SignInLabel": {
+      "message": "உள்நுழை"
+   },
+   "SignInMSALabel": {
+      "message": "Microsoft கணக்கைப் பயன்படுத்தி உள்நுழையவும்"
+   },
+   "SignInO365Label": {
+      "message": "பணி அல்லது பள்ளிக் கணக்கைப் பயன்படுத்தி உள்நுழையவும்"
+   },
+   "SignOutLabel": {
+      "message": "வெளியேறு"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "திருத்தி சேவை Microsoft திருத்தி நீட்டிப்பு மூலம் வழங்கப்படுகிறது."
+   },
+   "SupportPageLabel": {
+      "message": "உள்நுழைவதில் உதவி வேண்டுமா?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "எங்கள் தயாரிப்புகளை மேம்படுத்த எங்களுக்கு உதவ, தரவை தானாக அனுப்பவும்."
+   },
+   "TurnOnEditorLabel": {
+      "message": "திருத்தியை இயக்கு"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "OneDrive for Business-க்குப் பதிவேற்று"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "OneDrive-க்குப் பதிவேற்று"
+   },
+   "UsernameLabel": {
+      "message": "உள்நுழையவில்லை"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Microsoft 365 உடன் உலாவியில் நேரடியாக Microsoft 365 கோப்புகளைத் திறக்கவும்."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

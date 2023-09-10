@@ -1,0 +1,15 @@
+2023/08/28-16:30:21.270 2d40d0 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/28-16:30:21.270 2d40d0 Recovering log #7
+2023/08/28-16:30:21.270 2d40d0 Reusing old log /home/saharsh/.config/vivaldi/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2023/08/28-16:30:37.132 2d40d0 Level-0 table #12: started
+2023/08/28-16:30:37.133 2d40d0 Level-0 table #12: 209 bytes OK
+2023/08/28-16:30:37.136 2d40d0 Delete type=0 #7
+2023/08/28-16:30:37.136 2d40d0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/08/28-16:30:37.136 2d40d0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 77 : 1
+2023/08/28-16:30:37.136 2d40d0 Compacting 1@1 + 1@2 files
+2023/08/28-16:30:37.138 2d40d0 Generated table #13@1: 19 keys, 548 bytes
+2023/08/28-16:30:37.138 2d40d0 Compacted 1@1 + 1@2 files => 548 bytes
+2023/08/28-16:30:37.141 2d40d0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/28-16:30:37.141 2d40d0 Delete type=2 #9
+2023/08/28-16:30:37.141 2d40d0 Delete type=2 #12
+2023/08/28-16:30:37.141 2d40d0 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 77 : 1 .. (end); will stop at (end)

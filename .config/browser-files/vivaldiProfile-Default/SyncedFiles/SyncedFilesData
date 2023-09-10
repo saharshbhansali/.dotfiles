@@ -1,0 +1,24 @@
+{
+   "files_info": {
+      "G32YPF3TCZ6N4DAUJU5IOWJCMK42AWUHCALTUND6DDGXKVBLBGRQ.147287": {
+         "has_content_locally": true,
+         "local_references": {
+            "229171": [ "6eafb094-6e48-4fbd-8832-6e38d070d8fa" ]
+         },
+         "mimetype": "image/jpeg",
+         "sync_refrences": {
+            "229171": [ "\u003CC>LTm6h2PxNuKWYurF7eyBiWkqW/M=" ]
+         }
+      },
+      "NQS4DFTGGH2GJGAHB6TQZ2F2ZHZCEHETDDJGBOJTVZ677IXTX3JQ.136320": {
+         "has_content_locally": true,
+         "local_references": {
+            "229171": [ "fbbf03cc-15b9-47a1-ace3-252df12387b7" ]
+         },
+         "mimetype": "image/jpeg",
+         "sync_refrences": {
+            "229171": [ "\u003CC>BlcJetgZAfoOsA9+Gb6phWcd2LQ=" ]
+         }
+      }
+   }
+}

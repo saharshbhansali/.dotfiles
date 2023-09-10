@@ -1,0 +1,1638 @@
+{
+   "0": {
+      "message": "Zeitüberschreibung. Überprüfe deine Internetverbindung. Bist du mit dem Internet verbunden, ist der Server wahrscheinlich offline."
+   },
+   "400": {
+      "message": "Der Server meldet, dass diese Anfrage ungültig war."
+   },
+   "409": {
+      "message": "Dieser Inhalt wurde bereits eingereicht."
+   },
+   "429": {
+      "message": "Du hast zu viele Segmente für dieses Video eingereicht. Sind es wirklich so viele?"
+   },
+   "502": {
+      "message": "Der Server ist wahrescheinlich überlastet. Probiere es später nochmal."
+   },
+   "ActivateDeArrow": {
+      "message": "DeArrow aktivieren"
+   },
+   "CanvasMissing": {
+      "description": "Canvas is the name of an HTML element used to draw thumbnails onto",
+      "message": "Leinwand fehlt"
+   },
+   "CapitalizeWords": {
+      "message": "Wörter groß schreiben"
+   },
+   "ChangeCategoryTooltip": {
+      "message": "Dies wirkt sich sofort auf eigene Segmente aus"
+   },
+   "ChannelAllowlist": {
+      "message": "Erlaubte Kanäle"
+   },
+   "ChannelListInstructions": {
+      "description": "Instructions for the channel allowlist feature in DeArrow to configure settings for specific channels",
+      "message": "Geben Sie alle Kanäle, auf die Sie diese Konfiguration anwenden möchten, in das untenstehende Feld, in eigene Zeilen, ein. Sowohl Kanal-IDs als auch Anzeigenamen werden unterstützt. @-Benutzernamen werden nicht unterstützt. Die Kanal-ID kann man durch den \"Teilen\"-Button auf der \"Kanalinfo\"-Seite erhalten."
+   },
+   "Chapters": {
+      "message": "Kapitel"
+   },
+   "Close": {
+      "message": "Schließen"
+   },
+   "ConfigurationName": {
+      "message": "Benennung für Konfiguration"
+   },
+   "ContinueVoting": {
+      "message": "Bewerten fortsetzen"
+   },
+   "CopiedExclamation": {
+      "description": "Used after something has been copied to the clipboard. Example: 'Copied!'",
+      "message": "Kopiert!"
+   },
+   "CopyAndDownvote": {
+      "message": "Kopieren und abwerten"
+   },
+   "CopyDownvoteButtonInfo": {
+      "message": "Downvotet, und erstellt eine lokale Kopie zum erneuten Einreichen"
+   },
+   "Credits": {
+      "message": "Mitwirkende"
+   },
+   "CurrentTime": {
+      "message": "Aktuelle Zeit"
+   },
+   "DeArrowIsActivated": {
+      "message": "DeArrow wurde erfolgreich aktiviert"
+   },
+   "DeArrowNotActivated": {
+      "message": "DeArrow ist nicht aktiviert"
+   },
+   "DeArrowPromotionMessage": {
+      "message": "Stoppe Clickbait, indem du Titel und Thumbnails durch genauere ersetzt"
+   },
+   "DeArrowPromotionMessage2": {
+      "message": "Genug von Clickbait? Schau dir meine neue Erweiterung zum Verbessern von Titeln und Thumbnails an"
+   },
+   "DeleteConfiguration": {
+      "message": "Konfiguration löschen"
+   },
+   "Description": {
+      "description": "Description of the extension.",
+      "message": "Überspringe gesponserte Inhalte, Aufforderungen zum Interagieren und mehr in YouTube-Videos. Markiere Sponsoren in Videos, um anderen die Zeit zu ersparen."
+   },
+   "Disabled": {
+      "message": "Deaktiviert"
+   },
+   "Dismiss": {
+      "message": "Abbrechen"
+   },
+   "Donate": {
+      "message": "Spenden"
+   },
+   "Editing": {
+      "message": "Bearbeitung"
+   },
+   "Enable": {
+      "message": "Aktivieren"
+   },
+   "End": {
+      "description": "Button that skips to the end of a segment",
+      "message": "Ende"
+   },
+   "Error": {
+      "message": "Fehler"
+   },
+   "ExceptionWhileRendering": {
+      "description": "Displayed if there is a general error when trying to render the thumbnail",
+      "message": "Fehler beim Rendern"
+   },
+   "FailedToLoad": {
+      "description": "Thumbnail failed to load",
+      "message": "Laden fehlgeschlagen"
+   },
+   "FailedToRender": {
+      "description": "Thumbnail preview failed to render",
+      "message": "Rendern fehlgeschlagen"
+   },
+   "FillerWarning": {
+      "description": "Warning that appears when enabling the filler tangent category",
+      "message": "Warnung: Dies ist eine extrem agressive Kategorie. Wahrscheinlich musst du einige Dinge ent-skippen oder es manchmal deaktivieren. Sei gewarnt, dass 50% oder mehr vieler Videos übersprungen werden! Denk jedoch daran, dass es weiterhin bestimmte Richtlinien für das einreichen gibt, welche man folgen muss."
+   },
+   "FirstLetterUppercase": {
+      "message": "Erster Buchstabe Großgeschrieben"
+   },
+   "FullDetails": {
+      "message": "Vollständige Details"
+   },
+   "GotIt": {
+      "description": "Used as the button to dismiss a tooltip",
+      "message": "Verstanden"
+   },
+   "Hide": {
+      "message": "Verstecken"
+   },
+   "Import": {
+      "description": "Button to initiate importing segments. Appears under the textbox where they paste in the data",
+      "message": "Importieren"
+   },
+   "LearnMore": {
+      "message": "Erfahre mehr"
+   },
+   "Loading": {
+      "message": "Lädt..."
+   },
+   "LowerCase": {
+      "message": "Kleinbuchstaben"
+   },
+   "Never": {
+      "message": "Niemals"
+   },
+   "NewConfiguration": {
+      "message": "Neue Konfiguration"
+   },
+   "NoConfigurationsSetup": {
+      "description": "Appears when there are no channel configurations setup yet on the channel allow list page",
+      "message": "Noch keine Konfigurationen eingerichtet. Klicken Sie oben auf den Button, um eine neue Konfiguration hinzuzufügen."
+   },
+   "NoticeTimeAfterSkip": {
+      "description": "This is used on the popup to show how much time left. It will look like \"5s\". The word {seconds} will be replaced, so keep it here. Translations should only change the \"s\"",
+      "message": "{seconds}s"
+   },
+   "OpenCategoryWikiPage": {
+      "message": "Öffne den Wiki-Artikel dieser Kategorie."
+   },
+   "OpenSubmissionMenu": {
+      "message": "Einreichungsmenü öffnen"
+   },
+   "Options": {
+      "message": "Optionen"
+   },
+   "Original": {
+      "message": "Original"
+   },
+   "OriginalTitle": {
+      "message": "Originaltitel"
+   },
+   "RandomThumbnailAndAutoFormattedExplanation": {
+      "description": "A description during on boarding to explain the random thumbnail and autoformatting setting",
+      "message": "Dieses Thumbnail wurde von einem zufälligen Zeitstempel gewählt und der Titel wurde automatisch formatiert, weil es noch keine Einreichung für dieses Video gibt"
+   },
+   "RandomThumbnailExplanation": {
+      "description": "A description during on boarding to explain the random thumbnail setting",
+      "message": "Dieses Thumbnail wurde von einer zufälligen Zeit gewählt, da es noch keine Einreichungen für dieses Video gab"
+   },
+   "RandomTime": {
+      "message": "Zeige einen Screenshot eines zufälligen Zeitpunktes"
+   },
+   "Segment": {
+      "message": "Segment"
+   },
+   "Segments": {
+      "message": "Segmente"
+   },
+   "SegmentsCap": {
+      "message": "Segmente"
+   },
+   "SentenceCase": {
+      "message": "Nur 1. Wort des Satzes groß"
+   },
+   "SharingIsCaring": {
+      "message": "Teilen macht Freude"
+   },
+   "ShowModified": {
+      "message": "Zeige veränderte Details"
+   },
+   "ShowOriginal": {
+      "message": "Zeige Original Details"
+   },
+   "SponsorTimeEditScrollNewFeature": {
+      "message": "Benutze das Mausrad während der Mauszeiger über dem Eingabefeld schwebt um die Zeit schnell anzupassen. Benutze Strg bzw. Shift für gröbere/genauere Änderungen."
+   },
+   "Submissions": {
+      "message": "Beiträge"
+   },
+   "Submitting": {
+      "message": "Übermitteln"
+   },
+   "TheOriginalThumbnail": {
+      "message": "Zeige das originale Thumbnail"
+   },
+   "Thumbnails": {
+      "description": "Referring to thumbnails of YouTube videos",
+      "message": "Thumbnails"
+   },
+   "TitleCase": {
+      "message": "Wortanfänge groß"
+   },
+   "Titles": {
+      "description": "Referring to titles of YouTube videos",
+      "message": "Titel"
+   },
+   "TypeYourOwnTitleHere": {
+      "message": "Eigenen Titel hier eingeben"
+   },
+   "Unknown": {
+      "message": "Dein Beitrag konnte nicht übertragen werden, bitte versuche es später erneut."
+   },
+   "Username": {
+      "message": "Benutzername"
+   },
+   "VideoNotReady": {
+      "message": "Video nicht bereit"
+   },
+   "ViewLicenseKey": {
+      "message": "Lizenzschlüssel anzeigen"
+   },
+   "Vote": {
+      "message": "Abstimmen"
+   },
+   "YouCanChangeThisDefaultBelow": {
+      "description": "Appears in onboarding below explanation of random thumbnail and autoformatting",
+      "message": "Du kannst diese Standardeinstellung unten ändern"
+   },
+   "YtNeuterMessage": {
+      "message": "Füge eine Filterliste hinzu, um Umfragen, Verkäufe und ähnliche Werbeseitenelemente mit yt-neuter zu blockieren"
+   },
+   "acceptPermission": {
+      "message": "Berechtigung erteilen"
+   },
+   "actions": {
+      "description": "Header of the unsubmitted segments list",
+      "message": "Aktionen"
+   },
+   "adblockerIssueWhitelist": {
+      "message": "Falls du dies nicht beheben kannst, deaktiviere die Einstellung 'Kanalprüfung vor dem Überspringen von Segmenten erzwingen', da SponsorBlock nicht in der Lage ist die Kanal-Informationen für dieses Video abzurufen"
+   },
+   "add": {
+      "message": "Hinzufügen"
+   },
+   "addInvidiousInstance": {
+      "message": "Client-Instanz eines Drittanbieters hinzufügen"
+   },
+   "addInvidiousInstanceDescription": {
+      "message": "Füge eine benutzerdefinierte Invidious-Instanz hinzu. Diese darf nur den Domain-Teil beinhalten. Beispiel: \"invidious.ajay.app\""
+   },
+   "addInvidiousInstanceError": {
+      "message": "Dies ist eine ungültige Domain. Dies soll NUR den Domain-Teil beinhalten. Beispiel: invidious.ajay.app"
+   },
+   "allowScrollingToEdit": {
+      "message": "Scrollen zum Bearbeiten von Zeiten erlauben"
+   },
+   "alwaysShowShowOriginalButton": {
+      "message": "Zeige immer den \"Original anzeigen\"-Button an"
+   },
+   "areYouSureDeleteConfig": {
+      "description": "Appears when deleting a configuration for channel-based settings",
+      "message": "Soll diese Konfiguration wirklich gelöscht werden?"
+   },
+   "areYouSureReset": {
+      "message": "Bist du dir sicher, dass du das zurücksetzen möchtest?"
+   },
+   "askAQuestion": {
+      "message": "Stelle eine Frage"
+   },
+   "audioNotification": {
+      "message": "Audio-Benachrichtigung beim Überspringen"
+   },
+   "audioNotificationDescription": {
+      "message": "Es wird ein Ton abgespielt, wenn ein Segment übersprungen wird. Wenn deaktiviert (oder wenn Automatisches-Überspringen deaktiviert ist), wird kein Ton abgespielt."
+   },
+   "autoHideInfoButton": {
+      "message": "Info-Button automatisch ausblenden"
+   },
+   "autoSkip": {
+      "message": "Automatisch überspringen"
+   },
+   "autoSkipOnMusicVideos": {
+      "message": "Alle Segmente automatisch überspringen, wenn ein nicht-Musiksegment vorhanden ist"
+   },
+   "autoSkip_POI": {
+      "message": "Automatisch zum Start springen"
+   },
+   "betaServerWarning": {
+      "message": "BETA Server wurde aktiviert!"
+   },
+   "bracketEnd": {
+      "message": "(Ende)"
+   },
+   "bracketNow": {
+      "message": "(jetzt)"
+   },
+   "cancel": {
+      "message": "Abbrechen"
+   },
+   "cantAfford": {
+      "description": "Keep the curly braces. The word 'here' should be translated as well.",
+      "message": "Wenn du dir keine Lizenz leisten kannst, klicke {hier} um zu sehen, ob du für einen Rabatt in Frage kommen"
+   },
+   "category": {
+      "message": "Kategorie"
+   },
+   "categoryPillNewFeature": {
+      "message": "Neu! Sieh, ob ein Video ausschließlich Sponsor oder Eigenwerbung ist"
+   },
+   "categoryPillTitleText": {
+      "message": "Das gesamte Video fällt unter diese Kategorie und ist zu stark integriert, um es zu trennen"
+   },
+   "categoryUpdate1": {
+      "message": "Kategorien sind hier!"
+   },
+   "categoryUpdate2": {
+      "message": "Öffne die Optionen um das Verhalten bei Intros, Outros, Merchandising (Fanartikel) usw. einzustellen."
+   },
+   "category_chapter": {
+      "message": "Kapitel"
+   },
+   "category_chapter_description": {
+      "message": "Benutzerdefiniert benannte Kapitel, welche große Abschnitte eines Videos beschreiben."
+   },
+   "category_chapter_guideline1": {
+      "message": "Sponsor-Markennamen nicht erwähnen"
+   },
+   "category_chapter_guideline2": {
+      "message": "Benutze grössere Kapitel für allgemeine Abschnitte"
+   },
+   "category_chapter_guideline3": {
+      "message": "Kleinere Kapitel können innerhalb von grösseren platziert werden"
+   },
+   "category_exclusive_access": {
+      "message": "Exklusiver Zugriff"
+   },
+   "category_exclusive_access_description": {
+      "message": "Nur für das Kennzeichnen ganzer Videos. Wird verwendet wenn ein Video ein Produkt, eine Dienstleistung oder einen Ort präsentiert, zu welchem sie freien oder subventionierten Zugriff erhalten haben."
+   },
+   "category_exclusive_access_guideline1": {
+      "message": "Das gesamte Video zeigt etwas, zu dem man kostenlosen oder subventionierten Zugang erhalten hat"
+   },
+   "category_exclusive_access_pill": {
+      "description": "Short description for this category",
+      "message": "Dieses Video präsentiert ein Produkt, eine Dienstleistung oder einen Ort, zu welchem sie freien oder subventionierten Zugriff erhalten haben"
+   },
+   "category_filler": {
+      "message": "Füller/Witze"
+   },
+   "category_filler_description": {
+      "message": "Nebensächliche Szenen, die nur als Füller oder Witz dienen und nicht benötigt sind, um den Hauptinhalt des Videos zu verstehen. Dies bezieht sich nicht auf Segmente, die Kontext oder Hintergrunddetails liefern. Dies ist eine sehr aggressive Kategorie, die dafür gedacht ist, wenn du nicht in der Stimmung für \"Spaß\" bist."
+   },
+   "category_filler_guideline1": {
+      "message": "Tangentielle Szenen nur für Füller oder Humor"
+   },
+   "category_filler_guideline2": {
+      "message": "Ablenkungen, Patzer, Replays"
+   },
+   "category_filler_guideline3": {
+      "message": "Nicht für Szenen, welche zum verstehen des Topics sind"
+   },
+   "category_filler_short": {
+      "message": "Füller"
+   },
+   "category_interaction": {
+      "message": "Interaktions-Erinnerungen (Abonnieren, etc.)"
+   },
+   "category_interaction_description": {
+      "message": "Wenn es eine kurze Erinnerung zum \"Daumen hoch\", Abonnieren, oder Folgen in der Mitte von Inhalt gibt. Falls es lang oder über etwas bestimmtes ist, sollte es stattdessen \"Unbezahlt/Eigenwerbung\" sein."
+   },
+   "category_interaction_guideline1": {
+      "message": "Kurze Erinnerungen zum Liken, Abonnieren oder Folgen"
+   },
+   "category_interaction_guideline2": {
+      "message": "Enthält indirekte Erinnerungen zum Kommentieren"
+   },
+   "category_interaction_guideline3": {
+      "message": "Nicht für allgemeine Förderung, nur Aufruf zum Handeln"
+   },
+   "category_interaction_short": {
+      "message": "Interaktions-Erinnerung"
+   },
+   "category_intro": {
+      "message": "Unterbrechung/Intro-Animation"
+   },
+   "category_intro_description": {
+      "message": "Ein Videosegment ohne richtigen Inhalt. Kann eine Pause, ein Standbild oder eine sich wiederholende Animation sein. Dies sollte nicht für Übergänge verwendet werden, die Informationen enthalten."
+   },
+   "category_intro_guideline1": {
+      "message": "Intervall ohne tatsächlichen Inhalt"
+   },
+   "category_intro_guideline2": {
+      "message": "Nicht für Übergänge mit Informationen"
+   },
+   "category_intro_short": {
+      "message": "Unterbrechung"
+   },
+   "category_livestream_messages": {
+      "message": "Livestream: Spenden/Nachrichten vorlesen"
+   },
+   "category_livestream_messages_short": {
+      "message": "Nachrichten lesen"
+   },
+   "category_music_offtopic": {
+      "message": "Musik: Nicht-Musik-Abschnitt"
+   },
+   "category_music_offtopic_description": {
+      "message": "Nur für die Verwendung in Musikvideos. Dies sollte nur für Abschnitte von Musikvideos verwendet werden, die noch nicht von einer anderen Kategorie abgedeckt sind."
+   },
+   "category_music_offtopic_guideline1": {
+      "message": "Bereiche nicht in offiziellen Veröffentlichungen"
+   },
+   "category_music_offtopic_guideline2": {
+      "message": "Nicht-Musik in einer Live-Performance"
+   },
+   "category_music_offtopic_short": {
+      "message": "Musikvideoteile ohne Musik"
+   },
+   "category_outro": {
+      "message": "Endkarten/Quellen/Anerkennungen"
+   },
+   "category_outro_description": {
+      "message": "Credits oder wenn die YouTube-Endkarten erscheinen. Nicht für videobeendende Schlussfolgerungen mit Informationen."
+   },
+   "category_outro_guideline1": {
+      "message": "Enthalten keinen Inhalt, selbst wenn Endcards zu sehen sind"
+   },
+   "category_poi_highlight": {
+      "message": "Highlight"
+   },
+   "category_poi_highlight_description": {
+      "message": "Der Abschnitt des Videos, nach dem die meisten Leute suchen, ähnlich wie \"Video startet bei x\" Kommentare."
+   },
+   "category_poi_highlight_guideline1": {
+      "message": "Bereiche die die meisten Personen suchen"
+   },
+   "category_poi_highlight_guideline2": {
+      "message": "Kann helfen, vergangene Inhalte zu überspringen"
+   },
+   "category_poi_highlight_guideline3": {
+      "message": "Kann zum Titel oder Thumbnail überspringen"
+   },
+   "category_preview": {
+      "message": "Vorschau/Zusammenfassung"
+   },
+   "category_preview_description": {
+      "message": "Sammlung von Clips, welche zeigen, was in diesem Video oder anderen Videos in einer Serie kommen wird, wo alle Informationen später wiederholt werden."
+   },
+   "category_preview_guideline1": {
+      "message": "Clips welche später oder in einem zukünftigen Video erscheinen"
+   },
+   "category_preview_guideline2": {
+      "message": "Recap eines vorherigen Videos"
+   },
+   "category_preview_guideline3": {
+      "message": "Nicht für Bereiche, welche zusätzliche Inhalte geben"
+   },
+   "category_selfpromo": {
+      "message": "Unbezahlt/Eigenwerbung"
+   },
+   "category_selfpromo_description": {
+      "message": "Ähnlich wie \"Gesponsorte Videosegmente\", jedoch für unbezahlte oder Eigenwerbung. Dies beinhaltet Bereiche über Merchandise, Spenden, oder Informationen darüber, mit wem zusammengearbeitet wurde."
+   },
+   "category_selfpromo_guideline1": {
+      "message": "Spenden, Mitgliedschaften und eigene Fanartikel"
+   },
+   "category_selfpromo_guideline2": {
+      "message": "Unentgeltliche Erwähnungen, die nicht zum Video beitragen"
+   },
+   "category_selfpromo_guideline3": {
+      "message": "Nicht für Produkte und Merch von Firmen"
+   },
+   "category_sponsor": {
+      "message": "Gesponserte Videosegmente"
+   },
+   "category_sponsor_description": {
+      "message": "Bezahlte Werbung, bezahlte Empfehlungen und direkte Werbung, nicht für Eigenwerbung, kostenlose Fremdwerbung oder Empfehlungen für Anlässe/Personen/Webseiten/Produkte."
+   },
+   "category_sponsor_guideline1": {
+      "message": "Bezahlte Werbung"
+   },
+   "category_sponsor_guideline2": {
+      "message": "Nicht für Spenden oder eigene Fanartikel"
+   },
+   "change": {
+      "message": "Ändern"
+   },
+   "changeUserID": {
+      "message": "Private Benutzer-ID importieren/exportieren"
+   },
+   "channelDataNotFound": {
+      "description": "This error appears in an alert when they try to whitelist a channel and the extension is unable to determine what channel they are looking at.",
+      "message": "Kanal-ID ist noch nicht geladen. Falls es sich um ein eingebettetes Video handelt, probiere stattdessen die YouTube-Webseite. Dies könnte auch durch Änderungen im YouTube-Layout verursacht werden. Sollte das der Fall sein, kannst du es hier vermerken:"
+   },
+   "channelWhitelisted": {
+      "message": "Der Kanal wurde auf die Whitelist gesetzt!"
+   },
+   "chapterNameTooltipWarning": {
+      "message": "Einer deiner Kapitelnamen ähnelt einer Kategorie. Du solltest Kategorien verwenden, wenn möglich."
+   },
+   "chatboxDescription": {
+      "description": "Appears on the top of the integrated chatbox",
+      "message": "Trete Discord oder Matrix bei, um dauerhaft in diesem Chat zu bleiben"
+   },
+   "chooseACategory": {
+      "message": "Wähle eine Kategorie"
+   },
+   "chooseACountry": {
+      "message": "Wähle ein Land"
+   },
+   "chooseDescriptive": {
+      "message": "Wähle die am besten beschreibende"
+   },
+   "clearThis": {
+      "message": "Bist du sicher, dass du Folgendes löschen möchtest?\n\n"
+   },
+   "clearTimes": {
+      "message": "Alle Segmente löschen"
+   },
+   "clearTimesButton": {
+      "message": "Zeiten löschen"
+   },
+   "clearUnsubmittedSegments": {
+      "description": "Label for a button in settings",
+      "message": "Lösche alle Segmente"
+   },
+   "clearUnsubmittedSegmentsConfirm": {
+      "description": "Confirmation message for the Clear unsubmitted segments button",
+      "message": "Möchtest du wirklich alle nicht eingereichten Segmente löschen?"
+   },
+   "closeIcon": {
+      "message": "Symbol schließen"
+   },
+   "closePopup": {
+      "message": "Pop-up schließen"
+   },
+   "confirmMSG": {
+      "message": "Um einzelne Werte zu löschen oder zu ändern, klicke auf den Info-Knopf oder öffne die Erweiterungsübersicht, indem du das Erweiterungssymbol in der Ecke oben rechts anklickst."
+   },
+   "confirmNoticeTitle": {
+      "message": "Segment übermitteln"
+   },
+   "confirmResetToDefault": {
+      "message": "Sind Sie sicher, dass Sie alle Einstellungen auf ihre Standardwerte zurücksetzen wollen? Dies kann nicht rückgängig gemacht werden."
+   },
+   "connectionError": {
+      "message": "Ein Verbindungsfehler ist aufgetreten. Fehlermeldung: "
+   },
+   "considerDonating": {
+      "message": "Unterstütze die Entwicklung mit einer Spende"
+   },
+   "copyDebugInformation": {
+      "message": "Debug-Informationen in Zwischenablage kopieren"
+   },
+   "copyDebugInformationComplete": {
+      "message": "Die Debug-Informationen wurden in die Zwischenablage kopiert. Du kannst alle Informationen entfernen, die du nicht teilen möchtest. Verwende einen Texteditor um die Informationen in einer Textdatei zu speichern (um diese ggf. einem Fehlerbericht hinzuzufügen)."
+   },
+   "copyDebugInformationFailed": {
+      "message": "Fehler beim Kopieren in die Zwischenablage"
+   },
+   "copyDebugInformationOptions": {
+      "message": "Kopiert Informationen in die Zwischenablage, welche einem Entwickler gegebenenfalls (z. B. um einen Fehler zu melden) zur Verfügung gestellt werden können. Personenbezogene Daten wie die Benutzer-ID, Kanäle auf der Whitelist und die benutzerdefinierte Serveradresse wurden entfernt. Die Debug-Informationen enthalten jedoch unter anderem den Useragent, den Browser, das Betriebssystem und die Versionsnummer der Erweiterung. "
+   },
+   "copyPublicID": {
+      "message": "Öffentliche Benutzer-ID kopieren"
+   },
+   "copySegmentID": {
+      "message": "Segment-ID kopieren"
+   },
+   "countReplacements": {
+      "message": "Zähle Titel- und Thumbnail-Ersetzungen"
+   },
+   "countReplacementsDescription": {
+      "description": "On options page describing the setting for counting how many times titles and thumbnails have been replaced in DeArrow",
+      "message": "Wird verwendet, um dir Statistiken im Popup zu zeigen."
+   },
+   "createdBy": {
+      "message": "Erstellt von"
+   },
+   "currentInstances": {
+      "message": "Aktuelle Instanzen:"
+   },
+   "customAddressError": {
+      "message": "Die Adresse sieht nicht richtig aus. Bitte vergewisser dich, dass entweder \"http://\" oder \"https://\" am Anfang steht und keinen abschließenden Schrägstrich am Ende."
+   },
+   "customServerAddress": {
+      "message": "SponsorBlock Serveradresse"
+   },
+   "customServerAddressDescription": {
+      "message": "Die Adresse die SponsorBlock verwendet um Anfragen an den Server zu senden. Solange du keine eigene Serverinstanz hast, sollte das nicht geändert werden."
+   },
+   "darkModeOptionsPage": {
+      "message": "Dunkler Modus auf der Optionsseite"
+   },
+   "dataFetchingServerAddress": {
+      "message": "Server-Adresse für Datenabfrage"
+   },
+   "dataFetchingServerAddressDescription": {
+      "message": "Die Adresse, welche für Anfragen an den Abrufserver verwendet wird.\nDiese sollte nicht geändert werden, außer du hast deine eigene Serverinstanz."
+   },
+   "dayAbbreviation": {
+      "description": "100d",
+      "message": "T"
+   },
+   "deArrowDescription": {
+      "description": "Description of the Clickbait extension.",
+      "message": "Community-basierte Titel und Thumbnails, um sie informativer und weniger aufsehenerregend zu machen"
+   },
+   "deArrowDonationText": {
+      "message": "Falls dir gefällt, was ich bisher getan habe und du mir mit Geld aushelfen willst, hier ist ein Link"
+   },
+   "deArrowFullName": {
+      "description": "Name of the Clickbait extension. The name refers to removing arrows from thumbnails",
+      "message": "DeArrow - Bessere Titel und Thumbnails auf YouTube"
+   },
+   "deArrowMessageRecieved": {
+      "message": "Du hast einen Tipp von einem Moderator erhalten"
+   },
+   "dearrowHelpSponsorBlockImported": {
+      "message": "Hinweis: Deine SponsorBlock-Einstellungen wurden automatisch importiert!"
+   },
+   "dearrowLogoCredit": {
+      "message": "Logo basierend auf Twemoji lizenziert unter CC-BY 4.0"
+   },
+   "dearrowStatsMessage": {
+      "description": "Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install",
+      "message": "{titles} Titel und {thumbnails} Thumbnail(s) wurden ersetzt, seit du diese Erweiterung installiert hast"
+   },
+   "dearrowStatsMessage2": {
+      "description": "{titleAndThumbnailMessage} will become '{titles} titles and {thumbnails} thumbnails' from the other messages. It can be moved to a different part of the message if needed. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install",
+      "message": "{titleAndThumbnailMessage} wurden ersetzt, seit du diese Erweiterung installiert hast"
+   },
+   "dearrowStatsMessageThumbnailPart": {
+      "description": "Thumbnail singular part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install",
+      "message": "und {thumbnails} Thumbnail"
+   },
+   "dearrowStatsMessageThumbnailsPart": {
+      "description": "Thumbnail plural part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install",
+      "message": "und {thumbnails} Thumbnails"
+   },
+   "dearrowStatsMessageTitlePart": {
+      "description": "Title singular part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install",
+      "message": "{titles} Titel "
+   },
+   "dearrowStatsMessageTitlesPart": {
+      "description": "Title plural part of message. Appears on the DeArrow popup to show how many titles and thumbnails have been replaced since install",
+      "message": "{titles} Titel "
+   },
+   "defaultToOriginals": {
+      "message": "Standardmäßig die ursprünglichen Videoinformationen verwenden"
+   },
+   "delete": {
+      "message": "Löschen"
+   },
+   "disable": {
+      "message": "Deaktivieren"
+   },
+   "disableAutoSkip": {
+      "message": "Automatisches Überspringen deaktivieren"
+   },
+   "disableSkipping": {
+      "message": "Überspringen ist aktiviert"
+   },
+   "discordPromotion": {
+      "message": "Bring dich mit ein, mach Vorschläge und hilf aus auf {discord} und {matrix}"
+   },
+   "discountLink": {
+      "message": "Rabatt-Link (Siehe rosa Preis)"
+   },
+   "downvote": {
+      "message": "Dagegen stimmen"
+   },
+   "downvoteDescription": {
+      "message": "Nicht korrekt oder falsches Timing"
+   },
+   "edit": {
+      "message": "Bearbeiten"
+   },
+   "enableAutoSkip": {
+      "message": "Automatisches Überspringen aktivieren"
+   },
+   "enableManualSkipOnFullVideo": {
+      "message": "Verwende manuelles Überspringen, wenn ein vollständiges Video Label existiert"
+   },
+   "enableQueryByHashPrefix": {
+      "message": "Abfrage nach Hash-Präfix"
+   },
+   "enableRefetchWhenNotFound": {
+      "message": "Segmente bei neuen Videos erneut abrufen"
+   },
+   "enableShowCategoryWithoutPermission": {
+      "message": "Zeige Kategorien im Einsendungsmenü auch ohne Einreichungsberechtigungen"
+   },
+   "enableSkipping": {
+      "message": "Überspringen ist deaktiviert"
+   },
+   "enableTestingServer": {
+      "message": "Betatest-Server aktivieren"
+   },
+   "enableThisCategoryFirst": {
+      "description": "Used when submitting segments to only let them select a certain category if they have it enabled in the options.",
+      "message": "Um Segmente aus der Kategorie \"{0}\" zu senden, musst du diese in den Optionen aktivieren. Du wirst jetzt zu den Optionen weitergeleitet."
+   },
+   "enableTrackDownvotes": {
+      "message": "Speichere Downvotes von Segmenten"
+   },
+   "enableViewTracking": {
+      "message": "Aktiviere das Zählen übersprungener Segmente"
+   },
+   "enableViewTrackingInPrivate": {
+      "message": "Aktiviere den Übersprungen Zähler in Privaten/Incognito Tabs"
+   },
+   "enterLicenseKey": {
+      "message": "Lizenzschlüssel eingeben"
+   },
+   "errorCode": {
+      "message": "Fehlermeldung: "
+   },
+   "experiementOptOut": {
+      "description": "This is used in a popup about a new experiment to get a list of unlisted videos to back up since all unlisted videos uploaded before 2017 will be set to private.",
+      "message": "Aus allen zukünftigen Experimenten abmelden"
+   },
+   "exportOptions": {
+      "message": "Alle Einstellungen importieren/exportieren"
+   },
+   "exportOptionsCopy": {
+      "message": "Bearbeiten/Kopieren"
+   },
+   "exportOptionsDownload": {
+      "message": "Als Datei speichern"
+   },
+   "exportOptionsUpload": {
+      "message": "Aus Datei laden"
+   },
+   "exportOptionsWarning": {
+      "message": "Warnung: Das Ändern der Optionen ist permanent und kann deine Installation beschädigen. Bist du dir sicher, dass du das tun willst? Stelle sicher, dass du eine Sicherheitskopie deiner alten Optionen machst."
+   },
+   "exportSegments": {
+      "message": "Segmente exportieren"
+   },
+   "exportSegmentsAsURL": {
+      "message": "Als URL teilen"
+   },
+   "fetchTimeout": {
+      "message": "Daten-Abruf-Timeout (ms)"
+   },
+   "fetchTimeoutDescription": {
+      "message": "Zeige original Titel und Thumbnail wenn der Server nicht innerhalb dieser Zeit antwortet."
+   },
+   "forceChannelCheck": {
+      "message": "Kanalprüfung vor dem Überspringen von Segmenten erzwingen"
+   },
+   "forceChannelCheckPopup": {
+      "message": "Eventuell solltest du die Option \"Kanalprüfung vor dem Überspringen von Segmenten erzwingen\" aktivieren."
+   },
+   "freeAccessComplete": {
+      "message": "Glückwunsch! Du hast nun kostenlosen Zugriff auf DeArrow"
+   },
+   "freeAccessRequested": {
+      "message": "Sie haben sich erfolgreich für den kostenlosen Zugang registriert. Sie werden benachrichtigt, wenn dieser gewährt wird."
+   },
+   "freeTrialEnded": {
+      "message": "Deine kostenlose Testversion ist abgelaufen"
+   },
+   "freeTrialPrompt": {
+      "message": "Du kannst eine kostenlose Testversion mit dem Knopf unten starten, um es für eine Stunde auszuprobieren."
+   },
+   "freeTrialStarted": {
+      "message": "Deine kostenlose Testversion wurde gestartet. Besuche YouTube, um es auszuprobieren"
+   },
+   "full": {
+      "description": "Used for the name of the option to label an entire video as sponsor or self promotion.",
+      "message": "Vollständiges Video"
+   },
+   "fullName": {
+      "description": "Name of the extension.",
+      "message": "SponsorBlock für YouTube - Überspringe gesponserte Videosegmente"
+   },
+   "fullVideoLabelsOnThumbnails": {
+      "description": "Referring to the category pill that is shown on videos that are entirely sponsor or entirely selfpromo on recommended videos, in searches or on the homepage.",
+      "message": "Label auch auf Video-Thumbnails anzeigen"
+   },
+   "fullVideoSegments": {
+      "description": "Referring to the category pill that is now shown on videos that are entirely sponsor or entirely selfpromo",
+      "message": "Ein Symbol anzeigen, wenn ein Video vollständig aus Werbung besteht"
+   },
+   "fullVideoTooltipWarning": {
+      "message": "Dieses Segment ist lang. Wenn das gesamte Video nur ein Thema behandelt, wechsle von \"Überspringen\" zu \"Ganzes Video\". Erfahre mehr in den Richtlinien."
+   },
+   "generic_guideline1": {
+      "message": "Fließende Übergänge einbeziehen"
+   },
+   "generic_guideline2": {
+      "message": "Wiedergeben, als ob nichts übersprungen worden wäre"
+   },
+   "guidelines": {
+      "message": "Richtlinien"
+   },
+   "harmfulVote": {
+      "description": "Used for chapter segments when the text is harmful/offensive to remove it faster",
+      "message": "Schädlich"
+   },
+   "help": {
+      "message": "Hilfe"
+   },
+   "helpPageCopyOfDatabase": {
+      "message": "Kann ich eine kopie der Datenbank erhalten? Was passiert wenn du verschwindest?"
+   },
+   "helpPageCopyOfDatabase1": {
+      "message": "Die Datenbank ist öffentlich und verfügbar unter"
+   },
+   "helpPageCopyOfDatabase2": {
+      "message": "Der Quellcode ist frei verfügbar. Selbst wenn mir etwas passieren würde wären deine Übermittlungen nicht verloren."
+   },
+   "helpPageEditing1": {
+      "message": "Wenn du etwas falsch gemacht hast, kannst du ein Segment bearbeiten oder löschen nachdem du auf den Auf-Pfeil Knopf gedrückt hast."
+   },
+   "helpPageFeatureDisclaimer": {
+      "message": "Viele Funktionen sind standardmäßig deaktiviert. Wenn du Intros und Outtros überspringen willst, Invidious verwenden willst, usw. aktiviere sie unten. Du kannst auch UI-Elemente verstecken/anzeigen."
+   },
+   "helpPageHowSkippingWorks": {
+      "message": "Wie überspringen funktioniert"
+   },
+   "helpPageHowSkippingWorks1": {
+      "message": "Videosegmente werden automatisch übersprungen, wenn sie in der Datenbank gefunden werden. Du kannst das Popup öffnen, indem du auf das Erweiterungssymbol klickst, um eine Vorschau darüber zu erhalten, was diese sind."
+   },
+   "helpPageHowSkippingWorks2": {
+      "message": "Wann immer du ein Segment überspringst, erhältst du eine Benachrichtigung. Wenn das Timing falsch erscheint, kannst du das Segment herunter stimmen! Du kannst auch im Pop-up abstimmen."
+   },
+   "helpPageNews": {
+      "message": "Nachrichten und wie es gemacht wird"
+   },
+   "helpPageReviewOptions": {
+      "message": "Bitte überprüfe die unten stehenden Optionen"
+   },
+   "helpPageSourceCode": {
+      "message": "Wo kann ich den Quellcode kriegen?"
+   },
+   "helpPageSubmitting1": {
+      "message": "Das übermitteln kann entweder im Popup durch das drücken vom \"Segment Started Jetzt\" Knopf oder im Videoplayer mit den Knöpfen im Player gemacht werden."
+   },
+   "helpPageSubmitting2": {
+      "message": "Mit einem Klick auf den Play-Button wird der Beginn eines Segments markiert, und mit einem Klick auf den Stop-Button dessen Ende. Du kannst mehrere Segmente anlegen, bevor du durch Klicken des Upload-Buttons zum Einreichen fortfährst. Ein Klick auf die Mülltonne löscht deine angelegten Segmente."
+   },
+   "helpPageThanksForInstalling": {
+      "message": "Danke fürs installieren von SponsorBlock."
+   },
+   "helpPageTooSlow": {
+      "message": "Das ist zu langsam"
+   },
+   "helpPageTooSlow1": {
+      "message": "Es gibt Hotkeys, wenn du diese verwenden möchtest. Drücke die Semikolon-Taste um den Anfang/das Ende eines Sponsor-Segments zu markieren und die Abostrophe-Taste um es zu übermitteln. Diese können in den Optionen geändert werden. Wenn du keine QWERTY-Tastatur verwendest, solltest du eventuell die Keybinds ändern."
+   },
+   "hiddenDueToDownvote": {
+      "message": "Ausgeblendet: negativ bewertet"
+   },
+   "hiddenDueToDuration": {
+      "message": "Ausgeblendet: zu kurz"
+   },
+   "hideButtons": {
+      "message": "Knöpfe im YouTube-Videoplayer deaktivieren"
+   },
+   "hideButtonsDescription": {
+      "message": "Versteckt die Schaltflächen im YouTube-Videoplayer, um Segmente einzusenden."
+   },
+   "hideDeleteButton": {
+      "message": "Deaktiviere den Löschen-Knopf im Youtube-Videoplayer"
+   },
+   "hideDonationLink": {
+      "message": "Verstecke Spendenlink"
+   },
+   "hideForever": {
+      "message": "Dauerhaft verbergen"
+   },
+   "hideInfoButton": {
+      "message": "Deaktiviere Info-Knopf im Youtube-Videoplayer"
+   },
+   "hideNewFeatureUpdates": {
+      "message": "Verstecke Hinweise über neue Funktionen"
+   },
+   "hideSegment": {
+      "message": "Segment verbergen"
+   },
+   "hideThis": {
+      "message": "Verstecken"
+   },
+   "hideUnsubmittedSegments": {
+      "description": "Show/hide button for the unsubmitted segments list",
+      "message": "Segmente ausblenden"
+   },
+   "hideUpsells": {
+      "message": "Verstecke Optionen, welche ohne extra Zahlung nicht verfügbar sind"
+   },
+   "hitGoBack": {
+      "message": "Klicke auf \"Nicht überspringen\" um die Aktion rückgängig zu machen."
+   },
+   "hourAbbreviation": {
+      "description": "100h",
+      "message": "Std."
+   },
+   "hourLower": {
+      "message": "Stunde"
+   },
+   "hoursLower": {
+      "message": "Stunden"
+   },
+   "howItWorks": {
+      "message": "So funktioniert's"
+   },
+   "importSegments": {
+      "message": "Segmente importieren"
+   },
+   "incorrectCategory": {
+      "message": "Kategorie ändern"
+   },
+   "incorrectVote": {
+      "message": "Falsch"
+   },
+   "incorrectlyFormattedOptions": {
+      "message": "Dieses JSON ist nicht korrekt formatiert und kann daher nicht geladen werden. Es wurden keine Einstellungen geändert."
+   },
+   "inspect": {
+      "message": "Überprüfen"
+   },
+   "invidiousPermissionRefresh": {
+      "message": "Der Browser hat die Berechtigung, welche zum Verwenden von Invidious und anderen Drittanbieter-Seiten benötigt wird, widerrufen. Bitte klicke auf die Schaltfläche unten, um diese Berechtigung zu reaktivieren."
+   },
+   "joinOnPatreon": {
+      "message": "Auf Patreon abonnieren"
+   },
+   "keepUnsubmitted": {
+      "message": "Speichere übermittelte Abstimmungen"
+   },
+   "keepUnsubmittedInPrivate": {
+      "message": "In privaten Tabs eingereichte Bewertungen speichern"
+   },
+   "keyAlreadyUsed": {
+      "message": "Diese Verknüpfung ist an eine andere Aktion gebunden. Bitte wähle eine andere."
+   },
+   "keybindDescription": {
+      "message": "Wähle eine Taste durch Eingeben aus, und wähle (optional) gewünschte Hilfstasten."
+   },
+   "liveOrPremiere": {
+      "message": "Das Einreichen eines aktiven Livestreams oder Premiere ist nicht erlaubt. Bitte warte bis es zu ende ist, lade die Seite neu und überprüfe, dass die Segmente noch immer korrekt sind."
+   },
+   "longDescription": {
+      "description": "Full description of the extension on the store pages.",
+      "message": "SponsorBlock lässt dich gesponserte Videosegmente, Intros, Outros, Interaktions-Erinnerungen, Musikvideoteile ohne Musik und andere nervige Teile von YouTube-Videos überspringen. SponsorBlock ist eine crowdsourced Browser-Erweiterung, in der jeder die Start- und Endzeit gesponserter Videosegmente und anderer Segmente von YouTube-Videos einreicht. Sobald eine Person diese Informationen einreicht, überspringen alle anderen mit dieser Erweiterung das gesponserte Segment."
+   },
+   "manualPaused": {
+      "message": "Timer angehalten"
+   },
+   "manualSkip": {
+      "message": "Manuelles Überspringen"
+   },
+   "manualSkip_POI": {
+      "message": "Beim Laden des Videos fragen"
+   },
+   "manuallyHidden": {
+      "message": "Manuell versteckt"
+   },
+   "minDuration": {
+      "message": "Minimale Dauer (Sekunden):"
+   },
+   "minDurationDescription": {
+      "message": "Videosegmente, die kürzer als der festgelegte Wert sind, werden nicht übersprungen oder im Player angezeigt."
+   },
+   "minLower": {
+      "message": "Minute"
+   },
+   "minsLower": {
+      "message": "Minuten"
+   },
+   "mobileUpdateInfo": {
+      "message": "https://m.youtube.com wird jetzt unterstützt"
+   },
+   "moreAboutKAnonymity": {
+      "description": "https://en.wikipedia.org/wiki/K-anonymity is a system used to anonymise requests.",
+      "message": "Mehr über k-Anonymität"
+   },
+   "moreCategories": {
+      "message": "Weitere Kategorien"
+   },
+   "multipleSegments": {
+      "message": "Mehrere Segmente"
+   },
+   "mute": {
+      "message": "Ton aus"
+   },
+   "muteSegments": {
+      "message": "Segmente zulassen, die den Ton ausschalten anstatt zu überspringen"
+   },
+   "mute_category": {
+      "message": "{0} stummschalten?"
+   },
+   "muted": {
+      "description": "Example: Sponsor Muted",
+      "message": "{0} stummgeschaltet"
+   },
+   "nextChapterKeybind": {
+      "description": "Keybind label",
+      "message": "Nächstes Kapitel"
+   },
+   "noDiscount": {
+      "message": "Du bist nicht für einen Rabatt qualifiziert"
+   },
+   "noVideoID": {
+      "message": "Kein YouTube-Video gefunden.\nWenn dies falsch ist, aktualisiere den Tab."
+   },
+   "nonMusicCategoryOnMusic": {
+      "message": "Dieses Video ist als Musikvideo kategorisiert. Bist du dir sicher, dass es ein gesponsertes Videosegment hat? Wenn dies tatsächlich ein Musikvideoteil ohne Musik ist, öffne die Optionen von SponsorBlock und aktiviere diese Kategorie. Danach kannst du dieses Segment als solches markieren. Bitte lese die Richtlinien, wenn du dir nicht sicher bist."
+   },
+   "notSet": {
+      "message": "Nicht gesetzt"
+   },
+   "noticeUpdate": {
+      "description": "The first line of the message displayed after the notice was upgraded.",
+      "message": "Die Benachrichtigung wurde verbessert!"
+   },
+   "noticeUpdate2": {
+      "description": "The second line of the message displayed after the notice was upgraded.",
+      "message": "Falls es dir trotzdem nicht gefällt, drücke auf \"Verstecken\"."
+   },
+   "noticeVisibilityLabel": {
+      "description": "Option label",
+      "message": "Aussehen der Überspringen-Meldung"
+   },
+   "noticeVisibilityMode0": {
+      "message": "Skip-Meldung in voller größe"
+   },
+   "noticeVisibilityMode1": {
+      "message": "Kleine Skip-Meldung für Auto-Skips"
+   },
+   "noticeVisibilityMode2": {
+      "message": "Alles kleine Skip-Meldungen"
+   },
+   "noticeVisibilityMode3": {
+      "message": "Verblasste Skip-Meldung für Auto-Skip"
+   },
+   "noticeVisibilityMode4": {
+      "message": "Alles verblasste Skip-Meldungen"
+   },
+   "onAllPages": {
+      "description": "Setting for when the server-side thumbnail generator should be used for the thumbnail replacement feature.",
+      "message": "Auf allen Seiten"
+   },
+   "onAllPagesExceptVideo": {
+      "description": "Setting for when the server-side thumbnail generator should be used for the thumbnail replacement feature.",
+      "message": "Auf allen Seiten außer Videoseiten"
+   },
+   "oneTimePurchase": {
+      "message": "Einmaliger Kauf"
+   },
+   "openOptionsPage": {
+      "message": "Einstellungen öffnen"
+   },
+   "openPopup": {
+      "message": "SponsorBlock-Pop-up öffnen"
+   },
+   "openSourceLicenses": {
+      "message": "Open Source Lizenzen"
+   },
+   "optionsInfo": {
+      "message": "Zu überspringende Kategorien auswählen, automatisches Überspringen, Tasten ein- & ausblenden und noch viel mehr."
+   },
+   "optionsTabAdvanced": {
+      "description": "Appears in Options as a tab header for advanced/niche options. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "Verschiedenes"
+   },
+   "optionsTabBackup": {
+      "description": "Appears in Options as a tab header for options related to saving/restoring your settings. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "Sichern/Wiederherstellen"
+   },
+   "optionsTabBehavior": {
+      "description": "Appears in Options as a tab header for options related to categories and skipping behavior. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "Verhalten"
+   },
+   "optionsTabInterface": {
+      "description": "Appears in Options as a tab header for options related to GUI and sounds. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "Oberfläche"
+   },
+   "optionsTabKeyBinds": {
+      "description": "Appears in Options as a tab header for keybinds. To fit inside the button, it should not be longer than ~20-25 characters (depending on their width).",
+      "message": "Tastenkürzel"
+   },
+   "patreonSignIn": {
+      "message": "Mit Patreon anmelden"
+   },
+   "paused": {
+      "message": "Pausiert"
+   },
+   "permissionRequestFailed": {
+      "message": "Berechtigungsanfrage fehlgeschlagen, hast du sie abgelehnt?"
+   },
+   "permissionRequestSuccess": {
+      "message": "Die Berechtigungsanfrage war erfolgreich!"
+   },
+   "playChapter": {
+      "message": "Kapitel abspielen"
+   },
+   "poiOnlyOneSegment": {
+      "message": "Achtung: Diese Art von Segment kann nur einmal pro Video aktiv sein. Sollten mehrere eingereicht werden, wird ein zufälliges angezeigt werden."
+   },
+   "popupHint": {
+      "message": "Tipp: Du kannst Tastenkombinationen in den Optionen festlegen"
+   },
+   "preview": {
+      "message": "Vorschau"
+   },
+   "previewColor": {
+      "description": "Referring to submissions that have not been sent to the server yet.",
+      "message": "Nicht eingereichte Farbe"
+   },
+   "previousChapterKeybind": {
+      "description": "Keybind label",
+      "message": "Vorheriges Kapitel"
+   },
+   "privacyPolicy": {
+      "message": "Datenschutzerklärung"
+   },
+   "questionButton": {
+      "message": "Ich habe eine Frage"
+   },
+   "readTheGuidelines": {
+      "description": "Show the first time they submit or if they are \"high risk\"",
+      "message": "Lese die Richtlinien!"
+   },
+   "recordTimesDescription": {
+      "message": "Senden"
+   },
+   "redeem": {
+      "message": "Einlösen"
+   },
+   "redeemFailed": {
+      "message": "Lizenzschlüssel ist ungültig"
+   },
+   "redeemSuccess": {
+      "message": "Einlösen erfolgreich!"
+   },
+   "refreshSegments": {
+      "message": "Segmente aktualisieren"
+   },
+   "removeFromWhitelist": {
+      "message": "Kanal aus der Whitelist entfernen"
+   },
+   "renderAsChapters": {
+      "description": "Refers to drawing segments on the YouTube seek bar as split up chapters, similar to the existing chapter system",
+      "message": "Zeige Segmente als Kapitel"
+   },
+   "renderTimeout": {
+      "message": "Thumbnail Render-Timeout (ms)"
+   },
+   "renderTimeoutDescription": {
+      "message": "Zeige original Thumbnails wenn kein Thumbnail in dieser Zeit generiert werden konnte."
+   },
+   "replaceThumbnails": {
+      "message": "Ersetze Thumbnails"
+   },
+   "replaceTitles": {
+      "message": "Ersetze Titel"
+   },
+   "reportButtonInfo": {
+      "message": "Beitrag als unzulässig melden."
+   },
+   "reportButtonTitle": {
+      "message": "Melden"
+   },
+   "requiresUblock": {
+      "message": "Benötigt uBlock Origin"
+   },
+   "reset": {
+      "message": "Zurücksetzen"
+   },
+   "resetCustomTitle": {
+      "message": "Titel zurück auf Originaltext setzen"
+   },
+   "resetIcon": {
+      "message": "Icon zurücksetzen"
+   },
+   "resetInvidiousInstance": {
+      "message": "Invidious-Instanzliste zurücksetzen"
+   },
+   "resetInvidiousInstanceAlert": {
+      "message": "Du bist dabei, die Liste der Invidious-Instanzen zurückzusetzen"
+   },
+   "resetToDefault": {
+      "message": "Einstellungen zurücksetzen"
+   },
+   "reskip": {
+      "message": "Nochmal überspringen"
+   },
+   "save": {
+      "message": "Speichern"
+   },
+   "savedPeopleFrom": {
+      "message": "Andere Nutzer bewahrt vor: "
+   },
+   "seekBarColor": {
+      "message": "Farbe in der Video-Zeitleiste"
+   },
+   "segmentCount": {
+      "description": "Header of the unsubmitted segments list",
+      "message": "Segmentanzahl"
+   },
+   "segmentFetchFailureWarning": {
+      "message": "Warnung: Der Server hat noch nicht mit Segmenten geantwortet. Möglicherweise gibt es in diesem Video bereits übermittelte Segmente, aber du hast sie aufgrund von Serverproblemen noch nicht erhalten."
+   },
+   "segmentsStillLoading": {
+      "message": "Segmente werden noch geladen..."
+   },
+   "selectYourCountry": {
+      "message": "Wähle dein Land"
+   },
+   "serverDown": {
+      "message": "Der Server ist anscheinend offline. Bitte kontaktiere den Entwickler unverzüglich."
+   },
+   "setOptions": {
+      "message": "Optionen ändern"
+   },
+   "setSkipShortcut": {
+      "description": "Keybind label",
+      "message": "Segment überspringen"
+   },
+   "setStartSponsorShortcut": {
+      "description": "Keybind label",
+      "message": "Starte/Stoppe Segment"
+   },
+   "setSubmitKeybind": {
+      "description": "Keybind label",
+      "message": "Segmente einreichen"
+   },
+   "setUserID": {
+      "message": "Private Benutzer-ID festlegen"
+   },
+   "setUsername": {
+      "message": "Benutzernamen festlegen"
+   },
+   "shortCheck": {
+      "message": "Die folgende Einsendung ist kürzer als deine Mindestdauer. Das könnte bedeuten, dass dieses Videosegment bereits eingereicht wurde und aufgrund dieser Option einfach ignoriert wird. Bist du dir sicher, dass du es übermitteln möchtest?"
+   },
+   "shouldCleanEmojis": {
+      "message": "Emoji entfernen"
+   },
+   "showABlankBox": {
+      "message": "Zeige eine leere Box"
+   },
+   "showButtons": {
+      "message": "Knöpfe im YouTube-Videoplayer anzeigen"
+   },
+   "showCategoryGuidelines": {
+      "message": "Zeige Kategorien-Hilfe"
+   },
+   "showDeleteButton": {
+      "message": "Zeige den Löschen-Knopf im Youtube-Videoplayer"
+   },
+   "showGuidelineHelp": {
+      "description": "Setting to show a summary of the guidelines on the submission page",
+      "message": "Zeige Leitfaden-Hilfe"
+   },
+   "showIconForFormattedTitles": {
+      "message": "Zeige \"Original anzeigen\"-Knopf für automatisch formatierte Titel"
+   },
+   "showInfoButton": {
+      "message": "Zeige Info-Knopf im Youtube-Videoplayer"
+   },
+   "showNotice": {
+      "message": "Hinweis erneut anzeigen"
+   },
+   "showOverlay": {
+      "message": "In der Video-Zeitleiste anzeigen"
+   },
+   "showOverlay_POI": {
+      "message": "In Suchleiste anzeigen"
+   },
+   "showOverlay_chapter": {
+      "message": "Kapitel zeigen"
+   },
+   "showOverlay_full": {
+      "message": "Zeige Label"
+   },
+   "showSegmentNameInChapterBar": {
+      "message": "Aktuelles Segment neben der Videozeit anzeigen"
+   },
+   "showSkipButton": {
+      "message": "Behalte „Zum beliebtesten Teil springen“-Schaltfläche im Wiedergabefenster"
+   },
+   "showSkipNotice": {
+      "message": "Zeige Pop-up nach dem Überspringen eines Segments"
+   },
+   "showTimeWithSkips": {
+      "message": "Videodauer nach Abzug der überspringbaren Videosegmente anzeigen"
+   },
+   "showTimeWithSkipsDescription": {
+      "message": "Diese Zeit wird in Klammern neben der kompletten Videodauer im YouTube-Videoplayer angezeigt. Dies betrifft auch Segmente, die als \"In Suchleiste anzeigen\" markiert sind."
+   },
+   "showUnsubmittedSegments": {
+      "description": "Show/hide button for the unsubmitted segments list",
+      "message": "Segmente anzeigen"
+   },
+   "showUploadButton": {
+      "message": "Upload-Knopf anzeigen"
+   },
+   "skip": {
+      "message": "Überspringen"
+   },
+   "skipNoticeDuration": {
+      "message": "Dauer des Überspringenhinweises (Sekunden):"
+   },
+   "skipNoticeDurationDescription": {
+      "message": "Die überspringen Benachrichtigung wird mindestens für so viele Sekunden angezeigt. Für manuelles Überspringen kann sie länger sichtbar sein."
+   },
+   "skipOption": {
+      "description": "Used on the options page to describe the ways to skip the segment (auto skip, manual, etc.)",
+      "message": "Verhalten"
+   },
+   "skipSegment": {
+      "message": "Segment überspringen"
+   },
+   "skip_category": {
+      "message": "{0} überspringen?"
+   },
+   "skip_to_category": {
+      "description": "Used for skipping to things (Skip to Highlight)",
+      "message": "Zu {0} springen?"
+   },
+   "skipped": {
+      "description": "Example: Sponsor Skipped",
+      "message": "{0} übersprungen"
+   },
+   "skipped_to_category": {
+      "description": "Used for skipping to things (Skipped to Highlight)",
+      "message": "Zu {0} gesprungen"
+   },
+   "sortSegments": {
+      "message": "Segmente sortieren"
+   },
+   "sourceCode": {
+      "description": "Used on Firefox Store Page",
+      "message": "Quellcode"
+   },
+   "sponsor404": {
+      "message": "Keine Segmente gefunden"
+   },
+   "sponsorCancel": {
+      "message": "Segmenterstellung abbrechen"
+   },
+   "sponsorEnd": {
+      "message": "Segment endet jetzt"
+   },
+   "sponsorFound": {
+      "message": "Die Datenbank enthält überspringbare Segmente für dieses Video!"
+   },
+   "sponsorStart": {
+      "message": "Segment startet jetzt"
+   },
+   "startFreeTrial": {
+      "message": "Kostenlose Testversion starten"
+   },
+   "startLocalRenderTimeout": {
+      "description": "If the server takes this long to generate a thumbnail, it start trying to generate one locally.",
+      "message": "Timeout-Zeit bis der lokale Thumbnailgenerierungsdienst gestartet werden soll (ms)"
+   },
+   "startLocalRenderTimeoutDescription": {
+      "message": "Wenn der Server zu lange braucht um ein Thumbnail zu generieren, starte den Versuch lokal Thumbnails zu generieren."
+   },
+   "statusReminder": {
+      "message": "Prüfe status.sponsor.ajay.app für den Serverstatus."
+   },
+   "submissionEditHint": {
+      "description": "Appears in the popup to inform them that editing has been moved to the video player.",
+      "message": "Die Bearbeitung von Beiträgen wird angezeigt, nachdem du auf Senden klickst"
+   },
+   "submit": {
+      "message": "Übermitteln"
+   },
+   "submitCheck": {
+      "message": "Bist du sicher, dass du dies übermitteln willst?"
+   },
+   "success": {
+      "message": "Erfolg!"
+   },
+   "supportOtherSites": {
+      "message": "Unterstütze Drittanbieter YouTube-Seiten"
+   },
+   "supportOtherSitesDescription": {
+      "description": "This replaces the 'supports Invidious' option because it now works on other YouTube sites such as Cloudtube",
+      "message": "Unterstütze YouTube-Clients von Drittanbietern. Um die Unterstützung zu aktivieren, müssen Sie die zusätzlichen Berechtigungen akzeptieren."
+   },
+   "supportedSites": {
+      "message": "Unterstützte Seiten: "
+   },
+   "termsAgreement": {
+      "message": "Durch die Verwendung dieser Erweiterung stimmen Sie der {privacy-policy} und den {terms} zu"
+   },
+   "termsOfUse": {
+      "message": "Nutzungsbedingungen"
+   },
+   "testingServerWarning": {
+      "message": "Alle Beiträge und Bewertungen/Meldungen werden NICHT an den Hauptserver übertragen. Deaktiviere die Betatest-Server Option um Einreichungen an den Hauptserver zu senden."
+   },
+   "thumbnailCacheServerAddress": {
+      "message": "Thumbnail Cache Server-Adresse"
+   },
+   "thumbnailFallbackOption": {
+      "message": "Wenn kein Thumbnail eingereicht wurde"
+   },
+   "thumbnailGeneratorDescription1": {
+      "message": "Der Thumbnail-Generierungsdienst beschleunigt die Generierung von Thumbnails erheblich, in dem er eine anonyme Anfrage mit der Video‑ID an einen Server schickt. Das Thumbnailbild wird dann entweder generiert oder aus einem Cache bezogen, wenn es zuvor bereits generiert wurde."
+   },
+   "thumbnailGeneratorDescription2": {
+      "message": "Wenn auf Videoseiten verwendet, könnten nicht gelistete Video-IDs an den Server weitergegeben werden. Das Verwenden von \"Auf allen Seiten außer Videoseiten\" vermeidet dieses Problem. Eine andere Option ist es, einen eigenen Thumbnail-Generierungsdienst zu hosten."
+   },
+   "thumbnailGeneratorDescription3": {
+      "description": "https://en.wikipedia.org/wiki/K-anonymity is a system used to anonymise requests.",
+      "message": "Wenn die Verwendung des Thumbnail-Generierungsdienstes deaktiviert ist, werden alle Anfragen ein k-Anonymitäts-Anfragesystem verwenden, welches es für den Server schwieriger macht, vorauszusagen, welche Videos verarbeitet wurden. Hinzukommend wird ein langsameres, lokales Thumbnail-Generierungssystems verwendet."
+   },
+   "thumbnailGeneratorSourceCode": {
+      "message": "Thumbnail-Generierungsdienst Quellcode"
+   },
+   "tip1": {
+      "description": "Referring to the thumbnail of a video",
+      "message": "Vermeide übertriebene Gesichtszüge"
+   },
+   "tip2": {
+      "description": "This is a tip about submitting a new DeArrow replacement title. If the original title is an attention grabbing title, the DeArrow title shouldn't just be an answer to that. It instead should be based on the contents of the video.",
+      "message": "Denke an das große Ganze, beantworte nicht einfach die Frage des Originaltitels"
+   },
+   "tip3": {
+      "description": "Referring to the title of a YouTube video. Shocking being when something is described as shocking",
+      "message": "Vermeide Beschreibungen zu Raktionen zum Video (\"Schockierend\")"
+   },
+   "tip4": {
+      "message": "Gib genug Informationen an, dass andere wissen, worum es geht, bevor sie auf das Video klicken"
+   },
+   "tip5": {
+      "description": "Tip about submitting titles to DeArrow",
+      "message": "Groß- und Kleinschreibung wie in einem Satz"
+   },
+   "titleFormatting": {
+      "message": "Titelformat"
+   },
+   "titleMaxLines": {
+      "message": "Maximale Zeilen für Titel"
+   },
+   "titleMaxLinesDescription": {
+      "message": "Videotitel werden in Vorschlägen über so viele Zeilen verteilt."
+   },
+   "to": {
+      "description": "Used between segments. Example: 1:20 to 1:30",
+      "message": "bis"
+   },
+   "trackDownvotesWarning": {
+      "message": "Warnung: Das Deaktivieren wird alle zuvor gespeicherten negativen Bewertungen löschen"
+   },
+   "unbind": {
+      "description": "Unbind keyboard shortcut",
+      "message": "Aufheben"
+   },
+   "unmute": {
+      "message": "Ton an"
+   },
+   "unskip": {
+      "message": "Nicht überspringen"
+   },
+   "unsubmitted": {
+      "message": "Nicht übermittelt"
+   },
+   "unsubmittedSegmentCounts": {
+      "description": "Example: You currently have 12 unsubmitted segments on 5 videos",
+      "message": "Du hast derzeit {0} in {1}"
+   },
+   "unsubmittedSegmentCountsZero": {
+      "description": "Replaces 'unsubmittedSegmentCounts' string when there are no unsubmitted segments",
+      "message": "Du hast aktuell keine nicht eingereichten Segmente"
+   },
+   "unsubmittedSegmentsPlural": {
+      "description": "Example: You currently have 12 *unsubmitted segments* on 5 videos",
+      "message": "nicht eingereichte Segmente"
+   },
+   "unsubmittedSegmentsSingular": {
+      "description": "Example: You currently have 1 *unsubmitted segment* on 1 video",
+      "message": "nicht eingereichtes Segment"
+   },
+   "upvote": {
+      "message": "Positiv bewerten"
+   },
+   "upvoteButtonInfo": {
+      "message": "Diese Einreichung positiv bewerten"
+   },
+   "useCrowdsourcedTitles": {
+      "message": "Verwende crowgesourcedte Titel"
+   },
+   "useThumbnailGenerationService": {
+      "message": "Thumbnail-Erstellungsdienst verwenden"
+   },
+   "userIDChangeWarning": {
+      "message": "Warnung: Das Ändern deiner privaten Benutzer-ID ist permanent. Bist du dir sicher, dass du das tun möchtest? Zur Sicherheit solltest du vorher ein Backup deiner alten ID erstellen."
+   },
+   "videoID": {
+      "description": "Header of the unsubmitted segments list",
+      "message": "Video ID"
+   },
+   "videoIDWrongWhenSubmittingError": {
+      "message": "Etwas ist bei der VideoID-Erkennung schief gelaufen. Bitte versuche vor dem Absenden die Seite zu aktualisieren, um sicherzustellen, dass es für das richtige Video übermittelt wird. Wenn dies oft passiert, sende einen Bugreport mit allen verwendeten Erweiterungen, sowie Userscripts, auf GitHub, Discord oder Matrix."
+   },
+   "videosPlural": {
+      "description": "Example: You currently have 12 unsubmitted segments on 5 *videos*",
+      "message": "Videos"
+   },
+   "videosSingular": {
+      "description": "Example: You currently have 3 unsubmitted segments on 1 *video*",
+      "message": "Video"
+   },
+   "viewLeaderboard": {
+      "message": "Rangliste"
+   },
+   "voteOnTime": {
+      "message": "Über ein Segment abstimmen"
+   },
+   "voted": {
+      "message": "Abgestimmt!"
+   },
+   "warningChatInfo": {
+      "message": "Wir haben festgestellt, dass du einige häufig gemacht Fehler machst. Wir schätzen deine bisherige Arbeit sehr, streben aber hier aber auch nach Perfektion, sodass es auch wichtig ist kleine Fehler zu korrigieren :)"
+   },
+   "warningConfirmButton": {
+      "message": "Ich verstehe den Grund"
+   },
+   "warningError": {
+      "message": "Fehler beim Anerkennen der Verwarnung:"
+   },
+   "warningTitle": {
+      "message": "Du hast eine Verwarnung erhalten"
+   },
+   "website": {
+      "description": "Used on Firefox Store Page",
+      "message": "Webseite"
+   },
+   "whatAlwaysShowShowOriginalButton": {
+      "message": "Aktiviere dies, wenn du immer wissen möchtest, ob ein Titel oder Thumbnail verändert wurde."
+   },
+   "whatChangeUserID": {
+      "message": "Dies sollte geheim gehalten und wie ein Passwort behandelt, also mit niemandem geteilt werden. Andere könnten sich damit als dich ausgeben. Wenn du nach deiner öffentlichen Profilkennung suchst, klicke auf das „Kopieren“-Symbol neben deinem Anmeldenamen im Pop-up."
+   },
+   "whatDefaultToOriginals": {
+      "message": "Zeige standardmäßig die ursprünglichen Titel und Thumbnails, aber biete eine Schaltfläche an, mit der benutzerdefinierte Titel und Thumbnails für einzelne Videos angezeigt werden können."
+   },
+   "whatEnableTestingServer": {
+      "message": "Deine Beiträge und Bewertungen/Meldungen werden NICHT an den Hauptserver übertragen. Benutze diese Option also nur für Tests."
+   },
+   "whatExportOptions": {
+      "message": "Dies ist deine gesamte Konfiguration in JSON. Sie enthält deine private Benutzer-ID, stelle also sicher, sie nicht mit jedem zu teilen."
+   },
+   "whatForceChannelCheck": {
+      "message": "Standardmäßig werden Segmente übersprungen, bevor SponsorBlock überhapt weiss, welcher Kanal das ist. Normalerweise führt dies dazu, dass Videosegmente von erlaubten Kanälen am Anfang übersprungen werden. Das aktivieren dieser Option verhindert dies, hat jedoch eine leichte Verzögerung beim überspringen zur folge, da die Kanal-ID erst eingelesen werden muss. Diese sollte bei einer schnellen Internetverbindung jedoch kaum bemerkbar sein."
+   },
+   "whatKeepUnsubmitted": {
+      "message": "Behalte übermittelte Abstimmungen, um die Titel und Thumbnails anzuzeigen, für welche du abgestimmt hast anstelle der bestabgestimmtesten auf dem Server."
+   },
+   "whatManualSkipOnFullVideo": {
+      "message": "Für Personen, welche ein Video ohne Unterbrechungen schauen wollen, während es vollständig gesponsert oder Eigenwerbung ist."
+   },
+   "whatQueryByHashPrefix": {
+      "message": "Anstatt Segmente mit der Video-ID vom Server anzufordern, werden die ersten 4 Zeichen des Hashs der Video-ID gesendet. Der Server sendet Daten für alle Videos mit ähnlichen Hashes zurück."
+   },
+   "whatRefetchWhenNotFound": {
+      "message": "Wenn das Video neu ist und keine Segmente gefunden wurden, wird während des Betrachtens alle paar Minuten erneut eine Anfrage gesendet."
+   },
+   "whatShowCategoryWithoutPermission": {
+      "message": "Einige Kategorien erfordern eine Freigabe zur Einreichung aufgrund von Mindestanforderungen an die Reputation"
+   },
+   "whatThumbnailFallbackOption": {
+      "description": "Describing the option for the crowdsourced thumbnail system if no thumbnail has been submitted. It can use a random time instead.",
+      "message": "Bei der Auswahl einer zufälligen Zeit wird mittels SponsorBlock Daten sichergestellt, dass keine Zeit in einem Werbesegment ausgewählt wird."
+   },
+   "whatTrackDownvotes": {
+      "message": "Alle von dir negativ bewerteten Segmente bleiben auch nach neu laden der Seite verborgen"
+   },
+   "whatUseCrowdsourcedTitles": {
+      "description": "Description under the \"Use Crowdsourced Titles\" option",
+      "message": "Wenn deaktiviert werden Titel formatiert, aber keine von der Community übermittelten Titel verwendet"
+   },
+   "whatViewTracking": {
+      "message": "Diese Funktion erfasst, welche Segmente du übersprungen hast, um andere Nutzer zu zeigen, wie hilfreich ihre Beiträge sind. Außerdem stellt dies zusammen mit positiven Bewertungen sicher, dass keine unerwünschten Inhalte in die Datenbank gelangen. Die Erweiterung sendet jedes Mal, wenn du ein Segment überspringst, eine Meldung an den Server. Hoffentlich verändern die meisten Nutzer diese Einstellung nicht, um unsere Statistik zu verbessern :)"
+   },
+   "whitelistChannel": {
+      "message": "Kanal zur Whitelist hinzufügen"
+   },
+   "youHaveSavedTime": {
+      "description": "You've saved people from 887,362 segments (236d 15h 5.3 minutes of their lives).",
+      "message": "Du erspartest anderen"
+   },
+   "youHaveSavedTimeEnd": {
+      "description": "You've saved people from 887,362 segments (236d 15h 5.3 minutes of their lives).",
+      "message": " ihres Lebens"
+   },
+   "youHaveSkipped": {
+      "message": "Du übersprangst "
+   },
+   "youMustSelectACategory": {
+      "message": "Du musst eine Kategorie für jedes zu übermittelnde Segment auswählen!"
+   },
+   "yourWork": {
+      "description": "Used to describe the section that will show you the statistics from your submissions.",
+      "message": "Deine Statistik"
+   },
+   "youtubeKeybindWarning": {
+      "message": "Dies ist ein vorhandenes YouTube-Kürzel. Bist du sicher, dass du es verwenden möchtest?"
+   },
+   "zoomToFillUnsupported": {
+      "message": "SponsorBlock ist nicht mit der Erweiterung \"Zoom to Fill\" kompatibel. Es existieren viele Alternativen welche ohne probleme funktionieren werden."
+   }
+}

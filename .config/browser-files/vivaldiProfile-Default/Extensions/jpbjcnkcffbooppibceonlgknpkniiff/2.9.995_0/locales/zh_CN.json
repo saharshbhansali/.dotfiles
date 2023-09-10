@@ -1,0 +1,144 @@
+{
+  "audio": {
+    "captureTab": "捕获",
+    "releaseTab": "释放",
+    "split": "分离声道",
+    "mono": "单声道",
+    "reverse": "音频倒放",
+    "pan": "平移"
+  },
+  "warnings": {
+    "backdropFirefox": "对于背景过滤器功能，Firefox用户需要转到“about:config”URL启用“gfx.webrender.all”和“layout.css.backdrop-filter.enabled”。启用这两个标志后，重新启动Firefox。",
+    "unusedGlobal": "释放未使用的全局热键",
+    "selectTooltip": "选择首选视频作为媒体热键。如果要从其他选项卡（或具有全局热键的另一个程序）控制背景音乐，则很有用。",
+    "sliderTooltip": "⇧ 按住Shift键可进行精确控制。"
+  },
+  "token": {
+    "create": "创建",
+    "reset": "重置",
+    "hide": "隐藏",
+
+    "on": "打开",
+    "off": "关闭",
+    "toggle": "切换",
+
+    "element": "元素",
+    "backdrop": "背景",
+    "both": "两者",
+
+    "query": "选择器",
+    "warning": "警告",
+    "filters": "滤镜",
+    "transforms": "变换",
+
+    "blockEvents": "阻止事件",
+    "hideIndicator": "隐藏反馈指示器",
+    "indicator": "反馈指示器",
+    "color": "颜色",
+    "size": "大小",
+    "rounding": "圆度",
+    "duration": "持续时间",
+    "offset": "偏移",
+    "rows": "行",
+
+    "any": "任意",
+    "all": "所有",
+    "copy": "复制",
+    "paste": "粘贴"
+  },
+  "filter": {
+    "grayscale": "灰度",
+    "sepia": "棕褐色",
+    "hueRotate": "色相旋转",
+    "contrast": "对比度",
+    "brightness": "亮度",
+    "saturate": "饱和度",
+    "invert": "颜色反转",
+    "blur": "模糊",
+    "opacity": "不透明度",
+    "scaleX": "X轴缩放",
+    "scaleY": "Y轴缩放",
+    "translateX": "X轴移动",
+    "translateY": "Y轴移动",
+    "rotateX": "X轴旋转",
+    "rotateY": "Y轴旋转",
+    "rotateZ": "Z轴旋转"
+  },
+  "fxPanel": {
+    "queryTooltip": "CSS选择器，用于查找要过滤的元素。例如，“video, img”将会同时查询视频和图像。相关高级用法，请在线查阅CSS选择器的相关文档。",
+    "intoPane": "制成窗格"
+  },
+  "command": {
+    "nothing": "无动作",
+    "runCode": "JavaScript",
+    "openUrl": "打开网址",
+    "adjustSpeed": "速度",
+    "speedChangesPitch": "速度改变音高",
+    "setPin": "固定标签页",
+    "setState": "状态",
+    "seek": "移动时间轴",
+    "setPause": "暂停",
+    "setMute": "静音",
+    "adjustVolume": "音量",
+    "setMark": "设置标记点",
+    "seekMark": "转到标记点",
+    "toggleLoop": "AB循环",
+    "toggleLoopTooltip": "从标记位置到当前位置重复播放视频。",
+    "fullscreen": "全屏",
+    "nativeTooltip": "简单模式",
+    "PiP": "画中画",
+    "setFx": "FX状态",
+    "resetFx": "FX重置",
+    "flipFx": "FX交换",
+    "adjustFilter": "FX过滤器",
+    "adjustPitch": "音高",
+    "adjustGain": "增益",
+    "adjustDelay": "延迟",
+    "tabCapture": "捕获",
+    "relativeTooltip": "相对于速度",
+    "fastSeekTooltip": "更快，但准确性较低",
+    "showNetTooltip": "显示净时长"
+  },
+  "options": {
+    "flags": {
+      "header": "选项",
+      "language": "语言",
+      "languageTooltip": "除英语以外的所有语言均使用在线工具进行翻译（liangjiancang对部分中文翻译作出调整）。",
+      "darkTheme": "深色主题",
+      "pinByDefault": "默认固定",
+      "pinByDefaultTooltip": "默认固定每个标签页。",
+      "hideBadge": "隐藏徽章",
+      "hideBadgeTooltip": "徽章是扩展图标上的文字。",
+      "fullscreenSupport": "全屏",
+      "ghostMode": "幽灵模式",
+      "ghostModeTooltip": "尝试阻止网站更改速度。默认情况下禁用，因为它可能会破坏某些网站。",
+      "hideMediaView": "隐藏媒体列表",
+      "inheritGlobal": "继承全局",
+      "inheritGlobalTooltip": "新标签可以继承前一个标签的上下文或全局上下文。"
+    },
+    "editor": {
+      "header": "热键编辑器",
+      "toggleMode": "您可以使用本地热键或全局热键。",
+      "toggleModeTooltip": "全局热键可以让您在使用其他应用程序时控制视频或音频。",
+      "greedyMode": "贪婪模式会尝试阻止事件的默认行为及其传播。",
+      "speedPresets": "速度预设"
+    },
+    "rules": {
+      "header": "URL规则",
+      "conditions": "URL條件",
+      "startsWith": "以…开始",
+      "contains": "包含",
+      "regex": "正则表达式",
+      "LAX": "每个标签页只应用一次。",
+      "ILO": "仅在初始页面加载期间检查。"
+    },
+    "help": {
+      "header": "帮助",
+      "issuePrompt": "有问题或建议吗？",
+      "issueDirective": "在Github上提供反馈。",
+      "export": "导出",
+      "import": "导入",
+      "areYouSure": "确定吗？"
+    }
+  }
+}

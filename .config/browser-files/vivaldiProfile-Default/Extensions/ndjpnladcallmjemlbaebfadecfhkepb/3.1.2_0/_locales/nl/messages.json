@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "Account"
+   },
+   "AppDescription": {
+      "message": "Bekijk, bewerk en maak documenten in uw browser."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "Bekijk, bewerk en maak bestanden in de browser en laat uw beste schrijfbewerkingen op internet zien."
+   },
+   "AppFolderName": {
+      "message": "Microsoft 365-browserextensie"
+   },
+   "AppListLabel": {
+      "message": "Web-apps"
+   },
+   "AppLongDescription": {
+      "message": "Gebouwd voor Chrome: gebruik Word, Excel, PowerPoint, OneNote en Sway Online zonder eerst Microsoft 365 te installeren.\r\n\r\nVol zelfvertrouwen creëren: gebruik de bekende opties voor opmaak en lay-out om vol vertrouwen uw ideeën naar buiten te brengen.\r\n\r\nOnderweg werken: open uw bestanden vanaf elke willekeurige locatie dankzij de integratie met OneDrive en OneDrive voor Bedrijven.\r\n\r\nAls u de toepassing installeert, gaat u akkoord met deze voorwaarden: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacybeleid: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Met de Microsoft 365-browseruitbreiding wordt op de werkbalk van Microsoft Edge een pictogram geplaatst dat rechtstreekse toegang biedt tot uw Microsoft 365-bestanden, ongeacht of deze online of op uw computer zijn opgeslagen.\r\n\r\nMet de Microsoft 365-webuitbreiding kunt u bestanden openen die zijn opgeslagen in OneDrive en OneDrive voor Bedrijven.\r\n\r\nU krijgt de functies van Word, Excel, PowerPoint, OneNote en Sway rechtstreeks in de browser, zonder dat u Microsoft 365 hoeft te installeren.\r\n\r\nDe Microsoft 365-browseruitbreiding omvat nu ook controle van de inhoud*. Er wordt een koppeling gemaakt met een Microsoft Online-service die tips voor spelling, grammatica en verbeteringen van de geschreven tekst op de meeste websites biedt en beschikbaar is in meer dan 80 talen.\r\n\r\n*Deze functie is mogelijk niet beschikbaar voor alle gebruikers.\r\n\r\nDoor de app te installeren gaat u akkoord met deze voorwaarden: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Gemaakt voor Chrome – Gebruik Word, Excel, PowerPoint, OneNote en Sway Online zonder dat u Microsoft 365 hoeft te installeren.\r\n\r\nCreëer vol zelfvertrouwen – Gebruik de vertrouwde opties voor opmaak en lay-out om uw ideeën vol vertrouwen tot uitdrukking te brengen.\r\n\r\nWerk onderweg – Krijg overal toegang tot uw bestanden dankzij de integratie met OneDrive en OneDrive voor Bedrijven.\r\n\r\nDe Microsoft 365-browseruitbreiding omvat nu ook controle van de inhoud*. Er wordt een koppeling gemaakt met een Microsoft Online-service die tips voor spelling, grammatica en verbeteringen van de geschreven tekst op de meeste websites biedt en beschikbaar is in meer dan 80 talen.\r\n\r\n*Deze functie is mogelijk niet beschikbaar voor alle gebruikers.\r\n\r\nDoor de app te installeren gaat u akkoord met deze voorwaarden: http://aka.ms/officechromeextensionterms\r\n\r\nPrivacybeleid: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "Al uw apps verkennen"
+   },
+   "AppsSectionHeader": {
+      "message": "Apps"
+   },
+   "BrowseToOpenLabel": {
+      "message": "Uploaden en openen..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Account maken"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Geen onlangs bekeken documenten."
+   },
+   "CreateNewLabel": {
+      "message": "Nieuw"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Editor uitschakelen voor $host$",
+      "placeholders": {
+         "host": {
+            "content": "$ 1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Er kan momenteel geen lijst met recente documenten worden opgehaald."
+   },
+   "EditorBrandText": {
+      "message": "Editor"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Grammatica"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Editor wordt momenteel niet ondersteund voor $host$",
+      "placeholders": {
+         "host": {
+            "content": "$ 1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editor is momenteel uitgeschakeld voor $host$",
+      "placeholders": {
+         "host": {
+            "content": "$ 1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Editor is uitgeschakeld."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Editor is inbegrepen bij $host$",
+      "placeholders": {
+         "host": {
+            "content": "$ 1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(Preview)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "De Editorservice wordt geleverd door de Microsoft Editor-extensie."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Krijg geavanceerde schrijfideeën en 1 TB opslag met de premium-versie."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Verfijningen"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Verfijningen zijn geavanceerde schrijfsuggesties om uw schrijfstijl duidelijker, bondiger of formeler te maken."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Spelling"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Editor inschakelen voor $host$",
+      "placeholders": {
+         "host": {
+            "content": "$ 1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Het bestandstype wordt niet ondersteund. Kies een document van Word, Excel of PowerPoint."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Laden..."
+   },
+   "MoreFilesLabel": {
+      "message": "Meer documenten"
+   },
+   "MyAccountLabel": {
+      "message": "Mijn account weergeven"
+   },
+   "NextLabel": {
+      "message": "Aanmelden"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Niet opnieuw weergeven"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Uw bestand is opgeslagen in de map 'Microsoft 365-browserextensie' op uw OneDrive."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Uw bestand is opgeslagen in de map 'Microsoft 365-browserextensie' op uw OneDrive voor Bedrijven."
+   },
+   "NotificationFileAccess": {
+      "message": "Schakel in de instellingen van de uitbreiding het selectievakje Toegang tot bestands-URL's in als u bestanden wilt kunnen slepen en neerzetten in de browser."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Microsoft 365-browserextensie kan het document niet openen vanwege de grootte. Upload rechtstreeks naar OneDrive om het document te openen."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "We konden het bestand niet openen."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "We konden het bestand niet openen. Probeer het later opnieuw."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "We konden het bestand niet openen. Kies een bestand dat gemaakt is met Word, Excel of PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "We zijn bezig met het uploaden van uw document(en)."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Uw abonnement op Microsoft 365 kan zijn verlopen of exclusief OneDrive voor Bedrijven zijn. Controleer uw abonnement of meld u aan met een Microsoft-account."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Meld u aan bij de extensie om bestanden in Microsoft 365 op het web weer te geven en te bewerken."
+   },
+   "NotificationSetDefault": {
+      "message": "Tik in de app Bestanden met twee vingers op documenten om te openen met Microsoft 365."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Kies een bestand dat is gemaakt met Word, Excel of PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Het document wordt geopend in de browser met de Microsoft 365 extensie"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Niet opnieuw weergeven"
+   },
+   "O365FilesLabel": {
+      "message": "Van OneDrive voor Bedrijven"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "U bent offline. Maak opnieuw verbinding om Microsoft 365 browserextensie te gebruiken."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Van OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Openen"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Documenten"
+   },
+   "SettingsLabel": {
+      "message": "Instellingen"
+   },
+   "ShareMessage": {
+      "message": "Delen"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Toestemming vereist"
+   },
+   "SharePermissionsTooltip": {
+      "message": "U hebt geen toestemming om te delen"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Waar wilt u uw bestanden opslaan?"
+   },
+   "SignInLabel": {
+      "message": "Aanmelden"
+   },
+   "SignInMSALabel": {
+      "message": "Meld u aan met een Microsoft-account"
+   },
+   "SignInO365Label": {
+      "message": "Meld u aan met een werk- of schoolaccount"
+   },
+   "SignOutLabel": {
+      "message": "Afmelden"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "De Editorservice wordt geleverd door de Microsoft Editor-extensie."
+   },
+   "SupportPageLabel": {
+      "message": "Hebt u hulp nodig bij het aanmelden?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Automatisch gegevens verzenden om ons te helpen onze producten te verbeteren."
+   },
+   "TurnOnEditorLabel": {
+      "message": "Editor inschakelen"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "Uploaden naar OneDrive voor Bedrijven"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "Uploaden naar OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "Niet aangemeld"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Open Microsoft 365 bestanden rechtstreeks in de browser met Microsoft 365."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "アカウント"
+   },
+   "AppDescription": {
+      "message": "ブラウザーでドキュメントを表示、編集、作成します。"
+   },
+   "AppDescriptionWithEditor": {
+      "message": "ブラウザ内でファイルを表示、編集、作成し、ウェブ上で最高の文章を引き出します。"
+   },
+   "AppFolderName": {
+      "message": "Microsoft 365 ブラウザー拡張機能"
+   },
+   "AppListLabel": {
+      "message": "Web アプリ"
+   },
+   "AppLongDescription": {
+      "message": "Chrome 向けビルド – Microsoft 365 がインストールされていなくても Word、Excel、PowerPoint、OneNote、Sway Online を使うことができます。\r\n\r\n自信を持って作成する – 使い慣れたフォーマットとレイアウト オプションを使用して、アイデアを正確に表現します。\r\n\r\n外出先での作業 – OneDrive および OneDrive for Business との統合により、どこにいてもファイルにアクセスできます。\r\n\r\nアプリをインストールすると、次の利用規約に同意したことになります: http://aka.ms/officechromeextensionterms\r\n\r\nプライバシー ポリシー: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Microsoft 365 ブラウザー拡張機能は、Microsoft Edge ツールバーにアイコンを配置し、オンラインまたはコンピューター上に保存されているかどうかに関係なく、Microsoft 365 ファイルに直接アクセスできるようにします。\r\n\r\nMicrosoft 365 Web 拡張機能は、OneDrive および OneDrive for Business に保存されているファイルを開くことができます。\r\n\r\nMicrosoft 365 をインストールしなくても、ブラウザーで Word、Excel、PowerPoint、OneNote、および Sway の機能を利用できます。\r\n\r\nMicrosoft 365 ブラウザー拡張機能には、コンテンツの校正が含まれるようになりました*。これは、ほとんどの Web サイトで文章のスペルチェック、文章校正、改善の提案を提供する Microsoft オンライン サービスに接続します。このサービスは 80 以上の言語で利用可能です。\r\n\r\n*この機能は一部のユーザーにはご利用いただけない可能性があります。\r\n\r\nアプリをインストールすることで、お客様は次の使用条件に同意したものとみなされます:\r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Chrome 用に作成 – Word、Excel、PowerPoint、OneNote、Sway Online を、Microsoft 365 をインストールせずに使用できます。\r\n\r\n自信を持って作成 – 使い慣れた書式やレイアウトのオプションを使用して、自分のアイデアを忠実に再現することができます。\r\n\r\n外出先でも作業 – OneDrive や OneDrive for Business と統合されており、どこからでもファイルにアクセスできます。\r\n\r\nMicrosoft 365 ブラウザーの拡張機能にコンテンツの校正が含まれるようになりました*。これは、ほとんどの Web サイトで文章のスペルチェック、文章校正、改善の提案を提供する Microsoft オンライン サービスに接続します。このサービスは 80 以上の言語で利用可能です。\r\n\r\n*この機能は一部のユーザーにはご利用いただけない可能性があります。\r\n\r\nアプリをインストールすることで、お客様は次の使用条件に同意したものとみなされます: http://aka.ms/officechromeextensionterms\r\n\r\n プライバシー ポリシー: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "すべてのアプリを探索する"
+   },
+   "AppsSectionHeader": {
+      "message": "アプリ"
+   },
+   "BrowseToOpenLabel": {
+      "message": "アップロードして開く..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "アカウントの作成"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "最近表示したドキュメントはありません。"
+   },
+   "CreateNewLabel": {
+      "message": "新規作成"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "$host$ でエディターを無効にする",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "現在、最近使用したドキュメントの一覧を取得することはできません。"
+   },
+   "EditorBrandText": {
+      "message": "エディター"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "文章校正"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "エディターは現在 $host$ ではサポートされていません",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "エディターは現在 $host$ で無効になっています",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "エディターはオフです。"
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "エディターは $host$ に含まれています",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(プレビュー)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "エディター サービスは、Microsoft エディターの拡張機能によって提供されています。"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "プレミアムに移行すると、高度な文章作成のアイデアと 1 TB のストレージを入手できます。"
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "表現や表記上の考慮点"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "表現や表記上の考慮点は、文章をより明確にし、言葉数を少なくし、より改まった感じにするための高度な文章提案機能です。"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "スペル チェック"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "$host$ でエディターを有効にする",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "ファイルの種類がサポートされていません。Word、Excel または PowerPoint のドキュメントを選択してください。"
+   },
+   "LoadingRecentsLabel": {
+      "message": "読み込み中..."
+   },
+   "MoreFilesLabel": {
+      "message": "その他のドキュメント"
+   },
+   "MyAccountLabel": {
+      "message": "自分のアカウントを表示"
+   },
+   "NextLabel": {
+      "message": "サインイン"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "今後このメッセージを表示しない"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "OneDrive の \"Microsoft 365 ブラウザー拡張機能\" フォルダーにファイルを保存しました。"
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "OneDrive for Business の \"Microsoft 365 ブラウザー拡張機能\" フォルダーにファイルを保存しました。"
+   },
+   "NotificationFileAccess": {
+      "message": "ブラウザーにファイルをドラッグ アンド ドロップする場合は、拡張機能の設定で、[ファイルの URL へのアクセスを許可する] チェックボックスをオンにします。"
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Microsoft 365 ブラウザー拡張機能は、サイズが原因でドキュメントを開くことができません。 ドキュメントを開くには、OneDrive に直接アップロードしてください。"
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "申し訳ございません、ファイルを開くことができませんでした。"
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "申し訳ございません、ファイルを開くことができませんでした。 後でもう一度やり直してください。"
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "申し訳ございません、ファイルを開くことができませんでした。Word、Excel、または PowerPoint で作成されたファイルを選択してください。"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "現在ドキュメントをアップロードしています。"
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Microsoft 365 サブスクリプションが期限切れ、あるいは Microsoft 365 サブスクリプションに OneDrive for Business が含まれていない可能性があります。サブスクリプションを確認するか、Microsoft アカウントでログインしてください。"
+   },
+   "NotificationNotSignedIn": {
+      "message": "拡張機能にサインインして、Microsoft 365 を使って Web 上でファイルを表示して編集します。"
+   },
+   "NotificationSetDefault": {
+      "message": "ファイル アプリで、ドキュメントを 2 本の指でタップして、Microsoft 365 で開きます。"
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Word、Excel、または PowerPoint で作成されたファイルを選択します。"
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Microsoft 365 拡張機能がブラウザーでドキュメントを開いています"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "今後このメッセージを表示しない"
+   },
+   "O365FilesLabel": {
+      "message": "OneDrive for Business から"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "オフラインです。 Microsoft 365 ブラウザー拡張機能を使用するには、再接続してください。"
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "OneDrive から"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "開く"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "ドキュメント"
+   },
+   "SettingsLabel": {
+      "message": "設定"
+   },
+   "ShareMessage": {
+      "message": "共有"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "権限が必要です"
+   },
+   "SharePermissionsTooltip": {
+      "message": "共有する権限がありません"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "ファイルを保存する場所"
+   },
+   "SignInLabel": {
+      "message": "サインイン"
+   },
+   "SignInMSALabel": {
+      "message": "Microsoft アカウントでサインイン"
+   },
+   "SignInO365Label": {
+      "message": "Microsoft アカウント、または職場または学校アカウントでサインイン"
+   },
+   "SignOutLabel": {
+      "message": "サインアウト"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "エディター サービスは、Microsoft エディターの拡張機能によって提供されています。"
+   },
+   "SupportPageLabel": {
+      "message": "ログインのヘルプが必要ですか?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "データを自動的に送信して、製品の品質向上を支援します。"
+   },
+   "TurnOnEditorLabel": {
+      "message": "エディターをオンにする"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "OneDrive for Business にアップロード"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "OneDrive にアップロード"
+   },
+   "UsernameLabel": {
+      "message": "サインインしていません"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Microsoft 365 を使用して、Microsoft 365 ファイルをブラウザーで直接開きます。"
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

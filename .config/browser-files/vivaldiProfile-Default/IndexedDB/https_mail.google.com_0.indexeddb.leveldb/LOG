@@ -1,0 +1,27 @@
+2023/09/09-10:27:41.627 1a78 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/09-10:27:41.627 1a78 Recovering log #51
+2023/09/09-10:27:41.640 1a78 Reusing old log /home/saharsh/.config/vivaldi/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000051.log 
+2023/09/09-10:27:43.374 1a78 Compacting 1@1 + 1@2 files
+2023/09/09-10:27:43.393 1a78 Generated table #54@1: 272 keys, 756753 bytes
+2023/09/09-10:27:43.393 1a78 Compacted 1@1 + 1@2 files => 756753 bytes
+2023/09/09-10:27:43.396 1a78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/09-10:27:43.396 1a78 Delete type=2 #50
+2023/09/09-10:27:43.396 1a78 Delete type=2 #52
+2023/09/09-10:27:56.875 1a79 Level-0 table #56: started
+2023/09/09-10:27:56.895 1a79 Level-0 table #56: 2620222 bytes OK
+2023/09/09-10:27:56.899 1a79 Delete type=0 #51
+2023/09/09-10:45:35.129 1a78 Compacting 1@1 + 1@2 files
+2023/09/09-10:45:35.140 1a78 Generated table #57@1: 221 keys, 487047 bytes
+2023/09/09-10:45:35.140 1a78 Compacted 1@1 + 1@2 files => 487047 bytes
+2023/09/09-10:45:35.144 1a78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/09-10:45:35.144 1a78 Delete type=2 #54
+2023/09/09-10:45:35.144 1a78 Delete type=2 #56
+2023/09/09-17:02:05.999 1a93 Level-0 table #59: started
+2023/09/09-17:02:06.037 1a93 Level-0 table #59: 2348357 bytes OK
+2023/09/09-17:02:06.047 1a93 Delete type=0 #55
+2023/09/09-17:02:10.478 1a78 Compacting 1@1 + 1@2 files
+2023/09/09-17:02:10.488 1a78 Generated table #60@1: 128 keys, 195072 bytes
+2023/09/09-17:02:10.488 1a78 Compacted 1@1 + 1@2 files => 195072 bytes
+2023/09/09-17:02:10.491 1a78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/09-17:02:10.491 1a78 Delete type=2 #57
+2023/09/09-17:02:10.491 1a78 Delete type=2 #59

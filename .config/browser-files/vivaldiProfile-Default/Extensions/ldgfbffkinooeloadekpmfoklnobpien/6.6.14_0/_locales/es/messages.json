@@ -1,0 +1,42 @@
+{
+   "appDesc": {
+      "description": "",
+      "message": "Gestor de marcadores todo en uno"
+   },
+   "in": {
+      "description": "",
+      "message": "en"
+   },
+   "openRaindrop": {
+      "description": "",
+      "message": "Abrir Raindrop.io web-sitio"
+   },
+   "openSidePanel": {
+      "description": "",
+      "message": "Abrir barra lateral"
+   },
+   "saveHighlight": {
+      "description": "",
+      "message": "Guardar destacados"
+   },
+   "saveImage": {
+      "description": "",
+      "message": "Guardar imagen"
+   },
+   "saveLink": {
+      "description": "",
+      "message": "Guardar enlace"
+   },
+   "savePage": {
+      "description": "",
+      "message": "Crear nuevo marcador"
+   },
+   "savePageOrHighlight": {
+      "description": "",
+      "message": "Nuevo marcador / Guardar destacados"
+   },
+   "saveVideo": {
+      "description": "",
+      "message": "Guardar vídeo"
+   }
+}

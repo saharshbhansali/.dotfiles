@@ -1,0 +1,6 @@
+2023/08/26-18:06:22.412 2f2c8 Creating DB /home/saharsh/.config/vivaldi/Default/IndexedDB/https_uninstall.tab-suspender.com_0.indexeddb.leveldb since it was missing.
+2023/08/26-18:06:22.418 2f2c8 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/IndexedDB/https_uninstall.tab-suspender.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/26-18:06:40.769 2f2c7 Level-0 table #5: started
+2023/08/26-18:06:40.770 2f2c7 Level-0 table #5: 1169 bytes OK
+2023/08/26-18:06:40.773 2f2c7 Delete type=0 #3
+2023/08/26-18:06:40.773 2f2c7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

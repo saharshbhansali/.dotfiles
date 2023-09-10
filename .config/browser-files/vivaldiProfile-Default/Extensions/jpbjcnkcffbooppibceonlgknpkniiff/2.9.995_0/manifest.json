@@ -1,0 +1,79 @@
+{
+   "background": {
+      "scripts": [ "polyfills.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_popup": "popup.html"
+   },
+   "commands": {
+      "commandA": {
+         "description": "command A"
+      },
+      "commandB": {
+         "description": "command B"
+      },
+      "commandC": {
+         "description": "command C"
+      },
+      "commandD": {
+         "description": "command D"
+      },
+      "commandE": {
+         "description": "command E"
+      },
+      "commandF": {
+         "description": "command F"
+      },
+      "commandG": {
+         "description": "command G"
+      },
+      "commandH": {
+         "description": "command H"
+      },
+      "commandI": {
+         "description": "command I"
+      },
+      "commandJ": {
+         "description": "command J"
+      },
+      "commandK": {
+         "description": "command K"
+      },
+      "commandL": {
+         "description": "command L"
+      },
+      "commandM": {
+         "description": "command M"
+      },
+      "commandN": {
+         "description": "command N"
+      },
+      "commandO": {
+         "description": "command O"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "polyfills.js", "contentScript.js" ],
+      "match_about_blank": true,
+      "matches": [ "https://*/*", "http://*/*", "file://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icons/128.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlOYWQX7xGhuPGUWffo8DHUjaYRU3bCAQ2GuHgS3YZNbcuFwNxvB9lacefRHN6Wj+pPmFGd8JOevyAscrlSsFTghbBGuUmU9Kyb9fmxT14rssb184iOk7RAPIDqw2A3nDGMNQwdsFNMeQs0a5ZqjKas/7lVIbE2j2gWX5m0O66Z30F6rJwj+k5enk5+dcD/+M9TRIHbuRCUiLcmU5rD/7+1Yt96yLDz0/RBmeL9uw1GQpF1pC595OJxtQklToQnIH/r5+sGh0ttyzkACyRLeRv3U4PrB30ETAN0JgfW7K3feSxuSAc+pHfowSPE87lesTtheEmB3j9hshlBEx6ei8JwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "storage", "https://*/*", "http://*/*", "file://*/*", "tabCapture", "webNavigation" ],
+   "short_name": "Global Speed",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.9.995"
+}

@@ -1,0 +1,200 @@
+{
+   "EnableHSL": {
+      "message": "Показати HSL"
+   },
+   "EnableRGB": {
+      "message": "Показати RGB"
+   },
+   "addToPalette": {
+      "message": "Додати до кольорової палітри"
+   },
+   "advancedOptions": {
+      "message": "Розширені опції"
+   },
+   "allowWebGl": {
+      "message": "Дозвольте webgl для попереднього перегляду пікселів"
+   },
+   "appleIcon": {
+      "message": "Використовувати Apple Digital Логотип кольорів"
+   },
+   "approved": {
+      "message": "Затверджений"
+   },
+   "bbackgroundColor": {
+      "message": "Спливаючий фон кольору"
+   },
+   "bgPageUnavailable": {
+      "message": "Фонове знімок не відповідає - оновіть сторінку та повторіть спробу."
+   },
+   "borderValue": {
+      "message": "Кордони для використання (css значення)"
+   },
+   "clear": {
+      "message": "Ясно"
+   },
+   "clearSync": {
+      "message": "Чистий синхронізація пам'яті"
+   },
+   "closeAndExit": {
+      "message": "Закрити та вийти з режиму вибору кольорів"
+   },
+   "colorOfDay": {
+      "message": "Колір дня"
+   },
+   "copycolorval": {
+      "message": "Скопіюйте значення кольору"
+   },
+   "dblClick": {
+      "message": "Подвійне клацання"
+   },
+   "dedupe": {
+      "message": "дедупе"
+   },
+   "default": {
+      "message": "За замовчуванням"
+   },
+   "disablePickEveryTime": {
+      "message": "Не починайте збирати щоразу, коли натискається спливаюче вікно"
+   },
+   "disableRewriting": {
+      "message": "Вимкнути приєднання неафілійованих зв'язків"
+   },
+   "error": {
+      "message": "Помилка"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Отримайте налаштування зі сховища синхронізації облікового запису Google"
+   },
+   "fishEye": {
+      "message": "Кількість очей збільшення очей"
+   },
+   "full": {
+      "message": "Повний"
+   },
+   "hasAgreedToLicense": {
+      "message": "Погодився з умовами користування"
+   },
+   "help": {
+      "message": "Допомога / інформація"
+   },
+   "hideMinimize": {
+      "message": "Сховати / мінімізувати "
+   },
+   "history": {
+      "message": "Історія"
+   },
+   "iconIsBitmap": {
+      "message": "Піктограма збільшеного перегляду пікселів"
+   },
+   "iconIsPreview": {
+      "message": "Використовувати значок квадратного кольору попереднього перегляду"
+   },
+   "loadsyncOptions": {
+      "message": "Параметри збереження синхронізації були завантажені та збережені."
+   },
+   "maxZoom": {
+      "message": "Макс збільшений"
+   },
+   "modifyLicense": {
+      "message": "Змінити ліцензію"
+   },
+   "noSwatches": {
+      "message": "Клацніть кольори в історії кольорів, щоб додати їх до палітри для збереження та друку."
+   },
+   "off": {
+      "message": "Вимкнути"
+   },
+   "on": {
+      "message": "На"
+   },
+   "options": {
+      "message": "Варіанти"
+   },
+   "pickAgainLocked": {
+      "message": "Вибрати інший колір [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Виберіть поточний колір [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Почніть підбирати кольори кожного разу, коли натискається спливаюче вікно"
+   },
+   "pixelatedPreview": {
+      "message": "Збільшений попередній перегляд - піксельований"
+   },
+   "popOutWindow": {
+      "message": "Спливаюче вікно (окреме вікно)"
+   },
+   "pressEnterToPick": {
+      "message": "Натисніть клавішу Enter, щоб вибрати колір"
+   },
+   "printSave": {
+      "message": "Роздрукувати / зберегти..."
+   },
+   "reSnapPage": {
+      "message": "Оновити картину сторінки [r]"
+   },
+   "registerButton": {
+      "message": "Реєструйся"
+   },
+   "registered": {
+      "message": "Зареєстрований"
+   },
+   "resetIcon": {
+      "message": "Повернутися до звичайної піктограми"
+   },
+   "rightClick": {
+      "message": "Клацніть правою кнопкою миші"
+   },
+   "saveOptions": {
+      "message": "Зберегти варіанти"
+   },
+   "savedoptions": {
+      "message": "Параметри збережено."
+   },
+   "seeTerms": {
+      "message": "Перегляньте умови використання"
+   },
+   "shareClors": {
+      "message": "Колір денної статистики (див. умови використання)"
+   },
+   "showColorChooser": {
+      "message": "Показати колір вибору"
+   },
+   "showDefaults": {
+      "message": "Показати значення за замовчуванням"
+   },
+   "showPreviousClr": {
+      "message": "Показати попередній перегляд кольорів у попередньому кольорі"
+   },
+   "showndefaults": {
+      "message": "Будь ласка, натисніть кнопку \"Зберегти\", тепер відображається значення за промовчанням."
+   },
+   "sort": {
+      "message": "сортувати"
+   },
+   "terms": {
+      "message": "Умови користування"
+   },
+   "unregistered": {
+      "message": "Незареєстрований"
+   },
+   "usageStatistics": {
+      "message": "Зібрати статистику використання (див. умови використання)"
+   },
+   "useCSSValues": {
+      "message": "Використовувати значення css для RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Використовувати PNG якість, коли це можливо"
+   },
+   "usePrevColorBG": {
+      "message": "Використовувати попередній колір фону"
+   }
+}

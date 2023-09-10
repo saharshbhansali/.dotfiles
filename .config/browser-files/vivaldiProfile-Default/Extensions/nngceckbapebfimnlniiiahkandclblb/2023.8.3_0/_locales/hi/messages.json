@@ -1,0 +1,2247 @@
+{
+   "about": {
+      "message": "जानकारी"
+   },
+   "acceptPolicies": {
+      "message": "इस बॉक्स की जांच करके आप निम्नलिखित से सहमत हैं:"
+   },
+   "acceptPoliciesRequired": {
+      "message": "सेवा की शर्तों और गोपनीयता नीति को स्वीकार नहीं किया गया है।"
+   },
+   "accessDenied": {
+      "message": "Access denied. You do not have permission to view this page."
+   },
+   "account": {
+      "message": "खाता"
+   },
+   "addFolder": {
+      "message": "Add Folder"
+   },
+   "addItem": {
+      "message": "Add Item"
+   },
+   "addLogin": {
+      "message": "Add a Login"
+   },
+   "addLoginNotificationDesc": {
+      "message": "The \"Add Login Notification\" automatically prompts you to save new logins to your vault whenever you log into them for the first time."
+   },
+   "addSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Send जोड़ें"
+   },
+   "addedFolder": {
+      "message": "जोड़ा गया फ़ोल्डर"
+   },
+   "addedItem": {
+      "message": "जोड़ा गया आइटम"
+   },
+   "address": {
+      "message": "पता"
+   },
+   "address1": {
+      "message": "पता 1"
+   },
+   "address2": {
+      "message": "पता 2"
+   },
+   "address3": {
+      "message": "पता 3"
+   },
+   "allItems": {
+      "message": "All Items"
+   },
+   "allSends": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "सभी Sends"
+   },
+   "allVaults": {
+      "message": "सभी तिजोरियाँ"
+   },
+   "apiAccessToken": {
+      "message": "API Access Token"
+   },
+   "apiKey": {
+      "message": "API Key"
+   },
+   "apiUrl": {
+      "message": "API Server URL"
+   },
+   "appName": {
+      "message": "bitwarden"
+   },
+   "april": {
+      "message": "अप्रैल"
+   },
+   "attachmentSaved": {
+      "message": "अटैचमेंट बच गया है।"
+   },
+   "attachments": {
+      "message": "अटॅचमेंट्स"
+   },
+   "august": {
+      "message": "अगस्त"
+   },
+   "authenticatorAppDesc": {
+      "description": "'Authy' and 'Google Authenticator' are product names and should not be translated.",
+      "message": "समय-आधारित सत्यापन कोड उत्पन्न करने के लिए एक प्रमाणक ऐप (जैसे Authy या Google Authenticator) का उपयोग करें।"
+   },
+   "authenticatorAppTitle": {
+      "message": "Authenticator App"
+   },
+   "authenticatorKeyTotp": {
+      "message": "Authenticator Key (TOTP)"
+   },
+   "autoFill": {
+      "message": "स्वत:भरण"
+   },
+   "autoFillAndSave": {
+      "message": "ऑटो फिल और सेव"
+   },
+   "autoFillInfo": {
+      "message": "इस ब्राउज़र टैब के लिए स्वत: भरण लॉगिन उपलब्ध नहीं है।"
+   },
+   "autoFillOnPageLoadNo": {
+      "message": "पेज लोड पर ऑटो-फिल न करें"
+   },
+   "autoFillOnPageLoadUseDefault": {
+      "message": "डिफ़ॉल्ट सेटिंग का उपयोग करें"
+   },
+   "autoFillOnPageLoadYes": {
+      "message": "पेज लोड पर ऑटो भरें"
+   },
+   "autoFillSuccess": {
+      "message": "ऑटो फिल आइटम"
+   },
+   "autoFillSuccessAndSavedUri": {
+      "message": "ऑटो फिल आइटम और सेव URI"
+   },
+   "autofillError": {
+      "message": "Unable to auto-fill the selected login on this page. Copy/paste your username and/or password instead."
+   },
+   "autofillIframeWarning": {
+      "message": "The form is hosted by a different domain than the URI of your saved login. Choose OK to auto-fill anyway, or Cancel to stop."
+   },
+   "autofillIframeWarningTip": {
+      "message": "To prevent this warning in the future, save this URI, $HOSTNAME$, to your Bitwarden login item for this site.",
+      "placeholders": {
+         "hostname": {
+            "content": "$1",
+            "example": "www.example.com"
+         }
+      }
+   },
+   "autofillPageLoadPolicyActivated": {
+      "message": "Your organization policies have turned on auto-fill on page load."
+   },
+   "autofillSelectInfoWithCommand": {
+      "message": "Select an item from this page or use the shortcut: $COMMAND$",
+      "placeholders": {
+         "command": {
+            "content": "$1",
+            "example": "CTRL+Shift+L"
+         }
+      }
+   },
+   "autofillSelectInfoWithoutCommand": {
+      "message": "Select an item from this page or set a shortcut in settings."
+   },
+   "autofillSettings": {
+      "message": "Auto-fill settings"
+   },
+   "autofillShortcut": {
+      "message": "Auto-fill keyboard shortcut"
+   },
+   "autofillShortcutNotSet": {
+      "message": "The auto-fill shortcut is not set. Change this in the browser's settings."
+   },
+   "autofillShortcutText": {
+      "message": "The auto-fill shortcut is: $COMMAND$. Change this in the browser's settings.",
+      "placeholders": {
+         "command": {
+            "content": "$1",
+            "example": "CTRL+Shift+L"
+         }
+      }
+   },
+   "autofillShortcutTextSafari": {
+      "message": "Default auto-fill shortcut: $COMMAND$.",
+      "placeholders": {
+         "command": {
+            "content": "$1",
+            "example": "CTRL+Shift+L"
+         }
+      }
+   },
+   "avoidAmbChar": {
+      "message": "Avoid Ambiguous Characters"
+   },
+   "awaitDesktop": {
+      "message": "डेस्कटॉप से पुष्टि का इंतजार"
+   },
+   "awaitDesktopDesc": {
+      "message": "ब्राउज़र के लिए बॉयोमीट्रिक्स सक्षम करने के लिए Bitwarden डेस्कटॉप आवेदन में बॉयोमीट्रिक्स का उपयोग कर पुष्टि करें।"
+   },
+   "back": {
+      "message": "वापस जाएं"
+   },
+   "badgeCounterDesc": {
+      "message": "इंगित करें कि आपके पास वर्तमान वेब पेज के लिए कितने लॉगिन हैं।"
+   },
+   "baseDomain": {
+      "description": "Domain name. Ex. website.com",
+      "message": "बेस डोमेन"
+   },
+   "baseUrl": {
+      "message": "सर्वर URL"
+   },
+   "biometricsNotEnabledDesc": {
+      "message": "ब्राउज़र बॉयोमीट्रिक्स पहले सेटिंग्स में सक्षम होने के लिए डेस्कटॉप बॉयोमीट्रिक की आवश्यकता है ।"
+   },
+   "biometricsNotEnabledTitle": {
+      "message": "बॉयोमीट्रिक्स सक्षम नहीं  है"
+   },
+   "biometricsNotSupportedDesc": {
+      "message": "ब्राउज़र बॉयोमीट्रिक्स इस डिवाइस पर समर्थित नहीं है।"
+   },
+   "biometricsNotSupportedTitle": {
+      "message": "बॉयोमीट्रिक्स सक्षम नहीं  है"
+   },
+   "bitWebVault": {
+      "message": "bitwarden Web Vault"
+   },
+   "brand": {
+      "message": "ब्रांड"
+   },
+   "browserNotSupportClipboard": {
+      "message": "आपका वेब ब्राउज़र आसान क्लिपबोर्ड कॉपीिंग का समर्थन नहीं करता है। इसके बजाय इसे मैन्युअल रूप से कॉपी करें।"
+   },
+   "cancel": {
+      "message": "रद्द करें"
+   },
+   "capitalize": {
+      "description": "Make the first letter of a work uppercase.",
+      "message": "कैपिटलाइज़ करें"
+   },
+   "cardholderName": {
+      "message": "Cardholder Name"
+   },
+   "cards": {
+      "message": "कार्ड्स"
+   },
+   "catchallEmail": {
+      "message": "Catch-all email"
+   },
+   "catchallEmailDesc": {
+      "message": "Use your domain's configured catch-all inbox."
+   },
+   "cfTypeBoolean": {
+      "message": "बूलियन"
+   },
+   "cfTypeHidden": {
+      "message": "छुपा हुआ"
+   },
+   "cfTypeLinked": {
+      "description": "This describes a field that is 'linked' (tied) to another field.",
+      "message": "जुड़ा हुआ"
+   },
+   "cfTypeText": {
+      "message": "शब्द"
+   },
+   "changeMasterPass": {
+      "message": "Change Master Password"
+   },
+   "changeMasterPassword": {
+      "message": "Change Master Password"
+   },
+   "changeMasterPasswordConfirmation": {
+      "message": "आप वेब वॉल्ट bitwarden.com पर अपना मास्टर पासवर्ड बदल सकते हैं।क्या आप अब वेबसाइट पर जाना चाहते हैं?"
+   },
+   "changedPasswordNotificationDesc": {
+      "message": "किसी वेबसाइट पर परिवर्तन का पता चलने पर लॉगिन का पासवर्ड अपडेट करने के लिए कहें।"
+   },
+   "characterMinimum": {
+      "message": "$LENGTH$ वर्ण न्यूनतम",
+      "placeholders": {
+         "length": {
+            "content": "$1",
+            "example": "14"
+         }
+      }
+   },
+   "checkForBreaches": {
+      "message": "Check known data breaches for this password"
+   },
+   "checkPassword": {
+      "message": "चेक करें कि पासवर्ड सामने आ गया है या नहीं।"
+   },
+   "cityTown": {
+      "message": "City / Town"
+   },
+   "clear": {
+      "description": "To clear something out. example: To clear browser history.",
+      "message": "खाली करें"
+   },
+   "clearClipboard": {
+      "description": "Clipboard is the operating system thing where you copy/paste data to on your device.",
+      "message": "क्लिपबोर्ड खाली करें"
+   },
+   "clearClipboardDesc": {
+      "description": "Clipboard is the operating system thing where you copy/paste data to on your device.",
+      "message": "स्वचालित रूप से अपने क्लिपबोर्ड से कॉपी की गई मानों को साफ़ करें।"
+   },
+   "clone": {
+      "message": "क्लोन"
+   },
+   "cloneItem": {
+      "message": "क्लोन आइटम"
+   },
+   "close": {
+      "message": "बंद करें"
+   },
+   "codeSent": {
+      "message": "कोड भेजा गया है"
+   },
+   "collections": {
+      "message": "संग्रह"
+   },
+   "commandAutofillDesc": {
+      "message": "Auto-fill the last used login for the current website."
+   },
+   "commandGeneratePasswordDesc": {
+      "message": "Generate and copy a new random password to the clipboard."
+   },
+   "commandLockVaultDesc": {
+      "message": "वॉल्ट लॉक करें"
+   },
+   "commandOpenPopup": {
+      "message": "ओपन वॉल्ट पॉपअप"
+   },
+   "commandOpenSidebar": {
+      "message": "साइडबार में वॉल्ट खोले"
+   },
+   "communityForums": {
+      "message": "Explore Bitwarden community forums"
+   },
+   "company": {
+      "message": "कंपनी"
+   },
+   "confirmIdentity": {
+      "message": "आगे बढ़ने के लिए अपने पहचान की पुष्टि करें"
+   },
+   "confirmMasterPasswordRequired": {
+      "message": "मास्टर पासवर्ड पुनः डालने की आवश्यकता है।"
+   },
+   "confirmNewMasterPass": {
+      "message": "Confirm new master password"
+   },
+   "confirmVaultExport": {
+      "message": "वॉल्ट निर्यात की पुष्टि करें"
+   },
+   "contactSupport": {
+      "message": "बिटवॉर्डेन सहायता से संपर्क करें"
+   },
+   "contextMenuItemDesc": {
+      "message": "वेबसाइट के लिए पासवर्ड जेनरेशन और मैचिंग लॉग इन तक पहुंचने के लिए सेकेंडरी क्लिक का उपयोग करें। "
+   },
+   "continue": {
+      "message": "जारी रखें"
+   },
+   "convertOrganizationEncryptionDesc": {
+      "message": "$ORGANIZATION$ is using SSO with a self-hosted key server. A master password is no longer required to log in for members of this organization.",
+      "placeholders": {
+         "organization": {
+            "content": "$1",
+            "example": "My Org Name"
+         }
+      }
+   },
+   "copyCustomFieldNameInvalidElement": {
+      "message": "Unable to identify a valid form element. Try inspecting the HTML instead."
+   },
+   "copyCustomFieldNameNotUnique": {
+      "message": "No unique identifier found."
+   },
+   "copyElementIdentifier": {
+      "message": "कस्टम फील्ड नाम कॉपी करें"
+   },
+   "copyNote": {
+      "message": "Copy Note"
+   },
+   "copyNumber": {
+      "message": "Copy Number"
+   },
+   "copyPassword": {
+      "message": "Copy Password"
+   },
+   "copySecurityCode": {
+      "message": "Copy Security Code"
+   },
+   "copySendLink": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "कॉपी Send लिंक"
+   },
+   "copyUri": {
+      "message": "URI को कॉपी करें"
+   },
+   "copyUsername": {
+      "message": "Copy Username"
+   },
+   "copyValue": {
+      "message": "Copy Value"
+   },
+   "copyVerificationCode": {
+      "message": "Copy Verification Code"
+   },
+   "country": {
+      "message": "देश"
+   },
+   "createAccount": {
+      "message": "Create Account"
+   },
+   "createSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "नया सेंड बनाएं"
+   },
+   "createdSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "नया सेंड बनाया गया"
+   },
+   "currentAccessCount": {
+      "message": "वर्तमान एक्सेस काउंट"
+   },
+   "currentMasterPass": {
+      "message": "Current master password"
+   },
+   "currentTab": {
+      "message": "Current Tab"
+   },
+   "currentUri": {
+      "description": "The URI of one of the current open tabs in the browser.",
+      "message": "वर्तमान URI"
+   },
+   "custom": {
+      "message": "कस्टम"
+   },
+   "customEnvironment": {
+      "message": "Custom Environment"
+   },
+   "customEnvironmentFooter": {
+      "message": "उन्नत उपयोगकर्ताओं के लिए। आप स्वतंत्र रूप से प्रत्येक सेवा का आधार URL निर्दिष्ट कर सकते हैं।"
+   },
+   "customFields": {
+      "message": "Custom Fields"
+   },
+   "dark": {
+      "description": "Dark color",
+      "message": "अंधेरा"
+   },
+   "dateCreated": {
+      "description": "ex. Date this item was created",
+      "message": "बनाया था"
+   },
+   "dateParsingError": {
+      "message": "आपके विलोपन और समाप्ति तिथियों को सहेजने में एक त्रुटि थी।"
+   },
+   "datePasswordUpdated": {
+      "description": "ex. Date this password was updated",
+      "message": "Password Updated"
+   },
+   "dateUpdated": {
+      "description": "ex. Date this item was updated",
+      "message": "अपडेट किया गया"
+   },
+   "days": {
+      "message": "$DAYS$ days",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "december": {
+      "message": "दिसंबर"
+   },
+   "default": {
+      "message": "डिफॉल्ट"
+   },
+   "defaultAutoFillOnPageLoad": {
+      "message": "लॉगिन आइटम के लिए डिफ़ॉल्ट ऑटोफिल सेटिंग"
+   },
+   "defaultAutoFillOnPageLoadDesc": {
+      "message": "पेज लोड पर ऑटो-फिल को सक्षम करने के बाद, आप व्यक्तिगत लॉगिन आइटम के लिए सुविधा को सक्षम या अक्षम कर सकते हैं।यह लॉगिन आइटम के लिए डिफ़ॉल्ट सेटिंग है जो अलग से कॉन्फ़िगर नहीं हैं।"
+   },
+   "defaultMatchDetection": {
+      "description": "Default URI match detection for auto-fill.",
+      "message": "डिफॉल्ट मैच डिटेक्शन"
+   },
+   "defaultUriMatchDetection": {
+      "description": "Default URI match detection for auto-fill.",
+      "message": "डिफॉल्ट URI मैच डिटेक्शन"
+   },
+   "defaultUriMatchDetectionDesc": {
+      "message": "ऑटो-फिल जैसे कार्यों को करते समय लॉगिन के लिए URI मैच डिटेक्शन को संभाले जाने का डिफ़ॉल्ट तरीका चुनें। "
+   },
+   "delete": {
+      "message": "हटाएं"
+   },
+   "deleteAttachment": {
+      "message": "अटैचमेंट हटाएं"
+   },
+   "deleteAttachmentConfirmation": {
+      "message": "क्या आप वाकई इस अटैचमेंट को हटाना चाहते हैं?"
+   },
+   "deleteFolder": {
+      "message": "Delete Folder"
+   },
+   "deleteFolderConfirmation": {
+      "message": "क्या आप वाकई इस फ़ोल्डर को हटाना चाहते हैं?"
+   },
+   "deleteItem": {
+      "message": "Delete Item"
+   },
+   "deleteItemConfirmation": {
+      "message": "क्या आप वास्तव में थ्रैश में भेजना चाहते हैं?"
+   },
+   "deleteSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": " Send हटाए"
+   },
+   "deleteSendConfirmation": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "क्या आप वाकई इस Send को मिटाना चाहते हैं?"
+   },
+   "deletedAttachment": {
+      "message": "हटाए गए अटैचमेंट"
+   },
+   "deletedFolder": {
+      "message": "हटाए गए फ़ोल्डर"
+   },
+   "deletedItem": {
+      "message": "थ्रैश में भेजे"
+   },
+   "deletedSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": " Send हटाए गए"
+   },
+   "deletionDate": {
+      "message": "हटाने की तारीख"
+   },
+   "deletionDateAndTimeRequired": {
+      "message": "एक विलोपन तिथि और समय की आवश्यकता है।"
+   },
+   "deletionDateDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": " यह सेंड निर्धारित तिथि और समय पर स्थायी रूप से हटा दिया जाएगा।"
+   },
+   "deletionDateIsInvalid": {
+      "message": "प्रदान की गई विलोपन तिथि मान्य नहीं है।"
+   },
+   "desktopIntegrationDisabledDesc": {
+      "message": "ब्राउज़र एकीकरण बिटवर्डन डेस्कटॉप एप्लिकेशन में सक्षम नहीं है।कृपया इसे डेस्कटॉप एप्लिकेशन के भीतर सेटिंग्स में सक्षम करें।"
+   },
+   "desktopIntegrationDisabledTitle": {
+      "message": "ब्राउज़र एकीकरण सक्षम नहीं है"
+   },
+   "desktopIntegrationVerificationText": {
+      "message": "कृपया सत्यापित करें कि डेस्कटॉप एप्लिकेशन इस फिंगरप्रिंट को दिखाता है:"
+   },
+   "desktopSyncVerificationTitle": {
+      "message": "डेस्कटॉप सिंक सत्यापन"
+   },
+   "disableAutoTotpCopyDesc": {
+      "message": "यदि आपके लॉगिन में एक प्रमाणक कुंजी जुड़ी हुई है, तो जब भी आप लॉगिन को ऑटो-फिल करते हैं तो TOTP सत्यापन कोड स्वचालित रूप से आपके क्लिपबोर्ड पर कॉपी किया जाता है।"
+   },
+   "disabled": {
+      "message": "अक्षम"
+   },
+   "disabledOrganizationFilterError": {
+      "message": "Items in suspended Organizations cannot be accessed. Contact your Organization owner for assistance."
+   },
+   "display": {
+      "message": "Display"
+   },
+   "domainName": {
+      "description": "Domain name. Ex. website.com",
+      "message": "डोमेन नाम"
+   },
+   "dr": {
+      "message": "डॉ"
+   },
+   "dragToSort": {
+      "message": "सॉर्ट करने के लिए ड्रैग करें"
+   },
+   "duoDesc": {
+      "description": "'Duo Security' and 'Duo Mobile' are product names and should not be translated.",
+      "message": "डुओ मोबाइल ऐप, एसएमएस, फोन कॉल या U2F सुरक्षा कुंजी का उपयोग करके डुओ सिक्योरिटी के साथ सत्यापित करें।"
+   },
+   "duoOrganizationDesc": {
+      "description": "'Duo Security' and 'Duo Mobile' are product names and should not be translated.",
+      "message": "Verify with Duo Security for your organization using the Duo Mobile app, SMS, phone call, or U2F security key."
+   },
+   "edit": {
+      "message": "संपादन करें"
+   },
+   "editFolder": {
+      "message": "Edit Folder"
+   },
+   "editItem": {
+      "message": "Edit Item"
+   },
+   "editSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "एडिट Send"
+   },
+   "editedFolder": {
+      "message": "Edited Folder"
+   },
+   "editedItem": {
+      "message": "संपादित आइटम "
+   },
+   "editedSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "सेंड एडिट किया गया"
+   },
+   "email": {
+      "message": "ईमेल"
+   },
+   "emailAddress": {
+      "message": "Email Address"
+   },
+   "emailDesc": {
+      "message": "सत्यापन कोड आपको ईमेल किए जाएंगे।"
+   },
+   "emailRequired": {
+      "message": "ई-मेल पते की आवश्यकता है।"
+   },
+   "emailTitle": {
+      "message": "ईमेल"
+   },
+   "emailVerificationRequired": {
+      "message": "ईमेल सत्यापन आवश्यक है"
+   },
+   "emailVerificationRequiredDesc": {
+      "message": "इस सुविधा का उपयोग करने के लिए आपको अपने ईमेल को सत्यापित करना होगा। आप वेब वॉल्ट में अपने ईमेल को सत्यापित कर सकते हैं।"
+   },
+   "enableAddLoginNotification": {
+      "message": "लॉगिन जोड़ने के लिए कहें"
+   },
+   "enableAutoBiometricsPrompt": {
+      "message": "लॉन्च पर बायोमेट्रिक्स के लिए पूछें"
+   },
+   "enableAutoFillOnPageLoad": {
+      "message": "Enable Auto-fill On Page Load."
+   },
+   "enableAutoFillOnPageLoadDesc": {
+      "message": "यदि लॉगिन फॉर्म का पता चलता है, तो वेब पेज लोड होने पर स्वचालित रूप से ऑटो-फिल करें।"
+   },
+   "enableAutoTotpCopy": {
+      "message": "TOTP को स्वचालित रूप से कॉपी करें"
+   },
+   "enableBadgeCounter": {
+      "message": "बैज काउंटर दिखाएं"
+   },
+   "enableChangedPasswordNotification": {
+      "message": "मौजूदा लॉगिन को अपडेट करने के लिए कहें"
+   },
+   "enableContextMenuItem": {
+      "message": "संदर्भ मेनू विकल्प दिखाएं"
+   },
+   "enableFavicon": {
+      "message": "वेबसाइट आइकन दिखाएं"
+   },
+   "encExportAccountWarningDesc": {
+      "message": "खाता एन्क्रिप्शन कुंजी प्रत्येक बिटवर्डन उपयोगकर्ता खाते के लिए अद्वितीय हैं, इसलिए आप एन्क्रिप्टेड निर्यात को किसी अन्य खाते में आयात नहीं कर सकते हैं।"
+   },
+   "encExportKeyWarningDesc": {
+      "message": "यह आपके खाते की एन्क्रिप्शन कुंजी का उपयोग करके आपके डेटा को एन्क्रिप्ट करता है।यदि आप कभी भी अपने खाते की एन्क्रिप्शन कुंजी को खोते हैं तो आपको फिर से निर्यात करना चाहिए क्योंकि आप इस निर्यात फ़ाइल को डिक्रिप्ट करने में सक्षम नहीं होंगे।"
+   },
+   "enterEmailToGetHint": {
+      "message": "अपने मास्टर पासवर्ड संकेत प्राप्त करने के लिए अपने खाते का ईमेल पता दर्ज करें।"
+   },
+   "enterVerificationCodeApp": {
+      "message": "अपने ऑथेंटिकेटर ऐप से 6 डिजिट वेरिफिकेशन कोड डालें।"
+   },
+   "enterVerificationCodeEmail": {
+      "message": "Enter the 6 digit verification code that was emailed to $EMAIL$.",
+      "placeholders": {
+         "email": {
+            "content": "$1",
+            "example": "example@gmail.com"
+         }
+      }
+   },
+   "enterpriseSingleSignOn": {
+      "message": "उद्यम एकल साइन-ऑन"
+   },
+   "environmentEditedClick": {
+      "message": "यहाँ क्लिक करें"
+   },
+   "environmentEditedReset": {
+      "message": "to reset to pre-configured settings"
+   },
+   "environmentSaved": {
+      "message": "पर्यावरण URL को बचाया गया है।"
+   },
+   "error": {
+      "message": "एरर"
+   },
+   "errorEnableBiometricDesc": {
+      "message": "डेस्कटॉप एप्लिकेशन द्वारा कार्रवाई रद्द कर दी गई थी"
+   },
+   "errorEnableBiometricTitle": {
+      "message": "बॉयोमीट्रिक्स सक्षम करने में असमर्थ"
+   },
+   "errorOccurred": {
+      "message": "कोई ग़लती हुई।"
+   },
+   "eu": {
+      "description": "European Union",
+      "message": "EU"
+   },
+   "ex": {
+      "message": "ex."
+   },
+   "exact": {
+      "message": "सटीक"
+   },
+   "excludedDomains": {
+      "message": "बहिष्कृत डोमेन"
+   },
+   "excludedDomainsDesc": {
+      "message": "बिटवर्डन इन डोमेन के लिए लॉगिन विवरण सहेजने के लिए नहीं कहेगा।परिवर्तनों को प्रभावी बनाने के लिए आपको पृष्ठ को ताज़ा करना होगा |"
+   },
+   "excludedDomainsInvalidDomain": {
+      "message": "$DOMAIN$ is not a valid domain",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "googlecom"
+         }
+      }
+   },
+   "experimentalFeature": {
+      "message": "Compromised or untrusted websites can exploit auto-fill on page load."
+   },
+   "expiration": {
+      "message": "समय सीमा समाप्ति"
+   },
+   "expirationDate": {
+      "message": "समाप्ति तिथि"
+   },
+   "expirationDateAndTimeRequired": {
+      "message": "एक समाप्ति तिथि और समय की आवश्यकता है।"
+   },
+   "expirationDateDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "यदि सेट किया जाता है, तो  यह सेंड निर्दिष्ट तिथि और समय पर समाप्त हो जाएगा।"
+   },
+   "expirationDateIsInvalid": {
+      "message": "प्रदान की गई समाप्ति तिथि मान्य नहीं है।"
+   },
+   "expirationMonth": {
+      "message": "Expiration Month"
+   },
+   "expirationYear": {
+      "message": "Expiration Year"
+   },
+   "expired": {
+      "message": " गतावधिक"
+   },
+   "exportMasterPassword": {
+      "message": "अपने वॉल्ट डेटा को निर्यात करने के लिए अपना मास्टर पासवर्ड दर्ज करें।"
+   },
+   "exportVault": {
+      "message": "Export Vault"
+   },
+   "exportWarningDesc": {
+      "message": "This export contains your vault data in an unencrypted format. You should not store or send the exported file over unsecure channels (such as email). Delete it immediately after you are done using it."
+   },
+   "exportingPersonalVaultDescription": {
+      "message": "Only the individual vault items associated with $EMAIL$ will be exported. Organization vault items will not be included.",
+      "placeholders": {
+         "email": {
+            "content": "$1",
+            "example": "name@example.com"
+         }
+      }
+   },
+   "exportingPersonalVaultTitle": {
+      "message": "Exporting individual vault"
+   },
+   "exposedMasterPassword": {
+      "message": "Exposed Master Password"
+   },
+   "exposedMasterPasswordDesc": {
+      "message": "Password found in a data breach. Use a unique password to protect your account. Are you sure you want to use an exposed password?"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "bitwarden is a secure and free password manager for all of your devices."
+   },
+   "extName": {
+      "description": "Extension name, MUST be less than 40 characters (Safari restriction)",
+      "message": "Bitwarden"
+   },
+   "faviconDesc": {
+      "message": "प्रत्येक लॉगिन के आगे एक पहचानने योग्य छवि दिखाएं।"
+   },
+   "favorite": {
+      "message": "Favorite"
+   },
+   "favorites": {
+      "message": "Favorites"
+   },
+   "featureUnavailable": {
+      "message": "Feature Unavailable"
+   },
+   "february": {
+      "message": "फरवरी"
+   },
+   "fifteenMinutes": {
+      "message": "15 मिनट"
+   },
+   "file": {
+      "message": "फ़ाइल"
+   },
+   "fileFormat": {
+      "message": "File Format"
+   },
+   "fingerprintMatchInfo": {
+      "message": "Please make sure your vault is unlocked and the Fingerprint phrase matches on the other device."
+   },
+   "fingerprintPhrase": {
+      "description": "A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.",
+      "message": "Fingerprint Phrase"
+   },
+   "fingerprintPhraseHeader": {
+      "message": "Fingerprint phrase"
+   },
+   "firstName": {
+      "message": "First Name"
+   },
+   "fiveMinutes": {
+      "message": "5 मिनट"
+   },
+   "folder": {
+      "message": "फ़ोल्डर"
+   },
+   "folders": {
+      "message": "फ़ोल्डर्स"
+   },
+   "forwardedEmail": {
+      "message": "Forwarded email alias"
+   },
+   "forwardedEmailDesc": {
+      "message": "Generate an email alias with an external forwarding service."
+   },
+   "fourHours": {
+      "message": "4 घंटे"
+   },
+   "fullName": {
+      "message": "पूरा नाम"
+   },
+   "general": {
+      "message": "General"
+   },
+   "generatePassword": {
+      "message": "Generate Password"
+   },
+   "generatePasswordCopied": {
+      "message": "Generate Password (copied)"
+   },
+   "generateUsername": {
+      "message": "उपयोगकर्ता नाम बनाएँ"
+   },
+   "generator": {
+      "description": "Short for 'Password Generator'.",
+      "message": "उत्पन्न करें!"
+   },
+   "getMasterPasswordHint": {
+      "message": "मास्टर पासवर्ड संकेत प्राप्त करें"
+   },
+   "gettingStartedTutorial": {
+      "message": "Getting Started Tutorial"
+   },
+   "gettingStartedTutorialVideo": {
+      "message": "ब्राउज़र एक्सटेंशन का सबसे अधिक जानने के लिए हमारे शुरू ट्यूटोरियल देखें।"
+   },
+   "good": {
+      "description": "ex. A good password. Scale: Weak -> Good -> Strong",
+      "message": "अच्छा"
+   },
+   "gotIt": {
+      "message": "Got it"
+   },
+   "helpCenter": {
+      "message": "बिटवॉर्डेन सहायता केंद्र"
+   },
+   "helpFeedback": {
+      "message": "Help & Feedback"
+   },
+   "hideEmail": {
+      "message": "प्राप्तकर्ताओं से मेरा ईमेल पता छिपाएं।"
+   },
+   "hintEqualsPassword": {
+      "message": "आपका पासवर्ड संकेत आपके पासवर्ड के समान नहीं हो सकता है।"
+   },
+   "host": {
+      "description": "A URL's host value. For example, the host of https://sub.domain.com:443 is 'sub.domain.com:443'.",
+      "message": "मेजबान"
+   },
+   "hostname": {
+      "description": "Part of a URL.",
+      "message": "Hostname"
+   },
+   "hours": {
+      "message": "घंटे"
+   },
+   "howToAutofill": {
+      "message": "ऑटो-फ़िल कैसे करें"
+   },
+   "iconsUrl": {
+      "message": "Icons Server URL"
+   },
+   "identities": {
+      "message": "पहचान"
+   },
+   "identityName": {
+      "message": "पहचान का नाम"
+   },
+   "identityUrl": {
+      "message": "Identity Server URL"
+   },
+   "immediately": {
+      "message": "तत्‍काल"
+   },
+   "importItems": {
+      "message": "Import Items"
+   },
+   "important": {
+      "message": "आवश्यक सूचनाः"
+   },
+   "includeNumber": {
+      "message": "नंबर शामिल करें"
+   },
+   "insecurePageWarning": {
+      "message": "Warning: This is an unsecured HTTP page, and any information you submit can potentially be seen and changed by others. This Login was originally saved on a secure (HTTPS) page."
+   },
+   "insecurePageWarningFillPrompt": {
+      "message": "Do you still wish to fill this login?"
+   },
+   "insertU2f": {
+      "message": "अपने कंप्यूटर के यूएसबी पोर्ट में अपनी सुरक्षा कुंजी डालें। अगर इसमें कोई बटन है तो उसे टच करें।\n"
+   },
+   "insertYubiKey": {
+      "message": "अपने कंप्यूटर के यूएसबी पोर्ट में अपने YubiKey डालें, फिर इसके बटन को स्पर्श करें।"
+   },
+   "invalidEmail": {
+      "message": "अमान्य ई-मेल |"
+   },
+   "invalidMasterPassword": {
+      "message": "अमान्य मास्टर पासवर्ड"
+   },
+   "invalidPin": {
+      "message": "अमान्य पिन कोड।"
+   },
+   "invalidVerificationCode": {
+      "message": "सत्यापन कोड अवैध है"
+   },
+   "itemAutoFillOnPageLoad": {
+      "message": "पेज लोड पर ऑटो-भरें (यदि विकल्पों में सक्षम हैं)"
+   },
+   "itemInformation": {
+      "message": "Item Information"
+   },
+   "january": {
+      "message": "जनवरी"
+   },
+   "july": {
+      "message": "जुलाई"
+   },
+   "june": {
+      "message": "जून"
+   },
+   "lastName": {
+      "message": "Last Name"
+   },
+   "lastSeenOn": {
+      "message": "last seen on: $DATE$",
+      "placeholders": {
+         "date": {
+            "content": "$1",
+            "example": "Jun 15, 2015"
+         }
+      }
+   },
+   "lastSync": {
+      "message": "Last Sync:"
+   },
+   "launch": {
+      "message": "खोलें"
+   },
+   "learnMore": {
+      "message": "अधिक जानें"
+   },
+   "learnMoreAboutAutofill": {
+      "message": "Learn more about auto-fill"
+   },
+   "learnOrg": {
+      "message": "संगठनों के बारे में जानें"
+   },
+   "learnOrgConfirmation": {
+      "message": "बिटवर्डन आपको एक संगठन का उपयोग करके अपनी तिजोरी वस्तुओं को दूसरों के साथ साझा करने की अनुमति देता है।क्या आप अधिक जानने के लिए bitwarden.com वेबसाइट पर जाना चाहेंगे?"
+   },
+   "leaveOrganization": {
+      "message": "Leave organization"
+   },
+   "leaveOrganizationConfirmation": {
+      "message": "क्या आप सुनिश्चित हैं कि आप इस संगठन को छोड़ना चाहते हैं?"
+   },
+   "leftOrganization": {
+      "message": "You have left the organization."
+   },
+   "length": {
+      "message": "लंबाई"
+   },
+   "licenseNumber": {
+      "message": "License Number"
+   },
+   "light": {
+      "description": "Light color",
+      "message": "प्रकाश"
+   },
+   "linkedValue": {
+      "description": "This describes a value that is 'linked' (tied) to another value.",
+      "message": "लिंक्ड मान"
+   },
+   "lock": {
+      "description": "Verb form: to make secure or inaccesible by",
+      "message": "लॉक"
+   },
+   "lockNow": {
+      "message": "Lock Now"
+   },
+   "lockWithMasterPassOnRestart": {
+      "message": "ब्राउज़र पुनः आरंभ करने पर मास्टर पासवर्ड के साथ लॉक करें"
+   },
+   "logInInitiated": {
+      "message": "Log in initiated"
+   },
+   "logOut": {
+      "message": "Log Out"
+   },
+   "logOutConfirmation": {
+      "message": "क्या आप वाकई लॉग आउट करना चाहते हैं?"
+   },
+   "loggedInAsOn": {
+      "message": "$HOSTNAME$ पर $EMAIL$ के रूप में लॉग इन किया है।",
+      "placeholders": {
+         "email": {
+            "content": "$1",
+            "example": "name@example.com"
+         },
+         "hostname": {
+            "content": "$2",
+            "example": "bitwarden.com"
+         }
+      }
+   },
+   "loggedOut": {
+      "message": "लॉग आउट"
+   },
+   "loggingInAs": {
+      "message": "Logging in as"
+   },
+   "loggingInTo": {
+      "message": "Logging in to $DOMAIN$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "login": {
+      "message": "Log In"
+   },
+   "loginExpired": {
+      "message": "अपने लॉगिन सत्र समाप्त हो गया है।"
+   },
+   "loginOrCreateNewAccount": {
+      "message": "अपनी सुरक्षित तिजोरी में प्रवेश करने के लिए नया खाता बनाएं या लॉग इन करें।"
+   },
+   "loginToVaultMenu": {
+      "message": "अपने अकाउंट में लॉगिन करें"
+   },
+   "loginUnavailable": {
+      "message": "Login Unavailable"
+   },
+   "loginWithDevice": {
+      "message": "Log in with device"
+   },
+   "loginWithDeviceEnabledInfo": {
+      "message": "Log in with device must be set up in the settings of the Bitwarden app. Need another option?"
+   },
+   "loginWithMasterPassword": {
+      "message": "Log in with master password"
+   },
+   "logins": {
+      "message": "लॉग इन"
+   },
+   "lowercase": {
+      "message": "छोटे अक्षर (a-z)"
+   },
+   "manage": {
+      "message": "प्रबंधित करना"
+   },
+   "march": {
+      "message": "मार्च"
+   },
+   "masterPass": {
+      "message": "Master Password"
+   },
+   "masterPassDesc": {
+      "message": "मास्टर पासवर्ड वह पासवर्ड है जो तिजोरी में प्रवेश के लिए प्रयोग होता है। आप मास्टर पासवर्ड ना भूले, यह अतिआवश्यक है। भूलने की अवस्था में पासवर्ड को दोबारा पाना संभव नहीं होगा।"
+   },
+   "masterPassDoesntMatch": {
+      "message": "मास्टर पासवर्ड पुष्टि मेल नहीं खाती है।"
+   },
+   "masterPassHint": {
+      "message": "Master Password Hint (optional)"
+   },
+   "masterPassHintDesc": {
+      "message": "मास्टर पासवर्ड संकेत आपको भूल जाने की अवस्था में पासवर्ड को याद करने में सहायता करता है।"
+   },
+   "masterPassSent": {
+      "message": "हमने आपको अपने मास्टर पासवर्ड संकेत के साथ एक ईमेल भेजा है।"
+   },
+   "masterPasswordHint": {
+      "message": "यदि आप इसे भूल जाते हैं तो आपका मास्टर पासवर्ड पुनर्प्राप्त नहीं किया जा सकता!"
+   },
+   "masterPasswordMinlength": {
+      "description": "The Master Password must be at least a specific number of characters long.",
+      "message": "मास्टर पासवर्ड कम से कम $VALUE$ अक्षर लंबा होना चाहिए।",
+      "placeholders": {
+         "value": {
+            "content": "$1",
+            "example": "8"
+         }
+      }
+   },
+   "masterPasswordPolicyInEffect": {
+      "message": "एक या एक से अधिक संगठन नीतियों को निम्नलिखित आवश्यकताओं को पूरा करने के लिए आपके मास्टर पासवर्ड की आवश्यकता होती है:"
+   },
+   "masterPasswordPolicyRequirementsNotMet": {
+      "message": "आपका नया मास्टर पासवर्ड पॉलिसी आवश्यकताओं को पूरा नहीं करता है।"
+   },
+   "masterPasswordRequired": {
+      "message": "मास्टर पासवर्ड की आवश्यकता है।"
+   },
+   "matchDetection": {
+      "description": "URI match detection for auto-fill.",
+      "message": "Match Detection"
+   },
+   "maxAccessCountReached": {
+      "description": "This text will be displayed after a Send has been accessed the maximum amount of times.",
+      "message": "मैक्स एक्सेस काउंट पहुंच गया है"
+   },
+   "maxFileSize": {
+      "message": "अधिकतम फाइल आकार 500 MB है।"
+   },
+   "maximumAccessCount": {
+      "message": "अधिकतम एक्सेस काउंट"
+   },
+   "maximumAccessCountDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "यदि सेट किया जाता है, तो अधिकतम एक्सेस काउंट तक पहुंचने के बाद उपयोगकर्ता अब इस सेंड को एक्सेस नहीं कर पाएंगे।"
+   },
+   "may": {
+      "message": "मई"
+   },
+   "middleName": {
+      "message": "Middle Name"
+   },
+   "minNumbers": {
+      "message": "Minimum Numbers"
+   },
+   "minSpecial": {
+      "message": "Minimum Special"
+   },
+   "minutes": {
+      "message": "मिनट"
+   },
+   "move": {
+      "message": "ले जाएं"
+   },
+   "moveToOrgDesc": {
+      "message": "एक संगठन चुनें जिसे आप इस आइटम को स्थानांतरित करना चाहते हैं।किसी संगठन में जाने से उस संगठन को आइटम का स्वामित्व हस्तांतरित होता है।एक बार इसे स्थानांतरित करने के बाद आप अब इस आइटम के प्रत्यक्ष स्वामी नहीं होंगे।"
+   },
+   "moveToOrganization": {
+      "message": "संगठन में ले जाएँ"
+   },
+   "movedItemToOrg": {
+      "message": "$ITEMNAME$ $ORGNAME$ गया ",
+      "placeholders": {
+         "itemname": {
+            "content": "$1",
+            "example": "Secret Item"
+         },
+         "orgname": {
+            "content": "$2",
+            "example": "Company Name"
+         }
+      }
+   },
+   "mr": {
+      "message": "श्री"
+   },
+   "mrs": {
+      "message": "श्रीमती"
+   },
+   "ms": {
+      "message": "श्रीमती"
+   },
+   "mx": {
+      "message": "Mx"
+   },
+   "myVault": {
+      "message": "My Vault"
+   },
+   "name": {
+      "message": "नाम"
+   },
+   "nameRequired": {
+      "message": "नाम आवश्यक है"
+   },
+   "nativeMessaginPermissionErrorDesc": {
+      "message": "बिटवर्डन डेस्कटॉप एप्लिकेशन के साथ संवाद करने की अनुमति के बिना हम ब्राउज़र एक्सटेंशन में बॉयोमीट्रिक्स प्रदान नहीं कर सकते हैं।कृपया फिर से प्रयास करें।"
+   },
+   "nativeMessaginPermissionErrorTitle": {
+      "message": "अनुमति नहीं दी गयी है"
+   },
+   "nativeMessaginPermissionSidebarDesc": {
+      "message": "यह क्रिया साइडबार में नहीं की जा सकती है, कृपया पॉपअप या पॉपआउट में कार्रवाई का फिर से प्रयास करें।"
+   },
+   "nativeMessaginPermissionSidebarTitle": {
+      "message": "अनुमति अनुरोध त्रुटि"
+   },
+   "nativeMessagingInvalidEncryptionDesc": {
+      "message": "डेस्कटॉप एप्लिकेशन ने सुरक्षित संचार चैनल को अमान्य कर दिया। कृपया इस ऑपरेशन को फिर से प्रयास करें"
+   },
+   "nativeMessagingInvalidEncryptionTitle": {
+      "message": "डेस्कटॉप संचार बाधित"
+   },
+   "nativeMessagingWrongUserDesc": {
+      "message": "डेस्कटॉप एप्लिकेशन को एक अलग खाते में लॉग इन किया जाता है। कृपया सुनिश्चित करें कि दोनों आवेदन एक ही खाते में लॉग इन किए गए हैं।"
+   },
+   "nativeMessagingWrongUserTitle": {
+      "message": "खाता गलत मैच"
+   },
+   "never": {
+      "message": "कभी नहीं"
+   },
+   "neverLockWarning": {
+      "message": "क्या आप सुनिश्चित हैं कि आप \"कभी नहीं\" विकल्प का उपयोग करना चाहते हैं?\"कभी नहीं\" के लिए अपने लॉक विकल्प को सेट करना आपके डिवाइस पर आपकी वॉल्ट की एन्क्रिप्शन कुंजी को स्टोर करता है। यदि आप इस विकल्प का उपयोग करते हैं तो आपको यह सुनिश्चित करना चाहिए कि आप अपने डिवाइस को ठीक से सुरक्षित रखें।"
+   },
+   "newAccountCreated": {
+      "message": "आपका नया खाता बनाया गया है! अब आप लॉग इन कर सकते हैं।"
+   },
+   "newAroundHere": {
+      "message": "New around here?"
+   },
+   "newAttachment": {
+      "message": "Add New Attachment"
+   },
+   "newCustomField": {
+      "message": "New Custom Field"
+   },
+   "newMasterPass": {
+      "message": "New master password"
+   },
+   "newPassword": {
+      "message": "नया पासवर्ड"
+   },
+   "newUri": {
+      "message": "नया URI"
+   },
+   "no": {
+      "message": "नहीं"
+   },
+   "noAttachments": {
+      "message": "कोई अटैचमेंट नहीं।"
+   },
+   "noCollectionsInList": {
+      "message": "सूची में कोई संग्रह नहीं है।"
+   },
+   "noFolders": {
+      "message": "सूचीबद्ध करने के लिए कोई फ़ोल्डर नहीं हैं।"
+   },
+   "noItemsInList": {
+      "message": "सूचीबद्ध करने के लिए कोई आइटम नहीं हैं।"
+   },
+   "noMatchingLogins": {
+      "message": "कोई मेल-मिला लॉगिन नहीं |"
+   },
+   "noOrganizationsList": {
+      "message": "You do not belong to any organizations. Organizations allow you to securely share items with other users."
+   },
+   "noPasswordsInList": {
+      "message": "सूची के लिए कोई पासवर्ड नहीं हैं।"
+   },
+   "noTwoStepProviders": {
+      "message": "This account has two-step login enabled, however, none of the configured two-step providers are supported by this web browser."
+   },
+   "noTwoStepProviders2": {
+      "message": "कृपया एक समर्थित वेब ब्राउज़र (जैसे क्रोम) और/या अतिरिक्त प्रदाताओं का उपयोग करें जो वेब ब्राउज़र (जैसे एक प्रमाणक ऐप) में बेहतर समर्थित हैं।"
+   },
+   "noneFolder": {
+      "description": "This is the folder for uncategorized items",
+      "message": "No Folder"
+   },
+   "notYou": {
+      "message": "Not you?"
+   },
+   "note": {
+      "message": "नोट:"
+   },
+   "notes": {
+      "message": "नोट्स"
+   },
+   "notificationAddDesc": {
+      "message": "Should bitwarden remember this password for you?"
+   },
+   "notificationAddSave": {
+      "message": "Yes, Save Now"
+   },
+   "notificationChangeDesc": {
+      "message": "क्या आप बिटवर्डन में इस पासवर्ड को अपडेट करना चाहते हैं?"
+   },
+   "notificationChangeSave": {
+      "message": "Yes, Update Now"
+   },
+   "notificationSentDevice": {
+      "message": "A notification has been sent to your device."
+   },
+   "notificationsUrl": {
+      "message": "Notifications Server URL"
+   },
+   "november": {
+      "message": "नवंबर"
+   },
+   "numWords": {
+      "message": "Number of Words"
+   },
+   "number": {
+      "message": "संख्या"
+   },
+   "numbers": {
+      "message": "संख्या (0-9)"
+   },
+   "october": {
+      "message": "अक्टूबर"
+   },
+   "ok": {
+      "message": "ठीक है"
+   },
+   "onLocked": {
+      "message": "On Locked"
+   },
+   "onRestart": {
+      "message": "On Restart"
+   },
+   "oneDay": {
+      "message": "1 दिन"
+   },
+   "oneHour": {
+      "message": "1 घंटा"
+   },
+   "oneMinute": {
+      "message": "1 मिनट"
+   },
+   "opensInANewWindow": {
+      "message": "Opens in a new window"
+   },
+   "options": {
+      "message": "विकल्प"
+   },
+   "organization": {
+      "description": "An entity of multiple related people (ex. a team or business organization).",
+      "message": "Organization"
+   },
+   "organizationIsDisabled": {
+      "message": "Organization suspended."
+   },
+   "other": {
+      "message": "अन्य"
+   },
+   "overwritePassword": {
+      "message": "Overwrite Password"
+   },
+   "overwritePasswordConfirmation": {
+      "message": "क्या आप सुनिश्चित हैं कि आप वर्तमान पासवर्ड को ओवरराइट करना चाहते हैं?"
+   },
+   "overwriteUsername": {
+      "message": "उपयोगकर्ता नाम अधिलेखित करें"
+   },
+   "overwriteUsernameConfirmation": {
+      "message": "क्या आप वाकई वर्तमान उपयोगकर्ता नाम को अधिलेखित करना चाहते हैं?"
+   },
+   "ownership": {
+      "message": "मालिकी"
+   },
+   "passGen": {
+      "message": "Password Generator"
+   },
+   "passGenInfo": {
+      "message": "स्वचालित रूप से अपने लॉगिन के लिए मजबूत, अद्वितीय पासवर्ड उत्पन्न करते हैं।"
+   },
+   "passphrase": {
+      "message": "पासफ़्रेज़"
+   },
+   "passportNumber": {
+      "message": "Passport Number"
+   },
+   "password": {
+      "message": "पासवर्ड"
+   },
+   "passwordConfirmation": {
+      "message": "मास्टर पासवर्ड पुष्टि"
+   },
+   "passwordConfirmationDesc": {
+      "message": "यह क्रिया सुरक्षित है। जारी रखने के लिए, कृपया अपनी पहचान सत्यापित करने के लिए अपना मास्टर पासवर्ड फिर से दर्ज करें।"
+   },
+   "passwordCopied": {
+      "message": "कूटशब्द की नकल हुइ"
+   },
+   "passwordExposed": {
+      "message": "This password has been exposed $VALUE$ time(s) in data breaches. You should change it.",
+      "placeholders": {
+         "value": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "passwordGeneratorPolicyInEffect": {
+      "message": "एक या एक से अधिक संगठन नीतियां आपकी जनरेटर सेटिंग को प्रभावित कर रही हैं।"
+   },
+   "passwordHint": {
+      "message": "Password Hint"
+   },
+   "passwordHistory": {
+      "message": "पासवर्ड इतिहास"
+   },
+   "passwordPrompt": {
+      "message": "मास्टर पासवर्ड रि-प्रॉम्प्ट"
+   },
+   "passwordProtected": {
+      "message": "पासवर्ड सुरक्षित है"
+   },
+   "passwordSafe": {
+      "message": "यह पासवर्ड किसी भी ज्ञात डेटा उल्लंघनों में नहीं पाया गया था।इसका उपयोग करना सुरक्षित होना चाहिए।"
+   },
+   "passwordType": {
+      "message": "Password type"
+   },
+   "pendingDeletion": {
+      "message": "हटाना लंबित"
+   },
+   "permanentlyDeleteItem": {
+      "message": "स्थायी रूप से आइटम हटाएं"
+   },
+   "permanentlyDeleteItemConfirmation": {
+      "message": "क्या आप सुनिश्चित हैं कि आप इस आइटम को स्थायी रूप से हटाना चाहते हैं?"
+   },
+   "permanentlyDeletedItem": {
+      "message": "स्थायी रूप से आइटम हटाएं"
+   },
+   "personalOwnershipPolicyInEffect": {
+      "message": "एक संगठन नीति आपके स्वामित्व विकल्पों को प्रभावित कर रही है।"
+   },
+   "personalOwnershipSubmitError": {
+      "message": "एंटरप्राइज पॉलिसी के कारण, आप अपनी व्यक्तिगत वॉल्ट में वस्तुओं को सहेजने से प्रतिबंधित हैं।किसी संगठन के स्वामित्व विकल्प को बदलें और उपलब्ध संग्रहों में से चुनें।"
+   },
+   "personalVaultExportPolicyInEffect": {
+      "message": "One or more organization policies prevents you from exporting your individual vault."
+   },
+   "phone": {
+      "message": "फोन"
+   },
+   "pin": {
+      "description": "PIN code. Ex. The short code (often numeric) that you use to unlock a device.",
+      "message": "पिन"
+   },
+   "pinRequired": {
+      "message": "पिन-कोड आवश्यक है |"
+   },
+   "plusAddressedEmail": {
+      "description": "Username generator option that appends a random sub-address to the username. For example: address+subaddress@email.com",
+      "message": "Plus addressed email"
+   },
+   "plusAddressedEmailDesc": {
+      "message": "Use your email provider's sub-addressing capabilities."
+   },
+   "policyInEffectLowercase": {
+      "message": "एक या एक से अधिक लोअरकेस अक्षर रखे"
+   },
+   "policyInEffectMinComplexity": {
+      "message": "$SCORE$ का न्यूनतम जटिलता स्कोर",
+      "placeholders": {
+         "score": {
+            "content": "$1",
+            "example": "4"
+         }
+      }
+   },
+   "policyInEffectMinLength": {
+      "message": "$LENGTH$ की न्यूनतम लंबाई",
+      "placeholders": {
+         "length": {
+            "content": "$1",
+            "example": "14"
+         }
+      }
+   },
+   "policyInEffectNumbers": {
+      "message": "एक या अधिक संख्या रखे"
+   },
+   "policyInEffectSpecial": {
+      "message": "निम्नलिखित विशेष पात्रों में से एक या अधिक शामिल रखे $CHARS$",
+      "placeholders": {
+         "chars": {
+            "content": "$1",
+            "example": "!@#$%^&*"
+         }
+      }
+   },
+   "policyInEffectUppercase": {
+      "message": "एक या एक से अधिक ऊपरी अक्षर रखे"
+   },
+   "popOutNewWindow": {
+      "message": "एक नई विंडो के लिए पॉप आउट करें"
+   },
+   "popup2faCloseMessage": {
+      "message": "अपने सत्यापन कोड के लिए अपने ईमेल की जांच करने के लिए पॉपअप विंडो के बाहर क्लिक करने से यह पॉपअप बंद हो जाएगा।क्या आप इस पॉपअप को एक नई विंडो में खोलना चाहते हैं ताकि यह बंद न हो?"
+   },
+   "popupU2fCloseMessage": {
+      "message": "यह ब्राउज़र इस पॉपअप विंडो में U2F अनुरोधों को संसाधित नहीं कर सकता है।क्या आप इस पॉपअप को एक नई विंडो में खोलना चाहते हैं ताकि आप U2F का उपयोग करके लॉग इन कर सकें?"
+   },
+   "ppremiumSignUpFuture": {
+      "message": "भविष्य के सभी प्रीमियम फीचर्स। और जल्द ही आ रहा है!"
+   },
+   "ppremiumSignUpReports": {
+      "message": "अपनी वॉल्ट को सुरक्षित रखने के लिए पासवर्ड स्वच्छता, खाता स्वास्थ्य और डेटा उल्लंघन रिपोर्ट।"
+   },
+   "ppremiumSignUpStorage": {
+      "message": "1 GB of encrypted file storage."
+   },
+   "ppremiumSignUpSupport": {
+      "message": "प्राथमिकता ग्राहक सहायता"
+   },
+   "ppremiumSignUpTotp": {
+      "message": "अपनी तिजोरी में लॉगिन के लिए TOTP सत्यापन कोड (2FA) जनरेटर।"
+   },
+   "ppremiumSignUpTwoStep": {
+      "message": "अतिरिक्त दो-चरण लॉगिन विकल्प जैसे YubiKey, FIDO U2F, और डुओ।"
+   },
+   "premiumCurrentMember": {
+      "message": "आप एक प्रीमियम सदस्य हैं!"
+   },
+   "premiumCurrentMemberThanks": {
+      "message": "Thank you for supporting bitwarden."
+   },
+   "premiumManage": {
+      "message": "Manage Membership"
+   },
+   "premiumManageAlert": {
+      "message": "आप वेब वॉल्ट bitwarden.com पर अपनी सदस्यता का प्रबंधन कर सकते हैं।क्या आप अब वेबसाइट पर जाना चाहते हैं?"
+   },
+   "premiumMembership": {
+      "message": "Premium Membership"
+   },
+   "premiumNotCurrentMember": {
+      "message": "आप वर्तमान में प्रीमियम सदस्य नहीं हैं।"
+   },
+   "premiumPrice": {
+      "message": "All for just $PRICE$ /year!",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "$10"
+         }
+      }
+   },
+   "premiumPurchase": {
+      "message": "Purchase Premium"
+   },
+   "premiumPurchaseAlert": {
+      "message": "आप bitwarden.com वेब वॉल्ट पर प्रीमियम सदस्यता खरीद सकते हैं।क्या आप अब वेबसाइट पर जाना चाहते हैं?"
+   },
+   "premiumRefresh": {
+      "message": "Refresh Membership"
+   },
+   "premiumRequired": {
+      "message": "Premium Required"
+   },
+   "premiumRequiredDesc": {
+      "message": "इस सुविधा का उपयोग करने के लिए प्रीमियम सदस्यता की आवश्यकता होती है।"
+   },
+   "premiumSignUpAndGet": {
+      "message": "प्रीमियम सदस्यता के लिए साइन अप करें और प्राप्त करें:"
+   },
+   "premiumSubcriptionRequired": {
+      "message": "Premium subscription required"
+   },
+   "privacyPolicy": {
+      "message": "प्राइवेसी पोलिसी"
+   },
+   "privateModeWarning": {
+      "message": "निजी मोड समर्थन प्रायोगिक है और कुछ सुविधाएँ सीमित हैं।"
+   },
+   "random": {
+      "message": "Random"
+   },
+   "randomWord": {
+      "message": "Random word"
+   },
+   "rateExtension": {
+      "message": "Rate the Extension"
+   },
+   "rateExtensionDesc": {
+      "message": "कृपया एक अच्छी समीक्षा के साथ हमारी मदत करने पर विचार करें!"
+   },
+   "reTypeMasterPass": {
+      "message": "Re-type Master Password"
+   },
+   "recoveryCodeDesc": {
+      "message": "अपने दो कारक प्रदाताओं के सभी के लिए उपयोग खो दिया है? अपने खाते से सभी दो-कारक प्रदाताओं को अक्षम करने के लिए अपने रिकवरी कोड का उपयोग करें।"
+   },
+   "recoveryCodeTitle": {
+      "message": "Recovery Code"
+   },
+   "refresh": {
+      "message": "रीफ्रेश करें"
+   },
+   "refreshComplete": {
+      "message": "ताज़ा पूरा"
+   },
+   "regEx": {
+      "description": "A programming term, also known as 'RegEx'.",
+      "message": "नियमित अभिव्यक्ति"
+   },
+   "regeneratePassword": {
+      "message": "Regenerate Password"
+   },
+   "regenerateUsername": {
+      "message": "Regenerate username"
+   },
+   "region": {
+      "message": "Region"
+   },
+   "rememberEmail": {
+      "message": "ईमेल याद रखें"
+   },
+   "rememberMe": {
+      "message": "मुझे याद रखें"
+   },
+   "remove": {
+      "message": "हटाएं"
+   },
+   "removeMasterPassword": {
+      "message": "Remove master password"
+   },
+   "removePassword": {
+      "message": "पासवर्ड हटाएं"
+   },
+   "removePasswordConfirmation": {
+      "message": "क्या आप सयमुच पासवर्ड हटाना चाहते हैं?"
+   },
+   "removedMasterPassword": {
+      "message": "Master password removed"
+   },
+   "removedPassword": {
+      "message": "पासवर्ड हटाएं"
+   },
+   "resendNotification": {
+      "message": "Resend notification"
+   },
+   "resetPasswordAutoEnrollInviteWarning": {
+      "message": "इस संगठन की एक उद्यम नीति है जो स्वचालित रूप से आपको पासवर्ड रीसेट में नामांकित करेगी। नामांकन संगठन प्रशासकों को आपका मास्टर पासवर्ड बदलने की अनुमति देगा।"
+   },
+   "resetPasswordPolicyAutoEnroll": {
+      "message": "स्वचालित नामांकन"
+   },
+   "restoreItem": {
+      "message": "आइटम बहाल करें"
+   },
+   "restoreItemConfirmation": {
+      "message": "क्या आप सुनिश्चित हैं कि आप इस आइटम को बहाल करना चाहते हैं?"
+   },
+   "restoredItem": {
+      "message": "बहाल आइटम"
+   },
+   "save": {
+      "message": "सेव करें"
+   },
+   "searchCollection": {
+      "message": "श्रेणी खोजें"
+   },
+   "searchFolder": {
+      "message": "फोल्डर में खोजें"
+   },
+   "searchSends": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Sends मे खोजे"
+   },
+   "searchTrash": {
+      "message": "थ्रैश में खोजें"
+   },
+   "searchType": {
+      "message": "तलाश की विधि"
+   },
+   "searchVault": {
+      "message": "वॉल्ट खोजे"
+   },
+   "secureNotes": {
+      "message": "Secure Notes"
+   },
+   "security": {
+      "message": "सुरक्षा"
+   },
+   "securityCode": {
+      "message": "Security Code"
+   },
+   "select": {
+      "message": "चयन करें"
+   },
+   "selectFile": {
+      "message": "फ़ाइल का चयन करें।"
+   },
+   "selectFolder": {
+      "message": "फ़ोल्डर चुनें..."
+   },
+   "selectOneCollection": {
+      "message": "आपको कम से कम एक संग्रह का चयन करना होगा।"
+   },
+   "selfHosted": {
+      "message": "Self-hosted"
+   },
+   "selfHostedEnvironment": {
+      "message": "Self-hosted Environment"
+   },
+   "selfHostedEnvironmentFooter": {
+      "message": "Specify the base URL of your on-premise hosted bitwarden installation."
+   },
+   "send": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "भेजें"
+   },
+   "sendCode": {
+      "message": "कोड भेजें"
+   },
+   "sendDisableDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "इस सेंड को अक्षम करें ताकि कोई भी इसे एक्सेस न कर सके।"
+   },
+   "sendDisabled": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "सेंड अक्षम"
+   },
+   "sendDisabledWarning": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "एक उद्यम नीति के कारण, आप केवल मौजूदा सेंड को हटाने में सक्षम हैं।"
+   },
+   "sendFileCalloutHeader": {
+      "message": "शुरू करने से पहले"
+   },
+   "sendFileDesc": {
+      "message": "वह फाइल जो आप सेंड करना चाहते हैं।"
+   },
+   "sendFirefoxCustomDatePopoutMessage1": {
+      "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read '**To use a calendar style date picker ** click here to pop out your window.'",
+      "message": "कैलेंडर शैली तिथि बीनने वाले का उपयोग करने के लिए"
+   },
+   "sendFirefoxCustomDatePopoutMessage2": {
+      "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'To use a calendar style date picker **click here** to pop out your window.'",
+      "message": "यहां क्लिक करें"
+   },
+   "sendFirefoxCustomDatePopoutMessage3": {
+      "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'To use a calendar style date picker click here **to pop out your window.**'",
+      "message": "अपनी विंडो पॉप आउट करने के लिए यहां क्लिक करें।"
+   },
+   "sendFirefoxFileWarning": {
+      "message": "फ़ायरफ़ॉक्स का उपयोग करके फ़ाइल चुनने के लिए, साइडबार में एक्सटेंशन खोलें या इस बैनर पर क्लिक करके एक नई विंडो को पॉप आउट करें।"
+   },
+   "sendHideText": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "इस सेंड के टेक्स्ट को डिफ़ॉल्ट रूप से छिपाएं।"
+   },
+   "sendLink": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Send लिंक"
+   },
+   "sendLinuxChromiumFileWarning": {
+      "message": "फ़ाइल चुनने के लिए, साइडबार (यदि संभव हो) में एक्सटेंशन खोलें या इस बैनर पर क्लिक करके एक नई विंडो को पॉप आउट करें।"
+   },
+   "sendNameDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "इस सेंड का वर्णन करने के लिए एक दोस्ताना नाम।"
+   },
+   "sendNotesDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "इस सेंड के बारे में निजी नोट्स।"
+   },
+   "sendOptionsPolicyInEffect": {
+      "message": "एक या एक से अधिक संगठन नीतियां आपके सेंड विकल्पों को प्रभावित कर रही हैं।"
+   },
+   "sendPasswordDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "वैकल्पिक रूप से उपयोगकर्ताओं को इस सेंड तक पहुंचने के लिए पासवर्ड की आवश्यकता होगी।"
+   },
+   "sendSafariFileWarning": {
+      "message": "सफारी का उपयोग करके फ़ाइल चुनने के लिए, इस बैनर पर क्लिक करके एक नई विंडो को पॉप आउट करें।"
+   },
+   "sendShareDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "सेव पर क्लिपबोर्ड पर इस सेंड के लिंक को कॉपी करें।"
+   },
+   "sendTextDesc": {
+      "message": "वह टेक्स्ट जो आप सेंड करना चाहते हैं।"
+   },
+   "sendTypeFile": {
+      "message": "फ़ाइल"
+   },
+   "sendTypeHeader": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "यह किस प्रकार का सेंड है?"
+   },
+   "sendTypeText": {
+      "message": "शब्द"
+   },
+   "sendVerificationCode": {
+      "message": "एक सत्यापन कोड अपने ईमेल पर भेजें"
+   },
+   "sendVerificationCodeEmailAgain": {
+      "message": "फिर से सत्यापन कोड ईमेल भेजें"
+   },
+   "september": {
+      "message": "सितम्बर"
+   },
+   "serverVersion": {
+      "message": "Server version"
+   },
+   "service": {
+      "message": "Service"
+   },
+   "sessionTimeout": {
+      "message": "Your session has timed out. Please go back and try logging in again."
+   },
+   "setMasterPassword": {
+      "message": "मास्टर पासवर्ड सेट करें"
+   },
+   "setYourPinCode": {
+      "message": "बिटवर्डन को अनलॉक करने के लिए अपना पिन कोड सेट करें यदि आप कभी भी आवेदन से पूरी तरह लॉग आउट करते हैं तो आपकी पिन सेटिंग्स रीसेट हो जाएंगी।"
+   },
+   "settings": {
+      "message": "सेटिंग्स"
+   },
+   "settingsEdited": {
+      "message": "Settings have been edited"
+   },
+   "share": {
+      "message": "शेयर करें"
+   },
+   "shared": {
+      "message": "साझा किया गया"
+   },
+   "showCardsCurrentTab": {
+      "message": "टैब पेज पर कार्ड दिखाएं"
+   },
+   "showCardsCurrentTabDesc": {
+      "message": "आसान ऑटो-फिल के लिए टैब पेज पर कार्ड आइटम सूचीबद्ध करें।"
+   },
+   "showIdentitiesCurrentTab": {
+      "message": "टैब पेज पर पहचान दिखाएं"
+   },
+   "showIdentitiesCurrentTabDesc": {
+      "message": "आसान ऑटो-फिल के लिए टैब पेज पर कार्ड आइटम सूचीबद्ध करें।"
+   },
+   "solarizedDark": {
+      "description": "'Solarized' is a noun and the name of a color scheme. It should not be translated.",
+      "message": "सौरीकृत अंधेरा"
+   },
+   "specialCharacters": {
+      "message": "विशेष अक्षर (!@#$%^&*)"
+   },
+   "ssn": {
+      "message": "Social Security Number"
+   },
+   "ssoCompleteRegistration": {
+      "message": "SSO के साथ लॉग-इन पूर्ण करने के लिए, कृपया अपनी तिजोरी तक पहुँचने और सुरक्षित रखने के लिए एक मास्टर पासवर्ड सेट करें।"
+   },
+   "ssoKeyConnectorError": {
+      "message": "Key connector error: make sure key connector is available and working correctly."
+   },
+   "startDesktopDesc": {
+      "message": "इस फ़ंक्शन का उपयोग करने से पहले बिटवर्डन डेस्कटॉप एप्लिकेशन को शुरू करने की आवश्यकता है।"
+   },
+   "startDesktopTitle": {
+      "message": "बिटवर्डन डेस्कटॉप एप्लिकेशन शुरू करें"
+   },
+   "startsWith": {
+      "message": "इससे शुरू होता है"
+   },
+   "stateProvince": {
+      "message": "State / Province"
+   },
+   "strong": {
+      "description": "ex. A strong password. Scale: Weak -> Good -> Strong",
+      "message": "मजबूत"
+   },
+   "submit": {
+      "message": "जमा करें"
+   },
+   "sync": {
+      "message": "सिंक"
+   },
+   "syncVaultNow": {
+      "message": "Sync Vault Now"
+   },
+   "syncingComplete": {
+      "message": "सिंकिंग पूर्ण"
+   },
+   "syncingFailed": {
+      "message": "सिंकिंग असफल।"
+   },
+   "tab": {
+      "message": "टैब"
+   },
+   "tenSeconds": {
+      "message": "10 सेकंड"
+   },
+   "termsOfService": {
+      "message": "सेवा की शर्तें"
+   },
+   "theme": {
+      "message": "थीम"
+   },
+   "themeDesc": {
+      "message": "Change the application's color theme."
+   },
+   "thirdParty": {
+      "message": "Third-party"
+   },
+   "thirdPartyServerMessage": {
+      "message": "Connected to third-party server implementation, $SERVERNAME$. Please verify bugs using the official server, or report them to the third-party server.",
+      "placeholders": {
+         "servername": {
+            "content": "$1",
+            "example": "ThirdPartyServerName"
+         }
+      }
+   },
+   "thirtyMinutes": {
+      "message": "30 मिनट"
+   },
+   "thirtySeconds": {
+      "message": "30 सेकंड"
+   },
+   "title": {
+      "message": "शीर्षक"
+   },
+   "toggleCharacterCount": {
+      "message": "Toggle character count"
+   },
+   "toggleCurrentUris": {
+      "description": "Toggle the display of the URIs of the currently open tabs in the browser.",
+      "message": "वर्तमान URI's को टॉगल करें"
+   },
+   "toggleOptions": {
+      "message": "Toggle Options"
+   },
+   "toggleVisibility": {
+      "message": "Toggle Visibility"
+   },
+   "tools": {
+      "message": "उपकरण"
+   },
+   "trash": {
+      "description": "Noun: a special folder to hold deleted items",
+      "message": "थ्रैश"
+   },
+   "twentySeconds": {
+      "message": "20 सेकंड"
+   },
+   "twoMinutes": {
+      "message": "2 मिनट"
+   },
+   "twoStepLogin": {
+      "message": "Two-step Login"
+   },
+   "twoStepLoginConfirmation": {
+      "message": "Two-step login makes your account more secure by requiring you to enter a security code from an authenticator app whenever you log in. Two-step login can be enabled on the bitwarden.com web vault. Do you want to visit the website now?"
+   },
+   "twoStepOptions": {
+      "message": "Two-step Login Options"
+   },
+   "type": {
+      "message": "प्रकार"
+   },
+   "typeCard": {
+      "message": "कार्ड"
+   },
+   "typeIdentity": {
+      "message": "पहचान"
+   },
+   "typeLogin": {
+      "message": "लॉग इन"
+   },
+   "typeLogins": {
+      "message": "लॉग इन"
+   },
+   "typeSecureNote": {
+      "message": "Secure Note"
+   },
+   "types": {
+      "message": "प्रकार"
+   },
+   "unexpectedError": {
+      "message": "An unexpected error has occured."
+   },
+   "unlock": {
+      "message": "ताला खोलें"
+   },
+   "unlockVaultMenu": {
+      "message": "आपकी तिजोरी का ताला खोलें"
+   },
+   "unlockWithBiometrics": {
+      "message": "बायोमेट्रिक्स का उपयोग कर अनलॉक करें"
+   },
+   "unlockWithPin": {
+      "message": "पिन से अनलॉक करें "
+   },
+   "updateKey": {
+      "message": "जब तक आप अपनी एन्क्रिप्शन कुंजी को अपडेट नहीं करते, तब तक आप इस सुविधा का उपयोग नहीं कर सकते हैं।"
+   },
+   "updateMasterPassword": {
+      "message": "मास्टर पासवर्ड अपडेट करें"
+   },
+   "updateMasterPasswordWarning": {
+      "message": "आपका मास्टर पासवर्ड हाल ही में आपके संगठन के एक व्यवस्थापक द्वारा बदल दिया गया था। तिजोरी तक पहुँचने के लिए, आपको इसे अभी अपडेट करना होगा। ये कार्यवाही आपको अपने वर्तमान सत्र से लॉग आउट कर देगी, जिसके लिए आपको वापस लॉग इन करने की आवश्यकता होगी। अन्य उपकरणों पर सक्रिय सत्र एक घंटे तक सक्रिय रह सकते हैं।"
+   },
+   "updateWeakMasterPasswordWarning": {
+      "message": "Your master password does not meet one or more of your organization policies. In order to access the vault, you must update your master password now. Proceeding will log you out of your current session, requiring you to log back in. Active sessions on other devices may continue to remain active for up to one hour."
+   },
+   "updatedMasterPassword": {
+      "message": "अपडेट किया गया मास्टर पासवर्ड"
+   },
+   "uppercase": {
+      "message": "बड़े अक्षर (A-Z)"
+   },
+   "uri": {
+      "message": "यूआरआइ"
+   },
+   "uriPosition": {
+      "description": "A listing of URIs. Ex: URI 1, URI 2, URI 3, etc.",
+      "message": "URI $POSITION$",
+      "placeholders": {
+         "position": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "us": {
+      "description": "United States",
+      "message": "US"
+   },
+   "useAnotherTwoStepMethod": {
+      "message": "एक और दो-चरण लॉगिन विधि का उपयोग करें"
+   },
+   "username": {
+      "message": "उपयोगकर्ता नाम"
+   },
+   "usernameType": {
+      "message": "Username type"
+   },
+   "value": {
+      "message": "मूल्य"
+   },
+   "valueCopied": {
+      "description": "Value has been copied to the clipboard.",
+      "message": "$VALUE$ कॉपी हो गया है।",
+      "placeholders": {
+         "value": {
+            "content": "$1",
+            "example": "Password"
+         }
+      }
+   },
+   "vault": {
+      "message": "तिजोरी"
+   },
+   "vaultExportDisabled": {
+      "message": "तिजोरी निर्यात अनुपलब्ध"
+   },
+   "vaultTimeout": {
+      "message": "वॉल्ट मध्यांतर"
+   },
+   "vaultTimeoutAction": {
+      "message": "वॉल्ट मध्यांतर कार्रवाई"
+   },
+   "vaultTimeoutActionPolicyInEffect": {
+      "message": "Your organization policies have set your vault timeout action to $ACTION$.",
+      "placeholders": {
+         "action": {
+            "content": "$1",
+            "example": "Lock"
+         }
+      }
+   },
+   "vaultTimeoutLogOutConfirmation": {
+      "message": "लॉग आउट करने से वॉल्टमें प्रवेश संभव नहीं होगा और समय समाप्त होने के बाद ऑनलाइन प्रमाणीकरण की आश्यकता होगी। आप इस सेटिंग्स को प्रयोग करने के लिए विश्वस्त हैं?"
+   },
+   "vaultTimeoutLogOutConfirmationTitle": {
+      "message": "मध्यांतर कार्रवाई की पुष्टि"
+   },
+   "vaultTimeoutPolicyInEffect": {
+      "message": "आपकी संगठन नीतियां आपके तिजोरी टाइमआउट को प्रभावित कर रही हैं। अधिकतम अनुमत तिजोरी टाइमआउट $HOURS$ घंटे और $MINUTES$ मिनट है",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "5"
+         },
+         "minutes": {
+            "content": "$2",
+            "example": "5"
+         }
+      }
+   },
+   "vaultTimeoutPolicyWithActionInEffect": {
+      "message": "Your organization policies are affecting your vault timeout. Maximum allowed vault timeout is $HOURS$ hour(s) and $MINUTES$ minute(s). Your vault timeout action is set to $ACTION$.",
+      "placeholders": {
+         "action": {
+            "content": "$3",
+            "example": "Lock"
+         },
+         "hours": {
+            "content": "$1",
+            "example": "5"
+         },
+         "minutes": {
+            "content": "$2",
+            "example": "5"
+         }
+      }
+   },
+   "vaultTimeoutTooLarge": {
+      "message": "आपके तिजोरी टाइमआउट का समय आपके संगठन द्वारा निर्धारित प्रतिबंधों से अधिक है।"
+   },
+   "verificationCode": {
+      "message": "Verification Code"
+   },
+   "verificationCodeEmailSent": {
+      "message": "ईमेल $EMAIL$ को भेजा गया।",
+      "placeholders": {
+         "email": {
+            "content": "$1",
+            "example": "example@gmail.com"
+         }
+      }
+   },
+   "verificationCodeRequired": {
+      "message": "सत्यापन टोकन आवश्यक है"
+   },
+   "verificationCodeTotp": {
+      "message": "Verification Code (TOTP)"
+   },
+   "verifyIdentity": {
+      "message": "पहचान सत्यापित करें"
+   },
+   "version": {
+      "message": "संस्करण"
+   },
+   "view": {
+      "message": "देखें"
+   },
+   "viewAllLoginOptions": {
+      "message": "View all log in options"
+   },
+   "viewItem": {
+      "message": "View Item"
+   },
+   "warning": {
+      "description": "WARNING (should stay in capitalized letters if the language permits)",
+      "message": "चेतावनी"
+   },
+   "weak": {
+      "description": "ex. A weak password. Scale: Weak -> Good -> Strong",
+      "message": "कमजोर"
+   },
+   "weakAndBreachedMasterPasswordDesc": {
+      "message": "Weak password identified and found in a data breach. Use a strong and unique password to protect your account. Are you sure you want to use this password?"
+   },
+   "weakAndExposedMasterPassword": {
+      "message": "Weak and Exposed Master Password"
+   },
+   "weakMasterPassword": {
+      "message": "Weak Master Password"
+   },
+   "weakMasterPasswordDesc": {
+      "message": "आपके द्वारा चुना गया मास्टर पासवर्ड कमजोर है। आपको अपने बिटवर्डन खाते की ठीक से सुरक्षा के लिए एक मजबूत मास्टर पासवर्ड (या पासवाफ्रेज़) का उपयोग करना चाहिए।क्या आप सुनिश्चित हैं कि आप इस मास्टर पासवर्ड का उपयोग करना चाहते हैं?"
+   },
+   "webAuthnAuthenticate": {
+      "message": "वेबऑथन प्रमाणित करें"
+   },
+   "webAuthnDesc": {
+      "message": "अपने खाते तक पहुंचने के लिए किसी भी WebAuthn सक्षम सुरक्षा कुंजी का उपयोग करें।"
+   },
+   "webAuthnNewTab": {
+      "message": "वेबऑथन 2FA सत्यापन शुरू करने के लिए। एक नया टैब खोलने के लिए नीचे दिए गए बटन पर क्लिक करें और नए टैब में दिए गए निर्देशों का पालन करें।"
+   },
+   "webAuthnNewTabOpen": {
+      "message": "नया टैब खोलें"
+   },
+   "webAuthnTitle": {
+      "message": "FIDO2 वेबऑथन"
+   },
+   "webVaultUrl": {
+      "message": "Web Vault Server URL"
+   },
+   "website": {
+      "message": "वेबसाइट"
+   },
+   "websiteName": {
+      "message": "वेबसाइट का नाम"
+   },
+   "whatWouldYouLikeToGenerate": {
+      "message": "What would you like to generate?"
+   },
+   "whoOwnsThisItem": {
+      "message": "इस आइटम का मालिक कौन है?"
+   },
+   "wordSeparator": {
+      "message": "Word Separator"
+   },
+   "yes": {
+      "message": "हाँ"
+   },
+   "yourAccountsFingerprint": {
+      "description": "A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.",
+      "message": "आपके खाते का फिंगरप्रिंट वाक्यांश"
+   },
+   "yourVaultIsLocked": {
+      "message": "आपकी वॉल्ट लॉक हो गई है। जारी रखने के लिए अपने मास्टर पासवर्ड को सत्यापित करें।"
+   },
+   "yubiKeyDesc": {
+      "message": "अपने खाते तक पहुंचने के लिए YubiKey का उपयोग करें। YubiKey 4, 4 नैनो, 4C, और NEO उपकरणों के साथ काम करता है।"
+   },
+   "yubiKeyTitle": {
+      "message": "YubiKey OTP Security Key"
+   },
+   "zipPostalCode": {
+      "message": "Zip / Postal Code"
+   }
+}

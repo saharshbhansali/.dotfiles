@@ -1,0 +1,170 @@
+{
+   "addToInvite": {
+      "description": "Button text for the button which adds files to the invite",
+      "message": "Add to event"
+   },
+   "attachModalTitle": {
+      "description": "Title for the modal when attaching files",
+      "message": "Recents"
+   },
+   "authErrorGenericDescription": {
+      "description": "Description text displayed when login fails for an unknown reason",
+      "message": "It looks like we’re having issues—mind trying that again? If you keep having trouble, $1."
+   },
+   "authErrorGenericRefreshButton": {
+      "description": "Button text which will refresh the page",
+      "message": "Try again"
+   },
+   "authErrorGenericTitle": {
+      "description": "Title of modal displayed when login fails for an unknown reason",
+      "message": "Something’s gone wrong"
+   },
+   "authErrorNetworkDescription": {
+      "description": "Description text displayed when the user could not connect to Figma to login",
+      "message": "You may need to check your connection, then try again. If you keep having trouble, $1."
+   },
+   "authErrorNetworkRetryButton": {
+      "description": "Button text which will retry login",
+      "message": "Try again"
+   },
+   "authErrorNetworkTitle": {
+      "description": "Title of modal displayed when the user could not connect to Figma to login",
+      "message": "Couldn’t connect"
+   },
+   "calButtonFigjam": {
+      "description": "Button text for the button on the Calendar invite which enters the FigJam flow",
+      "message": "Add FigJam board"
+   },
+   "calButtonFigmaDesign": {
+      "description": "Button text for the button on the Calendar invite which enters the Figma Design flow",
+      "message": "Add Figma file"
+   },
+   "calButtonMore": {
+      "description": "Dropdown to add more files after the initial time",
+      "message": "Add more files"
+   },
+   "calExpandButton": {
+      "description": "This is the text for the expand button in the file list",
+      "message": "$1 more files"
+   },
+   "calExpandButtonCollapse": {
+      "description": "This is the text for the expand button in the file list (when already expanded)",
+      "message": "Hide $1 files"
+   },
+   "calLoadingState": {
+      "description": "Text shown in the calendar invite when we are adding files to the invite",
+      "message": "Adding files"
+   },
+   "cancelButton": {
+      "description": "Button text for cancel buttons, which go back to the previous page",
+      "message": "Cancel"
+   },
+   "contactUs": {
+      "description": "Contact us text",
+      "message": "contact us"
+   },
+   "createFilesButton": {
+      "description": "Create file button",
+      "message": "Create file"
+   },
+   "createFilesErrorBellText": {
+      "description": "Text shown in a visual bell when we fail to create a file",
+      "message": "Couldn’t create file"
+   },
+   "createModalTitle": {
+      "description": "Title for the modal when creating files",
+      "message": "Create new file"
+   },
+   "figjam": {
+      "description": "Button text for the button which opens a FigJam board",
+      "message": "FigJam board"
+   },
+   "figmaDesign": {
+      "description": "Button text for the button which opens a Figma design",
+      "message": "Design file"
+   },
+   "loginButton": {
+      "description": "Text displayed in the button that logs the user in",
+      "message": "Log in with Figma"
+   },
+   "loginModalSubtext": {
+      "description": "Subtext shown on the login modal, which prompts the user to login with Figma",
+      "message": "Set up brainstorms, crits, and more—all in a snap. $1 lets you attach Figma and FigJam files directly to events in Google Calendar."
+   },
+   "loginModalTitleText": {
+      "description": "Title text shown on the login modal, which prompts the user to login with Figma",
+      "message": "Design better meetings"
+   },
+   "logoutButton": {
+      "description": "Text displayed in the button that logs the user out",
+      "message": "Sign out"
+   },
+   "modalStatusFilesJoin": {
+      "description": "When more than 1 file is selected, this joins the file names together. Ex. File1 and File2",
+      "message": "and"
+   },
+   "modalStatusFilesSuffix": {
+      "description": "When 1 or more files are selected, this text is shown after the file names. Ex. 3 or more files will be added to the event invite.",
+      "message": "will be added to the event invite."
+   },
+   "modalStatusNoFiles": {
+      "description": "When no files are selected, this is the string which instructs the user to select files in the picker.",
+      "message": "Choose a few files to add."
+   },
+   "nameLabel": {
+      "description": "Name field in the Create new file modal",
+      "message": "Name"
+   },
+   "newFigjam": {
+      "description": "Button text for the button which creates a new FigJam board",
+      "message": "New FigJam board"
+   },
+   "newFigmaDesign": {
+      "description": "Button text for the button which creates a new Figma file",
+      "message": "New Figma file"
+   },
+   "noFilesFound": {
+      "description": "Text shown in the file picker when searching for a file yields empty results",
+      "message": "No files to display."
+   },
+   "productName": {
+      "description": "Name of the product",
+      "message": "Figma Chrome extension"
+   },
+   "recentFilesErrorDescription": {
+      "description": "Description of the modal when we fail to fetch the user's recent files",
+      "message": "It looks like we’re having issues—mind trying that again? If you keep having trouble, $1."
+   },
+   "recentFilesErrorRetryButton": {
+      "description": "Button text which will try to fetch recent files again",
+      "message": "Try again"
+   },
+   "recentFilesErrorTitle": {
+      "description": "Title of the modal when we fail to fetch the user's recent files",
+      "message": "Something’s gone wrong"
+   },
+   "searchInput": {
+      "description": "Default search bar text placeholder",
+      "message": "Search files..."
+   },
+   "signedInModalSubtext": {
+      "description": "Subtext shown on the modal when the user has signed in. The user sees their profile, and a sign out button",
+      "message": "You’ve signed in to $1. To try it out, create a Google Calendar event—you’ll see a few new controls."
+   },
+   "signedInModalTitleText": {
+      "description": "Title text shown on the modal when the user has signed in. The user sees their profile, and a sign out button",
+      "message": "You’re all set"
+   },
+   "templatesExpandButton": {
+      "description": "Show more templates in the templates topbar",
+      "message": "See more"
+   },
+   "templatesHideButton": {
+      "description": "Hide additional templates in the templates topbar",
+      "message": "See less"
+   },
+   "templatesTitle": {
+      "description": "Templates header for the templates topbar",
+      "message": "Templates"
+   }
+}

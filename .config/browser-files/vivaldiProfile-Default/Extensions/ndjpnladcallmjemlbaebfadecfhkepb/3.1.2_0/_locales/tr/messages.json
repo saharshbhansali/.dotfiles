@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "Hesap"
+   },
+   "AppDescription": {
+      "message": "Belgeleri tarayıcınız içinde görüntüleyin, düzenleyin ve oluşturun."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "Tarayıcıda dosyaları görüntüleyin, düzenleyin ve oluşturun ve web'de en iyi yazılarınızı görüntüleyin."
+   },
+   "AppFolderName": {
+      "message": "Microsoft 365 uzantısı"
+   },
+   "AppListLabel": {
+      "message": "Web Apps"
+   },
+   "AppLongDescription": {
+      "message": "Chrome için geliştirildi: Microsoft 365'in yüklenmesi gerekmeden Word, Excel, PowerPoint, OneNote ve Sway Online'ı kullanın.\r\n\r\nGüvenle içerik oluşturun: Fikirlerinizi istediğiniz şekilde ifade etmek için tanıdığınız biçimlendirme ve düzen seçeneklerini kullanın.\r\n\r\nHareket halindeyken çalışın: OneDrive ve OneDrive İş tümleştirmesi sayesinde dosyalarınıza her yerden erişin.\r\n\r\nUygulamayı yükleyerek, bu hüküm ve koşulları kabul etmiş olursunuz: http://aka.ms/officechromeextensionterms\r\n\r\nGizlilik İlkesi: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Microsoft 365 uzantısının Microsoft Edge araç çubuğuna eklediği bir simge sayesinde, çevrimiçi ortamda ya da bilgisayarınızda depolanması fark etmeksizin Microsoft 365 dosyalarınıza doğrudan erişebilirsiniz.\r\n\r\nMicrosoft 365 web uzantısı OneDrive ve OneDrive İş'te depolanan dosyaları açabilir.\r\n\r\nMicrosoft 365'in yüklenmesi gerekmeden Word, Excel, PowerPoint, OneNote ve Sway'in tüm özelliklerini doğrudan tarayıcınızda edinirsiniz.\r\n\r\nMicrosoft 365 uzantısı şimdi içeriğinizi* denetleme özelliğini de içeriyor. 80'den fazla dilde kullanılabilen bu özellik, çoğu web sitesinde yazdığınız metne yönelik yazım denetimi, dil bilgisi ve iyileştirme önerileri sunan çevrimiçi bir Microsoft hizmetine bağlanır.\r\n\r\n*Bu özellik tüm kullanıcılar tarafından kullanılamayabilir.\r\n\r\nUygulamayı yüklediğinizde şu hüküm ve koşulları kabul etmiş olursunuz: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Chrome için geliştirildi: Microsoft 365'in yüklenmesi gerekmeden Word, Excel, PowerPoint, OneNote ve Sway Online'ı kullanın.\r\n\r\nGüvenle içerik oluşturun: Fikirlerinizi istediğiniz şekilde ifade etmek için tanıdığınız biçimlendirme ve düzen seçeneklerini kullanın.\r\n\r\nHareket halindeyken çalışın: OneDrive ve OneDrive İş tümleştirmesi sayesinde dosyalarınıza her yerden erişin.\r\n\r\nMicrosoft 365 uzantısı şimdi içeriğinizi* denetleme özelliğini de içeriyor. 80'den fazla dilde kullanılabilen bu özellik, çoğu web sitesinde yazdığınız metne yönelik yazım denetimi, dil bilgisi ve iyileştirme önerileri sunan çevrimiçi bir Microsoft hizmetine bağlanır.\r\n\r\n*Bu özellik tüm kullanıcılar tarafından kullanılamayabilir.\r\n\r\nUygulamayı yüklediğinizde şu hüküm ve koşulları kabul etmiş olursunuz: http://aka.ms/officechromeextensionterms\r\n\r\nGizlilik İlkesi: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "Tüm Uygulamalarınızı Keşfedin"
+   },
+   "AppsSectionHeader": {
+      "message": "Uygulamalar"
+   },
+   "BrowseToOpenLabel": {
+      "message": "Karşıya Yükle ve Aç..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Hesap oluştur"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Yakın zamanda görüntülenen belge yok."
+   },
+   "CreateNewLabel": {
+      "message": "Yeni"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "$host$ sayfasında Düzenleyiciyi Devre Dışı Bırak",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Şu anda son kullanılan belgelerinizin listesini alamıyoruz."
+   },
+   "EditorBrandText": {
+      "message": "Düzenleyici"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Dil Bilgisi"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Düzenleyici şu anda $host$ sayfasında desteklenmiyor",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Düzenleyici şu anda $host$ sayfasında devre dışı bırakıldı",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Düzenleyici kapalı."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Düzenleyici $host$ ile birlikte gelir",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(Önizleme)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "Düzenleyici hizmeti Microsoft Düzenleyici uzantısı tarafından sağlanıyor."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Premium'a geçerek gelişmiş yazma fikirleri ve 1 TB depolama alanı edinin."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "İyileştirmeler"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "İyileştirmeler, yazınızı daha net, daha az sözcükten oluşan veya daha resmi hale getirmeye yardımcı olacak gelişmiş yazma önerileridir."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Yazım Denetimi"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "$host$ sayfasında Düzenleyiciyi Etkinleştir",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Dosya türü desteklenmiyor. Lütfen Word, Excel veya PowerPoint belgesi seçin."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Yükleniyor..."
+   },
+   "MoreFilesLabel": {
+      "message": "Diğer belgeler"
+   },
+   "MyAccountLabel": {
+      "message": "Hesabımı Görüntüle"
+   },
+   "NextLabel": {
+      "message": "Oturum açın"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Bunu bir daha gösterme"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Dosyanız OneDrive içindeki \"Microsoft 365 uzantısı\" klasörünüze kaydedildi."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Dosyanız OneDrive İş içindeki \"Microsoft 365 uzantısı\" klasörünüze kaydedildi."
+   },
+   "NotificationFileAccess": {
+      "message": "Dosyaları sürükleyip tarayıcıya bırakmak istiyorsanız uzantı ayarlarında \"Dosya URL’lerine erişime izin ver\" onay kutusunu seçin."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Microsoft 365 uzantısı belgenizi boyutu nedeniyle açamıyor.  Lütfen belgeyi açmak için doğrudan OneDrive'a yükleyin."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Ne yazık ki dosyanızı açamadık."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Ne yazık ki dosyanızı açamadık. Lütfen daha sonra yeniden deneyin."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Ne yazık ki dosyanızı açamadık. Lütfen Word, Excel veya PowerPoint ile oluşturulan bir dosya seçin"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "Belgeleriniz şu anda karşıya yükleniyor."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Microsoft 365 aboneliğinizin süresi dolmuş veya aboneliğiniz OneDrive İş'i içermiyor olabilir. Aboneliğinizi denetleyin veya bir Microsoft Hesabı ile oturum açın."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Dosyaları web üzerinde Microsoft 365'te görüntülemek ve düzenlemek için uzantıda oturum açın."
+   },
+   "NotificationSetDefault": {
+      "message": "Microsoft 365 ile açmak için, Dosyalar uygulamasında belgelere iki parmakla dokunun."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Word, Excel veya PowerPoint ile oluşturulan bir dosya seçin."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Bu Microsoft 365 uzantısı belgenizi tarayıcıda açılıyor"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Bunu bir daha gösterme"
+   },
+   "O365FilesLabel": {
+      "message": "OneDrive İş'ten"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "Çevrimdışısınız. Lütfen tarayıcı uzantısını kullanmak Microsoft 365 yeniden bağlanın."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "OneDrive'dan"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Açık"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Belgeler"
+   },
+   "SettingsLabel": {
+      "message": "Ayarlar"
+   },
+   "ShareMessage": {
+      "message": "Paylaş"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "İzin gerekiyor"
+   },
+   "SharePermissionsTooltip": {
+      "message": "Paylaşmak için izniniz yok"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Dosyalarınızı nereye kaydetmek istiyorsunuz?"
+   },
+   "SignInLabel": {
+      "message": "Oturum açın"
+   },
+   "SignInMSALabel": {
+      "message": "Bir Microsoft hesabıyla oturum açın"
+   },
+   "SignInO365Label": {
+      "message": "Bir iş veya okul hesabıyla oturum açın"
+   },
+   "SignOutLabel": {
+      "message": "Oturumu kapat"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "Düzenleyici hizmeti Microsoft Düzenleyici uzantısı tarafından sağlanıyor."
+   },
+   "SupportPageLabel": {
+      "message": "Oturum Açmak için Yardıma mı İhtiyacınız Var?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Ürünlerimizi geliştirmemize yardımcı olmak üzere verileri otomatik olarak gönder."
+   },
+   "TurnOnEditorLabel": {
+      "message": "Düzenleyiciyi Aç"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "OneDrive İş'e yükle"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "OneDrive'a Yükle"
+   },
+   "UsernameLabel": {
+      "message": "Oturum açılmamış"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Bu Microsoft 365 dosyaları doğrudan tarayıcıda açın ve Microsoft 365."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

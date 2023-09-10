@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "images/driveicon19.png",
+         "38": "images/driveicon38.png"
+      }
+   },
+   "author": {
+      "email": "drive-web-fe-eng@google.com"
+   },
+   "background": {
+      "service_worker": "js/backgroundpagebootstrap.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_EXT_DESCRIPTION__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "images/driveicon128.png",
+      "16": "images/driveicon16.png",
+      "32": "images/driveicon32.png",
+      "48": "images/driveicon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCkMG3IEGQYPhaXAF889aObqWzDrkker6hp6n85a0mgbSuGI9C2h/1AfAILiLwxtgxKHEIDZfNq1Yo2dgZjDhIb+VRrAYh9LFq2Gi93ORK1haF1AwY8jmuTgs1cfX/HDKpXBkUEba68kOcdqsQyuAym1KJNA76uRWVyNPU5nKa0owIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_CHROME_EXTENSION_NAME__",
+   "oauth2": {
+      "client_id": "351861205747-jdceupirmv7o77ne1a3b4qh1klct94ck.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/userinfo.email" ]
+   },
+   "options_page": "options.html",
+   "permissions": [ "contextMenus", "identity", "printerProvider", "notifications", "pageCapture", "storage", "tabs", "webRequest", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.4"
+}

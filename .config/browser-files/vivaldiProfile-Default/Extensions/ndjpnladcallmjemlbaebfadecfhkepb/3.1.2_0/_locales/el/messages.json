@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "Λογαριασμός"
+   },
+   "AppDescription": {
+      "message": "Προβάλετε, επεξεργαστείτε και δημιουργήστε έγγραφα στο πρόγραμμα περιήγησής σας."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "Προβάλετε, επεξεργαστείτε και δημιουργήστε αρχεία μέσα στο πρόγραμμα περιήγησης και αναδεσμεέτε την καλύτερη γραφή σας στο web."
+   },
+   "AppFolderName": {
+      "message": "Επέκταση προγράμματος περιήγησης Microsoft 365"
+   },
+   "AppListLabel": {
+      "message": "Εφαρμογές Web"
+   },
+   "AppLongDescription": {
+      "message": "Σχεδιασμένο για το Chrome – Χρησιμοποιήστε το Word, το Excel, το PowerPoint, το OneNote και το Sway Online, χωρίς να χρειάζεται να εγκαταστήσετε το Microsoft 365.\r\n\r\nΔημιουργία με αυτοπεποίθηση – Χρησιμοποιήστε οικείες επιλογές μορφοποίησης και διάταξης, για να εκφράσετε τις ιδέες σας με απόλυτη πιστότητα.\r\n\r\nΕργασία εν κινήσει – Αποκτήστε πρόσβαση στα αρχεία σας από οπουδήποτε, χάρη στην ενοποίηση με το OneDrive και το OneDrive για επιχειρήσεις.\r\n\r\nΕγκαθιστώντας την εφαρμογή, συμφωνείτε με αυτούς τους όρους και τις προϋποθέσεις: http://aka.ms/officechromeextensionterms\r\n\r\nΠολιτική προστασίας προσωπικών δεδομένων: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Η επέκταση προγράμματος περιήγησης του Microsoft 365 τοποθετεί ένα εικονίδιο στη γραμμή εργαλείων του Microsoft Edge, το οποίο σας παρέχει άμεση πρόσβαση στα αρχεία του Microsoft 365, ανεξάρτητα από το αν είναι αποθηκευμένα online ή στον υπολογιστή σας.\r\n\r\nΗ επέκταση Web του Microsoft 365 μπορεί να ανοίξει αρχεία που είναι αποθηκευμένα στο OneDrive και το OneDrive για επιχειρήσεις.\r\n\r\nΈχετε τις δυνατότητες του Word, του Excel, του PowerPoint, του OneNote και του Sway στο πρόγραμμα περιήγησής σας, χωρίς να χρειάζεται να είναι εγκατεστημένο το Microsoft 365.\r\n\r\nΗ επέκταση προγράμματος περιήγησης του Microsoft 365 περιλαμβάνει πλέον γλωσσικό έλεγχο του περιεχομένου σας*. Συνδέεται με μια ηλεκτρονική υπηρεσία της Microsoft που προσφέρει προτάσεις ορθογραφίας, γραμματικής και βελτιώσεων για τα γραπτά σας στις περισσότερες τοποθεσίες Web και είναι διαθέσιμη σε περισσότερες από 80 γλώσσες.\r\n\r\n*Αυτή η δυνατότητα ενδέχεται να μην είναι διαθέσιμη για όλους τους χρήστες.\r\n\r\nΕγκαθιστώντας την εφαρμογή, συμφωνείτε με τους όρους και τις προϋποθέσεις που ακολουθούν: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Κατασκευασμένο για Chrome – Χρησιμοποιήστε τα Word, Excel, PowerPoint, OneNote και Sway Online χωρίς να χρειάζεται να εγκαταστήσετε το Microsoft 365.\r\n\r\nΔημιουργήστε με αυτοπεποίθηση – Χρησιμοποιήστε γνώριμες επιλογές μορφοποίησης και διάταξης για να εκφράσετε τις ιδέες σας με πλήρη πιστότητα.\r\n\r\nΕργαστείτε εν κινήσει – Αποκτήστε πρόσβαση στα αρχεία σας από οπουδήποτε, χάρη στην ενοποίηση με το OneDrive και το OneDrive για επιχειρήσεις.\r\n\r\nΗ επέκταση προγράμματος περιήγησης του Microsoft 365 περιλαμβάνει πλέον γλωσσικό έλεγχο του περιεχομένου σας*. Συνδέεται με μια ηλεκτρονική υπηρεσία της Microsoft που προσφέρει προτάσεις ορθογραφίας, γραμματικής και βελτιώσεων για τα γραπτά σας στις περισσότερες τοποθεσίες Web και είναι διαθέσιμη σε περισσότερες από 80 γλώσσες.\r\n\r\n*Αυτή η δυνατότητα ενδέχεται να μην είναι διαθέσιμη για όλους τους χρήστες.\r\n\r\nΕγκαθιστώντας την εφαρμογή, συμφωνείτε με τους όρους και τις προϋποθέσεις που ακολουθούν: http://aka.ms/officechromeextensionterms\r\n\r\nΠολιτική προστασίας προσωπικών δεδομένων: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "Εξερευνήστε όλες τις εφαρμογές σας"
+   },
+   "AppsSectionHeader": {
+      "message": "Εφαρμογές"
+   },
+   "BrowseToOpenLabel": {
+      "message": "Αποστολή και άνοιγμα..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Δημιουργία λογαριασμού"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Δεν προβλήθηκαν πρόσφατα έγγραφα."
+   },
+   "CreateNewLabel": {
+      "message": "Δημιουργία"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Απενεργοποίηση του Editor στο $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Δεν είναι δυνατή η λήψη της λίστας πρόσφατων εγγράφων σας αυτήν τη στιγμή."
+   },
+   "EditorBrandText": {
+      "message": "Editor"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Γραμματική"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Το Editor δεν υποστηρίζεται αυτήν τη στιγμή στο $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Το Editor είναι απενεργοποιημένο αυτήν τη στιγμή στο $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Το Editor είναι απενεργοποιημένο."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Το πρόγραμμα επεξεργασίας περιλαμβάνεται στο $host $",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(Προεπισκόπηση)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "Η υπηρεσία επεξεργασίας παρέχεται από την επέκταση του προγράμματος επεξεργασίας της Microsoft."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Αποκτήστε προηγμένες ιδέες σύνταξης και 1 TB αποθήκευσης, επιλέγοντας την έκδοση premium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Βελτιώσεις"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Οι βελτιώσεις είναι προηγμένες προτάσεις σύνταξης που θα σας βοηθήσουν να κάνετε το κείμενό σας σαφέστερο, πιο λιτό ή πιο επίσημο."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Ορθογραφία"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Ενεργοποίηση του Editor στο $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Ο τύπος αρχείου δεν υποστηρίζεται. Επιλέξτε ένα έγγραφο του Word, του Excel ή του PowerPoint."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Φόρτωση..."
+   },
+   "MoreFilesLabel": {
+      "message": "Περισσότερα έγγραφα"
+   },
+   "MyAccountLabel": {
+      "message": "Προβολή του λογαριασμού μου"
+   },
+   "NextLabel": {
+      "message": "Είσοδος"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Να μην εμφανιστεί ξανά αυτό το μήνυμα"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Αποθηκεύσαμε το αρχείο σας στο φάκελο \"Επέκταση προγράμματος περιήγησης Microsoft 365\" στο OneDrive σας."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Αποθηκεύσαμε το αρχείο σας στο φάκελο \"Επέκταση προγράμματος περιήγησης Microsoft 365\" στο OneDrive για επιχειρήσεις."
+   },
+   "NotificationFileAccess": {
+      "message": "Στις ρυθμίσεις επεκτάσεων, επιλέξτε το πλαίσιο ελέγχου \"Να επιτρέπεται η πρόσβαση στις διευθύνσεις URL αρχείων\", αν θέλετε να κάνετε μεταφορά και απόθεση αρχείων στο πρόγραμμα περιήγησης."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Η επέκταση προγράμματος περιήγησης Microsoft 365 δεν μπορεί να ανοίξει το έγγραφό σας λόγω του μεγέθους. Ανεβάστε απευθείας στο OneDrive για να ανοίξετε το έγγραφο."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Δυστυχώς, δεν ήταν δυνατό το άνοιγμα του αρχείου."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Δυστυχώς, δεν ήταν δυνατό το άνοιγμα του αρχείου. Δοκιμάστε ξανά αργότερα."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Δυστυχώς, δεν ήταν δυνατό το άνοιγμα του αρχείου. Επιλέξτε ένα αρχείο που δημιουργήθηκε με το Word, το Excel ή το PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "Η αποστολή των εγγράφων σας είναι σε εξέλιξη."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Η συνδρομή σας στο Microsoft 365 μπορεί να έχει λήξει ή να μην περιλαμβάνει το OneDrive για επιχειρήσεις. Ελέγξτε τη συνδρομή σας ή συνδεθείτε με έναν λογαριασμό Microsoft."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Εισέλθετε στην επέκταση για να προβάλετε και να επεξεργαστείτε αρχεία στο Microsoft 365 στο web."
+   },
+   "NotificationSetDefault": {
+      "message": "Στην εφαρμογή \"Αρχεία\", πατήστε έγγραφα με δύο δάχτυλα για να ανοίξετε με το Microsoft 365."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Επιλέξτε ένα αρχείο που δημιουργήθηκε με το Word, το Excel ή το PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Η επέκταση Microsoft 365 ανοίγει το έγγραφό σας στο πρόγραμμα περιήγησης"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Να μην εμφανιστεί ξανά αυτό το μήνυμα"
+   },
+   "O365FilesLabel": {
+      "message": "Από το OneDrive για επιχειρήσεις"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "Είστε εκτός σύνδεσης. Συνδεθείτε ξανά για να χρησιμοποιήσετε Microsoft 365 επέκταση του προγράμματος περιήγησης."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Από το OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Άνοιγμα"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Έγγραφα"
+   },
+   "SettingsLabel": {
+      "message": "Ρυθμίσεις"
+   },
+   "ShareMessage": {
+      "message": "Κοινή χρήση"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Απαιτούνται δικαιώματα χρήσης"
+   },
+   "SharePermissionsTooltip": {
+      "message": "Δεν έχετε δικαίωμα για κοινή χρήση"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Πού θέλετε να αποθηκεύσετε τα αρχεία σας;"
+   },
+   "SignInLabel": {
+      "message": "Είσοδος"
+   },
+   "SignInMSALabel": {
+      "message": "Εισέλθετε με έναν λογαριασμό Microsoft"
+   },
+   "SignInO365Label": {
+      "message": "Εισέλθετε με έναν εταιρικό ή σχολικό λογαριασμό"
+   },
+   "SignOutLabel": {
+      "message": "Έξοδος"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "Η υπηρεσία επεξεργασίας παρέχεται από την επέκταση του προγράμματος επεξεργασίας της Microsoft."
+   },
+   "SupportPageLabel": {
+      "message": "Χρειάζεστε βοήθεια για να συνδεθείτε;"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Αυτόματη αποστολή δεδομένων για συμβολή στη βελτίωση των προϊόντων μας."
+   },
+   "TurnOnEditorLabel": {
+      "message": "Ενεργοποίηση του Editor"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "Αποστολή στο OneDrive για επιχειρήσεις"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "Αποστολή στο OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "Δεν έγινε είσοδος"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Ανοίξτε Microsoft 365 αρχεία απευθείας στο πρόγραμμα περιήγησης με Microsoft 365."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

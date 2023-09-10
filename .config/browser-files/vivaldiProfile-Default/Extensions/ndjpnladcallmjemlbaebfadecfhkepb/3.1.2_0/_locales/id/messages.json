@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "Akun"
+   },
+   "AppDescription": {
+      "message": "Lihat, edit, dan buat dokumen di browser Anda."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "Lihat, edit, dan buat file dalam browser, dan keluarkan tulisan terbaik Anda di seluruh web."
+   },
+   "AppFolderName": {
+      "message": "Ekstensi browser Microsoft 365"
+   },
+   "AppListLabel": {
+      "message": "Web App"
+   },
+   "AppLongDescription": {
+      "message": "Dibuat untuk Chrome – Gunakan Word, Excel, PowerPoint, OneNote, dan Sway Online tanpa menginstal Microsoft 365.\r\n\r\nBuat dengan percaya diri – Gunakan opsi pemformatan dan tata letak yang tak asing lagi untuk mengekspresikan ide Anda secara utuh.\r\n\r\nBekerja dari mana saja – Akses file Anda dari mana saja, berkat integrasi dengan OneDrive dan OneDrive for Business.\r\n\r\nDengan menginstal aplikasi ini, Anda menyetujui syarat dan ketentuan ini: http://aka.ms/officechromeextensionterms\r\n\r\n Kebijakan privasi: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Ekstensi browser Microsoft 365 menempatkan ikon di toolbar Microsoft Edge yang memberi Anda akses langsung ke file Microsoft 365, baik disimpan secara online maupun di komputer.\r\n\r\nEkstensi web Microsoft 365 dapat membuka file yang disimpan di OneDrive dan OneDrive for Business.\r\n\r\nAnda mendapatkan fitur Word, Excel, PowerPoint, OneNote, dan Sway langsung di browser Anda tanpa perlu menginstal Microsoft 365.\r\n\r\nEkstensi browser Microsoft 365 kini mencakup pemeriksaan konten Anda*. Layanan ini terhubung ke layanan online Microsoft yang menawarkan saran ejaan, tata bahasa dan penyempurnaan untuk tulisan Anda di sebagian besar situs web dan tersedia dalam lebih dari 80 bahasa.\r\n\r\n*Fitur ini mungkin tidak tersedia untuk semua pengguna.\r\n\r\nDengan menginstal aplikasi ini, Anda menyetujui syarat dan ketentuan ini: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Dibuat untuk Chrome – Gunakan Word, Excel, PowerPoint, OneNote, dan Sway Online tanpa perlu menginstal Microsoft 365.\r\n\r\nBuat dengan percaya diri – Gunakan opsi pemformatan dan tata letak yang tak asing lagi untuk mengekspresikan ide Anda secara utuh.\r\n\r\nBekerja di mana saja – Akses file Anda dari mana saja, berkat integrasi dengan OneDrive dan OneDrive for Business.\r\n\r\nEkstensi browser Microsoft 365 kini mencakup pemeriksaan konten Anda*. Layanan ini terhubung ke layanan online Microsoft yang menawarkan saran ejaan, tata bahasa dan penyempurnaan untuk tulisan Anda di sebagian besar situs web dan tersedia dalam lebih dari 80 bahasa.\r\n\r\n*Fitur ini mungkin tidak tersedia untuk semua pengguna.\r\n\r\nDengan menginstal aplikasi ini, Anda menyetujui syarat dan ketentuan ini: http://aka.ms/officechromeextensionterms\r\n\r\nKebijakan Privasi: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "Jelajahi semua Aplikasi Anda"
+   },
+   "AppsSectionHeader": {
+      "message": "Aplikasi"
+   },
+   "BrowseToOpenLabel": {
+      "message": "Unggah dan Buka..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "Buat akun"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "Tidak ada dokumen yang dilihat akhir-akhir ini."
+   },
+   "CreateNewLabel": {
+      "message": "Baru"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "Nonaktifkan Editor pada $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "Kami tidak bisa mendapatkan daftar dokumen terkini Anda sekarang."
+   },
+   "EditorBrandText": {
+      "message": "Editor"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "Tata Bahasa"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "Editor saat ini tidak didukung pada $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "Editor saat ini dinonaktifkan pada $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "Editor tidak aktif."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "Editor disertakan dengan $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(Pratinjau)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "Layanan Editor diberikan oleh ekstensi Microsoft Editor."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "Dapatkan ide penulisan tingkat lanjut dan penyimpanan 1 TB jika Anda membeli paket premium."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "Penyempurnaan"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "Penyempurnaan adalah saran penulisan tingkat lanjut untuk membantu membuat tulisan Anda lebih jelas, padat, atau lebih formal."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "Ejaan"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "Aktifkan Editor pada $host$",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "Jenis file tidak didukung. Silakan pilih dokumen Word, Excel, atau PowerPoint."
+   },
+   "LoadingRecentsLabel": {
+      "message": "Memuat..."
+   },
+   "MoreFilesLabel": {
+      "message": "Dokumen lainnya"
+   },
+   "MyAccountLabel": {
+      "message": "Lihat Akun Saya"
+   },
+   "NextLabel": {
+      "message": "Masuk"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "Jangan tampilkan ini lagi"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "Kami menyimpan file Anda di folder \"ekstensi browser Microsoft 365\" di OneDrive."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "Kami menyimpan file Anda di folder \"ekstensi browser Microsoft 365\" di OneDrive for Business."
+   },
+   "NotificationFileAccess": {
+      "message": "Dalam pengaturan ekstensi, centang “Izinkan akses ke URL file” jika ingin menyeret dan meletakkan file ke browser."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "Ekstensi browser Microsoft 365 tidak dapat membuka dokumen Anda karena ukurannya.  Unggah langsung ke OneDrive untuk membuka dokumen."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "Maaf, kami tidak dapat membuka file Anda."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "Maaf, kami tidak dapat membuka file Anda.  Silakan coba lagi di lain waktu."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "Maaf, kami tidak dapat membuka file Anda.  Silakan pilih file yang dibuat dengan Word, Excel, atau PowerPoint"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "Saat ini kami sedang mengunggah dokumen Anda."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Langganan Microsoft 365 Anda mungkin kedaluwarsa atau mungkin tidak termasuk OneDrive for Business. Periksa langganan Anda atau masuk dengan Akun Microsoft sebagai gantinya."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Masuk ke ekstensi untuk melihat dan mengedit file di Microsoft 365 di web."
+   },
+   "NotificationSetDefault": {
+      "message": "Di aplikasi File, ketuk dokumen dengan dua jari untuk membuka dengan Microsoft 365."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Pilih file yang dibuat dengan Word, Excel, atau PowerPoint."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Ekstensi Microsoft 365 membuka dokumen Anda di browser"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "Jangan tampilkan ini lagi"
+   },
+   "O365FilesLabel": {
+      "message": "Dari OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "Anda sedang offline. Sambungkan kembali untuk menggunakan ekstensi browser Microsoft 365."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "Dari OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "Buka"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "Dokumen"
+   },
+   "SettingsLabel": {
+      "message": "Pengaturan"
+   },
+   "ShareMessage": {
+      "message": "Bagikan"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "Izin diperlukan"
+   },
+   "SharePermissionsTooltip": {
+      "message": "Anda tidak memiliki izin untuk berbagi"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "Di mana Anda ingin menyimpan file?"
+   },
+   "SignInLabel": {
+      "message": "Masuk"
+   },
+   "SignInMSALabel": {
+      "message": "Masuk dengan akun Microsoft Anda"
+   },
+   "SignInO365Label": {
+      "message": "Masuk dengan akun kerja atau sekolah"
+   },
+   "SignOutLabel": {
+      "message": "Keluar"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "Layanan Editor diberikan oleh ekstensi Microsoft Editor."
+   },
+   "SupportPageLabel": {
+      "message": "Perlu Bantuan Masuk?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "Mengirim data secara otomatis untuk membantu meningkatkan produk kami."
+   },
+   "TurnOnEditorLabel": {
+      "message": "Aktifkan Editor"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "Unggah ke OneDrive for Business"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "Unggah ke OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "Tidak masuk"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Buka file Microsoft 365 langsung di browser dengan Microsoft 365."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

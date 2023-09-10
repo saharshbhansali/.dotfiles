@@ -1,0 +1,42 @@
+{
+   "appDesc": {
+      "description": "",
+      "message": "多功能的书签管理工具"
+   },
+   "in": {
+      "description": "",
+      "message": "在"
+   },
+   "openRaindrop": {
+      "description": "",
+      "message": "直接在浏览器打开 Raindrop.io web-网站"
+   },
+   "openSidePanel": {
+      "description": "",
+      "message": "直接在浏览器打开 侧边栏"
+   },
+   "saveHighlight": {
+      "description": "",
+      "message": "保存 高亮"
+   },
+   "saveImage": {
+      "description": "",
+      "message": "保存 照片"
+   },
+   "saveLink": {
+      "description": "",
+      "message": "保存 链接"
+   },
+   "savePage": {
+      "description": "",
+      "message": "创建 新书签"
+   },
+   "savePageOrHighlight": {
+      "description": "",
+      "message": "新书签 / 保存 高亮"
+   },
+   "saveVideo": {
+      "description": "",
+      "message": "保存 内容"
+   }
+}

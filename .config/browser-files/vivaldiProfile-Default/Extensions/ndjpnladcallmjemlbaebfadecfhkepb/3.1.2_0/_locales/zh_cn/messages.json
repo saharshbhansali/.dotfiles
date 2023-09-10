@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "帐户"
+   },
+   "AppDescription": {
+      "message": "在浏览器中查看、编辑和创建文档。"
+   },
+   "AppDescriptionWithEditor": {
+      "message": "在浏览器中查看、编辑和创建文件，并利用 Web 最佳写作效果。"
+   },
+   "AppFolderName": {
+      "message": "Microsoft 365 浏览器扩展"
+   },
+   "AppListLabel": {
+      "message": "Web 应用"
+   },
+   "AppLongDescription": {
+      "message": "专用于 Chrome – 无需安装 Microsoft 365 应用即可使用 Word、Excel、PowerPoint、OneNote 和 Sway Online。\r\n\r\n熟练地创建文件 – 使用熟悉的格式和布局选项来完全忠实地表达你的想法。\r\n\r\n随时随地开展工作 – 与 OneDrive 和 OneDrive for Business 集成，可从任意位置获取文件。\r\n\r\n安装该应用即表示你同意这些条款和条件: http://aka.ms/officechromeextensionterms\r\n\r\n隐私策略: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Microsoft 365 浏览器扩展在 Microsoft Edge 工具栏上添加了一个图标，你可通过它直接访问在线存储或计算机上存储的 Microsoft 365 文件。\r\n\r\nMicrosoft 365 Web 扩展可打开存储在 OneDrive 和 OneDrive for Business 中的文件。\r\n\r\n无需安装 Microsoft 365，即可在浏览器中直接获取 Word、Excel、PowerPoint、OneNote 和 Sway 的功能。\r\n\r\nMicrosoft 365 浏览器扩展现包含内容校对功能*。它与 Microsoft 联机服务相连，后者在你于大多数网站上写作时提供拼写、语法和样式建议并支持超过 80 种语言。\r\n\r\n*并非所有用户都可使用此功能。\r\n\r\n安装应用即表示你同意以下条款和条件: \r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "专为 Chrome 打造 - 无需安装 Microsoft 365 即可使用 Word、Excel、PowerPoint、OneNote 和 Sway Online。\r\n\r\n自信创建 - 使用熟悉的格式和布局选项以全保真度表达你的创意。\r\n\r\n随处工作 - 得益于与 OneDrive 和 OneDrive for Business 的集成，可随处访问你的文件。\r\n\r\nMicrosoft 365 浏览器扩展现包括内容校对功能*。它与 Microsoft 联机服务连接，后者在你于大多数网站上写作时提供拼写、语法和样式建议并支持超过 80 种语言。\r\n\r\n*并非所有用户都可使用此功能。\r\n\r\n安装该应用即表示你同意以下条款和条件: http://aka.ms/officechromeextensionterms\r\n\r\n隐私声明: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "浏览所有应用"
+   },
+   "AppsSectionHeader": {
+      "message": "应用"
+   },
+   "BrowseToOpenLabel": {
+      "message": "上传并打开..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "创建帐户"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "没有最近查看的文档。"
+   },
+   "CreateNewLabel": {
+      "message": "新建"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "禁用 $host$ 上的编辑器",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "目前无法获取你最近使用的文档列表。"
+   },
+   "EditorBrandText": {
+      "message": "编辑器"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "语法"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "$host$ 当前不支持编辑器",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "当前已在 $host$ 上禁用编辑器",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "编辑器已关闭。"
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "编辑器包含在 $host$ 中",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(预览版)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "编辑器服务正由 Microsoft 编辑器扩展提供。"
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "升级到高级版后，可获取高级协作创意和 1 TB 的存储空间。"
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "改进"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "优化就是高级写作建议，有助于使你的书写更清晰、更简洁或更正式。"
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "拼写检查"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "在 $host$ 上启用编辑器",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "文件类型不受支持。请选择 Word、Excel 或 PowerPoint 文档。"
+   },
+   "LoadingRecentsLabel": {
+      "message": "正在加载..."
+   },
+   "MoreFilesLabel": {
+      "message": "更多文档"
+   },
+   "MyAccountLabel": {
+      "message": "查看我的帐户"
+   },
+   "NextLabel": {
+      "message": "登录"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "不再显示"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "我们已将你的文件保存在你的 OneDrive 的“Microsoft 365 浏览器扩展”文件夹中。"
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "我们已将你的文件保存在你的 OneDrive for Business 的“Microsoft 365 浏览器扩展”文件夹中。"
+   },
+   "NotificationFileAccess": {
+      "message": "如果要将文件拖放到浏览器中，请在扩展设置中，选择\"允许访问文件 URL\"复选框。"
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "由于你的文档的大小，Microsoft 365 浏览器扩展无法打开它。请直接上传到 OneDrive 以打开文档。"
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "很抱歉，无法打开文件。"
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "很抱歉，无法打开文件。请稍后重试。"
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "很抱歉，无法打开文件。请选择使用 Word、Excel 或 PowerPoint 创建的文件"
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "当前正在上传文档。"
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Microsoft 365 订阅可能已过期，或者可能不包含 OneDrive for Business。请检查订阅，或改为使用 Microsoft 帐户登录。"
+   },
+   "NotificationNotSignedIn": {
+      "message": "登录扩展，在 Microsoft 365 网页版中查看和编辑文件。"
+   },
+   "NotificationSetDefault": {
+      "message": "在“文件”应用中，用两根手指点击文档以使用 Microsoft 365 打开。"
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "选择使用 Word、Excel 或 PowerPoint 创建的文件。"
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Microsoft 365 扩展程序正在浏览器中打开你的文档"
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "不再显示"
+   },
+   "O365FilesLabel": {
+      "message": "来自 OneDrive for Business"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "你已离线。请重新连接以使用Microsoft 365浏览器扩展。"
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "来自 OneDrive"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "打开"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "文档"
+   },
+   "SettingsLabel": {
+      "message": "设置"
+   },
+   "ShareMessage": {
+      "message": "共享"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "需要权限"
+   },
+   "SharePermissionsTooltip": {
+      "message": "你没有共享权限"
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "要将文件保存到哪个位置?"
+   },
+   "SignInLabel": {
+      "message": "登录"
+   },
+   "SignInMSALabel": {
+      "message": "使用 Microsoft 帐户登录"
+   },
+   "SignInO365Label": {
+      "message": "使用工作或学校帐户登录"
+   },
+   "SignOutLabel": {
+      "message": "注销"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "编辑器服务正由 Microsoft 编辑器扩展提供。"
+   },
+   "SupportPageLabel": {
+      "message": "需要帮助登录?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "自动发送数据，以帮助我们改进产品。"
+   },
+   "TurnOnEditorLabel": {
+      "message": "打开编辑器"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "上传到 OneDrive for Business"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "上传到 OneDrive"
+   },
+   "UsernameLabel": {
+      "message": "未登录"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "使用 Microsoft 365 直接在浏览器中打开 Microsoft 365 文件。"
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

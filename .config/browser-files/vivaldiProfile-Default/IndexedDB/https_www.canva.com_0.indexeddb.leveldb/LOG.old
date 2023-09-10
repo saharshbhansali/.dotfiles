@@ -1,0 +1,17 @@
+2023/09/04-00:03:20.039 1475 Creating DB /home/saharsh/.config/vivaldi/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb since it was missing.
+2023/09/04-00:03:20.050 1475 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/04-00:47:46.750 1476 Level-0 table #5: started
+2023/09/04-00:47:46.775 1476 Level-0 table #5: 1755426 bytes OK
+2023/09/04-00:47:46.778 1476 Delete type=0 #3
+2023/09/04-01:30:20.649 1476 Level-0 table #7: started
+2023/09/04-01:30:20.669 1476 Level-0 table #7: 1551891 bytes OK
+2023/09/04-01:30:20.672 1476 Delete type=0 #4
+2023/09/04-01:30:20.674 1476 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/04-01:30:20.674 1476 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x02\x01$\x00f\x00f\x00f\x005\x00a\x003\x009\x000\x00-\x000\x00a\x00a\x006\x00-\x004\x001\x00a\x00b\x00-\x008\x005\x004\x00a\x00-\x00a\x00f\x000\x007\x003\x005\x00b\x00e\x00c\x006\x006\x000' @ 19682 : 1
+2023/09/04-01:30:20.674 1476 Compacting 1@1 + 1@2 files
+2023/09/04-01:30:20.684 1476 Generated table #8@1: 227 keys, 3807 bytes
+2023/09/04-01:30:20.684 1476 Compacted 1@1 + 1@2 files => 3807 bytes
+2023/09/04-01:30:20.687 1476 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/04-01:30:20.687 1476 Delete type=2 #5
+2023/09/04-01:30:20.687 1476 Delete type=2 #7
+2023/09/04-01:30:20.688 1476 Manual compaction at level-1 from '\x00\x09\x01\x02\x01$\x00f\x00f\x00f\x005\x00a\x003\x009\x000\x00-\x000\x00a\x00a\x006\x00-\x004\x001\x00a\x00b\x00-\x008\x005\x004\x00a\x00-\x00a\x00f\x000\x007\x003\x005\x00b\x00e\x00c\x006\x006\x000' @ 19682 : 1 .. (end); will stop at (end)

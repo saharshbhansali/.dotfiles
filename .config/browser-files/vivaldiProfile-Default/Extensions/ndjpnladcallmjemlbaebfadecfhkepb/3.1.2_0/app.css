@@ -1,0 +1,875 @@
+body {
+    margin: 0;
+    background-color: #ffffff;
+    font-family: 'Segoe UI Web (West European)', 'Segoe UI', -apple-system, system-ui, Roboto, 'Helvetica Neue', sans-serif;
+    color: #212121;
+    font-size: 16px;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Make all the containing divs expand to the full size of body */
+main {
+    width: 100%;
+    height: 100%;
+}
+/* Make all the containing divs expand to the full size of body */
+.main_view {
+    width: 100%;
+    height: 100%;
+}
+/* Make all the containing divs expand to the full size of body */
+.popup_view {
+    width: 100%;
+    height: 100%;
+}
+
+/* Need to to support ng-hide & ng-show directives */
+.ng-hide {
+    display: none !important;
+}
+
+/* Used to fade out underlying UI (e.g. MRU) while displaying menus */
+.fading_panel {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 20; /* Greater than the MRU, but less than ribbon and menus */
+    position: absolute;
+    background-color: rgb(72, 70, 68, 0.2);
+}
+
+.menu_collapse {
+    text-align: center;
+    cursor: pointer;
+    padding-top: 10px;
+    font-size: 12px;
+}
+
+.menu_collapse:hover {
+    color: #0078d7;
+}
+
+.checkbox_group {
+    padding: 3px 17px 3px 20px;
+    text-align: left;
+    display: flex;
+}
+
+.ms-CheckBox .ms-Label {
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.ms-CheckBox-field:focus {
+    outline: 2px solid #a6c7ff;
+}
+
+.ms-CheckBox-field.in-focus.is-checked::before {
+    border-color: #464FEB;
+}
+
+.ms-CheckBox-field.is-checked::before {
+    border: 10px solid #464FEB;
+    background-color: #464FEB;
+}
+
+.ms-CheckBox-field.is-checked:hover::before,
+.ms-CheckBox-field.is-checked:focus::before {
+    border-color: #464FEB;
+}
+
+a {
+    text-decoration: none;
+}
+
+.box {
+    position: relative;
+    display: inline-block;
+    border-radius: 18px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    -webkit-transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+    transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.box::after {
+    content: '';
+    border-radius: 18px;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    opacity: 0;
+    -webkit-transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+    transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+/* .box:hover {
+    -webkit-transform: scale(1.25, 1.25);
+    transform: scale(1.25, 1.25);
+} */
+
+.box:hover::after {
+    opacity: 1;
+}
+
+.box_expand {
+    -webkit-transition: all 0.1s;
+    transition: all 0.1s;
+}
+
+/* .box_expand:hover {
+    -webkit-transform: scale(1.05, 1.05);
+    transform: scale(1.05, 1.05);
+} */
+
+.login_view {
+    width: 266px;
+    height: 288px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.login_view .login_title {
+    font-weight: 400;
+    padding-top: 36px;
+    letter-spacing: -0.4px;
+    font-size: 42px;
+    color: #464FEB;
+    line-height: 52px;
+}
+
+.login_view .login_subtitle {
+    padding: 20px 8px 16px 8px;
+    color: #201f1e;
+    font-weight: 400;
+}
+
+.login_panel .login_option {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.login_option .login_button {
+    font-size: 12px;
+    font-weight: 600;
+    width: 246px;
+    border: 1px solid #464FEB;
+    border-radius: 4px;
+    color: #464FEB;
+    line-height: 30px;
+    letter-spacing: -0.6px;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.login_panel .login_help {
+    width: 186px;
+    margin-top: 16px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 12px;
+    color: #464FEB;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.login_view button {
+    padding: 0px;
+}
+
+button {
+    font-family: 'Segoe UI Web (West European)', 'Segoe UI', -apple-system, system-ui, Roboto, 'Helvetica Neue', sans-serif;
+    background-color: transparent;
+    border-width: 0;
+}
+
+.signout_button {
+    width: 246px;
+    margin: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background: #ffffff;
+    border: 1px solid #464FEB;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-size: 12px;
+    line-height: 16px;
+    color: #464FEB;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.signout_button label {
+    cursor: pointer;
+}
+
+.upload_button {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12px;
+    color: #464FEB;
+    font-weight: 600;
+    line-height: 16px;
+    cursor: pointer;
+}
+
+.upload_button:hover,
+.upload_button:focus {
+    text-decoration: underline;
+}
+
+.upload_label {
+    cursor: pointer;
+}
+
+.home_view {
+    width: 262px;
+    z-index: 100;
+}
+
+.app_panel {
+    z-index: 0;
+    padding-top: 60px;
+}
+
+.app_group_header {
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 9px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.app_table {
+    display: table;
+}
+
+.app_table_row {
+    display: table-row;
+}
+
+.app_table_cell:hover,
+.app_table_cell:focus {
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+.app_table_cell {
+    display: table-cell;
+    font-size: 12px;
+}
+
+.apps_module_link {
+    padding: 12px 24px 0px 20px;
+    display: inline-block;
+    color: #464FEB;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.apps_module_link label {
+    width: 150px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    cursor: pointer;
+}
+
+.apps_module_link:hover,
+.apps_module_link:focus {
+    text-decoration: underline;
+}
+
+.apps_module_link .ms-Icon {
+    float: right;
+    padding-top: 3px;
+    padding-left: 4px;
+}
+
+.m365_home_link {
+    padding: 5px 14px 0px 14px;
+    color: #464FEB;
+    cursor: pointer;
+    font-size: 12px;
+    float: right;
+}
+
+.m365_home_link label {
+    width: 150px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    cursor: pointer;
+}
+
+.m365_home_link:hover,
+.m365_home_link:focus {
+    text-decoration: underline;
+}
+
+.m365_home_link .ms-Icon {
+    float: right;
+    padding-top: 3px;
+    padding-left: 4px;
+}
+
+.app_button {
+    width: 131px;
+    height: 40px;
+    padding: 8px 0px 8px 20px;
+    display: flex;
+    font-size: 24px;
+    font-weight: 0;
+    cursor: pointer;
+}
+
+.app_name {
+    font-size: 12px;
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-top: 4px;
+    cursor: pointer;
+}
+
+.ms-BrandIcon--icon48 {
+    height: 24px;
+    width: 24px;
+}
+
+/* Office.com appIcon Color Palette */
+.outlook_color_fix {
+    color: rgb(43, 122, 218);
+}
+
+.excel_color_fix {
+    color: rgb(33, 115, 70);
+}
+
+.oneDrive_color_fix {
+    color: rgb(0, 120, 215);
+}
+
+.word_color_fix {
+    color: rgb(43, 87, 154);
+}
+
+.powerpoint_color_fix {
+    color: rgb(183, 71, 42);
+}
+
+.oneNote_color_fix {
+    color: rgb(119, 25, 170);
+}
+
+.sway_color_fix {
+    color: rgb(0, 130, 114);
+}
+
+.sharepoint_color_fix {
+    color: rgb(43, 122, 218);
+}
+
+.teams_color_fix {
+    color: rgb(87, 89, 178);
+}
+
+.action_panel {
+    z-index: 100;
+}
+
+/* Used for New and Open Menus */
+.action_group {
+    text-align: left;
+    padding: 24px 16px 4px 16px;
+}
+
+/* Used for Settings menu */
+.settings_group {
+    height: 104px;
+    text-align: left;
+    align-items: left;
+}
+
+.profile_panel {
+    background-color: #ffffff;
+    width: 100%;
+    height: 32px;
+    position: absolute;
+    z-index: 101;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+.settings_button {
+    font-size: 13px;
+    padding: 10px 10px 5px 10px;
+    margin-right: 10px;
+    float: right;
+    cursor: pointer;
+}
+
+.account_panel {
+    background-color: #ffffff;
+    width: 100%;
+    top: 60px;
+    z-index: 50;
+    position: absolute;
+}
+
+.profile_name {
+    padding: 9px 0px 8px 13px;
+    float: left;
+}
+
+.account_name {
+    width: 154px;
+    font-size: 12px;
+    font-size: 12px;
+    line-height: 15px;
+    color: #605e5c;
+    cursor: pointer;
+    float: left;
+    overflow: hidden;
+}
+
+.account_link {
+    padding: 8px 20px 8px 20px;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 600;
+    color: #464FEB;
+    cursor: pointer;
+}
+
+.account_button {
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.profile_button {
+    width: 32px;
+    height: 32px;
+    margin-left: 20px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background-color: #999999;
+    cursor: pointer;
+    float: left;
+}
+
+.profile_circle_inner {
+    position: relative;
+    top: 50%;
+    left: 6px;
+    -moz-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.profile_picture {
+    width: 32px;
+    height: 32px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.mru_panel {
+    width: 100%;
+    z-index: 0;
+    margin-top: 20px;
+}
+
+.mru_container {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.mru_container:hover,
+.mru_container:focus {
+    background-color: #f1f1f1;
+}
+
+.mru_message_panel {
+    width: 100%;
+    height: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.mru_message_content {
+    padding: 12px 20px 12px 20px;
+    text-align: left;
+    font-size: 12px;
+    line-height: 16px;
+    color: #605e5c;
+}
+
+.mru_header {
+    height: 28px;
+}
+
+.mru_label {
+    font-size: 16px;
+    width: 100px;
+    padding: 0px 20px 9px 20px;
+    font-weight: 600;
+    float: left;
+}
+
+.mru_view_more {
+    width: 122px;
+    padding: 5px 24px 13px 20px;
+    display: inline-block;
+    color: #464FEB;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.mru_view_more:hover,
+.mru_view_more:focus {
+    text-decoration: underline;
+}
+
+.mru_view_more .ms-Icon {
+    float: right;
+    padding-top: 3px;
+}
+
+.mru_view_more label {
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    cursor: pointer;
+}
+
+.mru_msa_bottom_padding {
+    padding-bottom: 20px;
+    height: 2px;
+}
+
+#file_picker {
+    display: none;
+}
+
+.list_row {
+    display: flex;
+    cursor: pointer;
+    width: 100%;
+}
+
+.list_image {
+    padding-top: 8px;
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+}
+
+.list_end {
+    margin-left: 11px;
+    height: 40px;
+    width: 192px;
+}
+
+/* Use a different container for the open list because the strings can wrap */
+.list_end_open {
+    padding-bottom: 20px;
+    display: flex;
+}
+
+.mru_name {
+    padding-top: 12px;
+    font-size: 12px;
+    left: 0;
+    right: 0;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.open_local_panel {
+    width: 100%;
+    height: 28px;
+    padding-bottom: 16px;
+    z-index: 0;
+}
+
+/* Menu animations */
+.menu-switch-animation.ng-enter,
+.menu-switch-animation.ng-leave {
+    -webkit-transition: 200ms ease-in-out all;
+    -moz-transition: 200ms ease-in-out all;
+    -o-transition: 200ms ease-in-out all;
+    transition: 200ms ease-in-out all;
+}
+
+.menu-switch-animation.ng-enter {
+    top: -115px;
+    z-index: 26;
+}
+
+.menu-switch-animation.ng-leave {
+    top: 72px;
+    z-index: 24;
+}
+
+.menu-switch-animation.ng-enter.ng-enter-active {
+    top: 72px;
+    z-index: 26;
+}
+
+.menu-switch-animation.ng-leave.ng-leave-active {
+    top: -115px;
+    z-index: 24;
+}
+/* End Menu animations */
+
+/* MRU Loading animations */
+.animate-repeat {
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.animate-repeat.ng-move,
+.animate-repeat.ng-enter,
+.animate-repeat.ng-leave {
+    transition: all linear 0.5s;
+}
+
+.animate-repeat.ng-leave.ng-leave-active,
+.animate-repeat.ng-move,
+.animate-repeat.ng-enter {
+    opacity: 0;
+    max-height: 0;
+}
+
+.animate-repeat.ng-leave,
+.animate-repeat.ng-move.ng-move-active,
+.animate-repeat.ng-enter.ng-enter-active {
+    opacity: 1;
+    max-height: 40px;
+}
+/* End MRU Loading animations */
+
+/* Toggle */
+
+.refinements_tooltip {
+    position: relative;
+}
+
+.refinements_tooltip .refinements_tooltip_text {
+    visibility: hidden;
+    background-color: #ffffff;
+    color: #000000;
+    text-align: left;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-size: 12px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 1px 3px 8px 2px #d3d3d3;
+}
+
+.refinements_tooltip .refinements_tooltip_text::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -7px;
+    border-width: 7px;
+    border-style: solid;
+    border-color: #fff transparent transparent transparent;
+}
+
+.refinements_tooltip:hover .refinements_tooltip_text {
+    visibility: visible;
+    opacity: 1;
+}
+
+.switch {
+    float: right;
+    position: relative;
+    width: 40px;
+    height: 20px;
+}
+
+.switch input {
+    -webkit-appearance: none;
+    appearance: none;
+    background: transparent;
+    margin: 0;
+    width: 40px;
+    height: 20px;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: white;
+    border-style: solid;
+    border-color: #605e5c;
+    border-width: thin;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    -ms-high-contrast-adjust: none;
+}
+
+.slider:before {
+    position: absolute;
+    content: '';
+    height: 12px;
+    width: 12px;
+    left: 3px;
+    bottom: 4px;
+    background-color: #605e5c;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+
+input:checked + .slider:before {
+    background-color: white;
+}
+
+input:checked + .slider {
+    background-color: #464FEB;
+    border-color: #464FEB;
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px #464FEB;
+}
+
+input:checked:hover + .slider {
+    background-color: rgb(0, 90, 158);
+    border-color: transparent;
+}
+
+input:checked + .slider:before {
+    -webkit-transform: translateX(20px);
+    -ms-transform: translateX(20px);
+    transform: translateX(20px);
+}
+
+input:disabled + .slider {
+    background: white;
+    border: 1px solid #c8c6c4;
+    box-sizing: border-box;
+    border-radius: 10px;
+    cursor: default;
+}
+
+/* No border color change when disabled */
+input:disabled:checked:hover + .slider {
+    background-color: white;
+}
+
+/* Rounded sliders */
+
+.slider.round {
+    border-radius: 20px;
+}
+
+input:hover + .slider.round {
+    border-color: black;
+}
+
+input:checked:hover + .slider.round:before {
+    background-color: white;
+}
+
+/* No round color change when disabled */
+input:disabled:checked:hover + .slider.round:before {
+    background-color: #c8c6c4;
+}
+
+input:hover + .slider.round:before {
+    background-color: black;
+}
+
+/* No border color change when disabled. */
+input:disabled:hover + .slider.round {
+    border-color: #c8c6c4;
+}
+
+input:disabled + .slider.round:before {
+    background: #c8c6c4;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+@media screen and (-ms-high-contrast: active) {
+    .slider {
+        background-color: window;
+    }
+    .slider:before {
+        background-color: windowtext;
+    }
+    input:checked:hover + .slider {
+        background-color: window;
+    }
+    input:checked + .slider:before {
+        background-color: highlighttext;
+    }
+    input:checked + .slider {
+        background-color: highlight;
+        border-color: highlight;
+    }
+    input:hover + .slider.round {
+        border-color: highlight;
+    }
+    input:checked:hover + .slider.round:before {
+        background-color: highlight;
+    }
+    input:hover + .slider.round:before {
+        background-color: highlight;
+    }
+    input:disabled + .slider {
+        background: window;
+        border-color: graytext;
+    }
+    input:disabled:checked + .slider,
+    input:disabled:checked:hover + .slider {
+        background-color: #c8c6c4;
+        border-color: graytext;
+    }
+    input:disabled + .slider.round:before,
+    input:disabled:hover + .slider.round:before,
+    input:disabled:checked + .slider.round:before,
+    input:disabled:checked:hover + .slider.round:before {
+        background-color: graytext;
+    }
+}
+
+/* End Toggle */

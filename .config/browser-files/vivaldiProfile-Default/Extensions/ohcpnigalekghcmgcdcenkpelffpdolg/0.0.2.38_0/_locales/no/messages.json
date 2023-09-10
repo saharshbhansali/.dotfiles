@@ -1,0 +1,194 @@
+{
+   "EnableHSL": {
+      "message": "Forestilling HSL"
+   },
+   "EnableRGB": {
+      "message": "Forestilling RGB"
+   },
+   "addToPalette": {
+      "message": "Legg til i fargepaletten"
+   },
+   "advancedOptions": {
+      "message": "Avanserte alternativer"
+   },
+   "allowWebGl": {
+      "message": "Tillat webgl for pixelated forhåndsvisning"
+   },
+   "appleIcon": {
+      "message": "Bruk Apple Digital Fargemålerlogo"
+   },
+   "approved": {
+      "message": "Godkjent"
+   },
+   "bbackgroundColor": {
+      "message": "Popup bakgrunnsfarge"
+   },
+   "bgPageUnavailable": {
+      "message": "Bakgrunnsbilde vil ikke svare - vennligst oppdatere siden og prøv igjen."
+   },
+   "borderValue": {
+      "message": "Grenser for bruk (css verdi)"
+   },
+   "clear": {
+      "message": "Klar"
+   },
+   "clearSync": {
+      "message": "Fjern synkroniseringslagring"
+   },
+   "closeAndExit": {
+      "message": "Lukk og avslutt fargevalgsmodus"
+   },
+   "colorOfDay": {
+      "message": "Dagens farge"
+   },
+   "copycolorval": {
+      "message": "Kopier fargeverdien"
+   },
+   "dblClick": {
+      "message": "Dobbeltklikk"
+   },
+   "default": {
+      "message": "Misligholde"
+   },
+   "disablePickEveryTime": {
+      "message": "Ikke begynn å plukke hver gang popup klikkes"
+   },
+   "disableRewriting": {
+      "message": "Deaktiver tilknytning av ikke-tilknyttede lenker"
+   },
+   "error": {
+      "message": "Feil"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Hent innstillinger fra Google-konto synkroniseringslagring"
+   },
+   "fishEye": {
+      "message": "Fisk øye zoom mengde"
+   },
+   "hasAgreedToLicense": {
+      "message": "Har blitt enige om bruksvilkår"
+   },
+   "help": {
+      "message": "Hjelp / info"
+   },
+   "hideMinimize": {
+      "message": "Skjule / minimere "
+   },
+   "history": {
+      "message": "Historie"
+   },
+   "iconIsBitmap": {
+      "message": "Ikonet er zoomet pixel forhåndsvisning"
+   },
+   "iconIsPreview": {
+      "message": "Bruk ikon badge firkant farge forhåndsvisning"
+   },
+   "loadsyncOptions": {
+      "message": "Synkroniseringslagringsalternativer er lastet inn og lagret."
+   },
+   "maxZoom": {
+      "message": "Maks zoomet"
+   },
+   "modifyLicense": {
+      "message": "Endre lisens"
+   },
+   "noSwatches": {
+      "message": "Klikk på farger i fargeloggen for å legge dem til i en palett for å lagre og skrive ut."
+   },
+   "off": {
+      "message": "Av"
+   },
+   "on": {
+      "message": "På"
+   },
+   "options": {
+      "message": "Opsjoner"
+   },
+   "pickAgainLocked": {
+      "message": "Velg en annen farge [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Velg gjeldende farge [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Begynn å plukke farger hver gang popup klikkes"
+   },
+   "pixelatedPreview": {
+      "message": "Forstørret forhåndsvisning er pixelert"
+   },
+   "popOutWindow": {
+      "message": "Pop-out (separat vindu)"
+   },
+   "pressEnterToPick": {
+      "message": "Trykk enter for å velge farge"
+   },
+   "printSave": {
+      "message": "Skriv ut / lagre..."
+   },
+   "reSnapPage": {
+      "message": "Oppdater bildet av siden [r]"
+   },
+   "registerButton": {
+      "message": "Registrere"
+   },
+   "registered": {
+      "message": "Registrert"
+   },
+   "resetIcon": {
+      "message": "Gå tilbake til normal ikon"
+   },
+   "rightClick": {
+      "message": "Høyreklikk"
+   },
+   "saveOptions": {
+      "message": "Lagre alternativer"
+   },
+   "savedoptions": {
+      "message": "Alternativer lagret."
+   },
+   "seeTerms": {
+      "message": "Se vilkår for bruk"
+   },
+   "shareClors": {
+      "message": "Dagens farge (se vilkår for bruk)"
+   },
+   "showColorChooser": {
+      "message": "Vis fargekoder"
+   },
+   "showDefaults": {
+      "message": "Vis standardinnstillinger"
+   },
+   "showPreviousClr": {
+      "message": "Vis delt farge forhåndsvisning med forrige farge"
+   },
+   "showndefaults": {
+      "message": "Vennligst trykk på Lagre, nå viser standardinnstillinger."
+   },
+   "sort": {
+      "message": "sortere"
+   },
+   "terms": {
+      "message": "Vilkår for bruk"
+   },
+   "unregistered": {
+      "message": "Uregistrert"
+   },
+   "usageStatistics": {
+      "message": "Samle bruksstatistikk (se bruksbetingelser)"
+   },
+   "useCSSValues": {
+      "message": "Bruk css verdier for RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Bruk PNG kvalitet når tilgjengelig"
+   },
+   "usePrevColorBG": {
+      "message": "Bruk tidligere farge for bakgrunn"
+   }
+}

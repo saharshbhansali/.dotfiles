@@ -1,0 +1,305 @@
+{
+   "AccountLabel": {
+      "message": "계정"
+   },
+   "AppDescription": {
+      "message": "브라우저에서 문서를 보고, 편집하고, 만듭니다."
+   },
+   "AppDescriptionWithEditor": {
+      "message": "브라우저 내에서 파일을 보고, 편집하고, 만들고, 웹에서 최상의 쓰기를 가져옵니다."
+   },
+   "AppFolderName": {
+      "message": "Microsoft 365 확장"
+   },
+   "AppListLabel": {
+      "message": "웹앱"
+   },
+   "AppLongDescription": {
+      "message": "Chrome용으로 빌드됨 – Microsoft 365를 설치하지 않고도 Word, Excel, PowerPoint, OneNote 및 Sway Online을 사용할 수 있습니다.\r\n\r\n편리한 문서 생성 – 익숙한 서식 설정과 레이아웃 옵션을 사용하여 아이디어를 그대로 표현할 수 있습니다.\r\n\r\n이동 중 작업 – OneDrive 및 비즈니스용 OneDrive와의 통합으로 어디서나 파일을 사용할 수 있습니다.\r\n\r\n앱을 설치하면 http://aka.ms/officechromeextensionterms의 사용 약관에 동의하는 것으로 간주됩니다.\r\n\r\n개인 정보취급방침: http://aka.ms/privacy\r\n"
+   },
+   "AppLongDescriptionEdge": {
+      "message": "Microsoft 365 브라우저 확장을 사용하면 온라인에 저장되었거나 컴퓨터에 저장된 Microsoft 365 파일에 직접 액세스할 수 있도록 하는 아이콘이 Microsoft Edge 도구 모음에 추가됩니다.\r\n\r\nMicrosoft 365 웹 확장은 OneDrive 및 비즈니스용 OneDrive에 저장된 파일을 열 수 있습니다.\r\n\r\nMicrosoft 365를 설치할 필요 없이 Word, Excel, PowerPoint, OneNote 및 Sway의 기능을 브라우저에서 바로 사용할 수 있습니다.\r\n\r\nMicrosoft 365 브라우저 확장은 콘텐츠* 교정을 포함합니다. 대부분의 웹 사이트에서 작성에 대한 맞춤법, 문법 및 개선 사항을 제공하는 Microsoft 온라인 서비스에 연결하고 80개 이상의 언어로 제공하고 있습니다.\r\n\r\n*이 기능은 일부 사용자에게 제공되지 않을 수 있습니다.\r\n\r\n앱을 설치하면 다음 약관에 동의하는 것으로 간주됩니다.\r\n\r\n"
+   },
+   "AppLongDescriptionWithEditor": {
+      "message": "Chrome용으로 빌드됨 - Microsoft 365를 설치할 필요 없이 Word, Excel, PowerPoint, OneNote 및 Sway Online을 사용할 수 있습니다.\r\n\r\n편리한 문서 생성 - 익숙한 서식 설정과 레이아웃 옵션을 사용하여 아이디어를 그대로 표현할 수 있습니다.\r\n\r\n이동 중 작업 - OneDrive와 비즈니스용 OneDrive의 통합으로 어디서나 파일을 사용할 수 있습니다.\r\n\r\nMicrosoft 365 브라우저 확장은 콘텐츠* 교정을 포함합니다. 대부분의 웹 사이트에서 작성에 대한 맞춤법, 문법 및 개선 사항을 제공하는 Microsoft 온라인 서비스에 연결하고 80개 이상의 언어를 제공하고 있습니다.\r\n\r\n*이 기능은 일부 사용자에게 제공되지 않을 수 있습니다.\r\n\r\n앱을 설치하면 http://aka.ms/officechromeextensionterms의 약관에 동의하는 것으로 간주됩니다.\r\n\r\n개인정보 취급 방침: http://aka.ms/privacy\r\n"
+   },
+   "AppName": {
+      "message": "Microsoft 365"
+   },
+   "AppNameEdge": {
+      "message": "Microsoft 365"
+   },
+   "AppShortName": {
+      "message": "Microsoft 365"
+   },
+   "AppTermsOfServiceLCA": {
+      "message": "PLEASE NOTE: Refer to your license terms for Microsoft 365 browser extension software (the \"software\") to identify the entity licensing this supplement to you and for support information. You may use a copy of this supplement with each validly licensed copy of the software. You may not use the supplement if you do not have a license for the software. The license terms for the software apply to your use of this supplement."
+   },
+   "AppsModuleLinkText": {
+      "message": "모든 앱 탐색"
+   },
+   "AppsSectionHeader": {
+      "message": "앱"
+   },
+   "BrowseToOpenLabel": {
+      "message": "업로드 및 열기..."
+   },
+   "CopyrightLabel": {
+      "message": "Microsoft Corporation 2015"
+   },
+   "CreateAccountLabel": {
+      "message": "계정 만들기"
+   },
+   "CreateDocsMessageLabel": {
+      "message": "최근에 본 문서가 없습니다."
+   },
+   "CreateNewLabel": {
+      "message": "새로 만들기"
+   },
+   "DisableEditorOnThisSiteLabel": {
+      "message": "$host$에서 편집기 사용하지 않음",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "DocumentsNotFoundMessageLabel": {
+      "message": "지금은 최근 문서 목록을 가져올 수 없습니다."
+   },
+   "EditorBrandText": {
+      "message": "편집기"
+   },
+   "EditorGrammarToggleLabel": {
+      "message": "문법"
+   },
+   "EditorIsBlockedOnThisSiteLabel": {
+      "message": "현재 편집기는 $host$에서 지원되지 않습니다.",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsDisabledOnThisSiteLabel": {
+      "message": "현재 편집기는 $host$에서 사용할 수 없습니다.",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "EditorIsOffLabel": {
+      "message": "편집기가 꺼져 있습니다."
+   },
+   "EditorNativeSupportOnThisSiteLabel": {
+      "message": "편집기는 $host$에 포함되어 있습니다",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "outlook.com"
+         }
+      }
+   },
+   "EditorPreviewLabel": {
+      "message": "(미리 보기)"
+   },
+   "EditorPriorityShutdownLabel": {
+      "message": "편집기 서비스는 Microsoft 편집기 확장에서 제공됩니다."
+   },
+   "EditorRefinementsGoPremiumTooltip": {
+      "message": "프리미엄으로 전환하는 경우 고급 쓰기 아이디어와 1TB 스토리지를 사용할 수 있습니다."
+   },
+   "EditorRefinementsToggleLabel": {
+      "message": "구체화"
+   },
+   "EditorRefinementsTooltip": {
+      "message": "구체화 기능은 명확하며 간결하고 격식있게 글을 쓸 수 있도록 도와주는 고급 쓰기 제안입니다."
+   },
+   "EditorSpellingToggleLabel": {
+      "message": "맞춤법 검사"
+   },
+   "EnableEditorOnThisSiteLabel": {
+      "message": "$host$에서 편집기 사용",
+      "placeholders": {
+         "host": {
+            "content": "$1",
+            "example": "facebook.com"
+         }
+      }
+   },
+   "ExcelAppName": {
+      "message": "Excel"
+   },
+   "ExcelOnlineAppName": {
+      "message": "Excel"
+   },
+   "FileTypeErrorMessage": {
+      "message": "파일 형식이 지원되지 않습니다. Word, Excel 또는 PowerPoint 문서를 선택하세요."
+   },
+   "LoadingRecentsLabel": {
+      "message": "로드 중..."
+   },
+   "MoreFilesLabel": {
+      "message": "문서 더 보기"
+   },
+   "MyAccountLabel": {
+      "message": "내 계정 보기"
+   },
+   "NextLabel": {
+      "message": "로그인"
+   },
+   "NotificationAutoSaveButton": {
+      "message": "이 내용을 다시 표시하지 않음"
+   },
+   "NotificationAutoSaveToOneDrive": {
+      "message": "OneDrive의 \"Microsoft 365 확장\" 폴더에 파일을 저장했습니다."
+   },
+   "NotificationAutoSaveToSharePoint": {
+      "message": "파일을 비즈니스용 OneDrive \"Microsoft 365 확장\" 폴더에 저장했습니다."
+   },
+   "NotificationFileAccess": {
+      "message": "파일을 브라우저로 끌어서 놓으려면 확장 설정에서 \"파일 URL에 대한 액세스 허용\" 확인란을 선택하세요."
+   },
+   "NotificationFileMaxSizeByteLimitReached": {
+      "message": "크기 때문에 Microsoft 365 확장에서 문서를 열 수 없습니다.  문서를 열려면 OneDrive에 직접 업로드하세요."
+   },
+   "NotificationFileUploadFailureGeneric": {
+      "message": "죄송합니다. 파일을 열 수 없습니다."
+   },
+   "NotificationFileUploadFailureServer": {
+      "message": "죄송합니다. 파일을 열 수 없습니다. 나중에 다시 시도하세요."
+   },
+   "NotificationFileUploadFailureUnsupportedMedia": {
+      "message": "죄송합니다. 파일을 열 수 없습니다. Word, Excel 또는 PowerPoint에서 만든 파일을 선택하세요."
+   },
+   "NotificationFileUploadInProgress": {
+      "message": "현재 문서를 업로드하는 중입니다."
+   },
+   "NotificationInvalidSubscription": {
+      "message": "Microsoft 365 구독이 만료되었거나 비즈니스용 OneDrive를 포함하지 않을 수 있습니다. 구독을 확인하거나 대신 Microsoft 계정으로 로그인하세요."
+   },
+   "NotificationNotSignedIn": {
+      "message": "Microsoft 365 웹 정보에서 파일을 보고 편집하려면 확장에 로그인하세요."
+   },
+   "NotificationSetDefault": {
+      "message": "파일 앱에서 두 손가락으로 문서를 탭하여 Microsoft 365로 파일을 엽니다."
+   },
+   "NotificationUnsupportedFileType": {
+      "message": "Word, Excel 또는 PowerPoint를 사용하여 만든 파일을 선택하세요."
+   },
+   "NotificationWebDocRedirect": {
+      "message": "Microsoft 365 확장 프로그램이 브라우저에서 문서를 엽니다."
+   },
+   "NotificationWebDocRedirectButton": {
+      "message": "이 내용을 다시 표시하지 않음"
+   },
+   "O365FilesLabel": {
+      "message": "비즈니스용 OneDrive에서"
+   },
+   "OfficeOnlineAppName": {
+      "message": "Microsoft 365"
+   },
+   "OfflineLabel": {
+      "message": "오프라인 상태입니다. Microsoft 365 브라우저 확장을 사용하려면 다시 연결하세요."
+   },
+   "OneDriveAppName": {
+      "message": "OneDrive"
+   },
+   "OneDriveFilesLabel": {
+      "message": "OneDrive에서"
+   },
+   "OneNoteAppName": {
+      "message": "OneNote"
+   },
+   "OneNoteOnlineAppName": {
+      "message": "OneNote"
+   },
+   "OpenDocumentLabel": {
+      "message": "열기"
+   },
+   "OutlookAppName": {
+      "message": "Outlook"
+   },
+   "PowerPointAppName": {
+      "message": "PowerPoint"
+   },
+   "PowerPointOnlineAppName": {
+      "message": "PowerPoint"
+   },
+   "RecentDocsLabel": {
+      "message": "문서"
+   },
+   "SettingsLabel": {
+      "message": "설정"
+   },
+   "ShareMessage": {
+      "message": "공유"
+   },
+   "SharePermissionsErrorMessage": {
+      "message": "사용 권한 필요"
+   },
+   "SharePermissionsTooltip": {
+      "message": "공유할 수 있는 권한이 없습니다."
+   },
+   "SharePointAppName": {
+      "message": "SharePoint"
+   },
+   "SharePointSiteAppName": {
+      "message": "SharePoint"
+   },
+   "SignInHeaderLabel": {
+      "message": "파일을 저장할 위치를 선택하세요."
+   },
+   "SignInLabel": {
+      "message": "로그인"
+   },
+   "SignInMSALabel": {
+      "message": "Microsoft 계정으로 로그인"
+   },
+   "SignInO365Label": {
+      "message": "회사 또는 학교 계정으로 로그인"
+   },
+   "SignOutLabel": {
+      "message": "로그아웃"
+   },
+   "StandaloneExtensionInstalledLabel": {
+      "message": "편집기 서비스는 Microsoft 편집기 확장에서 제공됩니다."
+   },
+   "SupportPageLabel": {
+      "message": "로그인 도움이 필요하신가요?"
+   },
+   "SwayAppName": {
+      "message": "Sway"
+   },
+   "TeamsAppName": {
+      "message": "Teams"
+   },
+   "TelemetrySettingLabel": {
+      "message": "자동으로 데이터를 보내도록 선택하면 제품 개선에 도움이 됩니다."
+   },
+   "TurnOnEditorLabel": {
+      "message": "편집기 켜기"
+   },
+   "UploadToOneDriveBusinessLabel": {
+      "message": "비즈니스용 OneDrive에 업로드"
+   },
+   "UploadToOneDriveLabel": {
+      "message": "OneDrive에 업로드"
+   },
+   "UsernameLabel": {
+      "message": "로그인되어 있지 않음"
+   },
+   "WebRedirectSettingLabel": {
+      "message": "Microsoft 365 사용하여 브라우저에서 직접 Microsoft 365 파일을 엽니다."
+   },
+   "WordAppName": {
+      "message": "Word"
+   },
+   "WordOnlineAppName": {
+      "message": "Word"
+   }
+}

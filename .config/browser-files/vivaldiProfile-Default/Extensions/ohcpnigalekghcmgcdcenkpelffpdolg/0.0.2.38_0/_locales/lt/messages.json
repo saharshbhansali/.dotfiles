@@ -1,0 +1,194 @@
+{
+   "EnableHSL": {
+      "message": "Rodyti HSL"
+   },
+   "EnableRGB": {
+      "message": "Rodyti RGB"
+   },
+   "addToPalette": {
+      "message": "Pridėti spalvų paletę"
+   },
+   "advancedOptions": {
+      "message": "Išplėstiniai nustatymai"
+   },
+   "allowWebGl": {
+      "message": "Leisti webgl peržiūrėti pikseliu"
+   },
+   "appleIcon": {
+      "message": "Naudoti Apple Digital Spalvų skaitiklio logotipas"
+   },
+   "approved": {
+      "message": "Patvirtintas"
+   },
+   "bbackgroundColor": {
+      "message": "Iššokančiojo fono spalva"
+   },
+   "bgPageUnavailable": {
+      "message": "Fono fotografija neatsako - atnaujinkite puslapį ir bandykite dar kartą."
+   },
+   "borderValue": {
+      "message": "Sienos naudoti (css vertė)"
+   },
+   "clear": {
+      "message": "Aišku"
+   },
+   "clearSync": {
+      "message": "Išvalyti sinchronizavimo saugyklą"
+   },
+   "closeAndExit": {
+      "message": "Uždaryti ir išeiti iš spalvų pasirinkimo režimo"
+   },
+   "colorOfDay": {
+      "message": "Dienos spalva"
+   },
+   "copycolorval": {
+      "message": "Nukopijuokite spalvos vertę"
+   },
+   "dblClick": {
+      "message": "Dukart spustelėkite"
+   },
+   "default": {
+      "message": "Numatytas"
+   },
+   "disablePickEveryTime": {
+      "message": "Nepradėkite rinkti kiekvieną kartą spustelėjus langelį"
+   },
+   "disableRewriting": {
+      "message": "Neleisti prisijungti prie nesusijusių nuorodų"
+   },
+   "error": {
+      "message": "Klaida"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "\"Google\" paskyros sinchronizavimo saugyklos nustatymai"
+   },
+   "fishEye": {
+      "message": "Žuvies akių mastelio suma"
+   },
+   "full": {
+      "message": "Pilnas"
+   },
+   "hasAgreedToLicense": {
+      "message": "Sutiko su naudojimo sąlygomis"
+   },
+   "help": {
+      "message": "Pagalba / informacija"
+   },
+   "hideMinimize": {
+      "message": "Paslėpti / sumažinti "
+   },
+   "history": {
+      "message": "Istorija"
+   },
+   "iconIsBitmap": {
+      "message": "Piktograma yra priartinta pikselių peržiūra"
+   },
+   "iconIsPreview": {
+      "message": "Naudokite piktogramos ženklo kvadratinės spalvos peržiūrą"
+   },
+   "loadsyncOptions": {
+      "message": "Sinchronizuoti saugojimo parinktys buvo įkeltos ir išsaugotos."
+   },
+   "maxZoom": {
+      "message": "Max didinamas"
+   },
+   "modifyLicense": {
+      "message": "Keisti licenciją"
+   },
+   "noSwatches": {
+      "message": "Spustelėkite spalvų istorijos spalvas, kad galėtumėte juos pridėti prie išsaugojimo ir spausdinimo paletės."
+   },
+   "off": {
+      "message": "Išjungti"
+   },
+   "options": {
+      "message": "Nustatymai"
+   },
+   "pickAgainLocked": {
+      "message": "Pasirinkti kitą spalvą [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Pasirinkite dabartinę spalvą [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Pradėkite rinkti spalvas kiekvieną kartą spustelėjus langą"
+   },
+   "pixelatedPreview": {
+      "message": "Priartinta peržiūra yra pikseliuojama"
+   },
+   "popOutWindow": {
+      "message": "Iššokantis langas (atskiras langas)"
+   },
+   "pressEnterToPick": {
+      "message": "Paspauskite klavišą įveskite spalvą"
+   },
+   "printSave": {
+      "message": "Spausdinti / išsaugoti..."
+   },
+   "reSnapPage": {
+      "message": "Atnaujinti puslapio paveikslėlį [r]"
+   },
+   "registerButton": {
+      "message": "Užsiregistruok"
+   },
+   "registered": {
+      "message": "Registruotas"
+   },
+   "resetIcon": {
+      "message": "Grįžti į įprastą piktogramą"
+   },
+   "rightClick": {
+      "message": "Dešiniuoju pelės mygtuku spustelėkite"
+   },
+   "saveOptions": {
+      "message": "Išsaugoti parinktis"
+   },
+   "savedoptions": {
+      "message": "Parinktys išsaugotos."
+   },
+   "seeTerms": {
+      "message": "Žr. naudojimo sąlygas"
+   },
+   "shareClors": {
+      "message": "Dienos statistikos spalva (žr. naudojimo sąlygas)"
+   },
+   "showColorChooser": {
+      "message": "Rodyti spalvų pasirinkimą"
+   },
+   "showDefaults": {
+      "message": "Parodyti numatytuosius nustatymus"
+   },
+   "showPreviousClr": {
+      "message": "Rodyti spalvotą peržiūra su ankstesne spalva"
+   },
+   "showndefaults": {
+      "message": "Spustelėkite išsaugoti, dabar rodomas numatytuosius nustatymus."
+   },
+   "sort": {
+      "message": "rūšiuoti"
+   },
+   "terms": {
+      "message": "Naudojimo sąlygos"
+   },
+   "unregistered": {
+      "message": "Neregistruotas"
+   },
+   "usageStatistics": {
+      "message": "Rinkti naudojimo statistiką (žr. naudojimo sąlygas)"
+   },
+   "useCSSValues": {
+      "message": "Naudoti css reikšmes RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Naudoti PNG kokybė, jei yra"
+   },
+   "usePrevColorBG": {
+      "message": "Naudoti ankstesnę fono spalvą"
+   }
+}

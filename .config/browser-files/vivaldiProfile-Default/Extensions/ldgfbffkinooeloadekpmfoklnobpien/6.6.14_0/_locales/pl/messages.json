@@ -1,0 +1,42 @@
+{
+   "appDesc": {
+      "description": "",
+      "message": "Uniwersalny menedżer zakładek"
+   },
+   "in": {
+      "description": "",
+      "message": "w"
+   },
+   "openRaindrop": {
+      "description": "",
+      "message": "Otwórz Raindrop.io web-strona"
+   },
+   "openSidePanel": {
+      "description": "",
+      "message": "Otwórz pasek boczny"
+   },
+   "saveHighlight": {
+      "description": "",
+      "message": "Zapisz wyróżnienia"
+   },
+   "saveImage": {
+      "description": "",
+      "message": "Zapisz obraz"
+   },
+   "saveLink": {
+      "description": "",
+      "message": "Zapisz odnośnik"
+   },
+   "savePage": {
+      "description": "",
+      "message": "Utwórz nowa zakładka"
+   },
+   "savePageOrHighlight": {
+      "description": "",
+      "message": "Nowa zakładka / Zapisz wyróżnienia"
+   },
+   "saveVideo": {
+      "description": "",
+      "message": "Zapisz film"
+   }
+}

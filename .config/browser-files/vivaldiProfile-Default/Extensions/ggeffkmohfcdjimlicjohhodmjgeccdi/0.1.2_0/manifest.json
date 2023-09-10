@@ -1,0 +1,41 @@
+{
+   "action": {
+      "default_title": "Open WhatsApp Web or focus an already opened one then lock it"
+   },
+   "background": {
+      "service_worker": "worker.js"
+   },
+   "commands": {
+      "_execute_action": {
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "/data/blocker/run.css" ],
+      "js": [ "/data/blocker/run.js" ],
+      "matches": [ "https://web.whatsapp.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Automatically lock WhatsApp Web after a period of time or by pressing the action button",
+   "differential_fingerprint": "1.0d562c1185b599f46322c7e07a44799ad9db17e74c9317f843f9e94b14c43923",
+   "homepage_url": "https://webextension.org/listing/password-lock-for-whatsapp.html",
+   "host_permissions": [ "https://web.whatsapp.com/*" ],
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "256": "data/icons/256.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "512": "data/icons/512.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApQrKzUmVACjM8J2oYxRvjw6kMxCZl7XBP4WguMh0rzLIFSSzXUR/TffcA1xYkJRGgiZ9nKka3SD80Oy1LfoqwiSUsK2vi88XYK3h6XTQP+ZmTDIHPGTG2v0at+iHywWZ43SXRwNP8psOS513ZqRVWy8MWUY3AlLu0dRWcJ62MQ5rhCPqwfVkBymBohMSjdK+nBLjw+cEp861PiUGHaxdl+//LJX0SvGqWrH26IDGpOeJ5RU0QYf4yiACgS/aN56SBpMunzeUpVuLYDC6MaxOxuaCxx0FtJ8fzo/cl/UpHDWd0F/0WMeYoGgekgOoH+x2Tqodv8+uxcDhS8FB1WSe1QIDAQAB",
+   "manifest_version": 3,
+   "name": "Password Lock for WhatsApp™ Web",
+   "permissions": [ "storage", "alarms", "idle" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.2",
+   "web_accessible_resources": [ {
+      "matches": [ "https://web.whatsapp.com/*" ],
+      "resources": [ "/data/lock/index.html" ]
+   } ]
+}

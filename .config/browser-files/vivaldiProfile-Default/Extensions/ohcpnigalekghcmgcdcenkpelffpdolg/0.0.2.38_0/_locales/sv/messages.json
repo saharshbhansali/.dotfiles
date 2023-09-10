@@ -1,0 +1,191 @@
+{
+   "addToPalette": {
+      "message": "Lägg till i färgpalett"
+   },
+   "advancedOptions": {
+      "message": "Avancerade alternativ"
+   },
+   "allowWebGl": {
+      "message": "Tillåta webgl för pixelated förhandsvisning"
+   },
+   "appleIcon": {
+      "message": "Använda sig av Apple Digital Färgmätare logotyp"
+   },
+   "approved": {
+      "message": "Godkänd"
+   },
+   "bbackgroundColor": {
+      "message": "Popup bakgrundsfärg"
+   },
+   "bgPageUnavailable": {
+      "message": "Bakgrundsbilden svarar inte - uppdatera sidan och försök igen."
+   },
+   "borderValue": {
+      "message": "Gränser att använda (css värde)"
+   },
+   "clear": {
+      "message": "Klar"
+   },
+   "clearSync": {
+      "message": "Rensa synkroniseringslagret"
+   },
+   "closeAndExit": {
+      "message": "Stäng och avsluta färgplockningsläge"
+   },
+   "colorOfDay": {
+      "message": "Dagens färg"
+   },
+   "copycolorval": {
+      "message": "Kopiera färgvärdet"
+   },
+   "dblClick": {
+      "message": "Dubbelklicka"
+   },
+   "dedupe": {
+      "message": "borttagningsfrekvens"
+   },
+   "default": {
+      "message": "Standard"
+   },
+   "disablePickEveryTime": {
+      "message": "Börja inte plocka varje gång popup klickas"
+   },
+   "disableRewriting": {
+      "message": "Inaktivera anslutning av icke-associerade länkar"
+   },
+   "error": {
+      "message": "Fel"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Hämta inställningar från synkroniseringslagret för Google-konto"
+   },
+   "fishEye": {
+      "message": "Fisk öga zoom mängd"
+   },
+   "hasAgreedToLicense": {
+      "message": "Har kommit överens om användarvillkor"
+   },
+   "help": {
+      "message": "Hjälp / info"
+   },
+   "hideMinimize": {
+      "message": "Dölja / minimera "
+   },
+   "history": {
+      "message": "Historia"
+   },
+   "iconIsBitmap": {
+      "message": "Ikonen är zoomad pixelförhandsgranskning"
+   },
+   "iconIsPreview": {
+      "message": "Använd ikon badge kvadrat färg förhandsgranskning"
+   },
+   "loadsyncOptions": {
+      "message": "Synkronisera lagringsalternativ har laddats och sparats."
+   },
+   "maxZoom": {
+      "message": "Max zoomat"
+   },
+   "modifyLicense": {
+      "message": "Ändra licens"
+   },
+   "noSwatches": {
+      "message": "Klicka på färger i färghistoriken för att lägga till dem i en palett för att spara och skriva ut."
+   },
+   "off": {
+      "message": "Av"
+   },
+   "on": {
+      "message": "På"
+   },
+   "options": {
+      "message": "Alternativ"
+   },
+   "pickAgainLocked": {
+      "message": "Välj en annan färg [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Välj nuvarande färg [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Börja plocka färger varje gång popup klickas"
+   },
+   "pixelatedPreview": {
+      "message": "Zoomförhandsgranskningen är pixelerad"
+   },
+   "popOutWindow": {
+      "message": "Pop-out (separat fönster)"
+   },
+   "pressEnterToPick": {
+      "message": "Tryck på enter för att välja färg"
+   },
+   "printSave": {
+      "message": "Skriv ut / spara..."
+   },
+   "reSnapPage": {
+      "message": "Uppdatera bilden av sidan [r]"
+   },
+   "registerButton": {
+      "message": "Registrera"
+   },
+   "registered": {
+      "message": "Registrerad"
+   },
+   "resetIcon": {
+      "message": "Återgå till normal ikon"
+   },
+   "rightClick": {
+      "message": "Högerklicka"
+   },
+   "saveOptions": {
+      "message": "Spara alternativ"
+   },
+   "savedoptions": {
+      "message": "Alternativ sparade."
+   },
+   "seeTerms": {
+      "message": "Se användarvillkor"
+   },
+   "shareClors": {
+      "message": "Dagstatistikens färg (se användarvillkor)"
+   },
+   "showColorChooser": {
+      "message": "Visa färgväljaren"
+   },
+   "showDefaults": {
+      "message": "Visa standardvärden"
+   },
+   "showPreviousClr": {
+      "message": "Visa delad färgförhandsgranskning med tidigare färg"
+   },
+   "showndefaults": {
+      "message": "Vänligen tryck på spara, nu visar standardvärdena."
+   },
+   "sort": {
+      "message": "sortera"
+   },
+   "terms": {
+      "message": "Villkor"
+   },
+   "unregistered": {
+      "message": "Oregistrerad"
+   },
+   "usageStatistics": {
+      "message": "Samla användarstatistik (se användarvillkor)"
+   },
+   "useCSSValues": {
+      "message": "Använd css värden för RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Använda sig av PNG kvalitet när det är tillgängligt"
+   },
+   "usePrevColorBG": {
+      "message": "Använd tidigare färg för bakgrund"
+   }
+}

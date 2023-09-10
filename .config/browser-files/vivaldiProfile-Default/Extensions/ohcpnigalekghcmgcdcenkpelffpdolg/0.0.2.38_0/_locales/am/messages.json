@@ -1,0 +1,197 @@
+{
+   "EnableHSL": {
+      "message": "አሳይ HSL"
+   },
+   "EnableRGB": {
+      "message": "አሳይ RGB"
+   },
+   "addToPalette": {
+      "message": "ወደ የቀለም ቤተ-ስዕል ጨምር"
+   },
+   "advancedOptions": {
+      "message": "የላቁ አማራጮች"
+   },
+   "appleIcon": {
+      "message": "መጠቀም Apple Digital የቀለም ምልክት ምልክት"
+   },
+   "approved": {
+      "message": "ጸድቋል"
+   },
+   "bbackgroundColor": {
+      "message": "ብቅ ባይ መነሻ ቀለም"
+   },
+   "bgPageUnavailable": {
+      "message": "የጀርባ ቅፅበታዊ እይታ ምላሽ የማይሰጡ - እባክህ ገጹን አድስ እና እንደገና ሞክር."
+   },
+   "borderValue": {
+      "message": "ጥቅም ላይ የሚውሉ ክፈፎች (የሲኤስ እሴት)"
+   },
+   "clear": {
+      "message": "ግልፅ"
+   },
+   "clearSync": {
+      "message": "የማመሳሰል ማከማቻን አጽዳ"
+   },
+   "closeAndExit": {
+      "message": "ከቅጥ አማራጮች ሁነታ ዝጋ እና መውጣት"
+   },
+   "colorOfDay": {
+      "message": "የቀኑን ቀለም"
+   },
+   "copycolorval": {
+      "message": "የቀለም እሴት ቅዳ"
+   },
+   "dblClick": {
+      "message": "ድርብ ጠቅ ያድርጉ"
+   },
+   "dedupe": {
+      "message": "የተቆረጠ"
+   },
+   "default": {
+      "message": "ነባሪ"
+   },
+   "disablePickEveryTime": {
+      "message": "እያንዳንዱ ጊዜ ብቅ ባይ መጫን አይጀምርም"
+   },
+   "disableRewriting": {
+      "message": "የሽያጭ አጋሮች አገናኞችን ማሰናከል"
+   },
+   "error": {
+      "message": "ስህተት"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "ቅንብሮችን ከ Google መለያ ማመሳሰል ማከማቻ ላይ አውጣ"
+   },
+   "fishEye": {
+      "message": "የዓሣ ማጥመጃ መጠን"
+   },
+   "full": {
+      "message": "ሙሉ"
+   },
+   "hasAgreedToLicense": {
+      "message": "ለአጠቃቀም አንቀፆች ተስማምተዋል"
+   },
+   "help": {
+      "message": "እገዛ / መረጃ"
+   },
+   "hideMinimize": {
+      "message": "ደብቅ / አሳንስ "
+   },
+   "history": {
+      "message": "ታሪክ"
+   },
+   "iconIsBitmap": {
+      "message": "አዶ ምስሉ የፒክሰል ቅድመ-እይታ አጉልቷል"
+   },
+   "iconIsPreview": {
+      "message": "የመለያ ባጅ ካሬ ቀለም ቅድመ-እይታን ይጠቀሙ"
+   },
+   "loadsyncOptions": {
+      "message": "የማመሳሰል አማራጮች ተጭነው ተቀምጠዋል."
+   },
+   "maxZoom": {
+      "message": "ከፍተኛ አጉላ"
+   },
+   "modifyLicense": {
+      "message": "ፍቃድ ቀይር"
+   },
+   "noSwatches": {
+      "message": "በቀለም ቀለም ውስጥ ቀለሞችን ለማስቀመጥ እና ለማተም ወደ ቤተ-ስዕላት ያክሏቸው."
+   },
+   "off": {
+      "message": "ጠፍቷል"
+   },
+   "on": {
+      "message": "በ"
+   },
+   "options": {
+      "message": "አማራጮች"
+   },
+   "pickAgainLocked": {
+      "message": "ሌላ ቀለም ይምረጡ [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "የአሁኑን ቀመር ይምረጡ [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "በእያንዳንዱ ጊዜ ብቅ ባይ ጠቅላላ ቀለሞችን ለመምረጥ ይጀምሩ"
+   },
+   "pixelatedPreview": {
+      "message": "የጎለበ ቅድመ-ዕይታ በፒክሰል የተሰራ ነው"
+   },
+   "popOutWindow": {
+      "message": "ብቅ-ባይ (የተለየ መስኮት)"
+   },
+   "pressEnterToPick": {
+      "message": "ቀለም ለመምረጥ አስገባን ይጫኑ"
+   },
+   "printSave": {
+      "message": "ማተም / ማስቀመጥ..."
+   },
+   "reSnapPage": {
+      "message": "የገጹን ፎቶን አድስ [r]"
+   },
+   "registerButton": {
+      "message": "መዝግብ"
+   },
+   "registered": {
+      "message": "የተመዘገበ"
+   },
+   "resetIcon": {
+      "message": "ወደ መደበኛ አዶ ይመልሱ"
+   },
+   "rightClick": {
+      "message": "በቀኝ ጠቅታ"
+   },
+   "saveOptions": {
+      "message": "የማስቀመጫ አማራጮች"
+   },
+   "savedoptions": {
+      "message": "አማራጮች ተቀምጠዋል."
+   },
+   "seeTerms": {
+      "message": "የአጠቃቀም ውል ይመልከቱ"
+   },
+   "shareClors": {
+      "message": "የዘመኑ ስታትስቲክስ ቀለሞች (የአጠቃቀም ደንቦችን ይመልከቱ)"
+   },
+   "showColorChooser": {
+      "message": "ቀለም መራጭ አሳይ"
+   },
+   "showDefaults": {
+      "message": "ነባሪዎችን አሳይ"
+   },
+   "showPreviousClr": {
+      "message": "በቀዳሚው ቀለም የተለያየ ቀለም ቅድመ እይታ አሳይ"
+   },
+   "showndefaults": {
+      "message": "እባክዎ አስቀምጥ ን, አሁን ነባሪዎችን አሳይ."
+   },
+   "sort": {
+      "message": "ተራ"
+   },
+   "terms": {
+      "message": "የአጠቃቀም መመሪያ"
+   },
+   "unregistered": {
+      "message": "ያልተመዘገበ"
+   },
+   "usageStatistics": {
+      "message": "የአጠቃቀም ስታቲክሶችን (የአጠቃቀም ደንቦችን ይመልከቱ)"
+   },
+   "useCSSValues": {
+      "message": "ለ css እሴቶች ተጠቀም RGB/HSL"
+   },
+   "usePNG": {
+      "message": "መጠቀም PNG ጥራት በሚኖርበት ጊዜ"
+   },
+   "usePrevColorBG": {
+      "message": "ቀዳሚውን ቀለም ለጀርባ ተጠቀም"
+   }
+}

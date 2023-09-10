@@ -1,0 +1,7 @@
+2023/08/21-18:45:34.304 347160 Creating DB /home/saharsh/.config/vivaldi/Default/IndexedDB/https_learn.deeplearning.ai_0.indexeddb.leveldb since it was missing.
+2023/08/21-18:45:34.620 347160 Reusing MANIFEST /home/saharsh/.config/vivaldi/Default/IndexedDB/https_learn.deeplearning.ai_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/21-18:45:35.185 347163 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/21-19:42:18.956 347161 Level-0 table #5: started
+2023/08/21-19:42:19.066 347161 Level-0 table #5: 3509 bytes OK
+2023/08/21-19:42:19.282 347161 Delete type=0 #3
+2023/08/21-19:42:19.282 347161 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

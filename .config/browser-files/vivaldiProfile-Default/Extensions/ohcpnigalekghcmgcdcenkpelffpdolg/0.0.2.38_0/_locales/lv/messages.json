@@ -1,0 +1,194 @@
+{
+   "EnableHSL": {
+      "message": "Parādīt HSL"
+   },
+   "EnableRGB": {
+      "message": "Parādīt RGB"
+   },
+   "addToPalette": {
+      "message": "Pievienot krāsu paleti"
+   },
+   "advancedOptions": {
+      "message": "Pielāgota opcija"
+   },
+   "allowWebGl": {
+      "message": "Atļaut webglam pikselētam priekšskatījumam"
+   },
+   "appleIcon": {
+      "message": "Izmantot Apple Digital Krāsu metru logotips"
+   },
+   "approved": {
+      "message": "Apstiprināts"
+   },
+   "bbackgroundColor": {
+      "message": "Uznirstošās fona krāsa"
+   },
+   "bgPageUnavailable": {
+      "message": "Fona momentuzņēmums neatbild - lūdzu, atsvaidziniet lapu un mēģiniet vēlreiz."
+   },
+   "borderValue": {
+      "message": "Robežas izmantot (css vērtība)"
+   },
+   "clear": {
+      "message": "Skaidrs"
+   },
+   "clearSync": {
+      "message": "Dzēst sinhronizācijas krātuvi"
+   },
+   "closeAndExit": {
+      "message": "Aizveriet un izejiet no krāsu izvēles režīma"
+   },
+   "colorOfDay": {
+      "message": "Dienas krāsa"
+   },
+   "copycolorval": {
+      "message": "Nokopējiet krāsu vērtību"
+   },
+   "dblClick": {
+      "message": "Dubultklikšķi"
+   },
+   "default": {
+      "message": "Noklusējums"
+   },
+   "disablePickEveryTime": {
+      "message": "Nesāciet katru reizi, kad tiek uzklikšķināts uznirstošais logs"
+   },
+   "disableRewriting": {
+      "message": "Atspējot saistītu saišu saistību"
+   },
+   "error": {
+      "message": "Kļūda"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Iegūstiet iestatījumus no Google konta sinhronizācijas krātuves"
+   },
+   "fishEye": {
+      "message": "Zivju acs palielinājuma summa"
+   },
+   "full": {
+      "message": "Pilna"
+   },
+   "hasAgreedToLicense": {
+      "message": "Ir piekritis lietošanas noteikumiem"
+   },
+   "help": {
+      "message": "Help / info"
+   },
+   "hideMinimize": {
+      "message": "Paslēpt / samazināt "
+   },
+   "history": {
+      "message": "Vēsture"
+   },
+   "iconIsBitmap": {
+      "message": "Ikona ir pietuvināta piksela priekšskatījums"
+   },
+   "iconIsPreview": {
+      "message": "Izmantojiet ikonu simbolu kvadrātveida priekšskatījumu"
+   },
+   "loadsyncOptions": {
+      "message": "Sinhronizācijas saglabāšanas iespējas ir ielādētas un saglabātas."
+   },
+   "maxZoom": {
+      "message": "Max pietuvināts"
+   },
+   "modifyLicense": {
+      "message": "Modificēt licenci"
+   },
+   "noSwatches": {
+      "message": "Krāsu vēsturē noklikšķiniet uz krāsām, lai tos saglabātu un izdrukātu paletē."
+   },
+   "on": {
+      "message": "Uz"
+   },
+   "options": {
+      "message": "Iespējas"
+   },
+   "pickAgainLocked": {
+      "message": "Izvēlies citu krāsu [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Izvēlieties pašreizējo krāsu [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Sākt krāsas krāsas katru reizi, kad tiek uzklikšķināts uznirstošais logs"
+   },
+   "pixelatedPreview": {
+      "message": "Pietuvināts priekšskatījums ir pixelated"
+   },
+   "popOutWindow": {
+      "message": "Pop-out (atsevišķs logs)"
+   },
+   "pressEnterToPick": {
+      "message": "Nospiediet enter, lai izvēlētos krāsu"
+   },
+   "printSave": {
+      "message": "Drukāt / saglabāt..."
+   },
+   "reSnapPage": {
+      "message": "Atsvaidzināt lapas attēlu [r]"
+   },
+   "registerButton": {
+      "message": "Reģistrēties"
+   },
+   "registered": {
+      "message": "Reģistrēts"
+   },
+   "resetIcon": {
+      "message": "Atgriezties normālā ikonā"
+   },
+   "rightClick": {
+      "message": "Labo klikšķi"
+   },
+   "saveOptions": {
+      "message": "Saglabāt iespējas"
+   },
+   "savedoptions": {
+      "message": "Iespējas saglabātas."
+   },
+   "seeTerms": {
+      "message": "Skatiet lietošanas noteikumus"
+   },
+   "shareClors": {
+      "message": "Dienas statistikas krāsa (skatiet lietošanas noteikumus)"
+   },
+   "showColorChooser": {
+      "message": "Parādīt krāsu izvēli"
+   },
+   "showDefaults": {
+      "message": "Parādīt noklusējumus"
+   },
+   "showPreviousClr": {
+      "message": "Parādīt sadalītas krāsas priekšskatījumu ar iepriekšējo krāsu"
+   },
+   "showndefaults": {
+      "message": "Lūdzu, nospiediet Saglabāt, tagad parādot noklusējumus."
+   },
+   "sort": {
+      "message": "kārtot"
+   },
+   "terms": {
+      "message": "Lietošanas noteikumi"
+   },
+   "unregistered": {
+      "message": "Nereģistrēts"
+   },
+   "usageStatistics": {
+      "message": "Apkopot lietošanas statistiku (skatiet lietošanas noteikumus)"
+   },
+   "useCSSValues": {
+      "message": "Izmantojiet CSS vērtības RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Izmantot PNG kvalitāte, ja tā ir pieejama"
+   },
+   "usePrevColorBG": {
+      "message": "Izmantojiet iepriekšējo fonu fonam"
+   }
+}

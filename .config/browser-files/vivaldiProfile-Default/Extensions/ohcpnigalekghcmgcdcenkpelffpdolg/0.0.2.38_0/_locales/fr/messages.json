@@ -1,0 +1,197 @@
+{
+   "EnableHSL": {
+      "message": "Montrer HSL"
+   },
+   "EnableRGB": {
+      "message": "Montrer RGB"
+   },
+   "addToPalette": {
+      "message": "Ajouter à la palette de couleurs"
+   },
+   "advancedOptions": {
+      "message": "Options avancées"
+   },
+   "allowWebGl": {
+      "message": "Autoriser webgl pour l'aperçu pixélisé"
+   },
+   "appleIcon": {
+      "message": "Utilisation Apple Digital Logo du mètre de couleur"
+   },
+   "approved": {
+      "message": "Approuvé"
+   },
+   "bbackgroundColor": {
+      "message": "Couleur d'arrière-plan popup"
+   },
+   "bgPageUnavailable": {
+      "message": "L'instantané d'arrière-plan ne répond pas - veuillez actualiser la page et réessayer."
+   },
+   "borderValue": {
+      "message": "Frontières à utiliser (valeur CSS)"
+   },
+   "clear": {
+      "message": "Clair"
+   },
+   "clearSync": {
+      "message": "Effacer le stockage de synchronisation"
+   },
+   "closeAndExit": {
+      "message": "Fermer et quitter le mode de sélection des couleurs"
+   },
+   "colorOfDay": {
+      "message": "Couleur de la journée"
+   },
+   "copycolorval": {
+      "message": "Copier la valeur de la couleur"
+   },
+   "dblClick": {
+      "message": "Double clic"
+   },
+   "dedupe": {
+      "message": "déduplication"
+   },
+   "default": {
+      "message": "Défaut"
+   },
+   "disablePickEveryTime": {
+      "message": "Ne commence pas à choisir chaque fois que l'on clique sur la fenêtre contextuelle"
+   },
+   "disableRewriting": {
+      "message": "Désactiver l'affiliation des liens non affiliés"
+   },
+   "error": {
+      "message": "Erreur"
+   },
+   "extDescription": {
+      "message": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+   },
+   "extName": {
+      "message": "ColorPick Eyedropper"
+   },
+   "fetchSync": {
+      "message": "Récupérer les paramètres depuis le stockage de synchronisation Google"
+   },
+   "fishEye": {
+      "message": "Quantité de zoom des yeux de poisson"
+   },
+   "full": {
+      "message": "Plein"
+   },
+   "hasAgreedToLicense": {
+      "message": "A accepté les conditions d'utilisation"
+   },
+   "help": {
+      "message": "Aide / info"
+   },
+   "hideMinimize": {
+      "message": "Cacher / minimiser "
+   },
+   "history": {
+      "message": "Histoire"
+   },
+   "iconIsBitmap": {
+      "message": "L'icône est zoomée"
+   },
+   "iconIsPreview": {
+      "message": "Utiliser l'icône badge square color preview"
+   },
+   "loadsyncOptions": {
+      "message": "Les options de stockage de synchronisation ont été chargées et enregistrées."
+   },
+   "maxZoom": {
+      "message": "Max zoomé"
+   },
+   "modifyLicense": {
+      "message": "Modifier la licence"
+   },
+   "noSwatches": {
+      "message": "Cliquez sur les couleurs de l'historique des couleurs pour les ajouter à une palette afin de les enregistrer et de les imprimer."
+   },
+   "off": {
+      "message": "De"
+   },
+   "on": {
+      "message": "Sur"
+   },
+   "pickAgainLocked": {
+      "message": "Choisir une autre couleur [Enter]"
+   },
+   "pickAgainUnlocked": {
+      "message": "Sélectionnez la couleur actuelle [Enter]"
+   },
+   "pickEveryTime": {
+      "message": "Commence à cueillir les couleurs chaque fois que l'on clique sur la fenêtre contextuelle"
+   },
+   "pixelatedPreview": {
+      "message": "L'aperçu zoomé est pixélisé"
+   },
+   "popOutWindow": {
+      "message": "Pop-out (fenêtre séparée)"
+   },
+   "pressEnterToPick": {
+      "message": "Appuyez sur Entrée pour choisir la couleur"
+   },
+   "printSave": {
+      "message": "Imprimer / enregistrer..."
+   },
+   "reSnapPage": {
+      "message": "Actualiser l'image de la page [r]"
+   },
+   "registerButton": {
+      "message": "Registre"
+   },
+   "registered": {
+      "message": "Inscrit"
+   },
+   "resetIcon": {
+      "message": "Revenir à l'icône normale"
+   },
+   "rightClick": {
+      "message": "Clic-droit"
+   },
+   "saveOptions": {
+      "message": "Enregistrer les options"
+   },
+   "savedoptions": {
+      "message": "Options sauvegardées."
+   },
+   "seeTerms": {
+      "message": "Voir les conditions d'utilisation"
+   },
+   "shareClors": {
+      "message": "Couleur de la journée (voir les conditions d'utilisation)"
+   },
+   "showColorChooser": {
+      "message": "Afficher le sélecteur de couleurs"
+   },
+   "showDefaults": {
+      "message": "Afficher les valeurs par défaut"
+   },
+   "showPreviousClr": {
+      "message": "Afficher l'aperçu couleur fractionné avec la couleur précédente"
+   },
+   "showndefaults": {
+      "message": "S'il vous plaît appuyez sur Enregistrer, montrant maintenant les valeurs par défaut."
+   },
+   "sort": {
+      "message": "trier"
+   },
+   "terms": {
+      "message": "Conditions d'utilisation"
+   },
+   "unregistered": {
+      "message": "Non enregistré"
+   },
+   "usageStatistics": {
+      "message": "Recueillir des statistiques d'utilisation (voir conditions d'utilisation)"
+   },
+   "useCSSValues": {
+      "message": "Utiliser les valeurs CSS pour RGB/HSL"
+   },
+   "usePNG": {
+      "message": "Utilisation PNG qualité quand disponible"
+   },
+   "usePrevColorBG": {
+      "message": "Utiliser la couleur précédente pour le fond"
+   }
+}

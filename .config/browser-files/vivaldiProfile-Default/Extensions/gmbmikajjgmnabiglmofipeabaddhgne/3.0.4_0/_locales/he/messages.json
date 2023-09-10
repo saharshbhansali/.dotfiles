@@ -1,0 +1,335 @@
+{
+   "account": {
+      "message": "חשבון"
+   },
+   "apply": {
+      "message": "אישור"
+   },
+   "audio_default_filename": {
+      "message": "קובץ אודיו ללא כותרת"
+   },
+   "authorization_needed": {
+      "message": "עליך לאשר את שמירה ב-Google Drive."
+   },
+   "automatically_open_file": {
+      "message": "פתיחה אוטומטית של הקובץ השמור"
+   },
+   "cancel": {
+      "message": "ביטול"
+   },
+   "cannot_capture_chrome": {
+      "message": "לא ניתן לצלם תמונת מסך בדפי Chrome. יש לנסות בדף אינטרנט רגיל."
+   },
+   "change_dest_folder": {
+      "message": "שינוי של תיקיית היעד..."
+   },
+   "chrome_extension_name": {
+      "message": "שמירה ב-Google Drive"
+   },
+   "close": {
+      "message": "סגירה"
+   },
+   "convert_to_google_format": {
+      "message": "המרת קישור שנשמר לפורמט עורך Google"
+   },
+   "debug": {
+      "message": "ניפוי באגים"
+   },
+   "default_acl_domain": {
+      "message": "ברירת המחדל של הדומיין"
+   },
+   "default_acl_none": {
+      "message": "רשימה פרטית עבורי"
+   },
+   "default_acl_text": {
+      "message": "רשימה של בקרת גישה (ACL) המוגדרת כברירת מחדל"
+   },
+   "default_filename": {
+      "message": "ללא כותרת"
+   },
+   "download_canceled": {
+      "message": "ההורדה בוטלה."
+   },
+   "download_failure": {
+      "message": "כשל בהורדה: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "כשל בהורדה: לא התקבלו נתונים."
+   },
+   "download_failure_too_big_mb": {
+      "message": "כישלון בהורדה: המקור גדול מדי ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "המערכת מורידה את $1…",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_request_failed": {
+      "message": "בקשת ההורדה נכשלה"
+   },
+   "download_unknown_name": {
+      "message": "ההורדה בתהליך…"
+   },
+   "empty_page_capture": {
+      "message": "לא ניתן לצלם את תוכן הדף כ-MHTML."
+   },
+   "enable_file_url": {
+      "message": "כתובות אתרים של קבצים חייבות להיות מופעלות עם האפשרות \"הרשה גישה לכתובות אתרים של קבצים\", בדף ההגדרות של תוספים."
+   },
+   "ext_description": {
+      "message": "שמירת תוכן מהאינטרנט או צילום מסך ישירות ב-Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "לא ניתן היה לצלם את התוכן של הדף כ-MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": " שליחת משוב (הפנימי בלבד)"
+   },
+   "file_bug_internal": {
+      "message": "דיווח על באג (פנימי בלבד)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> נשמר בתיקייה \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">שינוי\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> הועבר לאשפה. יש לעבור אל \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "עזרה"
+   },
+   "html_default_filename": {
+      "message": "HTML ללא כותרת"
+   },
+   "image_capture_failed": {
+      "message": "צילום התמונה נכשל."
+   },
+   "image_capture_failed_reason": {
+      "message": "צילום התמונה נכשל $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "תמונה ללא כותרת"
+   },
+   "invalid_url": {
+      "message": "כתובת אתר לא חוקית: $1. כתובות אתרים שהורדו חייבות להתחיל ב-http://, https:// או file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "דף ללא כותרת Capture.mht"
+   },
+   "misc": {
+      "message": "שונות"
+   },
+   "my_drive": {
+      "message": "האחסון שלי"
+   },
+   "options_header_text": {
+      "message": "אופציות לתוספים עבור שמירה ב-Google Drive"
+   },
+   "options_title": {
+      "message": "אפשרויות שמירה ב-Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "גודל הדף אינו נתמך: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF ללא כותרת"
+   },
+   "percent": {
+      "message": "$1% בוצע",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "printer_name": {
+      "message": "שמירה ב-Google Drive"
+   },
+   "privacy": {
+      "message": "פרטיות"
+   },
+   "rename": {
+      "message": "שינוי שם"
+   },
+   "rename_prompt": {
+      "message": "שינוי שם:"
+   },
+   "save_as_html": {
+      "message": "מקור HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "מסמך Google"
+   },
+   "save_as_image_entire": {
+      "message": "תמונה של כל הדף (png.)"
+   },
+   "save_as_image_select": {
+      "message": "בחירת אזור לשמירה (png.)"
+   },
+   "save_as_image_select_failed": {
+      "message": "הניסיון לצלם את המסך נכשל. אם הבעיה נמשכת, אפשר לנקות 'קובצי Cookie ונתונים אחרים של יישומי פלאגין ואתרים' (Ctrl+Shift+Delete) ואולי כך הבעיה תיפתר."
+   },
+   "save_as_image_visible": {
+      "message": "תמונה של הדף המוצג (png.)"
+   },
+   "save_as_mhtml": {
+      "message": "ארכיון אינטרנט (.mht)"
+   },
+   "save_audio": {
+      "message": "שמירת מוזיקה ל-Google Drive"
+   },
+   "save_image": {
+      "message": "שמירת התמונה ל-Google Drive"
+   },
+   "save_link": {
+      "message": "שמירת קישור ל-Google Drive"
+   },
+   "save_page_as": {
+      "message": "שמירת הדף כ:"
+   },
+   "save_to_folder_text": {
+      "message": "שמירה בתיקייה"
+   },
+   "save_to_google_drive_action": {
+      "message": "שמירה ל-Google Drive"
+   },
+   "save_video": {
+      "message": "שמירת סרטון ל-Google Drive"
+   },
+   "saving": {
+      "message": "המערכת שומרת את הקובץ $1 כאן: Google Drive…",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "בחירת תיקיית יעד לשמירה"
+   },
+   "send_feedback": {
+      "message": " שליחת משוב"
+   },
+   "sign_out": {
+      "message": "יציאה"
+   },
+   "start_download_exception": {
+      "message": "כשל בהתחלת ההורדה: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "טקסט ללא כותרת"
+   },
+   "trash": {
+      "message": "פח אשפה"
+   },
+   "unspecified_error": {
+      "message": "שגיאה ללא ציון סוג"
+   },
+   "upload_canceled": {
+      "message": "ההעלאה בוטלה"
+   },
+   "upload_failure": {
+      "message": "ההעלאה נכשלה: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "המערכת מעלה את הקובץ $1 אל Google Drive…",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">יש לפתוח את הקישור\u003C/a> ולשמור את הדף באמצעות הלחצן שמירה ל-Google Drive שמשמאל לשורת הכתובת.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "זהו קישור לדף אינטרנט"
+   },
+   "video_default_filename": {
+      "message": "וידאו ללא כותרת"
+   },
+   "xml_default_filename": {
+      "message": "XML ללא כותרת"
+   }
+}
