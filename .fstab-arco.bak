@@ -1,0 +1,25 @@
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a device; this may
+# be used with UUID= as a more robust way to name devices that works even if
+# disks are added and removed. See fstab(5).
+#
+# <file system>             <mount point>  <type>  <options>  <dump>  <pass>
+UUID=3336-BA3F                            /boot/efi      vfat    defaults,noatime 0 2
+UUID=2997501d-8f40-4923-a083-4e24da4c1af4 /              btrfs   subvol=/@,defaults,noatime,compress=zstd 0 0
+UUID=2997501d-8f40-4923-a083-4e24da4c1af4 /root          btrfs   subvol=/@root,defaults,noatime,compress=zstd 0 0
+UUID=2997501d-8f40-4923-a083-4e24da4c1af4 /srv           btrfs   subvol=/@srv,defaults,noatime,compress=zstd 0 0
+UUID=2997501d-8f40-4923-a083-4e24da4c1af4 /var/cache     btrfs   subvol=/@cache,defaults,noatime,compress=zstd 0 0
+UUID=2997501d-8f40-4923-a083-4e24da4c1af4 /var/log       btrfs   subvol=/@log,defaults,noatime,compress=zstd 0 0
+UUID=2997501d-8f40-4923-a083-4e24da4c1af4 /var/tmp       btrfs   subvol=/@tmp,defaults,noatime,compress=zstd 0 0
+# Old (Default) /home config
+## UUID=e0572b63-98b6-41c9-a596-85d45a55ec1e /home          btrfs   defaults,noatime,compress=zstd 0 0
+# Restoring /home from fedora
+UUID=e0572b63-98b6-41c9-a596-85d45a55ec1e /home          btrfs   subvol=home,defaults,noatime,compress=zstd 0 0
+tmpfs                                     /tmp           tmpfs   defaults,noatime,mode=1777 0 0
+
+## Custom Mounting and Binding points
+UUID=2c013b70-8636-4b0c-824f-47cee3521721   /user/lfs    btrfs    users                        0 0 
+UUID=ab314217-2ceb-45cb-bdea-2c98961b9367   /user/data    btrfs    users                        0 0 
+
+
