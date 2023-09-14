@@ -1,12 +1,20 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#PEH  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.5,
@@ -17,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 0.8025,
   "linkDistance": 290,
-  "scale": 0.30338787002211043,
+  "scale": 0.18623071565812055,
   "close": true
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#b03ee5",
     "recentlyUsedIcons": [
-      "SiLinkedin",
-      "IbWebsiteWithText",
-      "IbEmail",
-      "LiPaperclip",
-      "TiCheckbox"
+      "SiTorbrowser",
+      "TiSql",
+      "FasBoxArchive",
+      "TiChecklist",
+      "RiScan2Line"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -57,13 +57,9 @@
     "iconName": "LiPaperclip",
     "inheritanceIcon": "LiImage"
   },
-  "PEH/Stages/Passive Reconnaissance": "IbEye",
   "PEH/Stages/Google Dorking.md": "SiGoogle",
   "PEH/Stages/Password.md": "RiLockPasswordLine",
-  "PEH/Stages/Reconnaissance.md": "IbSearch",
-  "PEH/Stages/Scanning and Enumeration.md": "TiScan",
   "PEH/Stages/Web App.md": "SiFirefoxbrowser",
-  "PEH/Stages/Burp Suite.md": "RiSuitcaseLine",
   "Calendar Notes/Events": {
     "iconName": "TiCheckbox",
     "inheritanceIcon": "RiCheckboxBlankLine"
@@ -82,7 +78,25 @@
   },
   "Calendar Notes/Calendar Notes.md": "LiList",
   "PEH/Practical Ethical Hacking.md": "FasHatCowboy",
-  "PEH/Stages/Passive Reconnaissance/Email.md": "IbEmail",
-  "PEH/Stages/Passive Reconnaissance/Subdomain.md": "IbWebsiteWithText",
-  "PEH/Stages/Passive Reconnaissance/Social Media.md": "SiLinkedin"
+  "PEH/Labs/Kioptrix.md": "TiFlask",
+  "PEH/Labs": {
+    "iconName": "RiFlaskFill",
+    "inheritanceIcon": "TiFlask"
+  },
+  "PEH/Tools": "FasToolbox",
+  "PEH/Tools/Network Mapper.md": "LiMap",
+  "PEH/Tools/Metasploit.md": "TiBomb",
+  "PEH/Tools/Burp Suite.md": "RiSuitcaseLine",
+  "PEH/Stages/Reconnaissance": "IbEye",
+  "PEH/Stages/Reconnaissance/Email.md": "IbEmail",
+  "PEH/Stages/Reconnaissance/Social Media.md": "SiLinkedin",
+  "PEH/Stages/Reconnaissance/Subdomain.md": "IbWebsiteWithText",
+  "PEH/Stages/Reconnaissance/Reconnaissance.md": "IbSearch",
+  "PEH/Stages/Scanning and Enumeration": "RiScan2Line",
+  "PEH/Stages/Scanning and Enumeration/Scanning and Enumeration.md": "TiScan",
+  "ToReview": "TiChecklist",
+  "PEH/CyberSecResources.md": "FasBoxArchive",
+  "PEH/SQLiMethodology.md": "TiSql",
+  "ToReview/TorResources.md": "SiTorbrowser",
+  "PEH/Stages/Reconnaissance/Research.md": "TiReportSearch"
 }

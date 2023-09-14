@@ -13,7 +13,6 @@
   "better-word-count",
   "obsidian-tasks-plugin",
   "numerals",
-  "obsidian-git",
   "obsidian-linter",
   "various-complements",
   "obsidian-minimal-settings",
@@ -26,5 +25,10 @@
   "calendar",
   "obsidian-icon-folder",
   "obsidian-annotator",
-  "obsidian-day-planner"
+  "obsidian-day-planner",
+  "cm-editor-syntax-highlight-obsidian",
+  "quick-latex",
+  "obsidian-git",
+  "obsidian-leaflet-plugin",
+  "obsidian-markmind"
 ]

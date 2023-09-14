@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cabf20e9fbdda36c",
+        "id": "8dd67ec6aa97adf2",
         "type": "tabs",
         "children": [
           {
-            "id": "a8a3b696f5b70937",
+            "id": "0039d247c2cd51d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PEH/Stages/Kioptrix.md",
+                "file": "PEH/Ethical Hacking Methodology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,6 +33,7 @@
       {
         "id": "305528e159fb1e53",
         "type": "tabs",
+        "dimension": 58.38095238095238,
         "children": [
           {
             "id": "82ab99fcf0deaa36",
@@ -80,6 +81,7 @@
       {
         "id": "cb4204fffee489ff",
         "type": "tabs",
+        "dimension": 41.61904761904761,
         "children": [
           {
             "id": "00b4d8b1faf86572",
@@ -95,9 +97,8 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PEH/Stages/Kioptrix.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -106,10 +107,10 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -124,12 +125,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 363.5
   },
   "right": {
     "id": "52615aa30e1fecbd",
@@ -153,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PEH/Stages/Kioptrix.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +162,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PEH/Stages/Kioptrix.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +196,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PEH/Stages/Kioptrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +212,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PEH/Stages/Kioptrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,6 +223,16 @@
             "state": {
               "type": "empty",
               "state": {}
+            }
+          },
+          {
+            "id": "54060ec4c3445305",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -243,7 +248,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PEH/Stages/Kioptrix.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -278,7 +282,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PEH/Stages/Kioptrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +298,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PEH/Stages/Kioptrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,9 +308,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PEH/Stages/Kioptrix.md"
-              }
+              "state": {}
             }
           },
           {
@@ -340,8 +340,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -363,46 +362,51 @@
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
       "obsidian-day-planner:Week plan": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "a8a3b696f5b70937",
+  "active": "00b4d8b1faf86572",
   "lastOpenFiles": [
+    "PEH/Ethical Hacking Methodology.md",
+    "PEH/Practical Ethical Hacking.md",
+    "temp.md",
+    "README.md",
+    "PEH/Stages/Reconnaissance/Research.md",
+    "Markdown Formatting Guide.md",
+    "PEH/Note Taking.md",
+    "PEH/CyberSecResources.md",
+    "ToReview/TorResources.md",
+    "PEH/SQLiMethodology.md",
+    "PEH/Python.md",
+    "PEH/Networking/TCP, UDP and 3-way Handshake.md",
+    "PEH/Networking/Networking.md",
+    "PEH/Labs/Kioptrix.md",
+    "PEH/Stages/Reconnaissance/Email.md",
+    "PEH/Stages/Reconnaissance/Reconnaissance.md",
+    "PEH/Stages/Reconnaissance/Social Media.md",
+    "PEH/Stages/Scanning and Enumeration/Scanning and Enumeration.md",
+    "PEH/Stages/Reconnaissance/Subdomain.md",
+    "PEH/Stages/Google Dorking.md",
+    "PEH/Tools/Network Mapper.md",
+    "PEH/Tools/Metasploit.md",
+    "PEH/Tools/Burp Suite.md",
+    "PEH/Stages/Web App.md",
+    "PEH/Stages/Password.md",
+    "PEH/Stages/Scanning and Enumeration",
+    "AWS/CF/AWS Cloud Fundamentals Certification.md",
+    "PEH/Tools",
+    "PEH/Labs",
+    "AWS/CF/Attachments/Pasted image 20230908025057.png",
+    "AWS/CF/Attachments",
+    "AWS/CF/Module 1/Attachments/Pasted image 20230908024646.png",
+    "AWS/CF/Module 1/Attachments/Pasted image 20230908024449.png",
     "sample-crontab",
     "sync.sh",
-    "PEH/Stages/Scanning and Enumeration.md",
-    "PEH/Stages/Kioptrix.md",
-    "PEH/Stages/Passive Reconnaissance/Social Media.md",
-    "PEH/Stages/Passive Reconnaissance/Subdomain.md",
-    "README.md",
-    "PEH/Stages/Web App.md",
-    "PEH/Networking/Networking.md",
-    "PEH/Stages/Reconnaissance.md",
-    "PEH/Stages/Passive Reconnaissance/Email.md",
-    "PEH/Stages/Password.md",
-    "PEH/Stages/Google Dorking.md",
-    "Calendar Notes/Daily/2023-09-02.md",
-    "Calendar Notes/Daily/2023-09-03.md",
-    "AWS/SAA/Module 1/Introduction.md",
-    "PEH/Practical Ethical Hacking.md",
-    "AWS/CF/AWS Cloud Fundamentals Certification.md",
-    "AWS/SAA/AWS Solutions Architect Associate Certification.md",
-    "Calendar Notes/Calendar Notes.md",
-    "AWS/SAA/Module 1/Advantages of Cloud Computing.md",
-    "PEH/Ethical Hacking Methodology.md",
-    "PEH/Note Taking.md",
-    "temp.md",
-    "Markdown Formatting Guide.md",
     "AWS/CF/Module 1",
     "AWS/CF/Module 1/Attachments",
     "AWS/CF",
-    "Calendar Notes/Monthly/2023-09.md",
-    "AWS/CF/AWS Cloud Fundamentals Certification 1.md",
     "PEH/Attachments/Pasted image 20230828183710.png",
-    "Calendar Notes/Monthly",
-    "Calendar Notes/Weekly",
-    "Calendar Notes/Daily",
-    "Calendar Notes/Events",
-    "Excalidraw"
+    "Calendar Notes/Monthly"
   ]
 }

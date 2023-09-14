@@ -1,48 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "Kioptrix",
-      "path": "PEH/Stages/Kioptrix.md"
+      "basename": "Ethical Hacking Methodology",
+      "path": "PEH/Ethical Hacking Methodology.md"
     },
     {
-      "basename": "Scanning and Enumeration",
-      "path": "PEH/Stages/Scanning and Enumeration.md"
+      "basename": "Practical Ethical Hacking",
+      "path": "PEH/Practical Ethical Hacking.md"
     },
     {
-      "basename": "Social Media",
-      "path": "PEH/Stages/Passive Reconnaissance/Social Media.md"
-    },
-    {
-      "basename": "Subdomain",
-      "path": "PEH/Stages/Passive Reconnaissance/Subdomain.md"
+      "basename": "temp",
+      "path": "temp.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "Web App",
-      "path": "PEH/Stages/Web App.md"
+      "basename": "Research",
+      "path": "PEH/Stages/Reconnaissance/Research.md"
+    },
+    {
+      "basename": "Markdown Formatting Guide",
+      "path": "Markdown Formatting Guide.md"
+    },
+    {
+      "basename": "Note Taking",
+      "path": "PEH/Note Taking.md"
+    },
+    {
+      "basename": "CyberSecResources",
+      "path": "PEH/CyberSecResources.md"
+    },
+    {
+      "basename": "TorResources",
+      "path": "ToReview/TorResources.md"
+    },
+    {
+      "basename": "SQLiMethodology",
+      "path": "PEH/SQLiMethodology.md"
+    },
+    {
+      "basename": "Python",
+      "path": "PEH/Python.md"
+    },
+    {
+      "basename": "TCP, UDP and 3-way Handshake",
+      "path": "PEH/Networking/TCP, UDP and 3-way Handshake.md"
     },
     {
       "basename": "Networking",
       "path": "PEH/Networking/Networking.md"
     },
     {
-      "basename": "Reconnaissance",
-      "path": "PEH/Stages/Reconnaissance.md"
+      "basename": "Kioptrix",
+      "path": "PEH/Labs/Kioptrix.md"
     },
     {
       "basename": "Email",
-      "path": "PEH/Stages/Passive Reconnaissance/Email.md"
+      "path": "PEH/Stages/Reconnaissance/Email.md"
+    },
+    {
+      "basename": "Reconnaissance",
+      "path": "PEH/Stages/Reconnaissance/Reconnaissance.md"
+    },
+    {
+      "basename": "Social Media",
+      "path": "PEH/Stages/Reconnaissance/Social Media.md"
+    },
+    {
+      "basename": "Scanning and Enumeration",
+      "path": "PEH/Stages/Scanning and Enumeration/Scanning and Enumeration.md"
+    },
+    {
+      "basename": "Subdomain",
+      "path": "PEH/Stages/Reconnaissance/Subdomain.md"
+    },
+    {
+      "basename": "Google Dorking",
+      "path": "PEH/Stages/Google Dorking.md"
+    },
+    {
+      "basename": "Network Mapper",
+      "path": "PEH/Tools/Network Mapper.md"
+    },
+    {
+      "basename": "Metasploit",
+      "path": "PEH/Tools/Metasploit.md"
+    },
+    {
+      "basename": "Burp Suite",
+      "path": "PEH/Tools/Burp Suite.md"
+    },
+    {
+      "basename": "Web App",
+      "path": "PEH/Stages/Web App.md"
     },
     {
       "basename": "Password",
       "path": "PEH/Stages/Password.md"
     },
     {
-      "basename": "Google Dorking",
-      "path": "PEH/Stages/Google Dorking.md"
+      "basename": "AWS Cloud Fundamentals Certification",
+      "path": "AWS/CF/AWS Cloud Fundamentals Certification.md"
+    },
+    {
+      "basename": "Module 1",
+      "path": "AWS/CF/Module 1/Module 1.md"
     },
     {
       "basename": "2023-09-02",
@@ -57,14 +121,6 @@
       "path": "AWS/SAA/Module 1/Introduction.md"
     },
     {
-      "basename": "Practical Ethical Hacking",
-      "path": "PEH/Practical Ethical Hacking.md"
-    },
-    {
-      "basename": "AWS Cloud Fundamentals Certification",
-      "path": "AWS/CF/AWS Cloud Fundamentals Certification.md"
-    },
-    {
       "basename": "AWS Solutions Architect Associate Certification",
       "path": "AWS/SAA/AWS Solutions Architect Associate Certification.md"
     },
@@ -77,32 +133,8 @@
       "path": "AWS/SAA/Module 1/Advantages of Cloud Computing.md"
     },
     {
-      "basename": "Ethical Hacking Methodology",
-      "path": "PEH/Ethical Hacking Methodology.md"
-    },
-    {
-      "basename": "Note Taking",
-      "path": "PEH/Note Taking.md"
-    },
-    {
-      "basename": "temp",
-      "path": "temp.md"
-    },
-    {
-      "basename": "Markdown Formatting Guide",
-      "path": "Markdown Formatting Guide.md"
-    },
-    {
       "basename": "2023-09",
       "path": "Calendar Notes/Monthly/2023-09.md"
-    },
-    {
-      "basename": "Burp Suite",
-      "path": "PEH/Stages/Burp Suite.md"
-    },
-    {
-      "basename": "Python",
-      "path": "PEH/Python.md"
     },
     {
       "basename": "2023-09-02 MOOC",
@@ -111,10 +143,6 @@
     {
       "basename": "Pasted image 20230828183710",
       "path": "PEH/Attachments/Pasted image 20230828183710.png"
-    },
-    {
-      "basename": "TCP, UDP and 3-way Handshake",
-      "path": "PEH/Networking/TCP, UDP and 3-way Handshake.md"
     },
     {
       "basename": "2023-08 W35",
