@@ -1,6 +1,6 @@
 ### SHELL ALIASES  ###
 
-# DNF Aliases
+# pacman Aliases
 
 alias 'upgrade'='sudo pacman -Syu'
 alias 'install'='sudo pacman -S'
@@ -37,9 +37,9 @@ alias 'pm-hib'='sudo pm-hibernate'
 
 # Information and Movement Aliases
 
-alias 'lsx'='exa -lh --color=auto'
+alias 'lsx'='exa --color=auto'
 alias 'ls'='ls --color=auto'
-alias 'lss'='exa -lh --color=auto'
+alias 'lss'='exa -lahg --color=auto'
 alias 'la'='exa -lahg --color=auto --git'
 # alias 'cat'='bat'
 alias '.1'='cd ..'
@@ -51,6 +51,7 @@ alias '.Dk'='~/Desktop/'
 alias '.Dw'='~/Downloads/'
 alias '.Dp'='~/Downloads/packages/'
 alias '..d'='~/.dotfiles'
+alias '..c'='~/.config'
 alias '.CS'='~/Downloads/packages/CyberSecurity/'
 
 # VIT WiFi login aliases
@@ -67,6 +68,7 @@ alias 'cf-off'='wg-quick down cloudflare'
 alias 'mv'='mv -i'
 alias 'cp'='cp -i'
 alias 'rm'='rm -i'
+alias 'rem'='rip -i'
 alias 'ln'='ln -i'
 alias 'ip'='ip -c'
 
@@ -77,6 +79,11 @@ alias 'pkill'='pkill -e'
 
 alias 'vdiff'="diff --color -EZy"
 
+diff_so_fancy() { 
+  diff -u $1 $2 | diff-so-fancy
+}
+alias dsf='diff_so_fancy'
+
 # Creating directories
 
 alias 'mkalldir'='mkdir -p -v'
@@ -84,6 +91,13 @@ alias 'mkalldir'='mkdir -p -v'
 # Clipboard
 
 alias 'clipC'='xclip -sel clip'
+alias 'clipP'='xclip -sel clip -o'
+alias 'xC'='xsel -ib'
+alias 'xP'='xsel -ob'
+alias 'wlC'='wl-copy'
+alias 'wlP'='wl-paste'
+alias 'wlCp'='wl-copy -p'
+alias 'wlPp'='wl-paste -p'
 
 # Picom
 
@@ -102,9 +116,11 @@ alias 'brightness'='xrandr --brightness '
 
 alias 'vim'='vim "+set nu"'
 
-# https://github.com/nvbn/thefuck Alias
+# Weather Report
+alias 'weather'='curl wttr.in'
 
-eval $(thefuck --alias)
+# https://github.com/nvbn/thefuck Alias
+# eval $(thefuck --alias)
 
 # Logging into NotEC2 VPS
 
