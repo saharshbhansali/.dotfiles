@@ -117,7 +117,11 @@ alias 'brightness'='xrandr --brightness '
 alias 'vim'='vim "+set nu"'
 
 # Weather Report
+
 alias 'weather'='curl wttr.in'
+
+# Export all aliases 
+alias 'export-aliases'='alias | sed -E "s/([^=]*)=(.*)/alias '\1'=\2/; p" > aliases.zsh'
 
 # https://github.com/nvbn/thefuck Alias
 # eval $(thefuck --alias)
