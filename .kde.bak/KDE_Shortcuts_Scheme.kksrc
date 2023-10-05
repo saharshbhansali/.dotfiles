@@ -8,11 +8,11 @@ Switch to Next Keyboard Layout=Ctrl+Alt+K
 [StandardShortcuts]
 AboutApp=
 AboutKDE=
-Activate Next Tab=Ctrl+PgDown; Ctrl+]
+Activate Next Tab=Ctrl+]; Ctrl+PgDown
 Activate Previous Tab=Ctrl+[; Ctrl+PgUp
 ActualSize=Ctrl+0
 AddBookmark=Ctrl+B
-Back=Back; Alt+Left
+Back=Alt+Left; Back
 BackwardWord=Ctrl+Left
 Begin=Ctrl+Home
 BeginningOfLine=Home
@@ -20,9 +20,9 @@ Clear=
 Close=Ctrl+W; Ctrl+Esc
 ConfigureNotifications=
 ConfigureToolbars=
-Copy=Ctrl+Ins; Ctrl+C
+Copy=Ctrl+C; Ctrl+Ins
 CreateFolder=F10
-Cut=Shift+Del; Ctrl+X
+Cut=Ctrl+X; Shift+Del
 DeleteFile=Shift+Del
 DeleteWordBack=Ctrl+Backspace
 DeleteWordForward=Ctrl+Del
@@ -46,7 +46,7 @@ Goto=
 GotoLine=Ctrl+G
 GotoPage=
 Help=F1
-Home=Home Page; Alt+Home
+Home=Alt+Home; Home Page
 KeyBindings=Ctrl+Alt+,
 Mail=
 MoveToTrash=Del
@@ -75,7 +75,7 @@ Save=Ctrl+S
 SaveAs=Ctrl+Shift+S
 SaveOptions=
 SelectAll=Ctrl+A
-ShowHideHiddenFiles=Alt+.; Ctrl+H
+ShowHideHiddenFiles=Ctrl+H; Alt+.
 ShowMenubar=Ctrl+M
 ShowStatusbar=
 ShowToolbar=
@@ -88,7 +88,7 @@ Undo=Ctrl+Z
 Up=Alt+Up
 WhatsThis=Shift+F1
 Zoom=
-ZoomIn=Ctrl++; Ctrl+=
+ZoomIn=Ctrl+=; Ctrl++
 ZoomOut=Ctrl+-
 
 [bismuth][Global Shortcuts]
@@ -125,11 +125,11 @@ toggle_spiral_layout=Alt+Shift+S
 toggle_spread_layout=
 toggle_stair_layout=
 toggle_three_column_layout=
-toggle_tile_layout=Alt+Shift+T; Meta+T
+toggle_tile_layout=Meta+T; Alt+Shift+T
 toggle_window_floating=Meta+F
 
 [brave-browser.desktop][Global Shortcuts]
-_launch=Meta+Ctrl+B
+_launch=
 new-private-window=Meta+Shift+B
 new-window=
 
@@ -143,7 +143,7 @@ Toggle Touchpad=Touchpad Toggle
 
 [kded5][Global Shortcuts]
 Show System Activity=Ctrl+Esc
-display=Meta+P; Display
+display=Display; Meta+P
 
 [khotkeys][Global Shortcuts]
 {66c682a3-27af-4e9d-b811-4cb849cab6fd}=
@@ -155,7 +155,7 @@ decrease_volume=Volume Down; Meta+Ctrl+Down
 increase_microphone_volume=Microphone Volume Up
 increase_volume=Meta+Ctrl+Up; Volume Up
 mic_mute=Microphone Mute; Meta+Volume Mute
-mute=Meta+Ctrl+X; Volume Mute
+mute=Volume Mute; Meta+Ctrl+X
 
 [konversation][Global Shortcuts]
 next_active_tab=
@@ -163,7 +163,7 @@ toggle_mainwindow_visibility=
 
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Screensaver; Meta+Q; Ctrl+Alt+L
+Lock Session=Meta+Q; Ctrl+Alt+L; Screensaver
 Log Out=Meta+Shift+Q; Ctrl+Alt+Del
 Log Out Without Confirmation=
 Reboot Without Confirmation=
@@ -171,7 +171,7 @@ Reboot Without Confirmation=
 [kwin][Global Shortcuts]
 Activate Window Demanding Attention=Ctrl+Alt+A
 ClearLastMouseMark=Meta+Shift+Esc; Meta+Shift+F12
-ClearMouseMarks=Meta+Ctrl+Esc; Meta+Shift+F11
+ClearMouseMarks=Meta+Shift+F11; Meta+Ctrl+Esc
 Decrease Opacity=Meta+_
 Edit Tiles=
 Expose=Ctrl+F9
@@ -294,7 +294,7 @@ Window Lower=
 Window Maximize=Meta+PgUp; Meta+Ctrl+M
 Window Maximize Horizontal=
 Window Maximize Vertical=
-Window Minimize=Meta+M; Meta+PgDown
+Window Minimize=Meta+PgDown; Meta+M
 Window Move=
 Window Move Center=
 Window No Border=
@@ -395,11 +395,11 @@ _launch=Launch (1)
 [org.kde.konsole.desktop][Global Shortcuts]
 NewTab=
 NewWindow=
-_launch=Ctrl+Alt+T; Meta+Shift+Return
+_launch=Meta+Shift+Return; Ctrl+Alt+T
 
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=
-_launch=Meta+Space; Search; Alt+F2
+_launch=Search; Alt+F2; Meta+Space
 
 [org.kde.plasma.emojier.desktop][Global Shortcuts]
 _launch=
@@ -421,7 +421,7 @@ Increase Keyboard Brightness=Keyboard Brightness Up
 Increase Screen Brightness=Monitor Brightness Up
 PowerDown=Power Down
 PowerOff=Power Off
-Sleep=Meta+Ctrl+S; Sleep
+Sleep=Sleep; Meta+Ctrl+S
 Toggle Keyboard Backlight=Keyboard Light On/Off
 Turn Off Screen=
 
@@ -456,7 +456,7 @@ previous activity=
 repeat_action=Ctrl+Alt+R
 show dashboard=Ctrl+F12
 show-barcode=
-show-on-mouse-pos=Meta+V; Meta+Shift+V
+show-on-mouse-pos=Meta+Shift+V; Meta+V
 stop current activity=
 switch to next activity=
 switch to previous activity=
