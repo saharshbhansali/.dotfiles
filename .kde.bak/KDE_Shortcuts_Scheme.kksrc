@@ -8,8 +8,8 @@ Switch to Next Keyboard Layout=Ctrl+Alt+K
 [StandardShortcuts]
 AboutApp=
 AboutKDE=
-Activate Next Tab=Ctrl+]; Ctrl+PgDown
-Activate Previous Tab=Ctrl+[; Ctrl+PgUp
+Activate Next Tab=Ctrl+PgDown; Ctrl+]
+Activate Previous Tab=Ctrl+PgUp; Ctrl+[
 ActualSize=Ctrl+0
 AddBookmark=Ctrl+B
 Back=Alt+Left; Back
@@ -17,7 +17,7 @@ BackwardWord=Ctrl+Left
 Begin=Ctrl+Home
 BeginningOfLine=Home
 Clear=
-Close=Ctrl+W; Ctrl+Esc
+Close=Ctrl+Esc; Ctrl+W
 ConfigureNotifications=
 ConfigureToolbars=
 Copy=Ctrl+C; Ctrl+Ins
@@ -39,14 +39,14 @@ FindPrev=Shift+F3
 FitToHeight=
 FitToPage=
 FitToWidth=
-Forward=Alt+Right; Forward
+Forward=Forward; Alt+Right
 ForwardWord=Ctrl+Right
 FullScreen=Ctrl+Shift+F
 Goto=
 GotoLine=Ctrl+G
 GotoPage=
 Help=F1
-Home=Alt+Home; Home Page
+Home=Home Page; Alt+Home
 KeyBindings=Ctrl+Alt+,
 Mail=
 MoveToTrash=Del
@@ -55,7 +55,7 @@ Next=PgDown
 NextCompletion=Ctrl+Down
 Open=Ctrl+O
 OpenRecent=
-Paste=Ctrl+V; Shift+Ins
+Paste=Shift+Ins; Ctrl+V
 Paste Selection=Ctrl+Shift+Ins
 Preferences=Ctrl+Shift+,
 PrevCompletion=Ctrl+Up
@@ -64,7 +64,7 @@ PrintPreview=
 Prior=PgUp
 Quit=Ctrl+Q
 Redo=Ctrl+Shift+Z
-Reload=Refresh; F5
+Reload=F5; Refresh
 RenameFile=F2
 Replace=Ctrl+R
 ReportBug=
@@ -125,7 +125,7 @@ toggle_spiral_layout=Alt+Shift+S
 toggle_spread_layout=
 toggle_stair_layout=
 toggle_three_column_layout=
-toggle_tile_layout=Meta+T; Alt+Shift+T
+toggle_tile_layout=Alt+Shift+T; Meta+T
 toggle_window_floating=Meta+F
 
 [brave-browser.desktop][Global Shortcuts]
@@ -153,8 +153,8 @@ display=Display; Meta+P
 decrease_microphone_volume=Microphone Volume Down
 decrease_volume=Volume Down; Meta+Ctrl+Down
 increase_microphone_volume=Microphone Volume Up
-increase_volume=Meta+Ctrl+Up; Volume Up
-mic_mute=Microphone Mute; Meta+Volume Mute
+increase_volume=Volume Up; Meta+Ctrl+Up
+mic_mute=Meta+Volume Mute; Microphone Mute
 mute=Volume Mute; Meta+Ctrl+X
 
 [konversation][Global Shortcuts]
@@ -164,7 +164,7 @@ toggle_mainwindow_visibility=
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
 Lock Session=Meta+Q; Ctrl+Alt+L; Screensaver
-Log Out=Meta+Shift+Q; Ctrl+Alt+Del
+Log Out=Ctrl+Alt+Del; Meta+Shift+Q
 Log Out Without Confirmation=
 Reboot Without Confirmation=
 
@@ -294,7 +294,7 @@ Window Lower=
 Window Maximize=Meta+PgUp; Meta+Ctrl+M
 Window Maximize Horizontal=
 Window Maximize Vertical=
-Window Minimize=Meta+PgDown; Meta+M
+Window Minimize=Meta+M; Meta+PgDown
 Window Move=
 Window Move Center=
 Window No Border=
@@ -377,7 +377,7 @@ new-private-window=Meta+Shift+O
 new-window=
 
 [org.flameshot.Flameshot.desktop][Global Shortcuts]
-Capture=Ctrl+Print
+Capture=Print
 Configure=
 Launcher=
 _launch=
@@ -395,11 +395,11 @@ _launch=Launch (1)
 [org.kde.konsole.desktop][Global Shortcuts]
 NewTab=
 NewWindow=
-_launch=Meta+Shift+Return; Ctrl+Alt+T
+_launch=Ctrl+Alt+T; Meta+Shift+Return
 
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=
-_launch=Search; Alt+F2; Meta+Space
+_launch=Search; Meta+Space; Alt+F2
 
 [org.kde.plasma.emojier.desktop][Global Shortcuts]
 _launch=
@@ -409,7 +409,7 @@ ActiveWindowScreenShot=
 CurrentMonitorScreenShot=
 FullScreenScreenShot=Shift+Print; Alt+SysReq
 OpenWithoutScreenshot=
-RectangularRegionScreenShot=Print
+RectangularRegionScreenShot=Ctrl+Print
 WindowUnderCursorScreenShot=Meta+Ctrl+Print
 _launch=Ctrl+Alt+SysReq
 
@@ -421,7 +421,7 @@ Increase Keyboard Brightness=Keyboard Brightness Up
 Increase Screen Brightness=Monitor Brightness Up
 PowerDown=Power Down
 PowerOff=Power Off
-Sleep=Sleep; Meta+Ctrl+S
+Sleep=Meta+Ctrl+S; Sleep
 Toggle Keyboard Backlight=Keyboard Light On/Off
 Turn Off Screen=
 
@@ -456,7 +456,7 @@ previous activity=
 repeat_action=Ctrl+Alt+R
 show dashboard=Ctrl+F12
 show-barcode=
-show-on-mouse-pos=Meta+Shift+V; Meta+V
+show-on-mouse-pos=Meta+V; Meta+Shift+V
 stop current activity=
 switch to next activity=
 switch to previous activity=
