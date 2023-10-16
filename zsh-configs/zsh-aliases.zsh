@@ -1,15 +1,14 @@
 ### SHELL ALIASES  ###
 
 # pacman Aliases
-
-alias 'upgrade'='sudo pacman -Syu'
-alias 'install'='sudo pacman -S --needed'
-alias 'remove'='sudo pacman -R'
-alias 'clean'='sudo pacman -Rns'
-alias 'search'='pacman -Ss'
-alias 'info'='pacman -Qii'
-alias 'reinstall'='sudo dnf reinstall'
-alias 'update'='sudo pacman -Syy'
+alias 'upgrade'='sudo yay -Syu'
+alias 'install'='sudo yay -S --needed'
+alias 'remove'='sudo ya -R'
+alias 'clean'='sudo yay -Rns'
+alias 'search'='yay -Ss'
+alias 'info'='yay -Qii'
+#alias 'reinstall'='sudo dnf reinstall'
+alias 'update'='sudo yay -Syy'
 #alias 'system-upgrade37'='sudo dnf --refresh upgrade && sudo dnf system-upgrade download --releasever=37'
 
 # Git Aliases
