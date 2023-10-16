@@ -3,7 +3,7 @@
 # pacman Aliases
 
 alias 'upgrade'='sudo pacman -Syu'
-alias 'install'='sudo pacman -S'
+alias 'install'='sudo pacman -S --needed'
 alias 'remove'='sudo pacman -R'
 alias 'clean'='sudo pacman -Rns'
 alias 'search'='pacman -Ss'
@@ -68,6 +68,7 @@ alias 'cf-off'='wg-quick down cloudflare'
 alias 'mv'='mv -i'
 alias 'cp'='cp -i'
 alias 'rm'='rm -i'
+#alias 'rip'='rip -i'
 alias 'rem'='rip -i'
 alias 'ln'='ln -i'
 alias 'ip'='ip -c'
