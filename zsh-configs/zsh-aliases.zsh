@@ -1,15 +1,13 @@
 ### SHELL ALIASES  ###
 
 # pacman Aliases
-alias 'upgrade'='sudo yay -Syu'
-alias 'install'='sudo yay -S --needed'
-alias 'remove'='sudo ya -R'
-alias 'clean'='sudo yay -Rns'
+alias 'upgrade'='yay -Syu'
+alias 'install'='yay -S --needed'
+alias 'remove'='yay -R'
+alias 'clean'='yay -Rns'
 alias 'search'='yay -Ss'
 alias 'info'='yay -Qii'
-#alias 'reinstall'='sudo dnf reinstall'
-alias 'update'='sudo yay -Syy'
-#alias 'system-upgrade37'='sudo dnf --refresh upgrade && sudo dnf system-upgrade download --releasever=37'
+alias 'update'='yay -Syy'
 
 # Git Aliases
 
@@ -123,9 +121,6 @@ alias 'weather'='curl wttr.in'
 # Export all aliases 
 alias 'export-aliases'='alias | sed -E "s/([^=]*)=(.*)/alias '\1'=\2/; p" > aliases.zsh'
 
-# https://github.com/nvbn/thefuck Alias
-# eval $(thefuck --alias)
-
 # Logging into NotEC2 VPS
 
 # alias 'NotEC2'='ssh azureuser@20.219.12.205 -i ~/.ssh/NotEC2_key.pem'
@@ -183,9 +178,14 @@ alias 'Postman'="/opt/SecTools/Postman/Postman &> /dev/null &"
 
 alias 'OMV'="~/obsidian-MainVault/"
 
+## Nessus Alias
+
+alias 'Nessus'="/opt/SecTools/nessus/"
+
 ## X Alias
 
 # alias 'X'="/opt/SecTools/X/"
+
 
 
 
