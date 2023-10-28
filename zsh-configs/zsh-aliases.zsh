@@ -134,29 +134,30 @@ alias 'export-aliases'='alias | sed -E "s/([^=]*)=(.*)/alias '\1'=\2/; p" > alia
 
 ## SecLists Shortcut
 
-SecLists="/opt/SecTools/SecLists/"
+# SecLists="/opt/SecTools/SecLists/"
 
 ## KaliLists Shortcut
 
-KaliLists="/opt/SecTools/KaliLists/"
+# KaliLists="/opt/SecTools/KaliLists/"
 
 ## Auto_Wordlists Shortcut
 
-AutoWordlists="/opt/SecTools/AutoWordlists/"
+# AutoWordlists="/opt/SecTools/AutoWordlists/"
 
 # CyberSec Tools Aliases
 
 ## Metasploit Alias
 
-alias 'Metasploit'="/opt/SecTools/metasploit-framework/bin/msfconsole"
+# alias 'Metasploit'="/opt/SecTools/metasploit-framework/bin/msfconsole"
+alias 'Metasploit'="/opt/SecTools/metasploit/bin/msfconsole"
 
 ## Ghidra Alias
 
-alias 'Ghidra'="/opt/SecTools/ghidra/ghidraRun"
+# alias 'Ghidra'="/opt/SecTools/ghidra/ghidraRun"
 
 ## ZAP Alias
 
-alias 'ZAP'="/opt/SecTools/zaproxy/zap.sh &> /dev/null &"
+# alias 'ZAP'="/opt/SecTools/zaproxy/zap.sh &> /dev/null &"
 
 ## IDA Free Alias
 
@@ -164,15 +165,15 @@ alias 'IDA'="/opt/SecTools/idafree-8.2/ida64 &> /dev/null &"
 
 ## John The Ripper Alias 
 
-alias 'John'="/opt/SecTools/john/run/john"
+# alias 'John'="/opt/SecTools/john/run/john"
 
 ## Gobuster Alias
 
-alias 'Gobuster'="go run /opt/SecTools/gobuster/main.go"
+# alias 'Gobuster'="go run /opt/SecTools/gobuster/main.go"
 
 ## Postman Alias
 
-alias 'Postman'="/opt/SecTools/Postman/Postman &> /dev/null &"
+# alias 'Postman'="/opt/SecTools/Postman/Postman &> /dev/null &"
 
 ## Obsidian MainVault Alias
 
@@ -180,7 +181,7 @@ alias 'OMV'="~/obsidian-MainVault/"
 
 ## Nessus Alias
 
-alias 'Nessus'="/opt/SecTools/nessus/"
+# alias 'Nessus'="/opt/SecTools/nessus/"
 
 ## X Alias
 
