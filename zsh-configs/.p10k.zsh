@@ -56,11 +56,14 @@
     pyenv                   # python environment (https://github.com/pyenv/pyenv)
     goenv                   # go environment (https://github.com/syndbg/goenv)
     nodenv                  # node.js version from nodenv (https://github.com/nodenv/nodenv)
-    nvm                     # node.js version from nvm (https://github.com/nvm-sh/nvm)
+    # nvm                     # node.js version from nvm (https://github.com/nvm-sh/nvm)
     nodeenv                 # node.js environment (https://github.com/ekalinin/nodeenv)
+    ## User added 
+    prompt_my_node_version  #user added node version prompt 
+    ## End user added 
     # node_version          # node.js version
     # go_version            # go version (https://golang.org)
-    # rust_version          # rustc version (https://www.rust-lang.org)
+    rust_version          # rustc version (https://www.rust-lang.org)
     # dotnet_version        # .NET version (https://dotnet.microsoft.com)
     # php_version           # php version (https://www.php.net/)
     # laravel_version       # laravel php framework version (https://laravel.com/)
@@ -347,6 +350,15 @@
 
   # Custom prefix.
   # typeset -g POWERLEVEL9K_DIR_PREFIX='%248Fin '
+  
+  #####################################[user defined: node version]#############################
+
+  function prompt_my_node_version() {
+    if [[ -f package.json ]]; then 
+      local node_version=$(nvm version)
+      p10k segment -f 208 -t "$node_version"
+    fi
+  }
 
   #####################################[ vcs: git status ]######################################
   # Branch icon. Set this parameter to '\UE0A0 ' for the popular Powerline branch icon.
