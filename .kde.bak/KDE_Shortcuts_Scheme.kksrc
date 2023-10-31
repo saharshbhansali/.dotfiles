@@ -17,12 +17,12 @@ BackwardWord=Ctrl+Left
 Begin=Ctrl+Home
 BeginningOfLine=Home
 Clear=
-Close=Ctrl+Esc; Ctrl+W
+Close=Ctrl+W; Ctrl+Esc
 ConfigureNotifications=
 ConfigureToolbars=
-Copy=Ctrl+C; Ctrl+Ins
+Copy=Ctrl+Ins; Ctrl+C
 CreateFolder=F10
-Cut=Ctrl+X; Shift+Del
+Cut=Shift+Del; Ctrl+X
 DeleteFile=Shift+Del
 DeleteWordBack=Ctrl+Backspace
 DeleteWordForward=Ctrl+Del
@@ -39,14 +39,14 @@ FindPrev=Shift+F3
 FitToHeight=
 FitToPage=
 FitToWidth=
-Forward=Forward; Alt+Right
+Forward=Alt+Right; Forward
 ForwardWord=Ctrl+Right
 FullScreen=Ctrl+Shift+F
 Goto=
 GotoLine=Ctrl+G
 GotoPage=
 Help=F1
-Home=Home Page; Alt+Home
+Home=Alt+Home; Home Page
 KeyBindings=Ctrl+Alt+,
 Mail=
 MoveToTrash=Del
@@ -55,7 +55,7 @@ Next=PgDown
 NextCompletion=Ctrl+Down
 Open=Ctrl+O
 OpenRecent=
-Paste=Shift+Ins; Ctrl+V
+Paste=Ctrl+V; Shift+Ins
 Paste Selection=Ctrl+Shift+Ins
 Preferences=Ctrl+Shift+,
 PrevCompletion=Ctrl+Up
@@ -64,7 +64,7 @@ PrintPreview=
 Prior=PgUp
 Quit=Ctrl+Q
 Redo=Ctrl+Shift+Z
-Reload=F5; Refresh
+Reload=Refresh; F5
 RenameFile=F2
 Replace=Ctrl+R
 ReportBug=
@@ -75,7 +75,7 @@ Save=Ctrl+S
 SaveAs=Ctrl+Shift+S
 SaveOptions=
 SelectAll=Ctrl+A
-ShowHideHiddenFiles=Ctrl+H; Alt+.
+ShowHideHiddenFiles=Alt+.; Ctrl+H
 ShowMenubar=Ctrl+M
 ShowStatusbar=
 ShowToolbar=
@@ -88,7 +88,7 @@ Undo=Ctrl+Z
 Up=Alt+Up
 WhatsThis=Shift+F1
 Zoom=
-ZoomIn=Ctrl+=; Ctrl++
+ZoomIn=Ctrl++; Ctrl+=
 ZoomOut=Ctrl+-
 
 [bismuth][Global Shortcuts]
@@ -125,7 +125,7 @@ toggle_spiral_layout=Alt+Shift+S
 toggle_spread_layout=
 toggle_stair_layout=
 toggle_three_column_layout=
-toggle_tile_layout=Alt+Shift+T; Meta+T
+toggle_tile_layout=Meta+T; Alt+Shift+T
 toggle_window_floating=Meta+F
 
 [brave-browser.desktop][Global Shortcuts]
@@ -150,12 +150,33 @@ display=Display; Meta+P
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=
 
 [kmix][Global Shortcuts]
+decrease-volume-Capture@HD-Audio Generic=
+decrease-volume-Headphone@HD-Audio Generic=
+decrease-volume-Internal Mic Boost@HD-Audio Generic=
+decrease-volume-Master@HD-Audio Generic=
+decrease-volume-Mic Boost@HD-Audio Generic=
+decrease-volume-PCM@HD-Audio Generic=
+decrease-volume-Speaker@HD-Audio Generic=
 decrease_microphone_volume=Microphone Volume Down
-decrease_volume=Volume Down; Meta+Ctrl+Down
+decrease_volume=Meta+Ctrl+Down; Volume Down
+increase-volume-Capture@HD-Audio Generic=
+increase-volume-Headphone@HD-Audio Generic=
+increase-volume-Internal Mic Boost@HD-Audio Generic=
+increase-volume-Master@HD-Audio Generic=
+increase-volume-Mic Boost@HD-Audio Generic=
+increase-volume-PCM@HD-Audio Generic=
+increase-volume-Speaker@HD-Audio Generic=
 increase_microphone_volume=Microphone Volume Up
-increase_volume=Volume Up; Meta+Ctrl+Up
+increase_volume=Meta+Ctrl+Up; Volume Up
 mic_mute=Meta+Volume Mute; Microphone Mute
 mute=Volume Mute; Meta+Ctrl+X
+toggle-mute-Capture@HD-Audio Generic=
+toggle-mute-Headphone@HD-Audio Generic=
+toggle-mute-Internal Mic Boost@HD-Audio Generic=
+toggle-mute-Master@HD-Audio Generic=
+toggle-mute-Mic Boost@HD-Audio Generic=
+toggle-mute-PCM@HD-Audio Generic=
+toggle-mute-Speaker@HD-Audio Generic=
 
 [konversation][Global Shortcuts]
 next_active_tab=
@@ -163,8 +184,8 @@ toggle_mainwindow_visibility=
 
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Meta+Q; Ctrl+Alt+L; Screensaver
-Log Out=Ctrl+Alt+Del; Meta+Shift+Q
+Lock Session=Ctrl+Alt+L; Screensaver; Meta+Q
+Log Out=Meta+Shift+Q; Ctrl+Alt+Del
 Log Out Without Confirmation=
 Reboot Without Confirmation=
 
@@ -377,7 +398,7 @@ new-private-window=Meta+Shift+O
 new-window=
 
 [org.flameshot.Flameshot.desktop][Global Shortcuts]
-Capture=Print
+Capture=Ctrl+Print
 Configure=
 Launcher=
 _launch=
@@ -399,7 +420,7 @@ _launch=Ctrl+Alt+T; Meta+Shift+Return
 
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=
-_launch=Search; Meta+Space; Alt+F2
+_launch=Alt+F2; Search; Meta+Space
 
 [org.kde.plasma.emojier.desktop][Global Shortcuts]
 _launch=
@@ -409,7 +430,7 @@ ActiveWindowScreenShot=
 CurrentMonitorScreenShot=
 FullScreenScreenShot=Shift+Print; Alt+SysReq
 OpenWithoutScreenshot=
-RectangularRegionScreenShot=Ctrl+Print
+RectangularRegionScreenShot=Print
 WindowUnderCursorScreenShot=Meta+Ctrl+Print
 _launch=Ctrl+Alt+SysReq
 
@@ -463,7 +484,7 @@ switch to previous activity=
 toggle do not disturb=
 
 [systemsettings.desktop][Global Shortcuts]
-_launch=Tools; Meta+S
+_launch=Meta+S; Tools
 kcm-kscreen=
 kcm-lookandfeel=
 kcm-users=
