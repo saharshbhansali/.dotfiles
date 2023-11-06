@@ -1,0 +1,82 @@
+[No Blur Video]
+Description=No Blur Video
+opacityactive=100
+opacityactiverule=2
+wmclassmatch=1
+
+[Picture In Picture - PIP]
+Description=Picture In Picture - PIP
+above=true
+aboverule=2
+belowrule=3
+desktops=\\0
+desktopsrule=3
+fullscreenrule=2
+ignoregeometry=true
+ignoregeometryrule=2
+minimizerule=4
+minsize=503,283
+opacityactive=100
+opacityactiverule=2
+opacityinactive=100
+opacityinactiverule=2
+position=1321,51
+positionrule=4
+shaderule=2
+size=559,314
+sizerule=4
+title=Picture in picture
+titlematch=1
+types=33
+wmclass=vivaldi-bin|brave
+
+[Picture In Picture - about:blank]
+Description=Picture In Picture - about:blank
+above=true
+aboverule=2
+belowrule=3
+desktops=\\0
+desktopsrule=3
+fullscreenrule=2
+ignoregeometry=true
+ignoregeometryrule=2
+minimizerule=4
+opacityactive=100
+opacityactiverule=2
+opacityinactive=100
+opacityinactiverule=2
+position=1553,556
+positionrule=4
+shaderule=2
+size=307,486
+sizerule=4
+title=about:blank
+titlematch=1
+types=33
+wmclass=vivaldi-bin|brave
+
+[Picture In Picture - regex]
+Description=Picture In Picture - regex
+above=true
+aboverule=2
+belowrule=3
+desktops=\\0
+desktopsrule=3
+fullscreenrule=2
+ignoregeometry=true
+ignoregeometryrule=2
+minimizerule=4
+opacityactive=100
+opacityactiverule=2
+opacityinactive=100
+opacityinactiverule=2
+position=1527,580
+positionrule=4
+shaderule=2
+size=272,447
+sizerule=4
+title=\\b(Picture\\s+in\\s+picture|about:blank)\\b
+titlematch=1
+types=289
+wmclass=(vivaldi-bin|brave)
+wmclassmatch=3
