@@ -7,7 +7,7 @@ alias 'remove'='yay -R'
 alias 'clean'='yay -Rns'
 alias 'search'='yay -Ss'
 alias 'info'='yay -Qii'
-alias 'update'='yay -Syy'
+alias 'update'='yay -Sy'
 
 # Git Aliases
 
@@ -117,6 +117,10 @@ alias 'vim'='vim "+set nu"'
 # Weather Report
 
 alias 'weather'='curl wttr.in'
+
+# Spotify TUI
+
+alias 'spotify'='spotifyd --no-daemon &> /dev/null &; spt'
 
 # Export all aliases 
 alias 'export-aliases'='alias | sed -E "s/([^=]*)=(.*)/alias '\1'=\2/; p" > aliases.zsh'
