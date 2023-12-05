@@ -97,6 +97,9 @@ alias 'wlP'='wl-paste'
 alias 'wlCp'='wl-copy -p'
 alias 'wlPp'='wl-paste -p'
 
+# Grep 
+alias 'egrep'='grep -E'
+
 # Picom
 
 alias 'effects'='picom --experimental-backends -b'
