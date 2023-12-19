@@ -77,7 +77,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k" #"random"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git archlinux autojump aliases alias-finder colored-man-pages colorize github git-lfs history history-substring-search emoji emoji-clock gnu-utils nmap pip python thefuck ssh-agent screen timer torrent vscode urltools web-search universalarchive themes zsh-interactive-cd zsh-navigation-tools zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git archlinux autojump aliases alias-finder colored-man-pages colorize github git-lfs golang docker gnu-utils nmap thefuck ssh-agent timer torrent vscode urltools web-search universalarchive themes zsh-interactive-cd zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -114,6 +114,9 @@ source $ZSH/oh-my-zsh.sh
 export NVM_DIR="$HOME/.config/nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+[[ -s "$HOME/.gvm/scripts/gvm" ]] && source "$HOME/.gvm/scripts/gvm"
+
 # export PATH="$HOME/bin:$PATH:/opt/:/opt/SecTools/"
 # export PATH="$PATH:$HOME/bin:$HOME/.nvm/versions/node/v16.17.0/bin:/usr/lib64/ccache:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/var/lib/snapd/snap/bin:$HOME/.local/bin:$HOME/.cargo/bin:/opt/:/opt/SecTools/"
 
@@ -130,3 +133,9 @@ export VAGRANT_DEFAULT_PROVIDER=virtualbox
 #alsi
 #paleofetch
 #colorscript random
+
+[[ -s "/home/saharsh/.gvm/scripts/gvm" ]] && source "/home/saharsh/.gvm/scripts/gvm"
+
+
+# Load Angular CLI autocompletion.
+source <(ng completion script)

@@ -9,24 +9,6 @@ alias 'search'='yay -Ss'
 alias 'info'='yay -Qii'
 alias 'update'='yay -Sy'
 
-# Git Aliases
-
-# alias 'gstatus'='git status'
-# alias 'gadd'='git add'
-# alias 'gaddall'='git add .'
-# alias 'gcommit'='git commit -m'
-# alias 'gpush'='git push'
-# alias 'gpull'='git pull'
-# alias 'gclone'='git clone'
-# alias 'gbranch'='git branch'
-# alias 'gmerge'='git merge'
-# alias 'gcheckout'='git checkout'
-# alias 'greset'='git reset'
-# alias 'grevert'='git revert'
-# alias 'glog'='git log'
-# alias 'gdiff'='git diff'
-# alias 'gstash'='git stash'
-
 # Hibernate Aliases
 
 alias 'hibernate'='sudo systemctl hibernate'
@@ -34,10 +16,10 @@ alias 'pm-hib'='sudo pm-hibernate'
 
 # Information and Movement Aliases
 
-alias 'lsx'='exa --color=auto'
+alias 'lsx'='exa --color=auto --icons'
 alias 'ls'='ls --color=auto'
-alias 'lss'='exa -lahg --color=auto'
-alias 'la'='exa -lahg --color=auto --git'
+alias 'lss'='exa -lahg --color=auto --icons'
+alias 'la'='exa -lahg --color=auto --git --icons'
 # alias 'cat'='bat'
 alias '.1'='cd ..'
 alias '.2'='cd ../..'
