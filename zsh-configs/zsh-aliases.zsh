@@ -1,14 +1,5 @@
 ### SHELL ALIASES  ###
 
-# pacman Aliases
-alias 'upgrade'='yay -Syu'
-alias 'install'='yay -S --needed'
-alias 'remove'='yay -R'
-alias 'clean'='yay -Rns'
-alias 'search'='yay -Ss'
-alias 'info'='yay -Qii'
-alias 'update'='yay -Sy'
-
 # Hibernate Aliases
 
 alias 'hibernate'='sudo systemctl hibernate'
