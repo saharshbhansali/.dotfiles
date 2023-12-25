@@ -111,31 +111,36 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 
+#-----------------------------------------------------------------------------------------------------------
+
+# NVM setup 
 export NVM_DIR="$HOME/.config/nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
+#-----------------------------------------------------------------------------------------------------------
+
+# GVM Setup 
 [[ -s "$HOME/.gvm/scripts/gvm" ]] && source "$HOME/.gvm/scripts/gvm"
 
-# export PATH="$HOME/bin:$PATH:/opt/:/opt/SecTools/"
-# export PATH="$PATH:$HOME/bin:$HOME/.nvm/versions/node/v16.17.0/bin:/usr/lib64/ccache:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/var/lib/snapd/snap/bin:$HOME/.local/bin:$HOME/.cargo/bin:/opt/:/opt/SecTools/"
+#-----------------------------------------------------------------------------------------------------------
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+[[ ! -f $HOME/.p10k.zsh ]] || source $HOME/.p10k.zsh
+
+#-----------------------------------------------------------------------------------------------------------
 
 VISUAL="vim" ; export VISUAL
 EDITOR="nvim" ; export EDITOR
 export VAGRANT_DEFAULT_PROVIDER=virtualbox
 
+#-----------------------------------------------------------------------------------------------------------
 
 #neofetch
 #screenfetch
 #alsi
 #paleofetch
 #colorscript random
-
-[[ -s "$HOME/.gvm/scripts/gvm" ]] && source "$HOME/.gvm/scripts/gvm"
-
 
 # Load Angular CLI autocompletion.
 # source <(ng completion script)
