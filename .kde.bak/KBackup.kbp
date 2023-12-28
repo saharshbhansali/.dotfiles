@@ -1,0 +1,13 @@
+M /none/KBackup
+P 
+S 0
+R 0
+F 1
+C 0
+Z 0
+I /
+E /.cache
+E /home/saharsh/.cache
+E /none
+E /root/.cache
+E /user
