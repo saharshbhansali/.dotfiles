@@ -50,5 +50,7 @@
   tree -a /src/.snapshots
   sudo btrfs subvolume show /src/.snapshots/snapshot-name
   
+## Convert a read write snapshot into read-only 
+  btrfs property set -ts /path/to/snapshot ro true
 
 ## [Reference](https://linuxhint.com/back_up_btrfs_snapshots_external_drives/)
