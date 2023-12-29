@@ -1,0 +1,311 @@
+{
+    "id": 1,
+    "name": "External-Disk-Backup",
+    "added_at": "2023-12-29 01:52:23.047113",
+    "repo": {
+        "url": "/none/Vorta",
+        "added_at": "2023-12-29 01:53:49.796570",
+        "encryption": "repokey-blake2",
+        "unique_size": 175962849280,
+        "unique_csize": null,
+        "total_size": 213006671676,
+        "total_unique_chunks": 785618,
+        "create_backup_cmd": "",
+        "extra_borg_arguments": ""
+    },
+    "ssh_key": null,
+    "compression": "lz4",
+    "exclude_patterns": "*/.cache\n/user/*\n/var/ossec/\n/none/",
+    "exclude_if_present": null,
+    "schedule_mode": "off",
+    "schedule_interval_count": 3,
+    "schedule_interval_unit": "hours",
+    "schedule_fixed_hour": 3,
+    "schedule_fixed_minute": 42,
+    "schedule_interval_hours": 3,
+    "schedule_interval_minutes": 42,
+    "schedule_make_up_missed": true,
+    "validation_on": true,
+    "validation_weeks": 3,
+    "prune_on": true,
+    "prune_hour": 2,
+    "prune_day": 7,
+    "prune_week": 4,
+    "prune_month": 6,
+    "prune_year": 2,
+    "prune_keep_within": "10H",
+    "new_archive_name": "{hostname}-{now:%Y-%m-%d-%H%M%S}",
+    "prune_prefix": "{hostname}-",
+    "pre_backup_cmd": "",
+    "post_backup_cmd": "",
+    "dont_run_on_metered_networks": true,
+    "SourceFileModel": [
+        {
+            "dir": "/root",
+            "dir_size": 406162456,
+            "dir_files_count": 20950,
+            "path_isdir": true,
+            "profile": 1,
+            "added_at": "2023-12-28 20:28:57.030767"
+        },
+        {
+            "dir": "/home/saharsh",
+            "dir_size": 212131022777,
+            "dir_files_count": 1320857,
+            "path_isdir": true,
+            "profile": 1,
+            "added_at": "2023-12-28 20:29:16.260178"
+        }
+    ],
+    "SchemaVersion": {
+        "id": 1,
+        "version": 20,
+        "changed_at": "2023-12-29 01:52:22.812066"
+    },
+    "WifiSettingModel": [
+        {
+            "id": 1,
+            "ssid": "Bhansali-Guest",
+            "last_connected": null,
+            "allowed": true,
+            "profile": 1
+        },
+        {
+            "id": 2,
+            "ssid": "VIT2.4",
+            "last_connected": "2023-09-19 10:45:43",
+            "allowed": true,
+            "profile": 1
+        },
+        {
+            "id": 3,
+            "ssid": "Bhansali_Airtel_5G",
+            "last_connected": "2023-12-28 21:08:43",
+            "allowed": true,
+            "profile": 1
+        },
+        {
+            "id": 4,
+            "ssid": "Bhansali-Guest-5G",
+            "last_connected": "2023-11-20 21:14:41",
+            "allowed": true,
+            "profile": 1
+        },
+        {
+            "id": 5,
+            "ssid": "Bhansali_Airtel_5G_EXT",
+            "last_connected": "2023-11-12 18:51:52",
+            "allowed": true,
+            "profile": 1
+        },
+        {
+            "id": 6,
+            "ssid": "Bhansali_Airtel_EXT",
+            "last_connected": "2023-12-15 17:46:32",
+            "allowed": true,
+            "profile": 1
+        },
+        {
+            "id": 7,
+            "ssid": "Airtel_Zerotouch_5G",
+            "last_connected": "2023-10-24 15:14:26",
+            "allowed": true,
+            "profile": 1
+        },
+        {
+            "id": 8,
+            "ssid": "Airtel_Zerotouch",
+            "last_connected": "2023-10-24 17:53:08",
+            "allowed": true,
+            "profile": 1
+        },
+        {
+            "id": 9,
+            "ssid": "Bhansali_Airtel",
+            "last_connected": "2023-12-28 19:56:53",
+            "allowed": true,
+            "profile": 1
+        },
+        {
+            "id": 10,
+            "ssid": "Redmi K50i",
+            "last_connected": "2023-12-05 23:27:36",
+            "allowed": true,
+            "profile": 1
+        },
+        {
+            "id": 11,
+            "ssid": "VIT5G",
+            "last_connected": "2023-12-07 18:07:52",
+            "allowed": true,
+            "profile": 1
+        },
+        {
+            "id": 12,
+            "ssid": "VIT-ACM",
+            "last_connected": "2023-12-09 05:18:42",
+            "allowed": true,
+            "profile": 1
+        },
+        {
+            "id": 13,
+            "ssid": "Bc wifi",
+            "last_connected": "2023-12-05 20:12:31",
+            "allowed": true,
+            "profile": 1
+        },
+        {
+            "id": 14,
+            "ssid": "TJS_JIOFIBER",
+            "last_connected": "2023-12-25 20:01:53",
+            "allowed": true,
+            "profile": 1
+        }
+    ],
+    "SettingsModel": [
+        {
+            "key": "enable_notifications",
+            "value": true,
+            "str_value": "",
+            "label": "Display notifications when background tasks fail",
+            "group": "Notifications",
+            "tooltip": "",
+            "type": "checkbox"
+        },
+        {
+            "key": "enable_notifications_success",
+            "value": false,
+            "str_value": "",
+            "label": "Notify about successful background tasks",
+            "group": "Notifications",
+            "tooltip": "",
+            "type": "checkbox"
+        },
+        {
+            "key": "autostart",
+            "value": false,
+            "str_value": "",
+            "label": "Automatically start Vorta at login",
+            "group": "Startup",
+            "tooltip": "Add Vorta to the systems autostart list",
+            "type": "checkbox"
+        },
+        {
+            "key": "foreground",
+            "value": false,
+            "str_value": "",
+            "label": "Open main window on startup",
+            "group": "Startup",
+            "tooltip": "Open main window when the application is launched",
+            "type": "checkbox"
+        },
+        {
+            "key": "get_srcpath_datasize",
+            "value": true,
+            "str_value": "",
+            "label": "Get statistics of file/folder when added",
+            "group": "Information",
+            "tooltip": "When adding a new source, calculate its size and the number of files.",
+            "type": "checkbox"
+        },
+        {
+            "key": "use_system_keyring",
+            "value": true,
+            "str_value": "",
+            "label": "Store repository passwords in system keychain, if available",
+            "group": "Security",
+            "tooltip": "Otherwise Vorta's configuration database stores the password in plaintext.",
+            "type": "checkbox"
+        },
+        {
+            "key": "override_mount_permissions",
+            "value": false,
+            "str_value": "",
+            "label": "Try to replace file permissions when mounting an archive",
+            "group": "Security",
+            "tooltip": "Set owner to current user and umask to 0277",
+            "type": "checkbox"
+        },
+        {
+            "key": "previous_profile_id",
+            "value": false,
+            "str_value": "1",
+            "label": "Previously selected profile",
+            "group": "",
+            "tooltip": "",
+            "type": "internal"
+        },
+        {
+            "key": "previous_window_width",
+            "value": false,
+            "str_value": "1920",
+            "label": "Previous window width",
+            "group": "",
+            "tooltip": "",
+            "type": "internal"
+        },
+        {
+            "key": "previous_window_height",
+            "value": false,
+            "str_value": "1044",
+            "label": "Previous window height",
+            "group": "",
+            "tooltip": "",
+            "type": "internal"
+        },
+        {
+            "key": "diff_files_display_mode",
+            "value": false,
+            "str_value": "0",
+            "label": "Diff dialog display mode",
+            "group": "",
+            "tooltip": "",
+            "type": "internal"
+        },
+        {
+            "key": "extract_files_display_mode",
+            "value": false,
+            "str_value": "0",
+            "label": "Extract dialog display mode",
+            "group": "",
+            "tooltip": "",
+            "type": "internal"
+        },
+        {
+            "key": "sourcetab_sort_column",
+            "value": false,
+            "str_value": "0",
+            "label": "Source Tab Sort Column",
+            "group": "",
+            "tooltip": "",
+            "type": "internal"
+        },
+        {
+            "key": "sourcetab_sort_order",
+            "value": false,
+            "str_value": "0",
+            "label": "Source Tab Sort Order",
+            "group": "",
+            "tooltip": "",
+            "type": "internal"
+        },
+        {
+            "key": "enable_background_question",
+            "value": true,
+            "str_value": "",
+            "label": "If the system tray isn't available, ask whether to continue in the background on exit",
+            "group": "",
+            "tooltip": "",
+            "type": "checkbox"
+        },
+        {
+            "key": "disable_background_state",
+            "value": false,
+            "str_value": "",
+            "label": "Previous background exit button state",
+            "group": "",
+            "tooltip": "",
+            "type": "internal"
+        }
+    ]
+}
