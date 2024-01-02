@@ -8,6 +8,8 @@ alias '.....'=../../../..
 alias '.....'=../../../..
 alias '......'=../../../../..
 alias '......'=../../../../..
+alias '..c'='~/.config'
+alias '..c'='~/.config'
 alias '..d'='~/.dotfiles'
 alias '..d'='~/.dotfiles'
 alias '.1'='cd ..'
@@ -46,22 +48,12 @@ alias '8'='cd -8'
 alias '8'='cd -8'
 alias '9'='cd -9'
 alias '9'='cd -9'
-alias 'Ghidra'=/opt/SecTools/ghidra/ghidraRun
-alias 'Ghidra'=/opt/SecTools/ghidra/ghidraRun
-alias 'Gobuster'='go run /opt/SecTools/gobuster/main.go'
-alias 'Gobuster'='go run /opt/SecTools/gobuster/main.go'
 alias 'IDA'='/opt/SecTools/idafree-8.2/ida64 &> /dev/null &'
 alias 'IDA'='/opt/SecTools/idafree-8.2/ida64 &> /dev/null &'
-alias 'John'=/opt/SecTools/john/run/john
-alias 'John'=/opt/SecTools/john/run/john
-alias 'Metasploit'=/opt/SecTools/metasploit-framework/bin/msfconsole
-alias 'Metasploit'=/opt/SecTools/metasploit-framework/bin/msfconsole
+alias 'Metasploit'=/opt/SecTools/metasploit/bin/msfconsole
+alias 'Metasploit'=/opt/SecTools/metasploit/bin/msfconsole
 alias 'OMV'='~/obsidian-MainVault/'
 alias 'OMV'='~/obsidian-MainVault/'
-alias 'Postman'='/opt/SecTools/Postman/Postman &> /dev/null &'
-alias 'Postman'='/opt/SecTools/Postman/Postman &> /dev/null &'
-alias 'ZAP'='/opt/SecTools/zaproxy/zap.sh &> /dev/null &'
-alias 'ZAP'='/opt/SecTools/zaproxy/zap.sh &> /dev/null &'
 alias '_'='sudo '
 alias '_'='sudo '
 alias 'archive'='web_search archive'
@@ -82,24 +74,94 @@ alias 'cf-off'='wg-quick down cloudflare'
 alias 'cf-off'='wg-quick down cloudflare'
 alias 'cf-on'='~/login-vit-wifi.sh && wg-quick up cloudflare && ping 8.8.8.8 -c 5'
 alias 'cf-on'='~/login-vit-wifi.sh && wg-quick up cloudflare && ping 8.8.8.8 -c 5'
-alias 'clean'='sudo pacman -Rns'
-alias 'clean'='sudo pacman -Rns'
 alias 'cless'=colorize_less
 alias 'cless'=colorize_less
 alias 'clipC'='xclip -sel clip'
 alias 'clipC'='xclip -sel clip'
+alias 'clipP'='xclip -sel clip -o'
+alias 'clipP'='xclip -sel clip -o'
 alias 'cp'='cp -i'
 alias 'cp'='cp -i'
+alias 'dbl'='docker build'
+alias 'dbl'='docker build'
+alias 'dcin'='docker container inspect'
+alias 'dcin'='docker container inspect'
+alias 'dcls'='docker container ls'
+alias 'dcls'='docker container ls'
+alias 'dclsa'='docker container ls -a'
+alias 'dclsa'='docker container ls -a'
 alias 'ddg'='web_search duckduckgo'
 alias 'ddg'='web_search duckduckgo'
+alias 'dib'='docker image build'
+alias 'dib'='docker image build'
+alias 'dii'='docker image inspect'
+alias 'dii'='docker image inspect'
+alias 'dils'='docker image ls'
+alias 'dils'='docker image ls'
+alias 'dipu'='docker image push'
+alias 'dipu'='docker image push'
+alias 'dirm'='docker image rm'
+alias 'dirm'='docker image rm'
+alias 'dit'='docker image tag'
+alias 'dit'='docker image tag'
+alias 'dlo'='docker container logs'
+alias 'dlo'='docker container logs'
+alias 'dnc'='docker network create'
+alias 'dnc'='docker network create'
+alias 'dncn'='docker network connect'
+alias 'dncn'='docker network connect'
+alias 'dndcn'='docker network disconnect'
+alias 'dndcn'='docker network disconnect'
+alias 'dni'='docker network inspect'
+alias 'dni'='docker network inspect'
+alias 'dnls'='docker network ls'
+alias 'dnls'='docker network ls'
+alias 'dnrm'='docker network rm'
+alias 'dnrm'='docker network rm'
+alias 'dpo'='docker container port'
+alias 'dpo'='docker container port'
+alias 'dpu'='docker pull'
+alias 'dpu'='docker pull'
+alias 'dr'='docker container run'
+alias 'dr'='docker container run'
+alias 'drit'='docker container run -it'
+alias 'drit'='docker container run -it'
+alias 'drm'='docker container rm'
+alias 'drm'='docker container rm'
+alias ''drm!''='docker container rm -f'
+alias ''drm!''='docker container rm -f'
+alias 'drs'='docker container restart'
+alias 'drs'='docker container restart'
+alias 'dsf'=diff_so_fancy
+alias 'dsf'=diff_so_fancy
+alias 'dst'='docker container start'
+alias 'dst'='docker container start'
+alias 'dsta'='docker stop $(docker ps -q)'
+alias 'dsta'='docker stop $(docker ps -q)'
+alias 'dstp'='docker container stop'
+alias 'dstp'='docker container stop'
+alias 'dtop'='docker top'
+alias 'dtop'='docker top'
 alias 'ducky'='web_search duckduckgo \!'
 alias 'ducky'='web_search duckduckgo \!'
+alias 'dvi'='docker volume inspect'
+alias 'dvi'='docker volume inspect'
+alias 'dvls'='docker volume ls'
+alias 'dvls'='docker volume ls'
+alias 'dvprune'='docker volume prune'
+alias 'dvprune'='docker volume prune'
+alias 'dxc'='docker container exec'
+alias 'dxc'='docker container exec'
+alias 'dxcit'='docker container exec -it'
+alias 'dxcit'='docker container exec -it'
 alias 'ecosia'='web_search ecosia'
 alias 'ecosia'='web_search ecosia'
 alias 'effects'='picom --experimental-backends -b'
 alias 'effects'='picom --experimental-backends -b'
-alias 'egrep'='grep -E --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox}'
-alias 'egrep'='grep -E --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox}'
+alias 'egrep'='grep -E'
+alias 'egrep'='grep -E'
+alias 'export-aliases'='alias | sed -E "s/([^=]*)=(.*)/alias 1=\2/; p" > aliases.zsh'
+alias 'export-aliases'='alias | sed -E "s/([^=]*)=(.*)/alias 1=\2/; p" > aliases.zsh'
 alias 'fgrep'='grep -F --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox}'
 alias 'fgrep'='grep -F --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox}'
 alias 'g'=git
@@ -136,8 +198,6 @@ alias 'gba'='git branch --all'
 alias 'gba'='git branch --all'
 alias 'gbd'='git branch --delete'
 alias 'gbd'='git branch --delete'
-alias 'gbda'='git branch --no-color --merged | command grep -vE "^([+*]|\s*($(git_main_branch)|$(git_develop_branch))\s*$)" | command xargs git branch --delete 2>/dev/null'
-alias 'gbda'='git branch --no-color --merged | command grep -vE "^([+*]|\s*($(git_main_branch)|$(git_develop_branch))\s*$)" | command xargs git branch --delete 2>/dev/null'
 alias 'gbg'='LANG=C git branch -vv | grep ": gone\]"'
 alias 'gbg'='LANG=C git branch -vv | grep ": gone\]"'
 alias 'gbgD'='LANG=C git branch --no-color -vv | grep ": gone\]" | awk '\''{print $1}'\'' | xargs git branch -D'
@@ -146,6 +206,8 @@ alias 'gbgd'='LANG=C git branch --no-color -vv | grep ": gone\]" | awk '\''{prin
 alias 'gbgd'='LANG=C git branch --no-color -vv | grep ": gone\]" | awk '\''{print $1}'\'' | xargs git branch -d'
 alias 'gbl'='git blame -w'
 alias 'gbl'='git blame -w'
+alias 'gbm'='git branch --move'
+alias 'gbm'='git branch --move'
 alias 'gbnm'='git branch --no-merged'
 alias 'gbnm'='git branch --no-merged'
 alias 'gbr'='git branch --remote'
@@ -168,6 +230,8 @@ alias 'gc'='git commit --verbose'
 alias 'gc'='git commit --verbose'
 alias ''gc!''='git commit --verbose --amend'
 alias ''gc!''='git commit --verbose --amend'
+alias 'gcB'='git checkout -B'
+alias 'gcB'='git checkout -B'
 alias 'gca'='git commit --verbose --all'
 alias 'gca'='git commit --verbose --all'
 alias ''gca!''='git commit --verbose --all --amend'
@@ -272,14 +336,6 @@ alias 'gke'='\gitk --all $(git log --walk-reflogs --pretty=%h) &!'
 alias 'gke'='\gitk --all $(git log --walk-reflogs --pretty=%h) &!'
 alias 'gl'='git pull'
 alias 'gl'='git pull'
-alias 'glfsi'='git lfs install'
-alias 'glfsi'='git lfs install'
-alias 'glfsls'='git lfs ls-files'
-alias 'glfsls'='git lfs ls-files'
-alias 'glfsmi'='git lfs migrate import --include='
-alias 'glfsmi'='git lfs migrate import --include='
-alias 'glfst'='git lfs track'
-alias 'glfst'='git lfs track'
 alias 'glg'='git log --stat'
 alias 'glg'='git log --stat'
 alias 'glgg'='git log --graph'
@@ -328,10 +384,60 @@ alias 'gmtlvim'='git mergetool --no-prompt --tool=vimdiff'
 alias 'gmtlvim'='git mergetool --no-prompt --tool=vimdiff'
 alias 'gmum'='git merge upstream/$(git_main_branch)'
 alias 'gmum'='git merge upstream/$(git_main_branch)'
+alias 'gob'='go build'
+alias 'gob'='go build'
+alias 'goc'='go clean'
+alias 'goc'='go clean'
+alias 'god'='go doc'
+alias 'god'='go doc'
+alias 'goe'='go env'
+alias 'goe'='go env'
+alias 'gof'='go fmt'
+alias 'gof'='go fmt'
+alias 'gofa'='go fmt ./...'
+alias 'gofa'='go fmt ./...'
+alias 'gofx'='go fix'
+alias 'gofx'='go fix'
+alias 'gog'='go get'
+alias 'gog'='go get'
+alias 'goga'='go get ./...'
+alias 'goga'='go get ./...'
+alias 'goi'='go install'
+alias 'goi'='go install'
+alias 'gol'='go list'
+alias 'gol'='go list'
+alias 'gom'='go mod'
+alias 'gom'='go mod'
 alias 'goodreads'='web_search goodreads'
 alias 'goodreads'='web_search goodreads'
 alias 'google'='web_search google'
 alias 'google'='web_search google'
+alias 'gopa'='cd $GOPATH'
+alias 'gopa'='cd $GOPATH'
+alias 'gopb'='cd $GOPATH/bin'
+alias 'gopb'='cd $GOPATH/bin'
+alias 'gops'='cd $GOPATH/src'
+alias 'gops'='cd $GOPATH/src'
+alias 'gor'='go run'
+alias 'gor'='go run'
+alias 'got'='go test'
+alias 'got'='go test'
+alias 'gota'='go test ./...'
+alias 'gota'='go test ./...'
+alias 'goto'='go tool'
+alias 'goto'='go tool'
+alias 'gotoc'='go tool compile'
+alias 'gotoc'='go tool compile'
+alias 'gotod'='go tool dist'
+alias 'gotod'='go tool dist'
+alias 'gotofx'='go tool fix'
+alias 'gotofx'='go tool fix'
+alias 'gov'='go vet'
+alias 'gov'='go vet'
+alias 'gove'='go version'
+alias 'gove'='go version'
+alias 'gow'='go work'
+alias 'gow'='go work'
 alias 'gp'='git push'
 alias 'gp'='git push'
 alias 'gpd'='git push --dry-run'
@@ -346,8 +452,18 @@ alias 'gpod'='git push origin --delete'
 alias 'gpod'='git push origin --delete'
 alias 'gpr'='git pull --rebase'
 alias 'gpr'='git pull --rebase'
+alias 'gpra'='git pull --rebase --autostash'
+alias 'gpra'='git pull --rebase --autostash'
+alias 'gprav'='git pull --rebase --autostash -v'
+alias 'gprav'='git pull --rebase --autostash -v'
 alias 'gpristine'='git reset --hard && git clean --force -dfx'
 alias 'gpristine'='git reset --hard && git clean --force -dfx'
+alias 'gprom'='git pull --rebase origin $(git_main_branch)'
+alias 'gprom'='git pull --rebase origin $(git_main_branch)'
+alias 'gpromi'='git pull --rebase=interactive origin $(git_main_branch)'
+alias 'gpromi'='git pull --rebase=interactive origin $(git_main_branch)'
+alias 'gprv'='git pull --rebase -v'
+alias 'gprv'='git pull --rebase -v'
 alias 'gpsup'='git push --set-upstream origin $(git_current_branch)'
 alias 'gpsup'='git push --set-upstream origin $(git_current_branch)'
 alias 'gpsupf'='git push --set-upstream origin $(git_current_branch) --force-with-lease --force-if-includes'
@@ -386,6 +502,10 @@ alias 'grh'='git reset'
 alias 'grh'='git reset'
 alias 'grhh'='git reset --hard'
 alias 'grhh'='git reset --hard'
+alias 'grhk'='git reset --keep'
+alias 'grhk'='git reset --keep'
+alias 'grhs'='git reset --soft'
+alias 'grhs'='git reset --soft'
 alias 'grm'='git rm'
 alias 'grm'='git rm'
 alias 'grmc'='git rm --cached'
@@ -442,8 +562,8 @@ alias 'gstl'='git stash list'
 alias 'gstl'='git stash list'
 alias 'gstp'='git stash pop'
 alias 'gstp'='git stash pop'
-alias 'gsts'='git stash show --text'
-alias 'gsts'='git stash show --text'
+alias 'gsts'='git stash show --patch'
+alias 'gsts'='git stash show --patch'
 alias 'gstu'='gsta --include-untracked'
 alias 'gstu'='gsta --include-untracked'
 alias 'gsu'='git submodule update'
@@ -456,6 +576,8 @@ alias 'gswd'='git switch $(git_develop_branch)'
 alias 'gswd'='git switch $(git_develop_branch)'
 alias 'gswm'='git switch $(git_main_branch)'
 alias 'gswm'='git switch $(git_main_branch)'
+alias 'gta'='git tag --annotate'
+alias 'gta'='git tag --annotate'
 alias 'gtl'='gtl(){ git tag --sort=-v:refname -n --list "${1}*" }; noglob gtl'
 alias 'gtl'='gtl(){ git tag --sort=-v:refname -n --list "${1}*" }; noglob gtl'
 alias 'gts'='git tag --sign'
@@ -466,18 +588,18 @@ alias 'gunignore'='git update-index --no-assume-unchanged'
 alias 'gunignore'='git update-index --no-assume-unchanged'
 alias 'gunwip'='git rev-list --max-count=1 --format="%s" HEAD | grep -q "\--wip--" && git reset HEAD~1'
 alias 'gunwip'='git rev-list --max-count=1 --format="%s" HEAD | grep -q "\--wip--" && git reset HEAD~1'
-alias 'gup'='git pull --rebase'
-alias 'gup'='git pull --rebase'
-alias 'gupa'='git pull --rebase --autostash'
-alias 'gupa'='git pull --rebase --autostash'
-alias 'gupav'='git pull --rebase --autostash --verbose'
-alias 'gupav'='git pull --rebase --autostash --verbose'
-alias 'gupom'='git pull --rebase origin $(git_main_branch)'
-alias 'gupom'='git pull --rebase origin $(git_main_branch)'
-alias 'gupomi'='git pull --rebase=interactive origin $(git_main_branch)'
-alias 'gupomi'='git pull --rebase=interactive origin $(git_main_branch)'
-alias 'gupv'='git pull --rebase --verbose'
-alias 'gupv'='git pull --rebase --verbose'
+alias 'gup'=$'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gup%F{yellow}\' is a deprecated alias, using \'%F{green}gpr%F{yellow}\' instead.%f"\n    gpr'
+alias 'gup'=$'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gup%F{yellow}\' is a deprecated alias, using \'%F{green}gpr%F{yellow}\' instead.%f"\n    gpr'
+alias 'gupa'=$'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupa%F{yellow}\' is a deprecated alias, using \'%F{green}gpra%F{yellow}\' instead.%f"\n    gpra'
+alias 'gupa'=$'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupa%F{yellow}\' is a deprecated alias, using \'%F{green}gpra%F{yellow}\' instead.%f"\n    gpra'
+alias 'gupav'=$'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupav%F{yellow}\' is a deprecated alias, using \'%F{green}gprav%F{yellow}\' instead.%f"\n    gprav'
+alias 'gupav'=$'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupav%F{yellow}\' is a deprecated alias, using \'%F{green}gprav%F{yellow}\' instead.%f"\n    gprav'
+alias 'gupom'=$'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupom%F{yellow}\' is a deprecated alias, using \'%F{green}gprom%F{yellow}\' instead.%f"\n    gprom'
+alias 'gupom'=$'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupom%F{yellow}\' is a deprecated alias, using \'%F{green}gprom%F{yellow}\' instead.%f"\n    gprom'
+alias 'gupomi'=$'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupomi%F{yellow}\' is a deprecated alias, using \'%F{green}gpromi%F{yellow}\' instead.%f"\n    gpromi'
+alias 'gupomi'=$'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupomi%F{yellow}\' is a deprecated alias, using \'%F{green}gpromi%F{yellow}\' instead.%f"\n    gpromi'
+alias 'gupv'=$'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupv%F{yellow}\' is a deprecated alias, using \'%F{green}gprv%F{yellow}\' instead.%f"\n    gprv'
+alias 'gupv'=$'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupv%F{yellow}\' is a deprecated alias, using \'%F{green}gprv%F{yellow}\' instead.%f"\n    gprv'
 alias 'gwch'='git whatchanged -p --abbrev-commit --pretty=medium'
 alias 'gwch'='git whatchanged -p --abbrev-commit --pretty=medium'
 alias 'gwip'='git add -A; git rm $(git ls-files --deleted) 2> /dev/null; git commit --no-verify --no-gpg-sign --message "--wip-- [skip ci]"'
@@ -498,24 +620,20 @@ alias 'hibernate'='sudo systemctl hibernate'
 alias 'hibernate'='sudo systemctl hibernate'
 alias 'history'=omz_history
 alias 'history'=omz_history
+alias 'hl'='history | less'
+alias 'hl'='history | less'
 alias 'hs'='history | grep'
 alias 'hs'='history | grep'
 alias 'hsi'='history | grep -i'
 alias 'hsi'='history | grep -i'
 alias 'image'='web_search duckduckgo \!i'
 alias 'image'='web_search duckduckgo \!i'
-alias 'info'='pacman -Qii'
-alias 'info'='pacman -Qii'
-alias 'install'='sudo pacman -S'
-alias 'install'='sudo pacman -S'
 alias 'ip'='ip -c'
 alias 'ip'='ip -c'
-alias 'ipython'='python3 -c '\''import IPython; IPython.terminal.ipapp.launch_new_instance()'\'
-alias 'ipython'='python3 -c '\''import IPython; IPython.terminal.ipapp.launch_new_instance()'\'
 alias 'l'='ls -lah'
 alias 'l'='ls -lah'
-alias 'la'='exa -lahg --color=auto --git'
-alias 'la'='exa -lahg --color=auto --git'
+alias 'la'='exa -lahg --color=auto --git --icons'
+alias 'la'='exa -lahg --color=auto --git --icons'
 alias 'll'='ls -lh'
 alias 'll'='ls -lh'
 alias 'ln'='ln -i'
@@ -524,10 +642,10 @@ alias 'ls'='ls --color=auto'
 alias 'ls'='ls --color=auto'
 alias 'lsa'='ls -lah'
 alias 'lsa'='ls -lah'
-alias 'lss'='exa -lh --color=auto'
-alias 'lss'='exa -lh --color=auto'
-alias 'lsx'='exa -lh --color=auto'
-alias 'lsx'='exa -lh --color=auto'
+alias 'lss'='exa -lahg --color=auto --icons'
+alias 'lss'='exa -lahg --color=auto --icons'
+alias 'lsx'='exa --color=auto --icons'
+alias 'lsx'='exa --color=auto --icons'
 alias 'man'='nocorrect man'
 alias 'man'='nocorrect man'
 alias 'map'='web_search duckduckgo \!m'
@@ -542,22 +660,8 @@ alias 'mkdir'='nocorrect mkdir'
 alias 'mkdir'='nocorrect mkdir'
 alias 'mv'='mv -i'
 alias 'mv'='mv -i'
-alias 'naliases'=n-aliases
-alias 'naliases'=n-aliases
-alias 'ncd'=n-cd
-alias 'ncd'=n-cd
-alias 'nenv'=n-env
-alias 'nenv'=n-env
 alias 'news'='web_search duckduckgo \!n'
 alias 'news'='web_search duckduckgo \!n'
-alias 'nfunctions'=n-functions
-alias 'nfunctions'=n-functions
-alias 'nhelp'=n-help
-alias 'nhelp'=n-help
-alias 'nhistory'=n-history
-alias 'nhistory'=n-history
-alias 'nkill'=n-kill
-alias 'nkill'=n-kill
 alias 'nmap_check_for_firewall'='sudo nmap -sA -p1-65535 -v -T4'
 alias 'nmap_check_for_firewall'='sudo nmap -sA -p1-65535 -v -T4'
 alias 'nmap_check_for_vulns'='nmap --script=vuln'
@@ -588,10 +692,6 @@ alias 'nmap_traceroute'='sudo nmap -sP -PE -PS22,25,80 -PA21,23,80,3389 -PU -PO 
 alias 'nmap_traceroute'='sudo nmap -sP -PE -PS22,25,80 -PA21,23,80,3389 -PU -PO --traceroute '
 alias 'nmap_web_safe_osscan'='sudo nmap -p 80,443 -O -v --osscan-guess --fuzzy '
 alias 'nmap_web_safe_osscan'='sudo nmap -p 80,443 -O -v --osscan-guess --fuzzy '
-alias 'noptions'=n-options
-alias 'noptions'=n-options
-alias 'npanelize'=n-panelize
-alias 'npanelize'=n-panelize
 alias 'pacfiles'='pacman -F'
 alias 'pacfiles'='pacman -F'
 alias 'pacfileupg'='sudo pacman -Fy'
@@ -634,62 +734,50 @@ alias 'pacupd'='sudo pacman -Sy'
 alias 'pacupd'='sudo pacman -Sy'
 alias 'pacupg'='sudo pacman -Syu'
 alias 'pacupg'='sudo pacman -Syu'
-alias 'pip'='noglob pip'
-alias 'pip'='noglob pip'
-alias 'pipgi'='pip freeze | grep'
-alias 'pipgi'='pip freeze | grep'
-alias 'pipi'='pip install'
-alias 'pipi'='pip install'
-alias 'pipir'='pip install -r requirements.txt'
-alias 'pipir'='pip install -r requirements.txt'
-alias 'piplo'='pip list -o'
-alias 'piplo'='pip list -o'
-alias 'pipreq'='pip freeze > requirements.txt'
-alias 'pipreq'='pip freeze > requirements.txt'
-alias 'pipu'='pip install --upgrade'
-alias 'pipu'='pip install --upgrade'
-alias 'pipun'='pip uninstall'
-alias 'pipun'='pip uninstall'
 alias 'pkill'='pkill -e'
 alias 'pkill'='pkill -e'
 alias 'pm-hib'='sudo pm-hibernate'
 alias 'pm-hib'='sudo pm-hibernate'
-alias 'py'=python3
-alias 'py'=python3
-alias 'pyfind'='find . -name "*.py"'
-alias 'pyfind'='find . -name "*.py"'
-alias 'pygrep'='grep -nr --include="*.py"'
-alias 'pygrep'='grep -nr --include="*.py"'
-alias 'pyserver'='python3 -m http.server'
-alias 'pyserver'='python3 -m http.server'
 alias 'qwant'='web_search qwant'
 alias 'qwant'='web_search qwant'
 alias 'rd'=rmdir
 alias 'rd'=rmdir
-alias 'reinstall'='sudo dnf reinstall'
-alias 'reinstall'='sudo dnf reinstall'
-alias 'remove'='sudo pacman -R'
-alias 'remove'='sudo pacman -R'
+alias 'rem'='rip -i'
+alias 'rem'='rip -i'
 alias 'rm'='rm -i'
 alias 'rm'='rm -i'
 alias 'run-help'=man
 alias 'run-help'=man
 alias 'scholar'='web_search scholar'
 alias 'scholar'='web_search scholar'
-alias 'search'='pacman -Ss'
-alias 'search'='pacman -Ss'
 alias 'sp'='web_search startpage'
 alias 'sp'='web_search startpage'
+alias 'spotify'='spotifyd --no-daemon &> /dev/null &; spt'
+alias 'spotify'='spotifyd --no-daemon &> /dev/null &; spt'
 alias 'stackoverflow'='web_search stackoverflow'
 alias 'stackoverflow'='web_search stackoverflow'
 alias 'su'='nocorrect su'
 alias 'su'='nocorrect su'
 alias 'sudo'='nocorrect sudo'
 alias 'sudo'='nocorrect sudo'
-alias 'update'='sudo pacman -Syy'
-alias 'update'='sudo pacman -Syy'
-alias 'upgrade'='sudo pacman -Syu'
-alias 'upgrade'='sudo pacman -Syu'
+alias 'ta'='tmux attach -t'
+alias 'ta'='tmux attach -t'
+alias 'tad'='tmux attach -d -t'
+alias 'tad'='tmux attach -d -t'
+alias 'tds'=_tmux_directory_session
+alias 'tds'=_tmux_directory_session
+alias 'tkss'='tmux kill-session -t'
+alias 'tkss'='tmux kill-session -t'
+alias 'tksv'='tmux kill-server'
+alias 'tksv'='tmux kill-server'
+alias 'tl'='tmux list-sessions'
+alias 'tl'='tmux list-sessions'
+alias 'tmux'=_zsh_tmux_plugin_run
+alias 'tmux'=_zsh_tmux_plugin_run
+alias 'tmuxconf'='$EDITOR $ZSH_TMUX_CONFIG'
+alias 'tmuxconf'='$EDITOR $ZSH_TMUX_CONFIG'
+alias 'ts'='tmux new-session -s'
+alias 'ts'='tmux new-session -s'
 alias 'urldecode'='node -e "console.log(decodeURIComponent(process.argv[1]))"'
 alias 'urldecode'='node -e "console.log(decodeURIComponent(process.argv[1]))"'
 alias 'urlencode'='node -e "console.log(encodeURIComponent(process.argv[1]))"'
@@ -700,8 +788,6 @@ alias 'vim'='vim "+set nu"'
 alias 'vim'='vim "+set nu"'
 alias 'vpn-on'='~/login-vit-wifi.sh && ~/vpn-vit-connect.sh'
 alias 'vpn-on'='~/login-vit-wifi.sh && ~/vpn-vit-connect.sh'
-alias 'vsc'='code .'
-alias 'vsc'='code .'
 alias 'vsca'='code --add'
 alias 'vsca'='code --add'
 alias 'vscd'='code --diff'
@@ -732,12 +818,26 @@ alias 'vwifi'='~/login-vit-wifi.sh'
 alias 'vwifi'='~/login-vit-wifi.sh'
 alias 'vwifi-off'='~/logout-vit-wifi.sh'
 alias 'vwifi-off'='~/logout-vit-wifi.sh'
+alias 'weather'='curl wttr.in'
+alias 'weather'='curl wttr.in'
 alias 'which-command'=whence
 alias 'which-command'=whence
 alias 'wiki'='web_search duckduckgo \!w'
 alias 'wiki'='web_search duckduckgo \!w'
+alias 'wlC'=wl-copy
+alias 'wlC'=wl-copy
+alias 'wlCp'='wl-copy -p'
+alias 'wlCp'='wl-copy -p'
+alias 'wlP'=wl-paste
+alias 'wlP'=wl-paste
+alias 'wlPp'='wl-paste -p'
+alias 'wlPp'='wl-paste -p'
 alias 'wolframalpha'='web_search wolframalpha'
 alias 'wolframalpha'='web_search wolframalpha'
+alias 'xC'='xsel -ib'
+alias 'xC'='xsel -ib'
+alias 'xP'='xsel -ob'
+alias 'xP'='xsel -ob'
 alias 'yaclean'='yay -Sc'
 alias 'yaclean'='yay -Sc'
 alias 'yaclr'='yay -Scc'
@@ -782,496 +882,4 @@ alias 'youtube'='web_search youtube'
 alias 'youtube'='web_search youtube'
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[31m[$'\n][0m
-[32m	gup = $'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gup%F{yellow}\' is a deprecated alias, using \'%F{green}gpr%F{yellow}\' instead.%f"\n    gpr[0m
-[32m	gupa = $'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupa%F{yellow}\' is a deprecated alias, using \'%F{green}gpra%F{yellow}\' instead.%f"\n    gpra[0m
-[32m	gupav = $'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupav%F{yellow}\' is a deprecated alias, using \'%F{green}gprav%F{yellow}\' instead.%f"\n    gprav[0m
-[32m	gupom = $'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupom%F{yellow}\' is a deprecated alias, using \'%F{green}gprom%F{yellow}\' instead.%f"\n    gprom[0m
-[32m	gupomi = $'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupomi%F{yellow}\' is a deprecated alias, using \'%F{green}gpromi%F{yellow}\' instead.%f"\n    gpromi[0m
-[32m	gupv = $'\n    print -Pu2 "%F{yellow}[oh-my-zsh] \'%F{red}gupv%F{yellow}\' is a deprecated alias, using \'%F{green}gprv%F{yellow}\' instead.%f"\n    gprv[0m
-
-[31m[\gitk][0m
-[32m	gk = \gitk --all --branches &![0m
-[32m	gke = \gitk --all $(git log --walk-reflogs --pretty=%h) &![0m
-
-[31m[_default][0m
-[32m	tmuxconf = $EDITOR $ZSH_TMUX_CONFIG[0m
-[32m	... = ../..[0m
-[32m	.... = ../../..[0m
-[32m	..... = ../../../..[0m
-[32m	...... = ../../../../..[0m
-[32m	IDA = /opt/SecTools/idafree-8.2/ida64 &> /dev/null &[0m
-[32m	Metasploit = /opt/SecTools/metasploit/bin/msfconsole[0m
-[32m	glp = _git_log_prettily[0m
-[32m	tds = _tmux_directory_session[0m
-[32m	tmux = _zsh_tmux_plugin_run[0m
-[32m	export-aliases = alias | sed -E "s/([^=]*)=(.*)/alias 1=\2/; p" > aliases.zsh[0m
-[32m	ccat = colorize_cat[0m
-[32m	cless = colorize_less[0m
-[32m	cp = cp -i[0m
-[32m	weather = curl wttr.in[0m
-[32m	vdiff = diff --color -EZy[0m
-[32m	dsf = diff_so_fancy[0m
-[32m	ggpur = ggu[0m
-[32m	gstu = gsta --include-untracked[0m
-[32m	gtl = gtl(){ git tag --sort=-v:refname -n --list "${1}*" }; noglob gtl[0m
-[32m	ip = ip -c[0m
-[32m	ln = ln -i[0m
-[32m	run-help = man[0m
-[32m	mv = mv -i[0m
-[32m	globurl = noglob urlglobber[0m
-[32m	history = omz_history[0m
-[32m	effects = picom --experimental-backends -b[0m
-[32m	pkill = pkill -e[0m
-[32m	rem = rip -i[0m
-[32m	rm = rm -i[0m
-[32m	rd = rmdir[0m
-[32m	menu = rofi -combi-modi window,drun,ssh -theme Arc-Dark -font "hack 12" -show combi[0m
-[32m	spotify = spotifyd --no-daemon &> /dev/null &; spt[0m
-[32m	vim = vim "+set nu[0m
-[32m	cf-off = wg-quick down cloudflare[0m
-[32m	which-command = whence[0m
-[32m	brightness = xrandr --brightness[0m
-[32m	..c = ~/.config[0m
-[32m	..d = ~/.dotfiles[0m
-[32m	.Dk = ~/Desktop/[0m
-[32m	.Dw = ~/Downloads/[0m
-[32m	.Dp = ~/Downloads/packages/[0m
-[32m	.CS = ~/Downloads/packages/CyberSecurity/[0m
-[32m	vwifi-off = ~/logout-vit-wifi.sh[0m
-[32m	OMV = ~/obsidian-MainVault/[0m
-
-[31m[cd][0m
-[32m	- = cd -[0m
-[32m	.1 = cd ..[0m
-[32m	.2 = cd ../..[0m
-[32m	.3 = cd ../../..[0m
-[32m	.4 = cd ../../../..[0m
-[32m	.d = cd ~/Desktop/.desktopstuff[0m
-[32m	1 = cd -1[0m
-[32m	2 = cd -2[0m
-[32m	3 = cd -3[0m
-[32m	4 = cd -4[0m
-[32m	5 = cd -5[0m
-[32m	6 = cd -6[0m
-[32m	7 = cd -7[0m
-[32m	8 = cd -8[0m
-[32m	9 = cd -9[0m
-[32m	gopa = cd $GOPATH[0m
-[32m	gopb = cd $GOPATH/bin[0m
-[32m	gops = cd $GOPATH/src[0m
-[32m	grt = cd "$(git rev-parse --show-toplevel || echo .)[0m
-
-[31m[code][0m
-[32m	vsca = code --add[0m
-[32m	vscd = code --diff[0m
-[32m	vscde = code --disable-extensions[0m
-[32m	vsced = code --extensions-dir[0m
-[32m	vscg = code --goto[0m
-[32m	vscie = code --install-extension[0m
-[32m	vscl = code --log[0m
-[32m	vscn = code --new-window[0m
-[32m	vscr = code --reuse-window[0m
-[32m	vscu = code --user-data-dir[0m
-[32m	vscue = code --uninstall-extension[0m
-[32m	vscv = code --verbose[0m
-[32m	vscw = code --wait[0m
-
-[31m[docker][0m
-[32m	dbl = docker build[0m
-[32m	dcin = docker container inspect[0m
-[32m	dcls = docker container ls[0m
-[32m	dclsa = docker container ls -a[0m
-[32m	dib = docker image build[0m
-[32m	dii = docker image inspect[0m
-[32m	dils = docker image ls[0m
-[32m	dipu = docker image push[0m
-[32m	dirm = docker image rm[0m
-[32m	dit = docker image tag[0m
-[32m	dlo = docker container logs[0m
-[32m	dnc = docker network create[0m
-[32m	dncn = docker network connect[0m
-[32m	dndcn = docker network disconnect[0m
-[32m	dni = docker network inspect[0m
-[32m	dnls = docker network ls[0m
-[32m	dnrm = docker network rm[0m
-[32m	dpo = docker container port[0m
-[32m	dpu = docker pull[0m
-[32m	dr = docker container run[0m
-[32m	drit = docker container run -it[0m
-[32m	drm = docker container rm[0m
-[32m	'drm!' = docker container rm -f[0m
-[32m	drs = docker container restart[0m
-[32m	dst = docker container start[0m
-[32m	dsta = docker stop $(docker ps -q)[0m
-[32m	dstp = docker container stop[0m
-[32m	dtop = docker top[0m
-[32m	dvi = docker volume inspect[0m
-[32m	dvls = docker volume ls[0m
-[32m	dvprune = docker volume prune[0m
-[32m	dxc = docker container exec[0m
-[32m	dxcit = docker container exec -it[0m
-
-[31m[exa][0m
-[32m	la = exa -lahg --color=auto --git --icons[0m
-[32m	lss = exa -lahg --color=auto --icons[0m
-[32m	lsx = exa --color=auto --icons[0m
-
-[31m[git][0m
-[32m	g = git[0m
-[32m	ga = git add[0m
-[32m	gaa = git add --all[0m
-[32m	gam = git am[0m
-[32m	gama = git am --abort[0m
-[32m	gamc = git am --continue[0m
-[32m	gams = git am --skip[0m
-[32m	gamscp = git am --show-current-patch[0m
-[32m	gap = git apply[0m
-[32m	gapa = git add --patch[0m
-[32m	gapt = git apply --3way[0m
-[32m	gau = git add --update[0m
-[32m	gav = git add --verbose[0m
-[32m	gb = git branch[0m
-[32m	gbD = git branch --delete --force[0m
-[32m	gba = git branch --all[0m
-[32m	gbd = git branch --delete[0m
-[32m	gbg = LANG=C git branch -vv | grep ": gone\][0m
-[32m	gbgD = LANG=C git branch --no-color -vv | grep ": gone\]" | awk '\''{print $1}'\'' | xargs git branch -D[0m
-[32m	gbgd = LANG=C git branch --no-color -vv | grep ": gone\]" | awk '\''{print $1}'\'' | xargs git branch -d[0m
-[32m	gbl = git blame -w[0m
-[32m	gbm = git branch --move[0m
-[32m	gbnm = git branch --no-merged[0m
-[32m	gbr = git branch --remote[0m
-[32m	gbs = git bisect[0m
-[32m	gbsb = git bisect bad[0m
-[32m	gbsg = git bisect good[0m
-[32m	gbsn = git bisect new[0m
-[32m	gbso = git bisect old[0m
-[32m	gbsr = git bisect reset[0m
-[32m	gbss = git bisect start[0m
-[32m	gc = git commit --verbose[0m
-[32m	'gc!' = git commit --verbose --amend[0m
-[32m	gca = git commit --verbose --all[0m
-[32m	'gca!' = git commit --verbose --all --amend[0m
-[32m	gcam = git commit --all --message[0m
-[32m	'gcan!' = git commit --verbose --all --no-edit --amend[0m
-[32m	'gcans!' = git commit --verbose --all --signoff --no-edit --amend[0m
-[32m	gcas = git commit --all --signoff[0m
-[32m	gcasm = git commit --all --signoff --message[0m
-[32m	gcb = git checkout -b[0m
-[32m	gcd = git checkout $(git_develop_branch)[0m
-[32m	gcf = git config --list[0m
-[32m	gcl = git clone --recurse-submodules[0m
-[32m	gclean = git clean --interactive -d[0m
-[32m	gcm = git checkout $(git_main_branch)[0m
-[32m	gcmsg = git commit --message[0m
-[32m	'gcn!' = git commit --verbose --no-edit --amend[0m
-[32m	gco = git checkout[0m
-[32m	gcor = git checkout --recurse-submodules[0m
-[32m	gcount = git shortlog --summary --numbered[0m
-[32m	gcp = git cherry-pick[0m
-[32m	gcpa = git cherry-pick --abort[0m
-[32m	gcpc = git cherry-pick --continue[0m
-[32m	gcs = git commit --gpg-sign[0m
-[32m	gcsm = git commit --signoff --message[0m
-[32m	gcss = git commit --gpg-sign --signoff[0m
-[32m	gcssm = git commit --gpg-sign --signoff --message[0m
-[32m	gd = git diff[0m
-[32m	gdca = git diff --cached[0m
-[32m	gdct = git describe --tags $(git rev-list --tags --max-count=1)[0m
-[32m	gdcw = git diff --cached --word-diff[0m
-[32m	gds = git diff --staged[0m
-[32m	gdt = git diff-tree --no-commit-id --name-only -r[0m
-[32m	gdup = git diff @{upstream}[0m
-[32m	gdw = git diff --word-diff[0m
-[32m	gf = git fetch[0m
-[32m	gfa = git fetch --all --prune --jobs=10[0m
-[32m	gfg = git ls-files | grep[0m
-[32m	gfo = git fetch origin[0m
-[32m	gg = git gui citool[0m
-[32m	gga = git gui citool --amend[0m
-[32m	ggpull = git pull origin "$(git_current_branch)[0m
-[32m	ggpush = git push origin "$(git_current_branch)[0m
-[32m	ggsup = git branch --set-upstream-to=origin/$(git_current_branch)[0m
-[32m	ghh = git help[0m
-[32m	gignore = git update-index --assume-unchanged[0m
-[32m	gignored = git ls-files -v | grep "^[[:lower:]][0m
-[32m	git-svn-dcommit-push = git svn dcommit && git push github $(git_main_branch):svntrunk[0m
-[32m	gl = git pull[0m
-[32m	glg = git log --stat[0m
-[32m	glgg = git log --graph[0m
-[32m	glgga = git log --graph --decorate --all[0m
-[32m	glgm = git log --graph --max-count=10[0m
-[32m	glgp = git log --stat --patch[0m
-[32m	glo = git log --oneline --decorate[0m
-[32m	glod = git log --graph --pretty="%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%ad) %C(bold blue)<%an>%Creset[0m
-[32m	glods = git log --graph --pretty="%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%ad) %C(bold blue)<%an>%Creset" --date=short[0m
-[32m	glog = git log --oneline --decorate --graph[0m
-[32m	gloga = git log --oneline --decorate --graph --all[0m
-[32m	glol = git log --graph --pretty="%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%ar) %C(bold blue)<%an>%Creset[0m
-[32m	glola = git log --graph --pretty="%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%ar) %C(bold blue)<%an>%Creset" --all[0m
-[32m	glols = git log --graph --pretty="%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%ar) %C(bold blue)<%an>%Creset" --stat[0m
-[32m	gluc = git pull upstream $(git_current_branch)[0m
-[32m	glum = git pull upstream $(git_main_branch)[0m
-[32m	gm = git merge[0m
-[32m	gma = git merge --abort[0m
-[32m	gmom = git merge origin/$(git_main_branch)[0m
-[32m	gms = git merge --squash[0m
-[32m	gmtl = git mergetool --no-prompt[0m
-[32m	gmtlvim = git mergetool --no-prompt --tool=vimdiff[0m
-[32m	gmum = git merge upstream/$(git_main_branch)[0m
-[32m	gp = git push[0m
-[32m	gpd = git push --dry-run[0m
-[32m	gpf = git push --force-with-lease --force-if-includes[0m
-[32m	'gpf!' = git push --force[0m
-[32m	gpoat = git push origin --all && git push origin --tags[0m
-[32m	gpod = git push origin --delete[0m
-[32m	gpr = git pull --rebase[0m
-[32m	gpra = git pull --rebase --autostash[0m
-[32m	gprav = git pull --rebase --autostash -v[0m
-[32m	gpristine = git reset --hard && git clean --force -dfx[0m
-[32m	gprom = git pull --rebase origin $(git_main_branch)[0m
-[32m	gpromi = git pull --rebase=interactive origin $(git_main_branch)[0m
-[32m	gprv = git pull --rebase -v[0m
-[32m	gpsup = git push --set-upstream origin $(git_current_branch)[0m
-[32m	gpsupf = git push --set-upstream origin $(git_current_branch) --force-with-lease --force-if-includes[0m
-[32m	gpu = git push upstream[0m
-[32m	gpv = git push --verbose[0m
-[32m	gr = git remote[0m
-[32m	gra = git remote add[0m
-[32m	grb = git rebase[0m
-[32m	grba = git rebase --abort[0m
-[32m	grbc = git rebase --continue[0m
-[32m	grbd = git rebase $(git_develop_branch)[0m
-[32m	grbi = git rebase --interactive[0m
-[32m	grbm = git rebase $(git_main_branch)[0m
-[32m	grbo = git rebase --onto[0m
-[32m	grbom = git rebase origin/$(git_main_branch)[0m
-[32m	grbs = git rebase --skip[0m
-[32m	grev = git revert[0m
-[32m	grh = git reset[0m
-[32m	grhh = git reset --hard[0m
-[32m	grhk = git reset --keep[0m
-[32m	grhs = git reset --soft[0m
-[32m	grm = git rm[0m
-[32m	grmc = git rm --cached[0m
-[32m	grmv = git remote rename[0m
-[32m	groh = git reset origin/$(git_current_branch) --hard[0m
-[32m	grrm = git remote remove[0m
-[32m	grs = git restore[0m
-[32m	grset = git remote set-url[0m
-[32m	grss = git restore --source[0m
-[32m	grst = git restore --staged[0m
-[32m	gru = git reset --[0m
-[32m	grup = git remote update[0m
-[32m	grv = git remote --verbose[0m
-[32m	gsb = git status --short --branch[0m
-[32m	gsd = git svn dcommit[0m
-[32m	gsh = git show[0m
-[32m	gsi = git submodule init[0m
-[32m	gsps = git show --pretty=short --show-signature[0m
-[32m	gsr = git svn rebase[0m
-[32m	gss = git status --short[0m
-[32m	gst = git status[0m
-[32m	gsta = git stash push[0m
-[32m	gstaa = git stash apply[0m
-[32m	gstall = git stash --all[0m
-[32m	gstc = git stash clear[0m
-[32m	gstd = git stash drop[0m
-[32m	gstl = git stash list[0m
-[32m	gstp = git stash pop[0m
-[32m	gsts = git stash show --patch[0m
-[32m	gsu = git submodule update[0m
-[32m	gsw = git switch[0m
-[32m	gswc = git switch --create[0m
-[32m	gswd = git switch $(git_develop_branch)[0m
-[32m	gswm = git switch $(git_main_branch)[0m
-[32m	gta = git tag --annotate[0m
-[32m	gts = git tag --sign[0m
-[32m	gtv = git tag | sort -V[0m
-[32m	gunignore = git update-index --no-assume-unchanged[0m
-[32m	gunwip = git rev-list --max-count=1 --format="%s" HEAD | grep -q "\--wip--" && git reset HEAD~1[0m
-[32m	gwch = git whatchanged -p --abbrev-commit --pretty=medium[0m
-[32m	gwip = git add -A; git rm $(git ls-files --deleted) 2> /dev/null; git commit --no-verify --no-gpg-sign --message "--wip-- [skip ci][0m
-[32m	gwt = git worktree[0m
-[32m	gwta = git worktree add[0m
-[32m	gwtls = git worktree list[0m
-[32m	gwtmv = git worktree move[0m
-[32m	gwtrm = git worktree remove[0m
-
-[31m[go][0m
-[32m	gob = go build[0m
-[32m	goc = go clean[0m
-[32m	god = go doc[0m
-[32m	goe = go env[0m
-[32m	gof = go fmt[0m
-[32m	gofa = go fmt ./...[0m
-[32m	gofx = go fix[0m
-[32m	gog = go get[0m
-[32m	goga = go get ./...[0m
-[32m	goi = go install[0m
-[32m	gol = go list[0m
-[32m	gom = go mod[0m
-[32m	gor = go run[0m
-[32m	got = go test[0m
-[32m	gota = go test ./...[0m
-[32m	goto = go tool[0m
-[32m	gotoc = go tool compile[0m
-[32m	gotod = go tool dist[0m
-[32m	gotofx = go tool fix[0m
-[32m	gov = go vet[0m
-[32m	gove = go version[0m
-[32m	gow = go work[0m
-
-[31m[grep][0m
-[32m	egrep = grep -E[0m
-[32m	fgrep = grep -F --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox}[0m
-[32m	grep = grep --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox}[0m
-
-[31m[history][0m
-[32m	h = history[0m
-[32m	hl = history | less[0m
-[32m	hs = history | grep[0m
-[32m	hsi = history | grep -i[0m
-
-[31m[ls][0m
-[32m	l = ls -lah[0m
-[32m	ll = ls -lh[0m
-[32m	ls = ls --color=auto[0m
-[32m	lsa = ls -lah[0m
-
-[31m[mkdir][0m
-[32m	md = mkdir -p[0m
-[32m	mkalldir = mkdir -p -v[0m
-
-[31m[nmap][0m
-[32m	nmap_check_for_vulns = nmap --script=vuln[0m
-[32m	nmap_fast = nmap -F -T5 --version-light --top-ports 300[0m
-[32m	nmap_list_interfaces = nmap --iflist[0m
-[32m	nmap_open_ports = nmap --open[0m
-[32m	nmap_ping_scan = nmap -n -sP[0m
-[32m	nmap_ping_through_firewall = nmap -PS -PA[0m
-
-[31m[nocorrect][0m
-[32m	man = nocorrect man[0m
-[32m	mkdir = nocorrect mkdir[0m
-[32m	su = nocorrect su[0m
-[32m	sudo = nocorrect sudo[0m
-
-[31m[node][0m
-[32m	urldecode = node -e "console.log(decodeURIComponent(process.argv[1]))[0m
-[32m	urlencode = node -e "console.log(encodeURIComponent(process.argv[1]))[0m
-
-[31m[pacman][0m
-[32m	pacfiles = pacman -F[0m
-[32m	pacloc = pacman -Qi[0m
-[32m	paclocs = pacman -Qs[0m
-[32m	pacls = pacman -Ql[0m
-[32m	pacown = pacman -Qo[0m
-[32m	pacrep = pacman -Si[0m
-[32m	pacreps = pacman -Ss[0m
-
-[31m[sudo][0m
-[32m	_ = sudo[0m
-[32m	hibernate = sudo systemctl hibernate[0m
-[32m	nmap_check_for_firewall = sudo nmap -sA -p1-65535 -v -T4[0m
-[32m	nmap_detect_versions = sudo nmap -sV -p1-65535 -O --osscan-guess -T4 -Pn[0m
-[32m	nmap_fin = sudo nmap -sF -v[0m
-[32m	nmap_full = sudo nmap -sS -T4 -PE -PP -PS80,443 -PY -g 53 -A -p1-65535 -v[0m
-[32m	nmap_full_udp = sudo nmap -sS -sU -T4 -A -v -PE -PS22,25,80 -PA21,23,80,443,3389[0m
-[32m	nmap_full_with_scripts = sudo nmap -sS -sU -T4 -A -v -PE -PP -PS21,22,23,25,80,113,31339 -PA80,113,443,10042 -PO --script all[0m
-[32m	nmap_slow = sudo nmap -sS -v -T1[0m
-[32m	nmap_traceroute = sudo nmap -sP -PE -PS22,25,80 -PA21,23,80,3389 -PU -PO --traceroute[0m
-[32m	nmap_web_safe_osscan = sudo nmap -p 80,443 -O -v --osscan-guess --fuzzy[0m
-[32m	pacfileupg = sudo pacman -Fy[0m
-[32m	pacin = sudo pacman -S[0m
-[32m	pacins = sudo pacman -U[0m
-[32m	pacinsd = sudo pacman -S --asdeps[0m
-[32m	paclean = sudo pacman -Sc[0m
-[32m	paclr = sudo pacman -Scc[0m
-[32m	paclsorphans = sudo pacman -Qdt[0m
-[32m	pacmanallkeys = sudo pacman-key --refresh-keys[0m
-[32m	pacmir = sudo pacman -Syy[0m
-[32m	pacre = sudo pacman -R[0m
-[32m	pacrem = sudo pacman -Rns[0m
-[32m	pacrmorphans = sudo pacman -Rs $(pacman -Qtdq)[0m
-[32m	pacupd = sudo pacman -Sy[0m
-[32m	pacupg = sudo pacman -Syu[0m
-[32m	pm-hib = sudo pm-hibernate[0m
-
-[31m[tmux][0m
-[32m	ta = tmux attach -t[0m
-[32m	tad = tmux attach -d -t[0m
-[32m	tkss = tmux kill-session -t[0m
-[32m	tksv = tmux kill-server[0m
-[32m	tl = tmux list-sessions[0m
-[32m	ts = tmux new-session -s[0m
-
-[31m[web_search][0m
-[32m	archive = web_search archive[0m
-[32m	ask = web_search ask[0m
-[32m	baidu = web_search baidu[0m
-[32m	bing = web_search bing[0m
-[32m	brs = web_search brave[0m
-[32m	ddg = web_search duckduckgo[0m
-[32m	ducky = web_search duckduckgo \![0m
-[32m	ecosia = web_search ecosia[0m
-[32m	github = web_search github[0m
-[32m	givero = web_search givero[0m
-[32m	goodreads = web_search goodreads[0m
-[32m	google = web_search google[0m
-[32m	image = web_search duckduckgo \!i[0m
-[32m	map = web_search duckduckgo \!m[0m
-[32m	news = web_search duckduckgo \!n[0m
-[32m	qwant = web_search qwant[0m
-[32m	scholar = web_search scholar[0m
-[32m	sp = web_search startpage[0m
-[32m	stackoverflow = web_search stackoverflow[0m
-[32m	wiki = web_search duckduckgo \!w[0m
-[32m	wolframalpha = web_search wolframalpha[0m
-[32m	yahoo = web_search yahoo[0m
-[32m	yandex = web_search yandex[0m
-[32m	youtube = web_search youtube[0m
-
-[31m[wl-copy][0m
-[32m	wlC = wl-copy[0m
-[32m	wlCp = wl-copy -p[0m
-
-[31m[wl-paste][0m
-[32m	wlP = wl-paste[0m
-[32m	wlPp = wl-paste -p[0m
-
-[31m[xclip][0m
-[32m	clipC = xclip -sel clip[0m
-[32m	clipP = xclip -sel clip -o[0m
-
-[31m[xsel][0m
-[32m	xC = xsel -ib[0m
-[32m	xP = xsel -ob[0m
-
-[31m[yay][0m
-[32m	yaclean = yay -Sc[0m
-[32m	yaclr = yay -Scc[0m
-[32m	yaconf = yay -Pg[0m
-[32m	yain = yay -S[0m
-[32m	yains = yay -U[0m
-[32m	yainsd = yay -S --asdeps[0m
-[32m	yaloc = yay -Qi[0m
-[32m	yalocs = yay -Qs[0m
-[32m	yalst = yay -Qe[0m
-[32m	yamir = yay -Syy[0m
-[32m	yaorph = yay -Qtd[0m
-[32m	yare = yay -R[0m
-[32m	yarem = yay -Rns[0m
-[32m	yarep = yay -Si[0m
-[32m	yareps = yay -Ss[0m
-[32m	yasu = yay -Syu --noconfirm[0m
-[32m	yaupd = yay -Sy[0m
-[32m	yaupg = yay -Syu[0m
-
-[31m[~/login-vit-wifi.sh][0m
-[32m	cf-on = ~/login-vit-wifi.sh && wg-quick up cloudflare && ping 8.8.8.8 -c 5[0m
-[32m	vpn-on = ~/login-vit-wifi.sh && ~/vpn-vit-connect.sh[0m
-[32m	vwifi = ~/login-vit-wifi.sh[0m
 
