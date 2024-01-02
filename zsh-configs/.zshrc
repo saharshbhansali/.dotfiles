@@ -77,7 +77,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k" #"random"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git archlinux autojump aliases alias-finder colored-man-pages colorize history golang docker tmux nmap thefuck ssh-agent timer vscode urltools web-search zsh-interactive-cd zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(common-aliases command-not-found git archlinux autojump aliases alias-finder colored-man-pages colorize history golang docker tmux nmap thefuck ssh-agent timer vscode urltools web-search zsh-interactive-cd zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -121,7 +121,7 @@ export NVM_DIR="$HOME/.config/nvm"
 #-----------------------------------------------------------------------------------------------------------
 
 # GVM Setup 
-[[ -s "$HOME/.gvm/scripts/gvm" ]] && source "$HOME/.gvm/scripts/gvm"
+#[[ -s "$HOME/.gvm/scripts/gvm" ]] && source "$HOME/.gvm/scripts/gvm"
 
 #-----------------------------------------------------------------------------------------------------------
 
