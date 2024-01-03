@@ -8,7 +8,7 @@ alias 'pm-hib'='sudo pm-hibernate'
 # Information and Movement Aliases
 
 alias 'lsx'='exa --color=auto --icons'
-alias 'ls'='ls --color=auto'
+# alias 'ls'='ls --color=auto'
 alias 'lss'='exa -lahg --color=auto --icons'
 alias 'la'='exa -lahg --color=auto --git --icons'
 # alias 'cat'='bat'
@@ -35,9 +35,9 @@ alias 'cf-off'='wg-quick down cloudflare'
 # Confirmations
 
 ## File manipulation
-alias 'mv'='mv -i'
-alias 'cp'='cp -i'
-alias 'rm'='rm -i'
+# alias 'mv'='mv -i'
+# alias 'cp'='cp -i'
+# alias 'rm'='rm -i'
 #alias 'rip'='rip -i'
 alias 'rem'='rip -i'
 alias 'ln'='ln -i'
@@ -71,7 +71,7 @@ alias 'wlCp'='wl-copy -p'
 alias 'wlPp'='wl-paste -p'
 
 # Grep 
-alias 'egrep'='grep -E'
+alias 'egrep'='grep -iE'
 
 # Picom
 
@@ -84,7 +84,7 @@ alias 'menu'='rofi -combi-modi window,drun,ssh -theme Arc-Dark -font "hack 12" -
 
 # Brightness
 
-alias 'brightness'='xrandr --brightness '
+alias 'brightness'='xrandr --brightness'
 
 # VIM customizations - can't autogenerate .vimrc rip
 
