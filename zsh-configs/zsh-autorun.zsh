@@ -25,7 +25,7 @@ export XDG_CONFIG_HOME="$HOME/.config/"
 export PATH="/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:/usr/lib64/ccache:$HOME/bin:$HOME/.local/bin:/var/lib/snapd/snap/bin:$HOME/.cargo/bin:"
 export PATH="$PATH:$XDG_CONFIG_HOME:$GO_ALL:$GEM_BIN"
 
-#if [ -x "$(command -v tmux)" ] && [ -n "${DISPLAY}" ] && [ -z "${TMUX}" ]; then
-#  tmux attach || tmux >/dev/null 2>&1
-#fi 
+if [ -x "$(command -v tmux)" ] && [ -n "${DISPLAY}" ] && [ -z "${TMUX}" ]; then
+ tmux attach || tmux >/dev/null 2>&1
+fi
 
