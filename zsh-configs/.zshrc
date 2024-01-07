@@ -77,11 +77,11 @@ ZSH_THEME="powerlevel10k/powerlevel10k" #"random"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(common-aliases command-not-found git archlinux autojump aliases alias-finder colored-man-pages colorize history golang docker tmux nmap thefuck ssh-agent timer vscode urltools web-search zsh-interactive-cd zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(common-aliases command-not-found git asdf archlinux autojump aliases alias-finder colored-man-pages colorize history golang docker tmux nmap thefuck ssh-agent timer vscode urltools web-search zsh-interactive-cd zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
-# User configuration
+# user configuration
 
 # zsh autosuggestions configure
 ## ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=white'
@@ -144,3 +144,6 @@ export VAGRANT_DEFAULT_PROVIDER=virtualbox
 
 # Load Angular CLI autocompletion.
 # source <(ng completion script)
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
