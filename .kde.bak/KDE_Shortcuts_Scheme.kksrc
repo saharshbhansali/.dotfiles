@@ -8,7 +8,7 @@ Switch to Next Keyboard Layout=Ctrl+Alt+K
 [StandardShortcuts]
 AboutApp=
 AboutKDE=
-Activate Next Tab=Ctrl+]; Ctrl+PgDown
+Activate Next Tab=Ctrl+PgDown; Ctrl+]
 Activate Previous Tab=Ctrl+PgUp; Ctrl+[
 ActualSize=Ctrl+0
 AddBookmark=Ctrl+B
@@ -17,10 +17,10 @@ BackwardWord=Ctrl+Left
 Begin=Ctrl+Home
 BeginningOfLine=Home
 Clear=
-Close=Ctrl+Esc; Ctrl+W
+Close=Ctrl+W; Ctrl+Esc
 ConfigureNotifications=
 ConfigureToolbars=
-Copy=Ctrl+C; Ctrl+Ins
+Copy=Ctrl+Ins; Ctrl+C
 CreateFolder=F10
 Cut=Ctrl+X; Shift+Del
 DeleteFile=Shift+Del
@@ -55,7 +55,7 @@ Next=PgDown
 NextCompletion=Ctrl+Down
 Open=Ctrl+O
 OpenRecent=
-Paste=Ctrl+V; Shift+Ins
+Paste=Shift+Ins; Ctrl+V
 Paste Selection=Ctrl+Shift+Ins
 Preferences=Ctrl+Shift+,
 PrevCompletion=Ctrl+Up
@@ -75,7 +75,7 @@ Save=Ctrl+S
 SaveAs=Ctrl+Shift+S
 SaveOptions=
 SelectAll=Ctrl+A
-ShowHideHiddenFiles=Ctrl+H; Alt+.
+ShowHideHiddenFiles=Alt+.; Ctrl+H
 ShowMenubar=Ctrl+M
 ShowStatusbar=
 ShowToolbar=
@@ -125,7 +125,7 @@ toggle_spiral_layout=Alt+Shift+S
 toggle_spread_layout=
 toggle_stair_layout=
 toggle_three_column_layout=
-toggle_tile_layout=Meta+T; Alt+Shift+T
+toggle_tile_layout=Alt+Shift+T; Meta+T
 toggle_window_floating=Meta+F
 
 [brave-browser.desktop][Global Shortcuts]
@@ -143,7 +143,7 @@ Toggle Touchpad=Touchpad Toggle
 
 [kded5][Global Shortcuts]
 Show System Activity=Ctrl+Esc
-display=Meta+P; Display
+display=Display; Meta+P
 
 [khotkeys][Global Shortcuts]
 {66c682a3-27af-4e9d-b811-4cb849cab6fd}=
@@ -167,7 +167,7 @@ increase-volume-Mic Boost@HD-Audio Generic=
 increase-volume-PCM@HD-Audio Generic=
 increase-volume-Speaker@HD-Audio Generic=
 increase_microphone_volume=Microphone Volume Up
-increase_volume=Volume Up; Meta+Ctrl+Up
+increase_volume=Meta+Ctrl+Up; Volume Up
 mic_mute=Microphone Mute; Meta+Volume Mute
 mute=Meta+Ctrl+X; Volume Mute
 toggle-mute-Capture@HD-Audio Generic=
@@ -184,14 +184,14 @@ toggle_mainwindow_visibility=
 
 [ksmserver][Global Shortcuts]
 Halt Without Confirmation=
-Lock Session=Screensaver; Meta+Q; Ctrl+Alt+L
-Log Out=Meta+Shift+Q; Ctrl+Alt+Del
+Lock Session=Ctrl+Alt+L; Meta+Q; Screensaver
+Log Out=Ctrl+Alt+Del; Meta+Shift+Q
 Log Out Without Confirmation=
 Reboot Without Confirmation=
 
 [kwin][Global Shortcuts]
 Activate Window Demanding Attention=Ctrl+Alt+A
-ClearLastMouseMark=Meta+Shift+Esc; Meta+Shift+F12
+ClearLastMouseMark=Meta+Shift+F12; Meta+Shift+Esc
 ClearMouseMarks=Meta+Ctrl+Esc; Meta+Shift+F11
 Decrease Opacity=Meta+_
 Edit Tiles=
@@ -307,7 +307,7 @@ Walk Through Windows of Current Application Alternative=
 Walk Through Windows of Current Application Alternative (Reverse)=
 Window Above Other Windows=
 Window Below Other Windows=
-Window Close=Alt+F4; Meta+Shift+C
+Window Close=Meta+Shift+C; Alt+F4
 Window Fullscreen=
 Window Grow Horizontal=
 Window Grow Vertical=
@@ -392,13 +392,16 @@ playpausemedia=Media Play
 previousmedia=Media Previous
 stopmedia=Media Stop
 
+[obsidian.desktop][Global Shortcuts]
+_launch=Meta+O
+
 [opera.desktop][Global Shortcuts]
 _launch=Meta+O
 new-private-window=Meta+Shift+O
 new-window=
 
 [org.flameshot.Flameshot.desktop][Global Shortcuts]
-Capture=Ctrl+Print
+Capture=Print
 Configure=
 Launcher=
 _launch=
@@ -416,11 +419,11 @@ _launch=Launch (1)
 [org.kde.konsole.desktop][Global Shortcuts]
 NewTab=
 NewWindow=
-_launch=Ctrl+Alt+T; Meta+Shift+Return
+_launch=Meta+Shift+Return; Ctrl+Alt+T
 
 [org.kde.krunner.desktop][Global Shortcuts]
 RunClipboard=
-_launch=Alt+F2; Search; Meta+Space
+_launch=Search; Alt+F2; Meta+Space
 
 [org.kde.plasma.emojier.desktop][Global Shortcuts]
 _launch=
@@ -428,7 +431,7 @@ _launch=
 [org.kde.spectacle.desktop][Global Shortcuts]
 ActiveWindowScreenShot=
 CurrentMonitorScreenShot=
-FullScreenScreenShot=Shift+Print; Alt+SysReq
+FullScreenScreenShot=Shift+Print;\s
 OpenWithoutScreenshot=
 RectangularRegionScreenShot=
 WindowUnderCursorScreenShot=Meta+Ctrl+Print
@@ -472,12 +475,12 @@ cycleNextAction=
 cyclePrevAction=
 edit_clipboard=
 manage activities=Meta+Shift+W
-next activity=Alt+Tab
+next activity=
 previous activity=
 repeat_action=Ctrl+Alt+R
 show dashboard=Ctrl+F12
 show-barcode=
-show-on-mouse-pos=Meta+V; Meta+Shift+V
+show-on-mouse-pos=Meta+Shift+V; Meta+V
 stop current activity=
 switch to next activity=
 switch to previous activity=
@@ -494,4 +497,10 @@ screenlocker=Ctrl+Shift+L
 [vivaldi-stable.desktop][Global Shortcuts]
 _launch=Meta+B
 new-private-window=
-new-window=Meta+O
+new-window=
+
+[xfce4-screenshooter.desktop][Global Shortcuts]
+_launch=Ctrl+Print
+
+[yakuake][Global Shortcuts]
+toggle-window-state=F12
