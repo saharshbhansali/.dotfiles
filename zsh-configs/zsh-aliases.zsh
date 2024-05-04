@@ -29,8 +29,10 @@ alias '.CS'='~/Downloads/packages/CyberSecurity/'
 alias 'vwifi'='~/login-vit-wifi.sh'
 alias 'vwifi-off'='~/logout-vit-wifi.sh'
 alias 'vpn-on'='~/login-vit-wifi.sh && ~/vpn-vit-connect.sh'
-alias 'cf-on'='~/login-vit-wifi.sh && wg-quick up cloudflare && ping 8.8.8.8 -c 5'
-alias 'cf-off'='wg-quick down cloudflare'
+alias 'cf-on'='~/login-vit-wifi.sh && warp-cli connect && ping 8.8.8.8 -c 5'
+alias 'cf-off'='warp-cli disconnect'
+# alias 'cf-on'='~/login-vit-wifi.sh && wg-quick up cloudflare && ping 8.8.8.8 -c 5'
+# alias 'cf-off'='wg-quick down cloudflare'
 
 # Confirmations
 

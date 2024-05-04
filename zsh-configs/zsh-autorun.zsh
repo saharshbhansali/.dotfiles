@@ -25,7 +25,30 @@ export XDG_CONFIG_HOME="$HOME/.config/"
 export PATH="/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:/usr/lib64/ccache:$HOME/bin:$HOME/.local/bin:/var/lib/snapd/snap/bin:$HOME/.cargo/bin:"
 export PATH="$PATH:$XDG_CONFIG_HOME:$GO_ALL:$GEM_BIN"
 
-if [ -x "$(command -v tmux)" ] && [ -n "${DISPLAY}" ] && [ -z "${TMUX}" ]; then
- tmux attach || tmux >/dev/null 2>&1
-fi
+# laptop="laptop"
+function start_tmux() {
+  # tmux attach || tmux new > /dev/null 2>&1
+  # if type tmux &> /dev/null; then
+  #   echo "Autostarting terminal emulator"
+  #      #if not inside a tmux session, and if no session is started, start a new session
+  #   if [[ $HOST == $laptop && -z "$TMUX" && -z $TERMINAL_CONTEXT ]]; then
+  #     echo "Autostarting tmux emulator"
+  #     (tmux attach || tmux new-session)
+  #   fi
+  # fi
+  if [ -x "$(command -v tmux)" ] && [ -n "${DISPLAY}" ] && [ -z "${TMUX}" ]; then
+    echo "Autostarting tmux"
+    tmux attach || tmux >/dev/null 2>&1
+  fi
 
+  if [ -x "$(command -v tmux)" ] && [ -n "${DISPLAY}" ] && [ -z "${TMUX}" ]; then
+    echo "ArchWiki"
+    exec tmux new-session -A -s ${USER} >/dev/null 2>&1
+  fi
+  
+  [ -z "$TMUX"  ] && { tmux attach || exec tmux new-session;}
+}
+# start_tmux
+# if command -v tmux &> /dev/null && [ -n "$PS1" ] && [[ ! "$TERM" =~ screen ]] && [[ ! "$TERM" =~ tmux ]] && [ -z "$TMUX" ]; then
+#   exec tmux
+# fi
