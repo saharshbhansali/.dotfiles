@@ -8,7 +8,7 @@ alias 'pm-hib'='sudo pm-hibernate'
 # Information and Movement Aliases
 
 alias 'lsx'='exa --color=auto --icons'
-# alias 'ls'='ls --color=auto'
+alias 'ls'='ls --color=auto'
 alias 'lss'='exa -lahg --color=auto --icons'
 alias 'la'='exa -lahg --color=auto --git --icons'
 # alias 'cat'='bat'
@@ -82,7 +82,7 @@ alias 'effects'='picom --experimental-backends -b'
 # Rofi
 
 #alias 'menu'='rofi -show run'
-alias 'menu'='rofi -combi-modi window,drun,ssh -theme Arc-Dark -font "hack 12" -show combi'
+alias 'menu'='rofi -combi-modi window,drun,ssh -theme Arc-Dark -font "hack 12" -show combi 2>&1 /dev/null &'
 
 # Brightness
 
@@ -98,7 +98,7 @@ alias 'weather'='curl wttr.in'
 
 # Spotify TUI
 
-alias 'spotify'='spotifyd --no-daemon &> /dev/null &; spt'
+alias 'sptui'='spotifyd --no-daemon &> /dev/null &; spt'
 
 # Export all aliases 
 alias 'export-aliases'='alias | sed -E "s/([^=]*)=(.*)/alias '\1'=\2/; p" > aliases.zsh'
@@ -168,7 +168,4 @@ alias 'OMV'="~/obsidian-MainVault/"
 ## X Alias
 
 # alias 'X'="/opt/SecTools/X/"
-
-
-
 
