@@ -1,4 +1,4 @@
-# My dotfiles repo for Linux (Fedora)
+# My dotfiles repo for Linux (Fedora/ArcoLinux) - Archived
 
 ## .dotfiles
 
@@ -23,5 +23,3 @@
 - Other WMs (DWM, Qtile, Gnome, i3)
 
 - Secondary Applications (backups)
-
-
