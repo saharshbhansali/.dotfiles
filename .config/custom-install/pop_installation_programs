@@ -1,1 +1,0 @@
-sudo apt update && sudo apt install refind efibootmgr grub2-common bash-completion zsh git vim dosfstools ntfs-3g tlp neofetch htop powertop alsa-utils pulseaudio acpi acpi-call rsync dialog python3 grub-customizer grub-efi build-essentials alacritty docker
